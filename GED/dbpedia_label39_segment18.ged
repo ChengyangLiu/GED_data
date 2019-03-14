@@ -1,0 +1,6795 @@
+##########
+%GID:4596
+%LID#1#4596-3-www.tersosolutions.com#3#3#16
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	2	name	EatStreet
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4596
+%LID#1#4596-3-www.tersosolutions.com#3#3#19
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	0	name	Terso_Solutions
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4596
+%LID#1#4596-0-Terso_Solutions#6#6#20
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	3	name	www.tersosolutions.com
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4599
+%LID#0#4599-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	899	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4599
+%LID#0#4599-3-Bicycle#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	899	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4599
+%LID#0#4599-0-RW3_Technologies#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	899	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4599
+%LID#0#4599-2-SOMA_Fabrications#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	899	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4601
+%LID#0#4601-3-Radici_Group#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4601
+%LID#0#4601-4-Automotive_industry#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4601
+%LID#0#4601-2-Chemical_substance#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4601
+%LID#0#4601-1-Orkla_Group#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4601
+%LID#0#4601-0-Jotun_(company)#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4603
+%LID#0#4603-2-Ayre_and_Sons#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	460	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4603
+%LID#0#4603-0-Purity_Factories#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	460	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4603
+%LID#0#4603-1-St._John's,_Newfoundland_and_Labrador#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	460	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4603
+%LID#0#4603-3-Food_industry#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	460	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4603
+%LID#0#4603-4-Candy#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	460	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4605
+%LID#0#4605-1-Suzhou#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	291	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4605
+%LID#0#4605-3-Role#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	291	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4605
+%LID#0#4605-0-Eos_Press#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	291	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4607
+%LID#0#4607-3-EPC_(contract)#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	45	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4607
+%LID#0#4607-1-Lahore#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	45	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4607
+%LID#0#4607-0-Descon#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	45	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4616
+%LID#1#4616-0-Amway#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+eq-let	2	name	Amway_Global
+%Y
+eq-var	2	100	0	100
+##########
+%GID:4616
+%LID#1#4616-2-Amway#1#1#8
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+eq-let	0	name	Amway_Global
+%Y
+eq-var	2	100	0	100
+##########
+%GID:4616
+%LID#1#4616-0-Amway_Global#4#4#9
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+eq-let	2	name	Amway
+%Y
+eq-var	2	100	0	100
+##########
+%GID:4616
+%LID#1#4616-2-Amway_Global#3#3#7
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+eq-let	0	name	Amway
+%Y
+eq-var	2	100	0	100
+##########
+%GID:4618
+%LID#1#4618-4-Bathroom#3#3#31
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	82	2
+e	0	82	3
+#Condition
+%X
+eq-let	3	name	Kitchen
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4618
+%LID#1#4618-3-Kitchen#8#8#34
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	82	2
+e	0	82	3
+#Condition
+%X
+eq-let	4	name	Bathroom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4618
+%LID#1#4618-4-Kitchen#0#0#19
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	82	2
+e	0	82	3
+#Condition
+%X
+eq-let	3	name	Bathroom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4618
+%LID#1#4618-3-Bathroom#7#7#22
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	82	2
+e	0	82	3
+#Condition
+%X
+eq-let	4	name	Kitchen
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4620
+%LID#0#4620-2-Partner_(business_rank)#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	727	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	80	3	80
+##########
+%GID:4620
+%LID#0#4620-1-Lancaster,_Pennsylvania#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	727	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	80	3	80
+##########
+%GID:4620
+%LID#0#4620-4-Chief_executive_officer#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	727	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	80	3	80
+##########
+%GID:4620
+%LID#0#4620-0-Web_Talent_Marketing#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	727	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	80	3	80
+##########
+%GID:4625
+%LID#1#4625-3-Iceland_(supermarket)#2#2#8
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Frozen_food
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4625
+%LID#1#4625-4-Floppy_disk#5#5#9
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	3	name	Parrot_Corporation
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4625
+%LID#1#4625-3-Parrot_Corporation#6#6#10
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Floppy_disk
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4625
+%LID#1#4625-4-Frozen_food#1#1#7
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	3	name	Iceland_(supermarket)
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4626
+%LID#0#4626-4-Grocery_store#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4626
+%LID#0#4626-3-Iceland_(supermarket)#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4626
+%LID#0#4626-2-Wales#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4626
+%LID#0#4626-0-Dapol#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4626
+%LID#0#4626-1-Wrexham_County_Borough#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1459	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4627
+%LID#0#4627-0-McKeough_Supply#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4627
+%LID#0#4627-2-TekSavvy#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4627
+%LID#0#4627-4-Internet#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4627
+%LID#0#4627-1-Chatham#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4627
+%LID#0#4627-3-Telecommunication#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4629
+%LID#0#4629-2-EatStreet#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	81
+##########
+%GID:4629
+%LID#0#4629-1-Madison,_Wisconsin#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	81
+##########
+%GID:4629
+%LID#0#4629-3-Online_food_ordering#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	81
+##########
+%GID:4630
+%LID#1#4630-4-Enterprise_architecture#3#3#8
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	81	3
+#Condition
+%X
+eq-let	3	name	Business_process_management
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4630
+%LID#1#4630-3-Enterprise_architecture#4#4#9
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	81	3
+#Condition
+%X
+eq-let	4	name	Business_process_management
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4630
+%LID#1#4630-4-Business_process_management#6#6#10
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	81	3
+#Condition
+%X
+eq-let	3	name	Enterprise_architecture
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4630
+%LID#1#4630-3-Business_process_management#2#2#7
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	81	3
+#Condition
+%X
+eq-let	4	name	Enterprise_architecture
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4631
+%LID#0#4631-0-Dumadu_Games#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	1009	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4631
+%LID#0#4631-4-Raaga.com#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1009	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4631
+%LID#0#4631-2-Cellcom_(United_States)#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	1009	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4631
+%LID#0#4631-1-BlackBerry#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1009	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4631
+%LID#0#4631-3-IPhone#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1009	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4635
+%LID#0#4635-2-Estonia#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4635
+%LID#0#4635-1-Nasva,_Saare_County#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4635
+%LID#0#4635-0-Baltic_Workboats#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4636
+%LID#0#4636-3-Payment_system#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4636
+%LID#0#4636-1-Bangkok#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4642
+%LID#0#4642-2-Purity_Factories#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	839	ANY
+e	0	80	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4642
+%LID#0#4642-0-Ayre_and_Sons#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	839	ANY
+e	0	80	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4642
+%LID#0#4642-3-Charles_R._Ayre#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	839	ANY
+e	0	80	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4642
+%LID#0#4642-4-Fruit_preserves#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	839	ANY
+e	0	80	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4642
+%LID#0#4642-1-St._John's,_Newfoundland_and_Labrador#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	839	ANY
+e	0	80	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4646
+%LID#0#4646-3-Travel#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4646
+%LID#0#4646-1-Billings,_Montana#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4646
+%LID#0#4646-0-Conlin's_Furniture#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4646
+%LID#0#4646-4-Bold_Earth_Teen_Adventures#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4646
+%LID#0#4646-2-Austin_Adventures#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	45
+##########
+%GID:4647
+%LID#0#4647-0-Purity_Factories#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	45
+##########
+%GID:4647
+%LID#0#4647-2-Canada#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	45
+##########
+%GID:4647
+%LID#0#4647-1-St._John's,_Newfoundland_and_Labrador#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	45
+##########
+%GID:4647
+%LID#0#4647-4-Food_industry#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	45
+##########
+%GID:4651
+%LID#0#4651-1-Draper#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4651
+%LID#0#4651-2-Utah#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4651
+%LID#0#4651-4-Computer_hardware#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4651
+%LID#0#4651-0-Wilife#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4652
+%LID#1#4652-2-Lactogal#6#6#33
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	3	name	Portugal
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-3-Netherlands#2#2#25
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	Impossible_Project
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-2-Lactogal#6#6#37
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	Viagens_Abreu
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-3-Netherlands#2#2#13
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	Impossible_Project
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-3-Netherlands#2#2#30
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	BiZZdesign
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-1-Enschede#1#1#24
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	BiZZdesign
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-3-Portugal#4#4#26
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	Viagens_Abreu
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-1-Enschede#1#1#16
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	BiZZdesign
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-3-Netherlands#2#2#18
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	BiZZdesign
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-2-BiZZdesign#8#8#23
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	Impossible_Project
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-0-Impossible_Project#0#0#20
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	BiZZdesign
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-1-Enschede#1#1#21
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	Impossible_Project
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-1-Porto#9#9#39
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	3	name	Portugal
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-0-Viagens_Abreu#5#5#27
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	3	name	Portugal
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-3-Netherlands#2#2#15
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	1	name	Enschede
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-1-Enschede#1#1#14
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	3	name	Netherlands
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-1-Enschede#1#1#11
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	Impossible_Project
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-0-BiZZdesign#3#3#31
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	Impossible_Project
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-3-Portugal#4#4#32
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	Lactogal
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-2-Impossible_Project#7#7#34
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	BiZZdesign
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-3-Portugal#4#4#38
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	1	name	Porto
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-0-Viagens_Abreu#5#5#36
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	Lactogal
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-0-Viagens_Abreu#5#5#40
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	1	name	Porto
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-1-Porto#9#9#41
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	0	name	Viagens_Abreu
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-2-Lactogal#6#6#42
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	1	name	Porto
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4652
+%LID#1#4652-1-Porto#9#9#43
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+e	1	100	2
+#Condition
+%X
+eq-let	2	name	Lactogal
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4653
+%LID#0#4653-2-Biotechnology#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	467	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	82
+##########
+%GID:4653
+%LID#0#4653-0-Diabetology_Ltd#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	467	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	82
+##########
+%GID:4653
+%LID#0#4653-4-Pre#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	467	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	82
+##########
+%GID:4653
+%LID#0#4653-1-Saint_Helier#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	467	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	82
+##########
+%GID:4661
+%LID#1#4661-4-Performing_Equipment#4#4#12
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	1	80	2
+e	0	81	3
+#Condition
+%X
+eq-let	0	name	RaykGlobal
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4661
+%LID#1#4661-0-Gionee#2#2#8
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	1	80	2
+e	0	81	3
+#Condition
+%X
+eq-let	4	name	Consumer_electronics
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4661
+%LID#1#4661-4-Consumer_electronics#6#6#9
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	1	80	2
+e	0	81	3
+#Condition
+%X
+eq-let	0	name	Gionee
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4661
+%LID#1#4661-4-Performing_Equipment#4#4#10
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	1	80	2
+e	0	81	3
+#Condition
+%X
+eq-let	0	name	Rackinthecases
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4662
+%LID#0#4662-0-Silverback_Productions#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	240	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4662
+%LID#0#4662-4-Film#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	240	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4662
+%LID#0#4662-2-Tell_Tale_Productions_Inc#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	240	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4662
+%LID#0#4662-3-www.telltale.tv#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	240	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4662
+%LID#0#4662-1-Halifax,_Nova_Scotia#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	240	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4663
+%LID#0#4663-3-Documentary_film#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	266	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4663
+%LID#0#4663-0-Tell_Tale_Productions_Inc#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	266	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4663
+%LID#0#4663-4-Merit_Motion_Pictures#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	266	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4663
+%LID#0#4663-2-Television#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	266	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4663
+%LID#0#4663-1-Halifax,_Nova_Scotia#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	266	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4666
+%LID#0#4666-4-Surveillance#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4666
+%LID#0#4666-2-VideoCells#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4666
+%LID#0#4666-3-Chief_executive_officer#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4666
+%LID#0#4666-1-Herzliya#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4667
+%LID#1#4667-2-Starmark#7#7#13
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	1	80	2
+e	0	80	3
+#Condition
+%X
+eq-let	3	name	Nantana_Srisakulpinyo
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4667
+%LID#1#4667-3-2C2P#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	1	80	2
+e	0	80	3
+#Condition
+%X
+eq-let	2	name	Paysbuy
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4667
+%LID#1#4667-2-Paysbuy#4#4#9
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	1	80	2
+e	0	80	3
+#Condition
+%X
+eq-let	3	name	2C2P
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4667
+%LID#1#4667-2-Starmark#7#7#11
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	1	80	2
+e	0	80	3
+#Condition
+%X
+eq-let	3	name	Prerapat_Srisakulpinyo
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4668
+%LID#0#4668-1-Design#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	45	2	45
+##########
+%GID:4668
+%LID#0#4668-0-Idea_Couture#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	45	2	45
+##########
+%GID:4668
+%LID#0#4668-3-Consulting_firm#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	45	2	45
+##########
+%GID:4671
+%LID#1#4671-4-Ethernet#3#3#12
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	81	3
+#Condition
+%X
+eq-let	3	name	Machine_vision
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4671
+%LID#1#4671-3-Machine_vision#2#2#11
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	81	3
+#Condition
+%X
+eq-let	4	name	Ethernet
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4671
+%LID#1#4671-4-Machine_vision#1#1#16
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	81	3
+#Condition
+%X
+eq-let	3	name	Ethernet
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4671
+%LID#1#4671-3-Ethernet#6#6#19
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	81	3
+#Condition
+%X
+eq-let	4	name	Machine_vision
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4674
+%LID#0#4674-2-Ayre_and_Sons#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+v	3	839	ANY
+e	0	100	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4674
+%LID#0#4674-4-Fruit_preserves#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+v	3	839	ANY
+e	0	100	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4674
+%LID#0#4674-1-St._John's,_Newfoundland_and_Labrador#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+v	3	839	ANY
+e	0	100	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4674
+%LID#0#4674-3-Canada#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+v	3	839	ANY
+e	0	100	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4674
+%LID#0#4674-0-Purity_Factories#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	2	ANY
+v	3	839	ANY
+e	0	100	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4675
+%LID#0#4675-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4675
+%LID#0#4675-3-www.rw3.com#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4675
+%LID#0#4675-2-RW3_Technologies#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4675
+%LID#0#4675-0-SOMA_Fabrications#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4676
+%LID#0#4676-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4676
+%LID#0#4676-0-SOMA_Fabrications#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4676
+%LID#0#4676-3-www.rw3.com#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4676
+%LID#0#4676-2-RW3_Technologies#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4676
+%LID#0#4676-4-Fast#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	45	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4677
+%LID#0#4677-1-Long_Island_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	384	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	4	82
+##########
+%GID:4677
+%LID#0#4677-0-ES_Guitars#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	384	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	4	82
+##########
+%GID:4677
+%LID#0#4677-2-Helix_Software_Company#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	384	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	4	82
+##########
+%GID:4677
+%LID#0#4677-3-Musical_instrument#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	384	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	4	82
+##########
+%GID:4678
+%LID#0#4678-4-en#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	19	ANY
+v	3	1	ANY
+e	0	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4678
+%LID#0#4678-1-Ada_Township,_Michigan#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	19	ANY
+v	3	1	ANY
+e	0	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4678
+%LID#0#4678-3-Michigan#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	19	ANY
+v	3	1	ANY
+e	0	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4678
+%LID#0#4678-2-Amway#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	19	ANY
+v	3	1	ANY
+e	0	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4678
+%LID#0#4678-0-Amway_Global#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	19	ANY
+v	3	1	ANY
+e	0	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4679
+%LID#0#4679-0-Purity_Factories#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4679
+%LID#0#4679-3-www.purity.nf.ca#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4679
+%LID#0#4679-1-St._John's,_Newfoundland_and_Labrador#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4679
+%LID#0#4679-2-Canada#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4682
+%LID#1#4682-4-Robert_Vinçotte#4#4#8
+#Pattern
+v	0	39	ANY
+v	1	171	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	0	80	3
+#Condition
+%X
+eq-let	0	name	Vinçotte
+%Y
+eq-var	0	100	3	45
+##########
+%GID:4682
+%LID#1#4682-0-Broadnet_Holdings_BV#2#2#9
+#Pattern
+v	0	39	ANY
+v	1	171	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	0	80	3
+#Condition
+%X
+eq-let	4	name	Declan_Ganley
+%Y
+eq-var	0	100	3	45
+##########
+%GID:4682
+%LID#1#4682-4-Declan_Ganley#6#6#10
+#Pattern
+v	0	39	ANY
+v	1	171	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	0	80	3
+#Condition
+%X
+eq-let	0	name	Broadnet_Holdings_BV
+%Y
+eq-var	0	100	3	45
+##########
+%GID:4682
+%LID#1#4682-0-Vinçotte#1#1#7
+#Pattern
+v	0	39	ANY
+v	1	171	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	0	80	3
+#Condition
+%X
+eq-let	4	name	Robert_Vinçotte
+%Y
+eq-var	0	100	3	45
+##########
+%GID:4683
+%LID#0#4683-1-Yogurt#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4685
+%LID#1#4685-3-TH&C#2#2#15
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Package_tour
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4685
+%LID#1#4685-3-TH&C#2#2#13
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Air_charter
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4685
+%LID#1#4685-4-Resort#4#4#10
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	3	name	Vivanta_By_Taj
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4685
+%LID#1#4685-3-TH&C#2#2#16
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Touroperating
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4685
+%LID#1#4685-3-TH&C#2#2#20
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Cruise_line
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4686
+%LID#0#4686-4-Airline#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4686
+%LID#0#4686-0-Smith_Travel_Research#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4686
+%LID#0#4686-1-Hendersonville,_Tennessee#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4686
+%LID#0#4686-3-TH&C#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4686
+%LID#0#4686-2-Hotel#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	674	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	82
+##########
+%GID:4688
+%LID#0#4688-2-Chemical_substance#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4688
+%LID#0#4688-1-Orkla_Group#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4688
+%LID#0#4688-4-Paint#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4688
+%LID#0#4688-0-Jotun_(company)#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	677	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4689
+%LID#0#4689-0-Altos_Hornos_de_México#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1519	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4689
+%LID#0#4689-1-Monclova#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	1519	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4689
+%LID#0#4689-2-Metal#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	1519	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4690
+%LID#0#4690-0-Bulgari#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	265	ANY
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4690
+%LID#0#4690-3-LVMH#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	265	ANY
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4690
+%LID#0#4690-1-Rome#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	265	ANY
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4690
+%LID#0#4690-2-Eulama#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	265	ANY
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4693
+%LID#1#4693-3-Fashion_accessory#5#5#8
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+eq-let	4	name	Perfume
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4693
+%LID#1#4693-4-Fashion_accessory#3#3#9
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+eq-let	3	name	Perfume
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4693
+%LID#1#4693-3-Perfume#6#6#10
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+eq-let	4	name	Fashion_accessory
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4693
+%LID#1#4693-4-Perfume#1#1#7
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+eq-let	3	name	Fashion_accessory
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4694
+%LID#0#4694-1-Herzliya#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	486	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	80	3	80
+##########
+%GID:4694
+%LID#0#4694-0-Nogacom#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	486	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	80	3	80
+##########
+%GID:4694
+%LID#0#4694-2-management.html#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	486	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	80	3	80
+##########
+%GID:4694
+%LID#0#4694-3-NetQoS#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	486	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	80	3	80
+##########
+%GID:4695
+%LID#0#4695-1-Madison,_Wisconsin#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4697
+%LID#0#4697-1-Mar_del_Plata#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	860	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4697
+%LID#0#4697-0-Havanna_(Argentine_company)#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	860	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4697
+%LID#0#4697-4-Alfajor#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	860	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4697
+%LID#0#4697-2-Cookie#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	860	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4700
+%LID#0#4700-0-Isaac's_Restaurant_&_Deli#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+e	1	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4700
+%LID#0#4700-2-Web_Talent_Marketing#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+e	1	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4700
+%LID#0#4700-1-Lancaster,_Pennsylvania#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+e	1	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4700
+%LID#0#4700-3-Chief_executive_officer#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+e	1	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4701
+%LID#1#4701-3-Chilchota_Alimentos#1#1#8
+#Pattern
+v	0	39	ANY
+v	1	451	ANY
+v	2	39	ANY
+e	0	82	1
+#Condition
+%X
+eq-let	4	name	Fage
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4701
+%LID#1#4701-3-Fage#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	451	ANY
+v	2	39	ANY
+e	0	82	1
+#Condition
+%X
+eq-let	4	name	Chilchota_Alimentos
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4703
+%LID#0#4703-0-Isaac's_Restaurant_&_Deli#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4703
+%LID#0#4703-1-Lancaster,_Pennsylvania#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4703
+%LID#0#4703-3-Partner_(business_rank)#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4703
+%LID#0#4703-2-Web_Talent_Marketing#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4705
+%LID#0#4705-0-Baltic_Workboats#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4705
+%LID#0#4705-2-Estonia#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4705
+%LID#0#4705-1-Nasva,_Saare_County#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4706
+%LID#0#4706-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4706
+%LID#0#4706-3-Temahome#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4706
+%LID#0#4706-0-Julien_Inc.#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4706
+%LID#0#4706-2-Manufacturing#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4707
+%LID#0#4707-2-Aerospace_engineering#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	1294	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4707
+%LID#0#4707-1-Reston,_Virginia#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1294	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4707
+%LID#0#4707-0-International_Launch_Services#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1294	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4707
+%LID#0#4707-3-Military#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1294	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4708
+%LID#0#4708-0-Bulgari#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	265	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4708
+%LID#0#4708-2-Luxury_goods#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	265	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4708
+%LID#0#4708-1-LVMH#0#0#9
+#Pattern
+v	0	39	ANY
+v	1	265	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4708
+%LID#0#4708-4-Jewellery#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	265	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4709
+%LID#0#4709-2-Nevada#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4709
+%LID#0#4709-4-Newspaper#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4709
+%LID#0#4709-1-Las_Vegas_Valley#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4709
+%LID#0#4709-0-Jobbi#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4709
+%LID#0#4709-3-Stephens_Media_(newspapers)#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4710
+%LID#0#4710-4-Flight_training#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4710
+%LID#0#4710-3-Silver_State_Helicopters#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4710
+%LID#0#4710-2-Nevada#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4710
+%LID#0#4710-1-Las_Vegas_Valley#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4711
+%LID#0#4711-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4711
+%LID#0#4711-3-Temahome#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4711
+%LID#0#4711-2-Manufacturing#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4711
+%LID#0#4711-4-Luis_Vicente_Otin#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4711
+%LID#0#4711-0-Julien_Inc.#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	9	ANY
+e	0	100	1
+e	2	80	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4714
+%LID#0#4714-2-Advertising#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	438	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4714
+%LID#0#4714-0-Bernstein#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	438	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4714
+%LID#0#4714-1-Kansas_City,_Missouri#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	438	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4722
+%LID#0#4722-1-AR#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1175	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4722
+%LID#0#4722-0-Wilson_Combat#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1175	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4722
+%LID#0#4722-3-M1911_pistol#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1175	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4722
+%LID#0#4722-2-Z#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1175	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4728
+%LID#0#4728-0-Z#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	1173	ANY
+v	2	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4728
+%LID#0#4728-2-Wilson_Combat#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1173	ANY
+v	2	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4728
+%LID#0#4728-1-AR#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1173	ANY
+v	2	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4728
+%LID#0#4728-3-M1911_pistol#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1173	ANY
+v	2	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4731
+%LID#0#4731-1-Reston,_Virginia#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	32	ANY
+v	3	1	ANY
+e	0	45	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	45
+##########
+%GID:4731
+%LID#0#4731-0-Moreover_Technologies#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	32	ANY
+v	3	1	ANY
+e	0	45	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	45
+##########
+%GID:4731
+%LID#0#4731-4-Media_monitoring#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	32	ANY
+v	3	1	ANY
+e	0	45	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	45
+##########
+%GID:4731
+%LID#0#4731-3-LexisNexis#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	32	ANY
+v	3	1	ANY
+e	0	45	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	45
+##########
+%GID:4731
+%LID#0#4731-2-HPTi#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	32	ANY
+v	3	1	ANY
+e	0	45	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	45
+##########
+%GID:4733
+%LID#0#4733-0-Impossible_Project#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4733
+%LID#0#4733-3-Photography#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4733
+%LID#0#4733-2-BiZZdesign#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4733
+%LID#0#4733-1-Enschede#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4734
+%LID#0#4734-2-Softtek#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	85	ANY
+v	3	0	ANY
+e	1	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4734
+%LID#0#4734-4-Online_advertising#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	85	ANY
+v	3	0	ANY
+e	1	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4734
+%LID#0#4734-1-Monterrey#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	85	ANY
+v	3	0	ANY
+e	1	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4734
+%LID#0#4734-3-Nuevo_León#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	85	ANY
+v	3	0	ANY
+e	1	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4734
+%LID#0#4734-0-Cuponzote#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	85	ANY
+v	3	0	ANY
+e	1	100	2
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4735
+%LID#0#4735-1-Patan,_Nepal#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	1925	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4735
+%LID#0#4735-0-Ncell#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1925	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4735
+%LID#0#4735-2-Nepal#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	1925	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4735
+%LID#0#4735-3-Everest_Bank_Limited#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	1925	ANY
+v	2	39	ANY
+v	3	0	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4737
+%LID#1#4737-2-Bathroom#0#0#15
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	3	name	Kitchen
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-2-Bathroom#0#0#13
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	4	name	Plumbworld
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-3-Bathroom#6#6#9
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	4	name	Wren_Kitchens
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-2-Bathroom#0#0#11
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	4	name	VictoriaPlum.com
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-4-Wren_Kitchens#7#7#10
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	3	name	Bathroom
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-3-Kitchen#8#8#24
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	4	name	Plumbworld
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-3-Kitchen#8#8#16
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	2	name	Bathroom
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-3-Bathroom#6#6#19
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	2	name	Kitchen
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-2-Kitchen#3#3#18
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	3	name	Bathroom
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-4-Wren_Kitchens#7#7#22
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	2	name	Kitchen
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-2-Kitchen#3#3#21
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	4	name	Wren_Kitchens
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4737
+%LID#1#4737-3-Kitchen#8#8#20
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	4	name	VictoriaPlum.com
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4738
+%LID#0#4738-0-Silverback_Productions#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	80	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4738
+%LID#0#4738-1-Halifax,_Nova_Scotia#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	80	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4738
+%LID#0#4738-3-President#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	80	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4738
+%LID#0#4738-4-Video_game#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	80	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4738
+%LID#0#4738-2-Tell_Tale_Productions_Inc#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	80	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4741
+%LID#0#4741-1-Draper#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4741
+%LID#0#4741-3-Computrols_Incorporated#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4741
+%LID#0#4741-2-Research_and_development#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4741
+%LID#0#4741-0-Wilife#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	45	3	80
+##########
+%GID:4742
+%LID#1#4742-0-Nogacom#5#5#25
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	3	name	Information_management
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4742
+%LID#1#4742-3-www.NLayers.com#0#0#14
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	0	name	NLayers
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4742
+%LID#1#4742-0-Nogacom#5#5#13
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	2	name	NLayers
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4742
+%LID#1#4742-3-www.NLayers.com#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	2	name	Nogacom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4742
+%LID#1#4742-3-Information_management#6#6#26
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	0	name	Nogacom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4742
+%LID#1#4742-3-Information_management#6#6#16
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	2	name	NLayers
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4742
+%LID#1#4742-0-NLayers#7#7#17
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	3	name	www.NLayers.com
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4742
+%LID#1#4742-0-NLayers#7#7#21
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	45	2
+#Condition
+%X
+eq-let	2	name	Nogacom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4743
+%LID#0#4743-0-VideoCells#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4743
+%LID#0#4743-3-Software#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4743
+%LID#0#4743-1-Herzliya#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4744
+%LID#0#4744-3-Documentary_film#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	8	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4744
+%LID#0#4744-2-Silverback_Productions#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	8	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4744
+%LID#0#4744-0-Tell_Tale_Productions_Inc#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	8	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4744
+%LID#0#4744-1-Halifax,_Nova_Scotia#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	8	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4745
+%LID#0#4745-0-Silverback_Productions#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4745
+%LID#0#4745-1-Halifax,_Nova_Scotia#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4745
+%LID#0#4745-3-Video_game#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4745
+%LID#0#4745-2-Tell_Tale_Productions_Inc#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4750
+%LID#0#4750-4-Alticor#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	2	45	0
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4750
+%LID#0#4750-1-Ada_Township,_Michigan#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	2	45	0
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4750
+%LID#0#4750-3-Amway_Australia#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	2	45	0
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4750
+%LID#0#4750-0-Amway#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	2	45	0
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4750
+%LID#0#4750-2-Amway_Global#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	2	45	0
+e	0	45	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4753
+%LID#0#4753-2-Kyoto_Electronics#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4753
+%LID#0#4753-1-Mexico_City#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4753
+%LID#0#4753-3-Major_appliance#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4753
+%LID#0#4753-0-Semex#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4755
+%LID#0#4755-3-Video_game_industry#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4755
+%LID#0#4755-2-Bumblehood#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4755
+%LID#0#4755-1-Zagreb#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4755
+%LID#0#4755-4-Serious_Sam_(series)#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4755
+%LID#0#4755-0-Croteam#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4757
+%LID#0#4757-1-Lahore#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	7	ANY
+e	1	45	2
+e	1	80	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4757
+%LID#0#4757-3-EPC_(contract)#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	7	ANY
+e	1	45	2
+e	1	80	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4757
+%LID#0#4757-4-Chief_executive_officer#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	7	ANY
+e	1	45	2
+e	1	80	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4757
+%LID#0#4757-2-Descon#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	7	ANY
+e	1	45	2
+e	1	80	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4759
+%LID#0#4759-0-Isaac's_Restaurant_&_Deli#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4759
+%LID#0#4759-1-Lancaster,_Pennsylvania#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4759
+%LID#0#4759-4-Service_(economics)#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4759
+%LID#0#4759-3-Partner_(business_rank)#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4759
+%LID#0#4759-2-Web_Talent_Marketing#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	80	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4760
+%LID#0#4760-2-Estonia#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4760
+%LID#0#4760-1-Nasva,_Saare_County#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4760
+%LID#0#4760-0-Baltic_Workboats#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4760
+%LID#0#4760-3-www.balticworkboats.ee#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	185	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4762
+%LID#0#4762-1-Virginia_Beach,_Virginia#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	219	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4762
+%LID#0#4762-3-Tax_preparation#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	219	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4762
+%LID#0#4762-0-Liberty_Tax_Service#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	219	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4762
+%LID#0#4762-2-Chief_executive_officer#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	219	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4769
+%LID#1#4769-0-Chilchota_Alimentos#3#3#6
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+eq-let	2	name	Nuttelex
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4769
+%LID#1#4769-2-Chilchota_Alimentos#4#4#8
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+eq-let	0	name	Nuttelex
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4769
+%LID#1#4769-0-Nuttelex#2#2#7
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+eq-let	2	name	Chilchota_Alimentos
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4769
+%LID#1#4769-2-Nuttelex#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+eq-let	0	name	Chilchota_Alimentos
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4776
+%LID#1#4776-0-Macedonian_Information_Centre#3#3#13
+#Pattern
+v	0	39	ANY
+v	1	675	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	4	name	İhlas_News_Agency
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4776
+%LID#1#4776-0-Makfax#0#0#11
+#Pattern
+v	0	39	ANY
+v	1	675	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	3	name	Macedonian_Information_Centre
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4776
+%LID#1#4776-3-İhlas_News_Agency#8#8#10
+#Pattern
+v	0	39	ANY
+v	1	675	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	4	name	Makfax
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4776
+%LID#1#4776-3-Makfax#6#6#17
+#Pattern
+v	0	39	ANY
+v	1	675	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	4	name	İhlas_News_Agency
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4776
+%LID#1#4776-0-Macedonian_Information_Centre#3#3#19
+#Pattern
+v	0	39	ANY
+v	1	675	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	3	name	Makfax
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4776
+%LID#1#4776-0-Macedonian_Information_Centre#3#3#21
+#Pattern
+v	0	39	ANY
+v	1	675	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	4	name	Makfax
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4777
+%LID#1#4777-4-Bathroom#3#3#33
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+eq-let	3	name	Kitchen
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4777
+%LID#1#4777-3-Kitchen#8#8#34
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+eq-let	4	name	Bathroom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4777
+%LID#1#4777-4-Kitchen#0#0#19
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+eq-let	3	name	Bathroom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4777
+%LID#1#4777-3-Bathroom#6#6#20
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	82	2
+e	1	82	3
+#Condition
+%X
+eq-let	4	name	Kitchen
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4782
+%LID#0#4782-3-Documentary_film#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	8	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4782
+%LID#0#4782-1-Halifax,_Nova_Scotia#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	8	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4782
+%LID#0#4782-0-Silverback_Productions#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	8	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4782
+%LID#0#4782-2-Tell_Tale_Productions_Inc#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	8	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4783
+%LID#0#4783-2-www.tersosolutions.com#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4783
+%LID#0#4783-4-Alien_Technology#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4783
+%LID#0#4783-0-Terso_Solutions#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4783
+%LID#0#4783-1-Madison,_Wisconsin#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4783
+%LID#0#4783-3-Radio#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4788
+%LID#0#4788-1-Mira_Mesa,_San_Diego#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	349	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4788
+%LID#0#4788-0-Competitor_Group,_Inc.#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	349	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4788
+%LID#0#4788-2-Sports_marketing#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	349	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4788
+%LID#0#4788-3-Event_management#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	349	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4789
+%LID#0#4789-0-Tell_Tale_Productions_Inc#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4789
+%LID#0#4789-2-Silverback_Productions#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4789
+%LID#0#4789-3-Video_game#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4789
+%LID#0#4789-1-Halifax,_Nova_Scotia#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	82	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4790
+%LID#0#4790-3-Havanna_(Argentine_company)#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	2768	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4790
+%LID#0#4790-4-Alfajor#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	2768	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4790
+%LID#0#4790-2-Cookie#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	2768	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4790
+%LID#0#4790-0-Purity_Factories#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	2768	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4790
+%LID#0#4790-1-St._John's,_Newfoundland_and_Labrador#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1069	ANY
+v	2	39	ANY
+v	3	2768	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+%Y
+eq-var	0	82	3	82
+##########
+%GID:4792
+%LID#0#4792-1-Madison,_Wisconsin#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	81	4	82
+##########
+%GID:4792
+%LID#0#4792-3-Radio#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	81	4	82
+##########
+%GID:4792
+%LID#0#4792-2-Terso_Solutions#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	81	4	82
+##########
+%GID:4792
+%LID#0#4792-4-Alien_Technology#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	81	4	82
+##########
+%GID:4797
+%LID#0#4797-1-Chicago_metropolitan_area#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	526	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	81
+##########
+%GID:4797
+%LID#0#4797-2-Chief_executive_officer#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	526	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	81
+##########
+%GID:4797
+%LID#0#4797-3-Software_engineering#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	526	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	81
+##########
+%GID:4797
+%LID#0#4797-0-Nanex#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	526	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	81	4	81
+##########
+%GID:4799
+%LID#0#4799-0-Austin_Adventures#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4799
+%LID#0#4799-3-Bold_Earth_Teen_Adventures#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4799
+%LID#0#4799-2-Travel#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4799
+%LID#0#4799-1-Billings,_Montana#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	560	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4800
+%LID#0#4800-1-Draper#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	80	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4800
+%LID#0#4800-0-Wilife#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	80	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4800
+%LID#0#4800-2-Utah#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	0	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	80	3
+#Condition
+%X
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4801
+%LID#0#4801-4-Coffee_Time#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	494	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4801
+%LID#0#4801-2-Big_Apple_Donuts_and_Coffee#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	494	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4801
+%LID#0#4801-1-Selangor#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	494	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4801
+%LID#0#4801-3-Doughnut#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	494	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	82	4	82
+##########
+%GID:4802
+%LID#1#4802-2-Pennsylvania#3#3#6
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+eq-let	0	name	Malakoff_(power_company)
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4802
+%LID#1#4802-0-Pennsylvania#4#4#8
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+eq-let	2	name	Malakoff_(power_company)
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4802
+%LID#1#4802-2-Malakoff_(power_company)#2#2#7
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+eq-let	0	name	Pennsylvania
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4802
+%LID#1#4802-0-Malakoff_(power_company)#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+#Condition
+%X
+eq-let	2	name	Pennsylvania
+%Y
+eq-var	0	82	2	82
+##########
+%GID:4811
+%LID#1#4811-0-Jobbi#5#5#14
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	19	ANY
+e	0	100	2
+#Condition
+%X
+eq-let	2	name	Stephens_Media_(newspapers)
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4811
+%LID#1#4811-0-Stephens_Media_(newspapers)#2#2#12
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	19	ANY
+e	0	100	2
+#Condition
+%X
+eq-let	2	name	Jobbi
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4814
+%LID#0#4814-3-Investing_online#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	384	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4814
+%LID#0#4814-1-Flushing,_Queens#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	384	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4814
+%LID#0#4814-0-Firstrade_Securities#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	384	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4814
+%LID#0#4814-2-www.Firstrade.com#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	384	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4817
+%LID#0#4817-1-Enschede#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	10	ANY
+e	1	82	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4817
+%LID#0#4817-0-BiZZdesign#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	10	ANY
+e	1	82	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4817
+%LID#0#4817-3-Instant_film#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	10	ANY
+e	1	82	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4817
+%LID#0#4817-4-BiZZdesign_Architect#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	10	ANY
+e	1	82	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4817
+%LID#0#4817-2-Impossible_Project#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	10	ANY
+e	1	82	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4818
+%LID#0#4818-1-High#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	2204	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	82
+##########
+%GID:4818
+%LID#0#4818-4-Protein_microarray#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	2204	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	82
+##########
+%GID:4818
+%LID#0#4818-2-Biotechnology#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	2204	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	82
+##########
+%GID:4818
+%LID#0#4818-0-Ayoxxa_Biosystems#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	2204	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	82	3
+#Condition
+%X
+%Y
+eq-var	0	81	3	82
+##########
+%GID:4827
+%LID#0#4827-1-Match.com#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	1338	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	80	4	81
+##########
+%GID:4827
+%LID#0#4827-4-Startup_Princess#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1338	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	80	4	81
+##########
+%GID:4827
+%LID#0#4827-3-Chief_executive_officer#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	1338	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	80	4	81
+##########
+%GID:4827
+%LID#0#4827-0-PlentyofFish#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1338	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	80	4	81
+##########
+%GID:4827
+%LID#0#4827-2-Entrepreneurship#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1338	ANY
+v	2	7	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	80	4	81
+##########
+%GID:4828
+%LID#0#4828-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	81	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4828
+%LID#0#4828-3-Retail#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	81	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4828
+%LID#0#4828-2-La_Maison_Simons#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	81	2
+e	1	82	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4829
+%LID#0#4829-0-ILD_Teleservices#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	74	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4829
+%LID#0#4829-2-Telecommunication#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	74	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4829
+%LID#0#4829-1-Ponte_Vedra_Beach,_Florida#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	74	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4829
+%LID#0#4829-3-Risk_management#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	74	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4830
+%LID#1#4830-3-Television_program#1#1#14
+#Pattern
+v	0	39	ANY
+v	1	240	ANY
+v	2	8	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+eq-let	4	name	Harmony_Gold_USA
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4830
+%LID#1#4830-3-Television_program#1#1#12
+#Pattern
+v	0	39	ANY
+v	1	240	ANY
+v	2	8	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+eq-let	4	name	Company_Pictures
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4830
+%LID#1#4830-3-Comic_book#6#6#10
+#Pattern
+v	0	39	ANY
+v	1	240	ANY
+v	2	8	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+eq-let	4	name	The_Guardian_Line
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4830
+%LID#1#4830-3-Comic_book#6#6#16
+#Pattern
+v	0	39	ANY
+v	1	240	ANY
+v	2	8	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+eq-let	4	name	Midtown_Comics
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4830
+%LID#1#4830-3-Comic_book#6#6#19
+#Pattern
+v	0	39	ANY
+v	1	240	ANY
+v	2	8	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+#Condition
+%X
+eq-let	4	name	Zuda_Comics
+%Y
+eq-var	0	81	4	82
+##########
+%GID:4832
+%LID#1#4832-3-Altair_Engineering#2#2#8
+#Pattern
+v	0	39	ANY
+v	1	707	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	4	name	GRAITEC
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4832
+%LID#1#4832-3-GRAITEC#3#3#9
+#Pattern
+v	0	39	ANY
+v	1	707	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	4	name	Altair_Engineering
+%Y
+eq-var	0	81	3	81
+##########
+%GID:4833
+%LID#1#4833-3-John_Simons_(Quebec)#7#7#33
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	80	2
+#Condition
+%X
+eq-let	0	name	Julien_Inc.
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4833
+%LID#1#4833-3-John_Simons_(Quebec)#7#7#27
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	80	2
+#Condition
+%X
+eq-let	2	name	La_Maison_Simons
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4833
+%LID#1#4833-2-Julien_Inc.#8#8#28
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	80	2
+#Condition
+%X
+eq-let	3	name	Léo_T._Julien
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4833
+%LID#1#4833-2-Julien_Inc.#8#8#24
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	80	2
+#Condition
+%X
+eq-let	3	name	Gilles_St
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4833
+%LID#1#4833-2-La_Maison_Simons#4#4#26
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	80	2
+#Condition
+%X
+eq-let	3	name	John_Simons_(Quebec)
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4833
+%LID#1#4833-2-La_Maison_Simons#4#4#22
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	80	2
+#Condition
+%X
+eq-let	0	name	Julien_Inc.
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4833
+%LID#1#4833-2-Julien_Inc.#8#8#20
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	80	2
+#Condition
+%X
+eq-let	0	name	La_Maison_Simons
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4834
+%LID#0#4834-2-Mobile_phone#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	288	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4834
+%LID#0#4834-0-Zapp_Mobile#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	288	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4834
+%LID#0#4834-1-Balotești#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	288	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4834
+%LID#0#4834-4-Chief_executive_officer#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	288	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4834
+%LID#0#4834-3-Moldcell#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	288	ANY
+v	2	39	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-var	0	45	3	45
+##########
+%GID:4836
+%LID#0#4836-0-Zetor#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	426	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4836
+%LID#0#4836-3-Agriculture#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	426	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4836
+%LID#0#4836-2-Heavy_equipment#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	426	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4836
+%LID#0#4836-1-Brno#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	426	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+%Y
+eq-var	0	82	4	82
+##########
+%GID:4837
+%LID#0#4837-3-United_States#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	1290	ANY
+v	2	2	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	100	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4837
+%LID#0#4837-2-Texas#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1290	ANY
+v	2	2	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	100	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4837
+%LID#0#4837-1-The_Woodlands,_Texas#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	1290	ANY
+v	2	2	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	100	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4837
+%LID#0#4837-0-Chevron_Phillips_Chemical#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	1290	ANY
+v	2	2	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	100	2
+#Condition
+%X
+%Y
+eq-var	0	100	4	45
+##########
+%GID:4838
+%LID#0#4838-1-Lancaster,_Pennsylvania#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4838
+%LID#0#4838-3-Chief_executive_officer#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4838
+%LID#0#4838-2-Isaac's_Restaurant_&_Deli#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4838
+%LID#0#4838-0-Web_Talent_Marketing#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	7	ANY
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4839
+%LID#0#4839-3-Partner_(business_rank)#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4839
+%LID#0#4839-2-Isaac's_Restaurant_&_Deli#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4839
+%LID#0#4839-1-Lancaster,_Pennsylvania#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4839
+%LID#0#4839-0-Web_Talent_Marketing#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	0	80	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4842
+%LID#0#4842-2-Oak_Futures#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	81	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4842
+%LID#0#4842-1-City_of_London#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	81	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4842
+%LID#0#4842-0-Powerchex#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	1	81	2
+e	1	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4843
+%LID#1#4843-3-Starmark#4#4#15
+#Pattern
+v	0	39	ANY
+v	1	1592	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Kitchen
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4843
+%LID#1#4843-3-New_Zealand_Natural#6#6#12
+#Pattern
+v	0	39	ANY
+v	1	1592	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Smoothie
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4843
+%LID#1#4843-3-New_Zealand_Natural#6#6#10
+#Pattern
+v	0	39	ANY
+v	1	1592	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Ice_cream
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4843
+%LID#1#4843-3-New_Zealand_Natural#6#6#19
+#Pattern
+v	0	39	ANY
+v	1	1592	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Chillos
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4843
+%LID#1#4843-3-Starmark#4#4#18
+#Pattern
+v	0	39	ANY
+v	1	1592	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	2	82	3
+#Condition
+%X
+eq-let	4	name	Bathroom
+%Y
+eq-var	0	100	3	100
+##########
+%GID:4846
+%LID#0#4846-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	81	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4846
+%LID#0#4846-3-Retail#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	81	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4846
+%LID#0#4846-2-La_Maison_Simons#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	81	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4846
+%LID#0#4846-0-Pleora#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	1	81	2
+e	0	81	3
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4847
+%LID#0#4847-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	82
+##########
+%GID:4847
+%LID#0#4847-2-Julien_Inc.#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	82
+##########
+%GID:4847
+%LID#0#4847-3-Manufacturing#0#0#5
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	2	45	4	82
+##########
+%GID:4849
+%LID#0#4849-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	81	4	81
+##########
+%GID:4849
+%LID#0#4849-4-Neptec_Design_Group#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	81	4	81
+##########
+%GID:4849
+%LID#0#4849-3-Machine_vision#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	81	4	81
+##########
+%GID:4849
+%LID#0#4849-0-Pleora#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-var	0	81	4	81
+##########
+%GID:4852
+%LID#1#4852-3-Information_management#6#6#25
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	45	2
+#Condition
+%X
+eq-let	2	name	Nogacom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4852
+%LID#1#4852-3-www.NLayers.com#1#1#15
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	45	2
+#Condition
+%X
+eq-let	2	name	NLayers
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4852
+%LID#1#4852-3-Information_management#6#6#8
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	45	2
+#Condition
+%X
+eq-let	0	name	NLayers
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4852
+%LID#1#4852-2-Nogacom#3#3#24
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	45	2
+#Condition
+%X
+eq-let	3	name	Information_management
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4852
+%LID#1#4852-2-Nogacom#3#3#26
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	45	2
+#Condition
+%X
+eq-let	0	name	NLayers
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4852
+%LID#1#4852-2-NLayers#2#2#16
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	45	2
+#Condition
+%X
+eq-let	3	name	www.NLayers.com
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4852
+%LID#1#4852-3-www.NLayers.com#1#1#19
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	45	2
+#Condition
+%X
+eq-let	0	name	Nogacom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4852
+%LID#1#4852-2-NLayers#2#2#22
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	45	2
+#Condition
+%X
+eq-let	0	name	Nogacom
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4853
+%LID#0#4853-1-Herzliya#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4853
+%LID#0#4853-3-Software#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4853
+%LID#0#4853-2-VideoCells#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	0	ANY
+e	1	45	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
+##########
+%GID:4854
+%LID#0#4854-3-Service_(economics)#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	1	81	2
+#Condition
+%X
+%Y
+eq-var	0	100	2	100
