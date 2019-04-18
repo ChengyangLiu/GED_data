@@ -1,0 +1,448 @@
+##############
+%GID:0
+%LID#1#0-1-<Berber_Revolt>#364#364#396
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	0	<Umayyad_Caliphate>
+%Y
+eq-let	1	<Berber_Revolt>
+##############
+%GID:1
+%LID#1#1-1-<http://www.lradelitzsch.de>#2#2#132
+#Pattern
+v	0	1	ANY
+v	1	10	ANY
+e	0	6	1
+#Condition
+%X
+eq-let	0	<Delitzsch_(district)>
+%Y
+eq-let	1	<http://www.lradelitzsch.de>
+##############
+%GID:4
+%LID#1#4-1-<Tobagonian_Creole>#52#52#66
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	0	<Tobago>
+%Y
+eq-let	1	<Tobagonian_Creole>
+##############
+%GID:5
+%LID#1#5-1-<Italian_Somaliland_somalo>#129#129#297
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	33	1
+#Condition
+%X
+eq-let	0	<Trust_Territory_of_Somalia>
+%Y
+eq-let	1	<Italian_Somaliland_somalo>
+##############
+%GID:9
+%LID#1#9-1-<Battle_of_Worringen>#220#220#297
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	0	<Berg_(state)>
+%Y
+eq-let	1	<Battle_of_Worringen>
+##############
+%GID:13
+%LID#1#13-1-<North_Africa>#225#225#890
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Zirid_dynasty>
+%Y
+eq-let	1	<North_Africa>
+##############
+%GID:14
+%LID#0#14-1-<Europe>#0#0#31
+#Pattern
+v	0	1	ANY
+v	1	14	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Europe>
+##############
+%GID:15
+%LID#1#15-1-<Lüneburg>#12#12#132
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Lüneburg_(district)>
+%Y
+eq-let	1	<Lüneburg>
+##############
+%GID:16
+%LID#1#16-0-<Frogn>#120#120#561
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	1	<Akershus>
+%Y
+eq-let	0	<Frogn>
+##############
+%GID:17
+%LID#1#17-1-<Caucasian_War>#37#37#99
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	1	<Principality_of_Mingrelia>
+%Y
+eq-let	2	<Caucasian_War>
+##############
+%GID:20
+%LID#0#20-1-<Europe>#0#0#91
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	14	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+%Y
+eq-let	2	<Europe>
+##############
+%GID:22
+%LID#1#22-0-<Roman_Catholic_Diocese_of_Sion>#56#56#99
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	28	2
+#Condition
+%X
+eq-let	2	<Sion>
+%Y
+eq-let	0	<Roman_Catholic_Diocese_of_Sion>
+##############
+%GID:24
+%LID#1#24-2-<Düsseldorf_(region)>#135#135#1583
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Magdeburg_(region)>
+%Y
+eq-let	1	<Düsseldorf_(region)>
+##############
+%GID:27
+%LID#1#27-1-<Soviet_ruble>#53#53#297
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	33	2
+e	1	33	2
+#Condition
+%X
+eq-let	1	<Lithuanian_Soviet_Socialist_Republic>
+%Y
+eq-let	2	<Soviet_ruble>
+##############
+%GID:29
+%LID#1#29-1-<Georgian_language>#16#16#33
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	35	2
+e	1	35	2
+#Condition
+%X
+eq-let	1	<Government_of_the_Autonomous_Republic_of_Abkhazia>
+%Y
+eq-let	2	<Georgian_language>
+##############
+%GID:30
+%LID#1#30-1-<Nigerian_Civil_War>#27#27#264
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	1	<Polish_People's_Republic>
+%Y
+eq-let	2	<Nigerian_Civil_War>
+##############
+%GID:35
+%LID#1#35-1-<Africa>#185#185#6728
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Ptolemaic_dynasty>
+%Y
+eq-let	2	<Africa>
+##############
+%GID:40
+%LID#1#40-1-<Indian_Rebellion_of_1857>#43#43#198
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Bhopal_State>
+%Y
+eq-let	1	<Indian_Rebellion_of_1857>
+##############
+%GID:42
+%LID#1#42-1-<Dresden>#48#48#396
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	28	1
+e	3	28	1
+#Condition
+%X
+eq-let	3	<Dresden_(Bezirk)>
+%Y
+eq-let	1	<Dresden>
+##############
+%GID:43
+%LID#1#43-0-<Cisalpine_Republic>#99#99#528
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	33	1
+e	2	33	1
+#Condition
+%X
+eq-let	2	<Italian_Republic_(Napoleonic)>
+%Y
+eq-let	0	<Cisalpine_Republic>
+##############
+%GID:50
+%LID#0#50-3-<Germany>#0#0#8
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	1	0	2
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	2	<Germany>
+##############
+%GID:52
+%LID#1#52-1-<Gaza_City>#132#132#528
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	28	1
+e	2	28	1
+e	3	28	1
+#Condition
+%X
+eq-let	3	<Gaza_Sanjak>
+%Y
+eq-let	1	<Gaza_City>
+##############
+%GID:54
+%LID#1#54-1-<Central_Europe>#79#79#4947
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	2	<Duchy_of_Zator>
+%Y
+eq-let	1	<Central_Europe>
+##############
+%GID:58
+%LID#1#58-1-<Grand_Casablanca>#430#430#1715
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<de/Casablanca_(Provinz)>
+%Y
+eq-let	1	<Grand_Casablanca>
+##############
+%GID:60
+%LID#1#60-1-<Eastern_Europe>#196#196#6662
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Principality_of_Kiev>
+%Y
+eq-let	1	<Eastern_Europe>
+##############
+%GID:61
+%LID#0#61-1-<Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	0
+e	3	0	0
+#Condition
+%X
+%Y
+eq-let	1	<Germany>
+##############
+%GID:62
+%LID#1#62-0-<Government_of_the_Autonomous_Republic_of_Abkhazia>#12#12#33
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	35	1
+e	2	35	1
+#Condition
+%X
+eq-let	2	<Provisional_Administrative_Entity_of_South_Ossetia>
+%Y
+eq-let	0	<Government_of_the_Autonomous_Republic_of_Abkhazia>
+##############
+%GID:63
+%LID#1#63-1-<Second_Crusade>#10#10#33
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	3	<Sultanate_of_Rum>
+%Y
+eq-let	1	<Second_Crusade>
+##############
+%GID:64
+%LID#1#64-1-<Second_Crusade>#56#56#99
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Sultanate_of_Rum>
+%Y
+eq-let	1	<Second_Crusade>
+##############
+%GID:67
+%LID#1#67-1-<Japanese_yen>#15#15#99
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	33	1
+e	2	33	1
+e	3	33	1
+#Condition
+%X
+eq-let	3	<Karafuto_Prefecture>
+%Y
+eq-let	1	<Japanese_yen>
+##############
+%GID:72
+%LID#1#72-1-<China>#280#280#6893
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	2	<Ba_(state)>
+%Y
+eq-let	1	<China>
+##############
+%GID:139
+%LID#1#139-1-<Gold_dinar>#1#1#198
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	33	1
+e	2	33	1
+e	3	33	1
+e	4	33	1
+#Condition
+%X
+eq-let	0	<Taifa_of_Toledo>
+%Y
+eq-let	1	<Gold_dinar>

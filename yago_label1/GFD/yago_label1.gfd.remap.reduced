@@ -1,0 +1,1143 @@
+##########
+%GID:0
+%LID#1#0-1-<Berber_Revolt>#364#364#396
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	0	<Umayyad_Caliphate>
+%Y
+eq-let	1	<Berber_Revolt>
+##########
+%GID:1
+%LID#1#1-1-<http://www.lradelitzsch.de>#2#2#132
+#Pattern
+v	0	1	ANY
+v	1	10	ANY
+e	0	6	1
+#Condition
+%X
+eq-let	0	<Delitzsch_(district)>
+%Y
+eq-let	1	<http://www.lradelitzsch.de>
+##########
+%GID:3
+%LID#1#3-0-<Grenada>#0#0#6
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	36	1
+#Condition
+%X
+eq-let	1	<wordnet_nutmeg_111714382>
+%Y
+eq-let	0	<Grenada>
+##########
+%GID:4
+%LID#1#4-1-<Tobagonian_Creole>#52#52#66
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	0	<Tobago>
+%Y
+eq-let	1	<Tobagonian_Creole>
+##########
+%GID:5
+%LID#1#5-1-<Italian_Somaliland_somalo>#129#129#297
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	33	1
+#Condition
+%X
+eq-let	0	<Trust_Territory_of_Somalia>
+%Y
+eq-let	1	<Italian_Somaliland_somalo>
+##########
+%GID:6
+%LID#0#6-1-<Strasbourg>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	28	1
+#Condition
+%X
+%Y
+eq-let	1	<Strasbourg>
+##########
+%GID:7
+%LID#0#7-1-<wordnet_fabric_103309808>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	31	1
+#Condition
+%X
+%Y
+eq-let	1	<wordnet_fabric_103309808>
+##########
+%GID:8
+%LID#0#8-0-<First_East_Turkestan_Republic>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+e	0	33	1
+#Condition
+%X
+%Y
+eq-let	0	<First_East_Turkestan_Republic>
+##########
+%GID:9
+%LID#1#9-1-<Battle_of_Worringen>#220#220#297
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	0	<Berg_(state)>
+%Y
+eq-let	1	<Battle_of_Worringen>
+##########
+%GID:10
+%LID#1#10-1-<Nazi_Germany>#3#3#29
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	24	1
+#Condition
+%X
+eq-let	0	<Second_Czechoslovak_Republic>
+%Y
+eq-let	1	<Nazi_Germany>
+##########
+%GID:11
+%LID#0#11-0-<Cambodia>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	34	1
+#Condition
+%X
+%Y
+eq-let	0	<Cambodia>
+##########
+%GID:12
+%LID#0#12-1-<Nagasaki_Baseball_Stadium>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+e	0	12	1
+#Condition
+%X
+%Y
+eq-let	1	<Nagasaki_Baseball_Stadium>
+##########
+%GID:13
+%LID#1#13-1-<North_Africa>#225#225#890
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Zirid_dynasty>
+%Y
+eq-let	1	<North_Africa>
+##########
+%GID:14
+%LID#0#14-1-<Europe>#0#0#31
+#Pattern
+v	0	1	ANY
+v	1	14	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Europe>
+##########
+%GID:15
+%LID#1#15-1-<Lüneburg>#12#12#132
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Lüneburg_(district)>
+%Y
+eq-let	1	<Lüneburg>
+##########
+%GID:16
+%LID#1#16-0-<Frogn>#120#120#561
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	1	<Akershus>
+%Y
+eq-let	0	<Frogn>
+##########
+%GID:17
+%LID#1#17-1-<Caucasian_War>#37#37#99
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	1	<Principality_of_Mingrelia>
+%Y
+eq-let	2	<Caucasian_War>
+##########
+%GID:18
+%LID#1#18-2-<Belize>#8#8#29
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	24	2
+#Condition
+%X
+eq-let	0	<Izabal_Department>
+%Y
+eq-let	1	<Belize>
+##########
+%GID:19
+%LID#0#19-0-<Mělník_District>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	0	<Mělník_District>
+##########
+%GID:20
+%LID#0#20-1-<Europe>#0#0#91
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	14	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+%Y
+eq-let	2	<Europe>
+##########
+%GID:21
+%LID#0#21-0-<Congo_Free_State>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	24	0
+#Condition
+%X
+%Y
+eq-let	0	<Congo_Free_State>
+##########
+%GID:22
+%LID#1#22-0-<Roman_Catholic_Diocese_of_Sion>#56#56#99
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	28	2
+#Condition
+%X
+eq-let	2	<Sion>
+%Y
+eq-let	0	<Roman_Catholic_Diocese_of_Sion>
+##########
+%GID:23
+%LID#0#23-1-<Buenos_Aires>#0#0#3
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+%Y
+eq-let	2	<Buenos_Aires>
+##########
+%GID:24
+%LID#1#24-2-<Düsseldorf_(region)>#135#135#1583
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Magdeburg_(region)>
+%Y
+eq-let	1	<Düsseldorf_(region)>
+##########
+%GID:25
+%LID#0#25-2-<Germany>#0#0#4
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Germany>
+##########
+%GID:26
+%LID#0#26-1-<Somalia>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	24	2
+e	2	24	1
+#Condition
+%X
+%Y
+eq-let	2	<Somalia>
+##########
+%GID:27
+%LID#1#27-1-<Soviet_ruble>#53#53#297
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	33	2
+e	1	33	2
+#Condition
+%X
+eq-let	1	<Lithuanian_Soviet_Socialist_Republic>
+%Y
+eq-let	2	<Soviet_ruble>
+##########
+%GID:28
+%LID#0#28-1-<Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	0	0
+#Condition
+%X
+%Y
+eq-let	2	<Germany>
+##########
+%GID:29
+%LID#1#29-1-<Georgian_language>#16#16#33
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	35	2
+e	1	35	2
+#Condition
+%X
+eq-let	1	<Government_of_the_Autonomous_Republic_of_Abkhazia>
+%Y
+eq-let	2	<Georgian_language>
+##########
+%GID:30
+%LID#1#30-1-<Nigerian_Civil_War>#27#27#264
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	1	<Polish_People's_Republic>
+%Y
+eq-let	2	<Nigerian_Civil_War>
+##########
+%GID:31
+%LID#0#31-2-<Juliaca>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	28	1
+#Condition
+%X
+%Y
+eq-let	1	<Juliaca>
+##########
+%GID:32
+%LID#0#32-0-<Nazi_Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	17	2
+e	1	24	0
+#Condition
+%X
+%Y
+eq-let	0	<Nazi_Germany>
+##########
+%GID:33
+%LID#0#33-1-<Lebanon>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	24	1
+#Condition
+%X
+%Y
+eq-let	2	<Lebanon>
+##########
+%GID:35
+%LID#1#35-1-<Africa>#185#185#6728
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Ptolemaic_dynasty>
+%Y
+eq-let	2	<Africa>
+##########
+%GID:36
+%LID#1#36-0-<Cossack_Hetmanate>#10#10#29
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	17	1
+#Condition
+%X
+eq-let	1	<Battle_of_Krithia_Vineyard>
+%Y
+eq-let	0	<Cossack_Hetmanate>
+##########
+%GID:37
+%LID#0#37-2-<wordnet_fabric_103309808>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	31	1
+#Condition
+%X
+%Y
+eq-let	1	<wordnet_fabric_103309808>
+##########
+%GID:38
+%LID#0#38-1-<Greater_Poland>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	0
+#Condition
+%X
+%Y
+eq-let	2	<Greater_Poland>
+##########
+%GID:39
+%LID#0#39-1-<Djibouti>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	24	2
+e	1	24	0
+#Condition
+%X
+%Y
+eq-let	2	<Djibouti>
+##########
+%GID:40
+%LID#1#40-1-<Indian_Rebellion_of_1857>#43#43#198
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Bhopal_State>
+%Y
+eq-let	1	<Indian_Rebellion_of_1857>
+##########
+%GID:41
+%LID#0#41-1-<Central_Bohemian_Region>#0#0#2
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	6	ANY
+e	0	0	1
+e	1	0	3
+e	2	28	3
+#Condition
+%X
+%Y
+eq-let	1	<Central_Bohemian_Region>
+##########
+%GID:42
+%LID#1#42-1-<Dresden>#48#48#396
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	28	1
+e	3	28	1
+#Condition
+%X
+eq-let	3	<Dresden_(Bezirk)>
+%Y
+eq-let	1	<Dresden>
+##########
+%GID:43
+%LID#1#43-0-<Cisalpine_Republic>#99#99#528
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	33	1
+e	2	33	1
+#Condition
+%X
+eq-let	2	<Italian_Republic_(Napoleonic)>
+%Y
+eq-let	0	<Cisalpine_Republic>
+##########
+%GID:44
+%LID#0#44-1-<Djibouti>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	24	1
+e	2	24	0
+#Condition
+%X
+%Y
+eq-let	1	<Djibouti>
+##########
+%GID:45
+%LID#1#45-3-<Kingdom_of_Poland_(1916#15#15#112
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	0	<Mountainous_Republic_of_the_Northern_Caucasus>
+%Y
+eq-let	2	<Kingdom_of_Poland_(1916
+##########
+%GID:46
+%LID#0#46-1-<Greater_Poland>#0#0#2
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	0
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Greater_Poland>
+##########
+%GID:48
+%LID#0#48-1-<Somalia>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	24	1
+e	1	24	2
+#Condition
+%X
+%Y
+eq-let	1	<Somalia>
+##########
+%GID:49
+%LID#0#49-1-<Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	0
+#Condition
+%X
+%Y
+eq-let	1	<Germany>
+##########
+%GID:50
+%LID#0#50-3-<Germany>#0#0#8
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	1	0	2
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	2	<Germany>
+##########
+%GID:51
+%LID#1#51-2-<Karviná_District>#134#134#594
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	0	<Austrian_Silesia>
+%Y
+eq-let	3	<Karviná_District>
+##########
+%GID:52
+%LID#1#52-1-<Gaza_City>#132#132#528
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	28	1
+e	2	28	1
+e	3	28	1
+#Condition
+%X
+eq-let	3	<Gaza_Sanjak>
+%Y
+eq-let	1	<Gaza_City>
+##########
+%GID:54
+%LID#1#54-1-<Central_Europe>#79#79#4947
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	2	<Duchy_of_Zator>
+%Y
+eq-let	1	<Central_Europe>
+##########
+%GID:55
+%LID#1#55-0-<pl/Wschodnia_Slawonia,_Baranja_i_Zachodni_Srem>#158#158#15152
+#Pattern
+v	0	1	ANY
+v	1	14	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	-1	<Great_Horde>
+%Y
+eq-let	0	<pl/Wschodnia_Slawonia,_Baranja_i_Zachodni_Srem>
+##########
+%GID:56
+%LID#1#56-0-<Kingdom_of_Bulgaria>#146#146#5301
+#Pattern
+v	0	1	ANY
+v	1	14	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	2	<Tsardom_of_Vidin>
+%Y
+eq-let	0	<Kingdom_of_Bulgaria>
+##########
+%GID:57
+%LID#1#57-3-<Nieuwe_Republiek>#7#7#25
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	35	1
+e	2	35	1
+e	3	35	1
+#Condition
+%X
+eq-let	3	<Bonaire>
+%Y
+eq-let	2	<Nieuwe_Republiek>
+##########
+%GID:58
+%LID#1#58-1-<Grand_Casablanca>#430#430#1715
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<de/Casablanca_(Provinz)>
+%Y
+eq-let	1	<Grand_Casablanca>
+##########
+%GID:60
+%LID#1#60-1-<Eastern_Europe>#196#196#6662
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Principality_of_Kiev>
+%Y
+eq-let	1	<Eastern_Europe>
+##########
+%GID:61
+%LID#0#61-1-<Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	0
+e	3	0	0
+#Condition
+%X
+%Y
+eq-let	1	<Germany>
+##########
+%GID:62
+%LID#1#62-0-<Government_of_the_Autonomous_Republic_of_Abkhazia>#12#12#33
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	35	1
+e	2	35	1
+#Condition
+%X
+eq-let	2	<Provisional_Administrative_Entity_of_South_Ossetia>
+%Y
+eq-let	0	<Government_of_the_Autonomous_Republic_of_Abkhazia>
+##########
+%GID:63
+%LID#1#63-1-<Second_Crusade>#10#10#33
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	3	<Sultanate_of_Rum>
+%Y
+eq-let	1	<Second_Crusade>
+##########
+%GID:64
+%LID#1#64-1-<Second_Crusade>#56#56#99
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Sultanate_of_Rum>
+%Y
+eq-let	1	<Second_Crusade>
+##########
+%GID:65
+%LID#1#65-0-<Niederschlesischer_Oberlausitzkreis_Rural_District>#2#2#20
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	1
+e	1	0	2
+#Condition
+%X
+eq-let	-1	<ro/Chemnitz_(regiune)>
+%Y
+eq-let	0	<Niederschlesischer_Oberlausitzkreis_Rural_District>
+##########
+%GID:66
+%LID#1#66-3-<Niederschlesischer_Oberlausitzkreis_Rural_District>#5#5#10
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	1	0	3
+e	2	0	1
+#Condition
+%X
+eq-let	0	<ro/Chemnitz_(regiune)>
+%Y
+eq-let	2	<Niederschlesischer_Oberlausitzkreis_Rural_District>
+##########
+%GID:67
+%LID#1#67-1-<Japanese_yen>#15#15#99
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	33	1
+e	2	33	1
+e	3	33	1
+#Condition
+%X
+eq-let	3	<Karafuto_Prefecture>
+%Y
+eq-let	1	<Japanese_yen>
+##########
+%GID:68
+%LID#0#68-1-<Greater_Poland>#0#0#2
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	3
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Greater_Poland>
+##########
+%GID:69
+%LID#1#69-3-<Dolores_Partido>#7#7#25
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Mercedes_Partido>
+%Y
+eq-let	2	<Dolores_Partido>
+##########
+%GID:70
+%LID#1#70-0-<Düsseldorf_(region)>#3#3#29
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	0	1
+e	1	17	2
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Magdeburg_(region)>
+%Y
+eq-let	0	<Düsseldorf_(region)>
+##########
+%GID:72
+%LID#1#72-1-<China>#280#280#6893
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	2	<Ba_(state)>
+%Y
+eq-let	1	<China>
+##########
+%GID:73
+%LID#1#73-0-<Vogtland>#1#1#26
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	1	0	3
+e	2	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	2	<Löbau
+%Y
+eq-let	0	<Vogtland>
+##########
+%GID:74
+%LID#0#74-1-<Buenos_Aires>#0#0#4
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Buenos_Aires>
+##########
+%GID:75
+%LID#1#75-0-<Territorial_evolution_of_France>#2#2#6
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	24	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Roman_Catholic_Diocese_of_Metz>
+%Y
+eq-let	0	<Territorial_evolution_of_France>
+##########
+%GID:79
+%LID#1#79-4-<Kingdom_of_Poland_(1916#2#2#103
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+e	4	17	1
+#Condition
+%X
+eq-let	3	<Mountainous_Republic_of_the_Northern_Caucasus>
+%Y
+eq-let	4	<Kingdom_of_Poland_(1916
+##########
+%GID:85
+%LID#0#85-0-<Posen#0#0#6
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	0
+#Condition
+%X
+%Y
+eq-let	0	<Posen
+##########
+%GID:97
+%LID#1#97-3-<Niederschlesischer_Oberlausitzkreis_Rural_District>#4#4#84
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	1	0	4
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	0	<ro/Chemnitz_(regiune)>
+%Y
+eq-let	2	<Niederschlesischer_Oberlausitzkreis_Rural_District>
+##########
+%GID:99
+%LID#1#99-3-<Czech_Socialist_Republic>#4#4#8
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	6	ANY
+v	4	1	ANY
+e	0	0	1
+e	1	0	3
+e	2	28	3
+e	4	28	3
+#Condition
+%X
+eq-let	4	<Duchy_of_Bohemia>
+%Y
+eq-let	2	<Czech_Socialist_Republic>
+##########
+%GID:108
+%LID#1#108-3-<Kalisz_Voivodeship>#7#7#13
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	3
+#Condition
+%X
+eq-let	0	<Netze_District>
+%Y
+eq-let	2	<Kalisz_Voivodeship>
+##########
+%GID:121
+%LID#1#121-4-<Niederschlesischer_Oberlausitzkreis_Rural_District>#1#1#35
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	2	0	0
+e	3	0	0
+e	4	0	0
+#Condition
+%X
+eq-let	3	<ro/Chemnitz_(regiune)>
+%Y
+eq-let	4	<Niederschlesischer_Oberlausitzkreis_Rural_District>
+##########
+%GID:128
+%LID#1#128-4-<Niederschlesischer_Oberlausitzkreis_Rural_District>#3#3#34
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	1	0	2
+e	3	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	0	<ro/Chemnitz_(regiune)>
+%Y
+eq-let	4	<Niederschlesischer_Oberlausitzkreis_Rural_District>
+##########
+%GID:132
+%LID#1#132-3-<Muromachi_period>#192#192#1913
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	28	1
+e	2	28	1
+e	3	28	1
+e	4	28	1
+#Condition
+%X
+eq-let	4	<Azuchi
+%Y
+eq-let	2	<Muromachi_period>
+##########
+%GID:136
+%LID#1#136-0-<Munich_Rural_District>#7#7#297
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	2	28	1
+e	3	28	1
+e	4	28	1
+#Condition
+%X
+eq-let	4	<Bavaria
+%Y
+eq-let	0	<Munich_Rural_District>
+##########
+%GID:139
+%LID#1#139-1-<Gold_dinar>#1#1#198
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	33	1
+e	2	33	1
+e	3	33	1
+e	4	33	1
+#Condition
+%X
+eq-let	0	<Taifa_of_Toledo>
+%Y
+eq-let	1	<Gold_dinar>

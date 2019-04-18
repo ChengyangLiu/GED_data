@@ -1,0 +1,35 @@
+%GID:136
+%LID#1#136-0-<Munich_Rural_District>#7#7#297
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	0	1
+e	2	28	1
+e	3	28	1
+e	4	28	1
+#Condition
+%X
+eq-let	4	<Bavaria
+%Y
+eq-let	0	<Munich_Rural_District>
+##########
+%GID:139
+%LID#1#139-1-<Gold_dinar>#1#1#198
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	33	1
+e	2	33	1
+e	3	33	1
+e	4	33	1
+#Condition
+%X
+eq-let	0	<Taifa_of_Toledo>
+%Y
+eq-let	1	<Gold_dinar>

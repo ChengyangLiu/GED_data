@@ -1,0 +1,49 @@
+##############
+%GID:41
+%LID#0#41-1-<Central_Bohemian_Region>#0#0#2
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	6	ANY
+e	0	0	1
+e	1	0	3
+e	2	28	3
+#Condition
+%X
+%Y
+eq-let	1	<Central_Bohemian_Region>
+##############
+%GID:75
+%LID#1#75-0-<Territorial_evolution_of_France>#2#2#6
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	24	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Roman_Catholic_Diocese_of_Metz>
+%Y
+eq-let	0	<Territorial_evolution_of_France>
+##############
+%GID:99
+%LID#1#99-3-<Czech_Socialist_Republic>#4#4#8
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	6	ANY
+v	4	1	ANY
+e	0	0	1
+e	1	0	3
+e	2	28	3
+e	4	28	3
+#Condition
+%X
+eq-let	4	<Duchy_of_Bohemia>
+%Y
+eq-let	2	<Czech_Socialist_Republic>

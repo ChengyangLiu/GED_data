@@ -1,0 +1,337 @@
+##########
+%GID:0
+%LID#0#0-1-<Europe>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	14	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Europe>
+##########
+%GID:1
+%LID#1#1-1-<Taluqan_District>#244#244#825
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Taloqan>
+%Y
+eq-let	1	<Taluqan_District>
+##########
+%GID:2
+%LID#0#2-1-<Marathi_phrasebook>#0#0#2
+#Pattern
+v	0	6	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	1	<Marathi_phrasebook>
+##########
+%GID:4
+%LID#1#4-0-<Teresina>#180#180#297
+#Pattern
+v	0	6	ANY
+v	1	10	ANY
+e	0	6	1
+#Condition
+%X
+eq-let	1	<http://www.teresina.pi.gov.br>
+%Y
+eq-let	0	<Teresina>
+##########
+%GID:5
+%LID#0#5-0-<Vitória,_Espírito_Santo>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	14	ANY
+e	0	18	1
+#Condition
+%X
+%Y
+eq-let	0	<Vitória,_Espírito_Santo>
+##########
+%GID:6
+%LID#1#6-0-<Ghent>#5#5#15
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	1	<Battle_of_Roosebeke>
+%Y
+eq-let	0	<Ghent>
+##########
+%GID:7
+%LID#1#7-0-<Garissa>#5#5#33
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	1	<Nairobi>
+%Y
+eq-let	0	<Garissa>
+##########
+%GID:8
+%LID#1#8-0-<Avellino>#0#0#6
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<Stadio_Partenio
+%Y
+eq-let	0	<Avellino>
+##########
+%GID:9
+%LID#1#9-1-<Gossen_Prize>#2#2#6
+#Pattern
+v	0	6	ANY
+v	1	3	ANY
+e	0	1	1
+#Condition
+%X
+eq-let	0	<Thiruvananthapuram>
+%Y
+eq-let	1	<Gossen_Prize>
+##########
+%GID:10
+%LID#1#10-1-<Battle_of_Catana_(397_BC)>#7#7#15
+#Pattern
+v	0	6	ANY
+v	1	9	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	0	<Carthage>
+%Y
+eq-let	1	<Battle_of_Catana_(397_BC)>
+##########
+%GID:11
+%LID#0#11-1-<Europe>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	14	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+%Y
+eq-let	2	<Europe>
+##########
+%GID:12
+%LID#1#12-0-<Pordenone>#2#2#264
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	1	<Cormons>
+%Y
+eq-let	0	<Pordenone>
+##########
+%GID:13
+%LID#1#13-0-<Nanded>#1#1#6
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	9	ANY
+e	0	35	2
+e	1	35	2
+#Condition
+%X
+eq-let	1	<Jalna,_Maharashtra>
+%Y
+eq-let	0	<Nanded>
+##########
+%GID:14
+%LID#1#14-1-<Hokkaido>#294#294#3298
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Nemuro>
+%Y
+eq-let	2	<Hokkaido>
+##########
+%GID:15
+%LID#0#15-2-<Manyakheta>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	0
+#Condition
+%X
+%Y
+eq-let	1	<Manyakheta>
+##########
+%GID:16
+%LID#0#16-2-<http://www.konya.bel.tr>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	10	ANY
+v	2	6	ANY
+e	0	0	2
+e	2	6	1
+#Condition
+%X
+%Y
+eq-let	1	<http://www.konya.bel.tr>
+##########
+%GID:18
+%LID#1#18-1-<Province_of_Teruel>#158#158#528
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+v	2	6	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	2	<Monreal_del_Campo>
+%Y
+eq-let	1	<Province_of_Teruel>
+##########
+%GID:19
+%LID#1#19-3-<Belchite>#5#5#12
+#Pattern
+v	0	6	ANY
+v	1	14	ANY
+v	2	6	ANY
+v	3	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Isny_im_Allgäu>
+%Y
+eq-let	2	<Belchite>
+##########
+%GID:20
+%LID#1#20-1-<Tanzania>#389#389#1715
+#Pattern
+v	0	6	ANY
+v	1	1	ANY
+v	2	6	ANY
+v	3	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	0	<Kibaha>
+%Y
+eq-let	1	<Tanzania>
+##########
+%GID:21
+%LID#1#21-0-<Nanded>#1#1#6
+#Pattern
+v	0	6	ANY
+v	1	9	ANY
+v	2	6	ANY
+e	0	35	1
+e	2	35	1
+#Condition
+%X
+eq-let	2	<Jalna,_Maharashtra>
+%Y
+eq-let	0	<Nanded>
+##########
+%GID:22
+%LID#1#22-1-<Hokkaido>#294#294#3298
+#Pattern
+v	0	6	ANY
+v	1	1	ANY
+v	2	6	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<Nemuro>
+%Y
+eq-let	1	<Hokkaido>
+##########
+%GID:23
+%LID#1#23-1-<Eastern_Anatolia_Region>#48#48#165
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+v	2	6	ANY
+v	3	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Oltu>
+%Y
+eq-let	1	<Eastern_Anatolia_Region>
+##########
+%GID:26
+%LID#0#26-1-<Europe>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	14	ANY
+v	2	6	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Europe>
+##########
+%GID:30
+%LID#1#30-1-<Oceania>#33#33#66
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+v	2	6	ANY
+v	3	6	ANY
+v	4	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	2	<Nuku'alofa>
+%Y
+eq-let	1	<Oceania>
+##########
+%GID:32
+%LID#1#32-1-<Slovakia>#105#105#8179
+#Pattern
+v	0	6	ANY
+v	1	1	ANY
+v	2	6	ANY
+v	3	6	ANY
+v	4	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	3	<Gelnica>
+%Y
+eq-let	1	<Slovakia>

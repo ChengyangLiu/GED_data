@@ -1,0 +1,13 @@
+##########
+%GID:9
+%LID#0#9-1-HMV#0#0#9
+#Pattern
+v	0	62	ANY
+v	1	229	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

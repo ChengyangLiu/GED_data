@@ -1,0 +1,465 @@
+%GID:75
+%LID#1#75-1-<New_York_City>#13#13#66
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	6	ANY
+e	0	26	2
+e	1	3	2
+#Condition
+%X
+eq-let	1	<Shadow_Wilson>
+%Y
+eq-let	2	<New_York_City>
+##########
+%GID:77
+%LID#0#77-2-<wordnet_guitar_103467517>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	2	ANY
+v	2	8	ANY
+e	0	11	2
+e	2	23	1
+#Condition
+%X
+%Y
+eq-let	1	<wordnet_guitar_103467517>
+##########
+%GID:78
+%LID#0#78-2-<Nicole_Lai>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	3	2
+#Condition
+%X
+%Y
+eq-let	1	<Nicole_Lai>
+##########
+%GID:80
+%LID#1#80-0-<Chicken_Rice_War>#10#10#235
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	14	2
+#Condition
+%X
+eq-let	1	<Lynnette_Seah>
+%Y
+eq-let	0	<Chicken_Rice_War>
+##########
+%GID:81
+%LID#1#81-1-<Buffalo,_New_York>#184#184#396
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	0	ANY
+e	0	14	2
+e	1	14	2
+#Condition
+%X
+eq-let	0	<Robert_Kinkel>
+%Y
+eq-let	2	<Buffalo,_New_York>
+##########
+%GID:82
+%LID#0#82-0-<The_Soviet_Story>#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	14	2
+#Condition
+%X
+%Y
+eq-let	0	<The_Soviet_Story>
+##########
+%GID:83
+%LID#1#83-1-<ARIA_Music_Awards>#63#63#297
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	3	ANY
+e	0	1	2
+e	1	1	2
+#Condition
+%X
+eq-let	0	<C._W._Stoneking>
+%Y
+eq-let	2	<ARIA_Music_Awards>
+##########
+%GID:84
+%LID#1#84-3-<Anwar_(singer)>#94#94#1913
+#Pattern
+v	0	8	ANY
+v	1	14	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	14	1
+e	2	14	1
+e	3	14	1
+#Condition
+%X
+eq-let	3	<Satyasheel_Deshpande>
+%Y
+eq-let	2	<Anwar_(singer)>
+##########
+%GID:85
+%LID#1#85-1-<http://www.elan#24#24#91
+#Pattern
+v	0	8	ANY
+v	1	10	ANY
+v	2	8	ANY
+e	0	6	1
+e	2	6	1
+#Condition
+%X
+eq-let	0	<Elán_(musician)>
+%Y
+eq-let	1	<http://www.elan
+##########
+%GID:86
+%LID#0#86-1-<Chennai>#0#0#8
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+e	0	14	1
+e	2	14	1
+#Condition
+%X
+%Y
+eq-let	1	<Chennai>
+##########
+%GID:87
+%LID#1#87-0-<Luther_Vandross>#1#1#6
+#Pattern
+v	0	8	ANY
+v	1	2	ANY
+v	2	8	ANY
+e	0	11	1
+e	2	11	1
+#Condition
+%X
+eq-let	2	<Frankie_Beverly>
+%Y
+eq-let	0	<Luther_Vandross>
+##########
+%GID:88
+%LID#0#88-1-<New_York_City>#0#0#26
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	26	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+%Y
+eq-let	1	<New_York_City>
+##########
+%GID:89
+%LID#1#89-0-<Jan_Carlo_DeFan>#14#14#33
+#Pattern
+v	0	8	ANY
+v	1	10	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	6	1
+e	2	6	1
+e	3	6	1
+#Condition
+%X
+eq-let	1	<http://www.elan
+%Y
+eq-let	0	<Jan_Carlo_DeFan>
+##########
+%GID:90
+%LID#1#90-0-<Jimmy_Reed>#0#0#14
+#Pattern
+v	0	8	ANY
+v	1	14	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	3	<Spade_Cooley>
+%Y
+eq-let	0	<Jimmy_Reed>
+##########
+%GID:91
+%LID#1#91-2-<Turk_Murphy>#5#5#33
+#Pattern
+v	0	8	ANY
+v	1	14	ANY
+v	2	8	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+eq-let	0	<John_Cipollina>
+%Y
+eq-let	2	<Turk_Murphy>
+##########
+%GID:92
+%LID#1#92-1-<Fort_Worth,_Texas>#4#4#103
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	8	ANY
+e	0	14	1
+e	2	14	1
+#Condition
+%X
+eq-let	2	<Euday_L._Bowman>
+%Y
+eq-let	1	<Fort_Worth,_Texas>
+##########
+%GID:93
+%LID#0#93-3-<Ingrid_Jensen>#0#0#12
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	14	1
+e	2	26	1
+e	3	14	1
+#Condition
+%X
+%Y
+eq-let	2	<Ingrid_Jensen>
+##########
+%GID:94
+%LID#1#94-1-<Los_Angeles>#168#168#1550
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	14	1
+e	2	3	1
+e	3	14	1
+#Condition
+%X
+eq-let	0	<Matt_Uelmen>
+%Y
+eq-let	1	<Los_Angeles>
+##########
+%GID:95
+%LID#1#95-1-<New_York_City>#58#58#528
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	14	1
+e	2	3	1
+e	3	26	1
+#Condition
+%X
+eq-let	0	<Grachan_Moncur_III>
+%Y
+eq-let	1	<New_York_City>
+##########
+%GID:96
+%LID#0#96-1-<Paris>#0#0#12
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	0	1
+e	2	3	1
+e	3	14	1
+#Condition
+%X
+%Y
+eq-let	1	<Paris>
+##########
+%GID:97
+%LID#0#97-3-<Cindy_Blackman>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	3	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	1	1
+e	2	10	0
+e	3	1	1
+#Condition
+%X
+%Y
+eq-let	2	<Cindy_Blackman>
+##########
+%GID:98
+%LID#1#98-1-<Stone_the_Crow>#80#80#198
+#Pattern
+v	0	8	ANY
+v	1	9	ANY
+v	2	8	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	2	<Pepper_Keenan>
+%Y
+eq-let	1	<Stone_the_Crow>
+##########
+%GID:99
+%LID#0#99-0-<The_Pack_(1977_film)>#0#0#196
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	0	<The_Pack_(1977_film)>
+##########
+%GID:100
+%LID#0#100-3-<Cindy_Blackman>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	3	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	1	1
+e	2	10	3
+e	3	1	1
+#Condition
+%X
+%Y
+eq-let	2	<Cindy_Blackman>
+##########
+%GID:101
+%LID#1#101-1-<Oakland,_California>#4#4#198
+#Pattern
+v	0	8	ANY
+v	1	14	ANY
+v	2	8	ANY
+e	0	14	1
+e	2	14	1
+#Condition
+%X
+eq-let	0	<Jim_Martin_(musician)>
+%Y
+eq-let	1	<Oakland,_California>
+##########
+%GID:102
+%LID#1#102-2-<Rat_Scabies>#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	9	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	5	1
+e	2	5	1
+e	3	5	1
+#Condition
+%X
+eq-let	2	<Captain_Sensible>
+%Y
+eq-let	3	<Rat_Scabies>
+##########
+%GID:103
+%LID#1#103-1-<New_York_City>#45#45#1748
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+eq-let	2	<John_Campbell_(blues_guitarist)>
+%Y
+eq-let	1	<New_York_City>
+##########
+%GID:104
+%LID#1#104-1-<Undefeated_(2003_film)>#15#15#66
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	8	ANY
+e	0	8	1
+e	2	8	1
+#Condition
+%X
+eq-let	0	<Bill_Ware>
+%Y
+eq-let	1	<Undefeated_(2003_film)>
+##########
+%GID:108
+%LID#1#108-1-<ARIA_Music_Awards>#63#63#297
+#Pattern
+v	0	8	ANY
+v	1	3	ANY
+v	2	8	ANY
+e	0	1	1
+e	2	1	1
+#Condition
+%X
+eq-let	0	<C._W._Stoneking>
+%Y
+eq-let	1	<ARIA_Music_Awards>
+##########
+%GID:109
+%LID#1#109-0-<Liam_Gallagher>#4#4#6
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+v	2	8	ANY
+e	0	10	1
+e	2	10	1
+#Condition
+%X
+eq-let	2	<Jim_Kerr>
+%Y
+eq-let	0	<Liam_Gallagher>
+##########
+%GID:110
+%LID#0#110-0-<The_Soviet_Story>#0#0#9
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	0	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+%Y
+eq-let	0	<The_Soviet_Story>
+##########
+%GID:112
+%LID#1#112-2-<Freddie_King>#1#1#12
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	14	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	2	<Willie_Hutch>
+%Y
+eq-let	3	<Freddie_King>
+##########

@@ -1,0 +1,100 @@
+##############
+%GID:0
+%LID#1#0-1-William_Reed_Business_Media#3#3#15
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Restaurant_(magazine)
+%Y
+eq-let	1	William_Reed_Business_Media
+##############
+%GID:40
+%LID#0#40-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:65
+%LID#0#65-1-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	23	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:115
+%LID#0#115-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:135
+%LID#0#135-0-Mathematical_Association_of_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:139
+%LID#0#139-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	3	Northwest,_Washington,_D.C.
+##############
+%GID:161
+%LID#0#161-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation

@@ -1,0 +1,314 @@
+##############
+%GID:101
+%LID#0#101-1-Seoul#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	562	ANY
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	1	Seoul
+##############
+%GID:194
+%LID#0#194-1-Halifax,_Nova_Scotia#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	266	ANY
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	1	Halifax,_Nova_Scotia
+##############
+%GID:199
+%LID#0#199-1-MGM_Distribution#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	183	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	MGM_Distribution
+##############
+%GID:803
+%LID#1#803-2-Keith_Sweat#9#9#35
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+eq-let	2	Rhino_Entertainment
+%Y
+eq-let	3	Keith_Sweat
+##############
+%GID:983
+%LID#0#983-0-American_Music_Club#0#0#7
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	American_Music_Club
+##############
+%GID:1470
+%LID#1#1470-0-Jovanotti#6#6#33
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+eq-let	2	Verve_Records
+%Y
+eq-let	0	Jovanotti
+##############
+%GID:1523
+%LID#1#1523-0-Keith_Sweat#2#2#29
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+eq-let	2	Atco_Records
+%Y
+eq-let	0	Keith_Sweat
+##############
+%GID:1740
+%LID#0#1740-1-California_(American_Music_Club_album)#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	California_(American_Music_Club_album)
+##############
+%GID:1787
+%LID#0#1787-0-Telex_(band)#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Telex_(band)
+##############
+%GID:1837
+%LID#1#1837-2-Jovanotti#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+eq-let	0	Oöphoi
+%Y
+eq-let	3	Jovanotti
+##############
+%GID:2031
+%LID#0#2031-0-Don_Ross_(guitarist)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	266	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Don_Ross_(guitarist)
+##############
+%GID:2369
+%LID#0#2369-0-American_Music_Club#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	American_Music_Club
+##############
+%GID:2903
+%LID#0#2903-2-Belgium#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	1	ANY
+v	3	2	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Belgium
+##############
+%GID:3108
+%LID#0#3108-3-True_North_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	13	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	2	True_North_Records
+##############
+%GID:3921
+%LID#0#3921-1-Brussels#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Brussels
+##############
+%GID:4302
+%LID#0#4302-0-Don_Ross_(guitarist)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	266	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Don_Ross_(guitarist)
+##############
+%GID:4692
+%LID#1#4692-2-Keith_Sweat#7#7#29
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	2	74	1
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+eq-let	4	Elektra_Records
+%Y
+eq-let	3	Keith_Sweat
+##############
+%GID:4713
+%LID#0#4713-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	2	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	74	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Brussels
+##############
+%GID:4854
+%LID#0#4854-2-Telex_(band)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	2	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	74	2
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	3	Telex_(band)
+##############
+%GID:5273
+%LID#1#5273-3-Warner_Bros._Records#1#1#16
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	13	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+eq-let	4	Virgin_Records
+%Y
+eq-let	2	Warner_Bros._Records

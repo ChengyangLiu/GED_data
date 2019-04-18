@@ -1,0 +1,486 @@
+%GID:87
+%LID#1#87-1-<American_Academy_of_Dramatic_Arts>#63#63#264
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	15	ANY
+e	0	19	2
+e	1	19	2
+#Condition
+%X
+eq-let	1	<Randolph_Mantooth>
+%Y
+eq-let	2	<American_Academy_of_Dramatic_Arts>
+##########
+%GID:88
+%LID#0#88-1-<Democratic_Party_(United_States)>#0#0#5
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	11	ANY
+e	0	7	2
+e	1	7	2
+#Condition
+%X
+%Y
+eq-let	2	<Democratic_Party_(United_States)>
+##########
+%GID:89
+%LID#0#89-1-<Hong_Kong>#0#0#10
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	1	ANY
+e	0	14	2
+e	1	3	2
+#Condition
+%X
+%Y
+eq-let	2	<Hong_Kong>
+##########
+%GID:90
+%LID#1#90-1-<Bill_Cosby>#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+e	0	11	2
+e	1	11	2
+#Condition
+%X
+eq-let	0	<Moms_Mabley>
+%Y
+eq-let	2	<Bill_Cosby>
+##########
+%GID:91
+%LID#0#91-2-<http://www.moonfrye.com>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	10	ANY
+v	2	13	ANY
+e	0	21	2
+e	2	6	1
+#Condition
+%X
+%Y
+eq-let	1	<http://www.moonfrye.com>
+##########
+%GID:92
+%LID#1#92-0-<Margie_Hines>#109#109#297
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	13	1
+#Condition
+%X
+eq-let	2	<Jack_Mercer>
+%Y
+eq-let	0	<Margie_Hines>
+##########
+%GID:94
+%LID#0#94-0-<Anthony_Heald>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	0	ANY
+e	0	26	2
+e	1	3	2
+#Condition
+%X
+%Y
+eq-let	0	<Anthony_Heald>
+##########
+%GID:95
+%LID#1#95-2-<California>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	26	1
+#Condition
+%X
+eq-let	0	<Poppy_Montgomery>
+%Y
+eq-let	1	<California>
+##########
+%GID:96
+%LID#1#96-1-<Sangeet_Natak_Akademi_Award>#11#11#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	3	ANY
+e	0	1	2
+e	1	10	0
+#Condition
+%X
+eq-let	0	<Bhakti_Barve>
+%Y
+eq-let	2	<Sangeet_Natak_Akademi_Award>
+##########
+%GID:97
+%LID#1#97-1-<Beverly_Hills,_California>#49#49#841
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	0	ANY
+e	0	3	2
+e	1	3	2
+#Condition
+%X
+eq-let	1	<Natalie_Schafer>
+%Y
+eq-let	2	<Beverly_Hills,_California>
+##########
+%GID:99
+%LID#1#99-1-<Ty_Hardin>#10#10#35
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+e	0	10	2
+e	1	10	2
+#Condition
+%X
+eq-let	1	<Andra_Martin>
+%Y
+eq-let	2	<Ty_Hardin>
+##########
+%GID:100
+%LID#1#100-2-<Richard_Jeni>#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	2	ANY
+e	0	11	2
+e	1	11	2
+#Condition
+%X
+eq-let	0	<Andrew_Dice_Clay>
+%Y
+eq-let	1	<Richard_Jeni>
+##########
+%GID:101
+%LID#1#101-0-<Lee_Deok#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	5	ANY
+e	0	19	2
+e	1	19	2
+#Condition
+%X
+eq-let	1	<Jeon_Hye
+%Y
+eq-let	0	<Lee_Deok
+##########
+%GID:102
+%LID#0#102-2-<Paul_Gilbert_(actor)>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+e	0	10	2
+e	1	21	0
+#Condition
+%X
+%Y
+eq-let	1	<Paul_Gilbert_(actor)>
+##########
+%GID:103
+%LID#1#103-0-<Bernadette_Lafont>#155#155#297
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+e	0	10	1
+#Condition
+%X
+eq-let	1	<Gérard_Blain>
+%Y
+eq-let	0	<Bernadette_Lafont>
+##########
+%GID:104
+%LID#0#104-1-<Maria_Charles>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	21	1
+#Condition
+%X
+%Y
+eq-let	2	<Maria_Charles>
+##########
+%GID:105
+%LID#1#105-1-<Hong_Kong>#10#10#528
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	1	ANY
+e	0	14	2
+e	1	14	2
+#Condition
+%X
+eq-let	1	<Ann_Bridgewater>
+%Y
+eq-let	2	<Hong_Kong>
+##########
+%GID:106
+%LID#1#106-2-<Janice_Vidal>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	10	ANY
+e	0	6	2
+e	1	6	2
+#Condition
+%X
+eq-let	0	<Andy_Hui>
+%Y
+eq-let	1	<Janice_Vidal>
+##########
+%GID:107
+%LID#0#107-1-<Mumbai>#0#0#14
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	14	ANY
+e	0	14	2
+e	1	26	2
+#Condition
+%X
+%Y
+eq-let	2	<Mumbai>
+##########
+%GID:108
+%LID#0#108-1-<Richard_Schiff>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	11	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	7	1
+#Condition
+%X
+%Y
+eq-let	2	<Richard_Schiff>
+##########
+%GID:109
+%LID#1#109-2-<Folke_Sundquist>#35#35#91
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	14	ANY
+e	0	3	2
+e	1	3	2
+#Condition
+%X
+eq-let	0	<Mona_Seilitz>
+%Y
+eq-let	1	<Folke_Sundquist>
+##########
+%GID:111
+%LID#1#111-0-<Abhimanyu_Singh>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+e	0	13	2
+e	1	8	2
+#Condition
+%X
+eq-let	1	<Piyush_Mishra>
+%Y
+eq-let	0	<Abhimanyu_Singh>
+##########
+%GID:112
+%LID#1#112-0-<Polly_Ann_Young>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	1	<Paul_Stanton_(actor)>
+%Y
+eq-let	0	<Polly_Ann_Young>
+##########
+%GID:113
+%LID#0#113-0-<Mary_Nighy>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	11	ANY
+e	0	19	2
+e	1	21	0
+#Condition
+%X
+%Y
+eq-let	0	<Mary_Nighy>
+##########
+%GID:114
+%LID#0#114-1-<Rodney_Dangerfield>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+v	2	13	ANY
+e	0	11	2
+e	2	13	1
+#Condition
+%X
+%Y
+eq-let	2	<Rodney_Dangerfield>
+##########
+%GID:116
+%LID#0#116-1-<Mumbai>#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	14	ANY
+e	0	26	2
+e	1	3	2
+#Condition
+%X
+%Y
+eq-let	2	<Mumbai>
+##########
+%GID:117
+%LID#0#117-2-<Anjo_Yllana>#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	11	ANY
+e	0	14	2
+e	1	27	2
+#Condition
+%X
+%Y
+eq-let	1	<Anjo_Yllana>
+##########
+%GID:118
+%LID#1#118-0-<Sharon_Farrell>#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	14	1
+#Condition
+%X
+eq-let	1	<Jennings,_Florida>
+%Y
+eq-let	0	<Sharon_Farrell>
+##########
+%GID:119
+%LID#0#119-1-<Maharashtra>#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	0	ANY
+e	0	26	2
+e	1	26	2
+#Condition
+%X
+%Y
+eq-let	2	<Maharashtra>
+##########
+%GID:120
+%LID#1#120-0-<Beba_Lončar>#36#36#99
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	1	ANY
+e	0	26	2
+e	1	26	2
+#Condition
+%X
+eq-let	1	<Mira_Stupica>
+%Y
+eq-let	0	<Beba_Lončar>
+##########
+%GID:121
+%LID#0#121-2-<Hong_Kong>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	14	1
+#Condition
+%X
+%Y
+eq-let	1	<Hong_Kong>
+##########
+%GID:122
+%LID#1#122-1-<Night_Train_to_Murder>#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	9	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	0	<Eric_Morecambe>
+%Y
+eq-let	2	<Night_Train_to_Murder>
+##########
+%GID:123
+%LID#0#123-1-<Pasadena,_California>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	0	ANY
+e	0	14	2
+e	1	27	2
+#Condition
+%X
+%Y
+eq-let	2	<Pasadena,_California>
+##########
+%GID:124
+%LID#1#124-0-<James_Van_Der_Beek>#14#14#33
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	10	1
+#Condition
+%X
+eq-let	2	<Heather_McComb>
+%Y
+eq-let	0	<James_Van_Der_Beek>
+##########
+%GID:125
+%LID#1#125-1-<India>#16#16#874
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	1	ANY
+e	0	25	2
+e	1	25	2
+#Condition
+%X
+eq-let	0	<Kanan_Kaushal>
+%Y
+eq-let	2	<India>
+##########
+%GID:126
+%LID#0#126-1-<David_Troughton>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+e	0	21	2
+e	2	21	1
+#Condition
+%X
+%Y
+eq-let	2	<David_Troughton>
+##########

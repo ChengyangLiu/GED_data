@@ -1,0 +1,397 @@
+##########
+%GID:149
+%LID#0#149-1-Music#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	62	ANY
+v	2	39	ANY
+e	0	82	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:278
+%LID#0#278-1-Detroit#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	122	ANY
+v	2	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:296
+%LID#1#296-1-Oakville,_Ontario#5#5#15
+#Pattern
+v	0	39	ANY
+v	1	351	ANY
+v	2	39	ANY
+e	0	100	1
+e	2	100	1
+#Condition
+%X
+eq-let	0	name	Geotab
+%Y
+eq-id	0	id	2	id
+##########
+%GID:666
+%LID#1#666-0-Saepio#1#1#15
+#Pattern
+v	0	39	ANY
+v	1	438	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+e	3	100	1
+#Condition
+%X
+eq-let	2	name	Document_imaging
+%Y
+eq-id	0	id	3	id
+##########
+%GID:865
+%LID#1#865-2-Finance#2#2#14
+#Pattern
+v	0	39	ANY
+v	1	622	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+e	3	100	1
+#Condition
+%X
+eq-let	0	name	Cambodia_Securities_Exchange
+%Y
+eq-id	0	id	3	id
+##########
+%GID:1070
+%LID#0#1070-0-Marotta#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	81	1
+e	0	82	2
+e	3	81	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##########
+%GID:1089
+%LID#0#1089-1-Lone_Star_Funds#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	925	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	82	2
+e	3	45	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##########
+%GID:1304
+%LID#0#1304-0-Ayoxxa_Biosystems#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	2204	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	39	ANY
+e	0	45	1
+e	0	80	2
+e	4	80	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:1563
+%LID#0#1563-0-Carlson_Wagonlit_Travel#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	183	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	39	ANY
+e	0	45	1
+e	0	81	2
+e	4	81	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:1619
+%LID#0#1619-1-Times_Square#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	128	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	100	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:2443
+%LID#0#2443-0-Joyva#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	460	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	45	1
+e	0	81	2
+e	4	81	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:2678
+%LID#0#2678-2-Semiconductor_industry#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	366	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	81	2
+e	4	81	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:3153
+%LID#0#3153-0-Viagens_Abreu#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	151	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	45	2
+e	4	81	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:3377
+%LID#0#3377-1-Greenpoint,_Brooklyn#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	181	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	45	2
+e	4	81	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:3535
+%LID#1#3535-4-Opendorse#5#5#15
+#Pattern
+v	0	39	ANY
+v	1	349	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	81	2
+e	0	81	4
+e	5	81	3
+#Condition
+%X
+eq-let	2	name	Sports_marketing
+%Y
+eq-id	2	3
+##########
+%GID:3867
+%LID#0#3867-3-Travel_agency#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	151	ANY
+v	2	151	ANY
+v	3	39	ANY
+v	4	0	ANY
+v	5	39	ANY
+e	0	100	1
+e	3	100	2
+e	3	45	4
+e	5	81	4
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:4289
+%LID#0#4289-0-DPCI#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	128	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	100	2
+e	0	45	4
+e	5	45	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:5715
+%LID#0#5715-3-Abreu_Carga#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	151	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	39	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	45	2
+e	4	45	0
+e	5	81	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:5835
+%LID#0#5835-1-Ada_Township,_Michigan#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	80	2
+e	0	81	3
+e	5	81	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:6048
+%LID#0#6048-2-en#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	45	2
+e	0	81	3
+e	5	81	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:6952
+%LID#0#6952-3-Travel_agency#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	151	ANY
+v	2	151	ANY
+v	3	39	ANY
+v	4	0	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	45	4
+e	3	100	2
+e	5	81	4
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:7232
+%LID#1#7232-3-Madrid#7#7#25
+#Pattern
+v	0	39	ANY
+v	1	171	ANY
+v	2	19	ANY
+v	3	19	ANY
+v	4	19	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	100	2
+e	0	100	4
+e	5	100	3
+#Condition
+%X
+eq-let	2	name	Santiago
+%Y
+eq-id	2	3
+##########
+%GID:7546
+%LID#1#7546-3-Salarpuria_Sattva#5#5#15
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	39	ANY
+v	5	0	ANY
+e	0	100	1
+e	0	45	2
+e	4	80	3
+e	4	81	5
+#Condition
+%X
+eq-let	4	name	Real_estate_development
+%Y
+eq-id	2	3
+##########
+%GID:8396
+%LID#0#8396-2-Doug_DeVos#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	9	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	80	2
+e	0	81	3
+e	5	81	4
+#Condition
+%X
+%Y
+eq-id	3	4

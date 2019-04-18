@@ -1,0 +1,4480 @@
+##############
+%GID:1487
+%LID#0#1487-0-Telex_(band)#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Telex_(band)
+##############
+%GID:1488
+%LID#0#1488-0-Aaron_Lines#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	1962	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Aaron_Lines
+##############
+%GID:1491
+%LID#0#1491-1-Princeton,_New_Jersey#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	54	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Princeton,_New_Jersey
+##############
+%GID:1492
+%LID#0#1492-3-New_York_City#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	20	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-let	2	New_York_City
+##############
+%GID:1493
+%LID#0#1493-2-Barclay_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Barclay_Records
+##############
+%GID:1495
+%LID#0#1495-2-Barclay_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Barclay_Records
+##############
+%GID:1499
+%LID#1#1499-2-Neko_Case#3#3#6
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	0	The_Ventures
+%Y
+eq-let	2	Neko_Case
+##############
+%GID:1501
+%LID#0#1501-2-R_Radical#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	384	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	R_Radical
+##############
+%GID:1504
+%LID#0#1504-0-Raul_Seixas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	184	ANY
+v	2	403	ANY
+v	3	13	ANY
+e	0	75	1
+e	0	75	2
+e	3	75	1
+#Condition
+%X
+%Y
+eq-let	0	Raul_Seixas
+##############
+%GID:1508
+%LID#1#1508-1-Quezon_City#4#4#15
+#Pattern
+v	0	13	ANY
+v	1	145	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+eq-let	0	Eraserheads
+%Y
+eq-let	1	Quezon_City
+##############
+%GID:1511
+%LID#0#1511-1-CBS#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	184	ANY
+v	2	403	ANY
+v	3	13	ANY
+e	0	75	1
+e	3	75	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	CBS
+##############
+%GID:1515
+%LID#0#1515-1-Minneapolis–Saint_Paul#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	768	ANY
+v	2	120	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	Minneapolis–Saint_Paul
+##############
+%GID:1516
+%LID#0#1516-1-Metropolis_Rescore#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Metropolis_Rescore
+##############
+%GID:1517
+%LID#0#1517-1-Morrow,_Ohio#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	65	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Morrow,_Ohio
+##############
+%GID:1518
+%LID#0#1518-0-The_Main_Ingredient_(band)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	The_Main_Ingredient_(band)
+##############
+%GID:1519
+%LID#0#1519-2-Grand_Saline,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	11	ANY
+v	3	5	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Grand_Saline,_Texas
+##############
+%GID:1523
+%LID#1#1523-0-Keith_Sweat#2#2#29
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+eq-let	2	Atco_Records
+%Y
+eq-let	0	Keith_Sweat
+##############
+%GID:1535
+%LID#1#1535-0-Eraso!#3#3#6
+#Pattern
+v	0	13	ANY
+v	1	35	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	2	Soziedad_Alkoholika
+%Y
+eq-let	0	Eraso!
+##############
+%GID:1544
+%LID#1#1544-0-Nomeansno#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	748	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	2	Dayglo_Abortions
+%Y
+eq-let	0	Nomeansno
+##############
+%GID:1550
+%LID#0#1550-1-Metropolis_Rescore#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	164	ANY
+v	3	19	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Metropolis_Rescore
+##############
+%GID:1551
+%LID#0#1551-3-Six_Degrees_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	188	ANY
+v	2	11	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Six_Degrees_Records
+##############
+%GID:1552
+%LID#1#1552-0-Sloan_(band)#4#4#25
+#Pattern
+v	0	13	ANY
+v	1	266	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Outside_Music
+%Y
+eq-let	0	Sloan_(band)
+##############
+%GID:1553
+%LID#0#1553-2-Definitive_Jux#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	562	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Definitive_Jux
+##############
+%GID:1554
+%LID#0#1554-2-The_Crystal_Method#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	The_Crystal_Method
+##############
+%GID:1555
+%LID#1#1555-2-Vega_Baja,_Puerto_Rico#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	614	ANY
+v	2	614	ANY
+e	0	74	1
+e	0	74	2
+#Condition
+%X
+eq-let	1	Vega_Alta,_Puerto_Rico
+%Y
+eq-let	2	Vega_Baja,_Puerto_Rico
+##############
+%GID:1558
+%LID#0#1558-0-The_Northern_Pikes#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	470	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	The_Northern_Pikes
+##############
+%GID:1559
+%LID#0#1559-3-Curve_Music#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	470	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Curve_Music
+##############
+%GID:1562
+%LID#0#1562-0-Ua_(singer)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	462	ANY
+v	2	32	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Ua_(singer)
+##############
+%GID:1563
+%LID#0#1563-0-Benjamin_Speed#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	164	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:1564
+%LID#0#1564-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	899	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	San_Francisco_Bay_Area
+##############
+%GID:1566
+%LID#1#1566-3-Island_Records#6#6#27
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+eq-let	3	Barenaked_Ladies
+%Y
+eq-let	2	Island_Records
+##############
+%GID:1567
+%LID#0#1567-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:1569
+%LID#0#1569-1-Brampton#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Brampton
+##############
+%GID:1570
+%LID#1#1570-2-Latin_jazz#2#2#14
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	2	65	3
+#Condition
+%X
+eq-let	2	Magos_Herrera
+%Y
+eq-let	3	Latin_jazz
+##############
+%GID:1571
+%LID#0#1571-3-Universal_Records_(Philippines)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	145	ANY
+v	2	11	ANY
+v	3	583	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Universal_Records_(Philippines)
+##############
+%GID:1572
+%LID#0#1572-3-EMI#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1376	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	EMI
+##############
+%GID:1574
+%LID#0#1574-0-Jethro_Tull_(band)#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	412	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Jethro_Tull_(band)
+##############
+%GID:1578
+%LID#0#1578-3-True_North_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	True_North_Records
+##############
+%GID:1579
+%LID#1#1579-0-Da_Bush_Babees#5#5#15
+#Pattern
+v	0	13	ANY
+v	1	181	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	1	Flatbush,_Brooklyn
+%Y
+eq-let	0	Da_Bush_Babees
+##############
+%GID:1582
+%LID#0#1582-1-Suita,_Osaka#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	462	ANY
+v	2	134	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Suita,_Osaka
+##############
+%GID:1596
+%LID#1#1596-3-United_States#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	2	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	74	2
+#Condition
+%X
+eq-let	3	New_York
+%Y
+eq-let	2	United_States
+##############
+%GID:1600
+%LID#0#1600-2-Blues_Traveler#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	54	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	Blues_Traveler
+##############
+%GID:1604
+%LID#0#1604-0-Ingrid_Croce#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	736	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Ingrid_Croce
+##############
+%GID:1607
+%LID#0#1607-0-Sheavy#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1069	ANY
+v	2	11	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sheavy
+##############
+%GID:1608
+%LID#0#1608-2-Downtown_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	969	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Downtown_Records
+##############
+%GID:1609
+%LID#0#1609-3-Australian_Broadcasting_Corporation#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	164	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Australian_Broadcasting_Corporation
+##############
+%GID:1611
+%LID#0#1611-0-Saga_(band)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	351	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Saga_(band)
+##############
+%GID:1616
+%LID#0#1616-3-Creative_Vibes#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Creative_Vibes
+##############
+%GID:1618
+%LID#0#1618-2-Steve_Angello#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	151	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	Steve_Angello
+##############
+%GID:1620
+%LID#0#1620-3-EMI_Music_Japan#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	376	ANY
+v	2	32	ANY
+v	3	134	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	EMI_Music_Japan
+##############
+%GID:1623
+%LID#1#1623-3-New_Red_Archives#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	384	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	LoveCat_Music
+%Y
+eq-let	2	New_Red_Archives
+##############
+%GID:1628
+%LID#0#1628-0-Los_Bunkers#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	475	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Los_Bunkers
+##############
+%GID:1629
+%LID#0#1629-0-Extremoduro#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	35	ANY
+v	2	1	ANY
+v	3	75	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Extremoduro
+##############
+%GID:1632
+%LID#1#1632-3-Napalm_Records#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	11	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+eq-let	0	Enthroned
+%Y
+eq-let	2	Napalm_Records
+##############
+%GID:1634
+%LID#0#1634-3-Mercury_Records#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	9	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Mercury_Records
+##############
+%GID:1635
+%LID#0#1635-1-Minneapolis–Saint_Paul#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	768	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	Minneapolis–Saint_Paul
+##############
+%GID:1637
+%LID#0#1637-2-Belgium#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Belgium
+##############
+%GID:1638
+%LID#1#1638-0-Camp_Mulla#3#3#15
+#Pattern
+v	0	13	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+eq-let	3	Just_a_Band
+%Y
+eq-let	0	Camp_Mulla
+##############
+%GID:1642
+%LID#0#1642-0-Sheavy#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1069	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Sheavy
+##############
+%GID:1643
+%LID#0#1643-2-The_Reverend_Horton_Heat#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	The_Reverend_Horton_Heat
+##############
+%GID:1644
+%LID#1#1644-0-Da'_T.R.U.T.H.#2#2#27
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+eq-let	2	Time_Bomb_Recordings
+%Y
+eq-let	0	Da'_T.R.U.T.H.
+##############
+%GID:1653
+%LID#0#1653-2-Florida#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1134	ANY
+v	2	58	ANY
+v	3	19	ANY
+e	0	74	1
+e	0	74	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	3	Florida
+##############
+%GID:1654
+%LID#0#1654-3-Perspective_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	438	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Perspective_Records
+##############
+%GID:1656
+%LID#0#1656-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##############
+%GID:1657
+%LID#0#1657-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##############
+%GID:1664
+%LID#1#1664-2-Obsidian_Kingdom#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	75	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	0	Susana_Seivane
+%Y
+eq-let	2	Obsidian_Kingdom
+##############
+%GID:1665
+%LID#0#1665-3-Nevada#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	19	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	74	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Nevada
+##############
+%GID:1666
+%LID#0#1666-1-Rome#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:1667
+%LID#0#1667-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	376	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1668
+%LID#0#1668-1-Mechanicsburg,_Pennsylvania#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	248	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Mechanicsburg,_Pennsylvania
+##############
+%GID:1670
+%LID#0#1670-1-Forest_Hills,_Queens#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	384	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	Forest_Hills,_Queens
+##############
+%GID:1674
+%LID#0#1674-3-EMI#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	371	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	EMI
+##############
+%GID:1677
+%LID#0#1677-1-I_Can't_Believe_It's_Not_Rock#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	19	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	I_Can't_Believe_It's_Not_Rock
+##############
+%GID:1678
+%LID#0#1678-1-I_Can't_Believe_It's_Not_Rock#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	594	ANY
+v	2	11	ANY
+v	3	19	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	I_Can't_Believe_It's_Not_Rock
+##############
+%GID:1679
+%LID#0#1679-1-CBS#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	184	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	75	1
+e	3	75	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	CBS
+##############
+%GID:1682
+%LID#1#1682-3-Mute_Records#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	371	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Nettwerk
+%Y
+eq-let	2	Mute_Records
+##############
+%GID:1684
+%LID#0#1684-2-Grand_Saline,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	11	ANY
+v	3	5	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Grand_Saline,_Texas
+##############
+%GID:1685
+%LID#0#1685-1-Rome#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	9	ANY
+v	3	63	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:1686
+%LID#0#1686-1-Cascading_Style_Sheets#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Cascading_Style_Sheets
+##############
+%GID:1692
+%LID#0#1692-2-Lance_Bass#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1259	ANY
+v	2	2	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	74	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	3	Lance_Bass
+##############
+%GID:1694
+%LID#0#1694-2-Izhar_Ashdot#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	104	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	3	Izhar_Ashdot
+##############
+%GID:1696
+%LID#0#1696-1-Dalarna_County#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	371	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Dalarna_County
+##############
+%GID:1698
+%LID#1#1698-2-Link_80#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	899	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	0	Actionslacks
+%Y
+eq-let	2	Link_80
+##############
+%GID:1699
+%LID#1#1699-0-Reagan_Youth#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	384	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	2	Simon_&_Garfunkel
+%Y
+eq-let	0	Reagan_Youth
+##############
+%GID:1700
+%LID#0#1700-2-United_States#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	165	ANY
+v	2	11	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:1702
+%LID#1#1702-2-Majesty#4#4#15
+#Pattern
+v	0	13	ANY
+v	1	371	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	0	Mando_Diao
+%Y
+eq-let	3	Majesty
+##############
+%GID:1704
+%LID#0#1704-1-DeRidder,_Louisiana#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	165	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	DeRidder,_Louisiana
+##############
+%GID:1706
+%LID#1#1706-3-Sanctuary_Records_Group#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	589	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Noise_Records
+%Y
+eq-let	2	Sanctuary_Records_Group
+##############
+%GID:1707
+%LID#0#1707-2-True_North_Records#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	True_North_Records
+##############
+%GID:1708
+%LID#0#1708-1-Uusimaa#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	589	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Uusimaa
+##############
+%GID:1709
+%LID#0#1709-0-Benjamin_Speed#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:1712
+%LID#0#1712-3-Audat#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1069	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Audat
+##############
+%GID:1715
+%LID#1#1715-3-Dolton_Records#2#2#15
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+eq-let	0	Neko_Case
+%Y
+eq-let	2	Dolton_Records
+##############
+%GID:1719
+%LID#0#1719-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1720
+%LID#0#1720-1-Muskogee,_Oklahoma#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1165	ANY
+v	2	30	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	74	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Muskogee,_Oklahoma
+##############
+%GID:1724
+%LID#0#1724-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:1726
+%LID#0#1726-1-Clinton,_Mississippi#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1259	ANY
+v	2	2	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-let	1	Clinton,_Mississippi
+##############
+%GID:1729
+%LID#0#1729-1-California_(American_Music_Club_album)#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	California_(American_Music_Club_album)
+##############
+%GID:1730
+%LID#1#1730-2-The_Militia_Group#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	768	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	2	Island_Records
+%Y
+eq-let	3	The_Militia_Group
+##############
+%GID:1734
+%LID#1#1734-3-EMI#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	911	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Virgin_Records
+%Y
+eq-let	2	EMI
+##############
+%GID:1735
+%LID#1#1735-2-MCA_Records#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	6	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	2	Interscope_Records
+%Y
+eq-let	3	MCA_Records
+##############
+%GID:1737
+%LID#0#1737-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:1738
+%LID#1#1738-1-The_Magnificent_(song)#6#6#29
+#Pattern
+v	0	13	ANY
+v	1	10	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+eq-let	0	Bill_Drummond
+%Y
+eq-let	1	The_Magnificent_(song)
+##############
+%GID:1740
+%LID#0#1740-1-California_(American_Music_Club_album)#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	California_(American_Music_Club_album)
+##############
+%GID:1744
+%LID#0#1744-3-Canada#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1069	ANY
+v	2	2	ANY
+v	3	19	ANY
+e	0	74	1
+e	0	74	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	2	Canada
+##############
+%GID:1745
+%LID#0#1745-1-Uusimaa#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	589	ANY
+v	2	39	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Uusimaa
+##############
+%GID:1749
+%LID#0#1749-0-Sheavy#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	1069	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sheavy
+##############
+%GID:1750
+%LID#0#1750-0-Benjamin_Speed#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:1751
+%LID#0#1751-0-Benjamin_Speed#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:1754
+%LID#0#1754-0-Izhar_Ashdot#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	104	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	Izhar_Ashdot
+##############
+%GID:1755
+%LID#1#1755-3-Alternative_Tentacles#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	748	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Southern_Records
+%Y
+eq-let	2	Alternative_Tentacles
+##############
+%GID:1757
+%LID#1#1757-2-Jethro_Tull_(band)#3#3#6
+#Pattern
+v	0	13	ANY
+v	1	412	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	0	UK_Decay
+%Y
+eq-let	2	Jethro_Tull_(band)
+##############
+%GID:1759
+%LID#0#1759-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1762
+%LID#0#1762-0-Raul_Seixas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	184	ANY
+v	2	63	ANY
+v	3	13	ANY
+e	0	75	1
+e	0	75	2
+e	3	75	1
+#Condition
+%X
+%Y
+eq-let	0	Raul_Seixas
+##############
+%GID:1765
+%LID#0#1765-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1766
+%LID#1#1766-1-Shibuya#7#7#35
+#Pattern
+v	0	13	ANY
+v	1	59	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Meldac
+%Y
+eq-let	1	Shibuya
+##############
+%GID:1770
+%LID#0#1770-1-Band_of_Gypsys#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys
+##############
+%GID:1771
+%LID#0#1771-0-Aaron_Lines#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1962	ANY
+v	2	11	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Aaron_Lines
+##############
+%GID:1776
+%LID#0#1776-3-Ultra_Music#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Ultra_Music
+##############
+%GID:1779
+%LID#0#1779-0-Rain_(entertainer)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	562	ANY
+v	2	200	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Rain_(entertainer)
+##############
+%GID:1781
+%LID#0#1781-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	19	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:1782
+%LID#0#1782-1-Etobicoke#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	Etobicoke
+##############
+%GID:1784
+%LID#0#1784-1-Rome#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	9	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:1786
+%LID#1#1786-0-Natacha_Atlas#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Mantra_Recordings
+%Y
+eq-let	0	Natacha_Atlas
+##############
+%GID:1787
+%LID#0#1787-0-Telex_(band)#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Telex_(band)
+##############
+%GID:1788
+%LID#0#1788-0-Jack_Ingram#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1290	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Jack_Ingram
+##############
+%GID:1789
+%LID#0#1789-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:1790
+%LID#0#1790-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:1791
+%LID#1#1791-0-The_Crystal_Method#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	2	The_Lettermen
+%Y
+eq-let	0	The_Crystal_Method
+##############
+%GID:1793
+%LID#0#1793-3-Adelaide#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	19	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	2	Adelaide
+##############
+%GID:1795
+%LID#0#1795-1-Rome#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:1798
+%LID#0#1798-1-Kantō_region#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	711	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Kantō_region
+##############
+%GID:1800
+%LID#0#1800-2-Unsigned_artist#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	35	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Unsigned_artist
+##############
+%GID:1801
+%LID#0#1801-3-Perspective_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	438	ANY
+v	2	13	ANY
+v	3	5	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Perspective_Records
+##############
+%GID:1806
+%LID#1#1806-0-Idoli#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	478	ANY
+v	2	13	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	2	Sead_Lipovača
+%Y
+eq-let	0	Idoli
+##############
+%GID:1808
+%LID#0#1808-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1810
+%LID#0#1810-0-John_Perry_(musician)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	184	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	75	1
+e	0	75	2
+e	3	75	1
+#Condition
+%X
+%Y
+eq-let	0	John_Perry_(musician)
+##############
+%GID:1813
+%LID#0#1813-1-Cascading_Style_Sheets#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	11	ANY
+v	3	8	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	1	Cascading_Style_Sheets
+##############
+%GID:1817
+%LID#1#1817-3-Sixstepsrecords#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	109	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Sparrow_Records
+%Y
+eq-let	2	Sixstepsrecords
+##############
+%GID:1819
+%LID#0#1819-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	19	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	74	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:1820
+%LID#0#1820-2-Hayden_(musician)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	3	Hayden_(musician)
+##############
+%GID:1823
+%LID#0#1823-3-Audat#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1069	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	2	Audat
+##############
+%GID:1828
+%LID#0#1828-0-Rheostatics#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Rheostatics
+##############
+%GID:1832
+%LID#0#1832-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##############
+%GID:1833
+%LID#0#1833-2-V2_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	50	ANY
+v	2	63	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	V2_Records
+##############
+%GID:1835
+%LID#0#1835-2-New_York_City#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	11	ANY
+v	3	20	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:1837
+%LID#1#1837-2-Jovanotti#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+eq-let	0	Oöphoi
+%Y
+eq-let	3	Jovanotti
+##############
+%GID:1838
+%LID#0#1838-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1839
+%LID#1#1839-3-Dolton_Records#2#2#15
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+eq-let	3	Neko_Case
+%Y
+eq-let	2	Dolton_Records
+##############
+%GID:1841
+%LID#0#1841-1-Medellín#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	1376	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	2	74	3
+#Condition
+%X
+%Y
+eq-let	1	Medellín
+##############
+%GID:1842
+%LID#0#1842-3-Universal_Music_Group#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	470	ANY
+v	2	63	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Universal_Music_Group
+##############
+%GID:1843
+%LID#0#1843-3-Universal_Music_Group#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	470	ANY
+v	2	63	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Universal_Music_Group
+##############
+%GID:1846
+%LID#0#1846-0-UK_Decay#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	412	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	UK_Decay
+##############
+%GID:1847
+%LID#0#1847-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	84	ANY
+v	2	8	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1848
+%LID#0#1848-1-Canterbury,_New_Zealand#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	770	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Canterbury,_New_Zealand
+##############
+%GID:1852
+%LID#0#1852-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1853
+%LID#0#1853-3-EMI#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	84	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	EMI
+##############
+%GID:1854
+%LID#0#1854-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	376	ANY
+v	2	8	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1855
+%LID#0#1855-0-Man_Alive_(band)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	104	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Man_Alive_(band)
+##############
+%GID:1858
+%LID#0#1858-2-Your_Memorial#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	768	ANY
+v	2	120	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	3	Your_Memorial
+##############
+%GID:1859
+%LID#0#1859-1-Rome#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:1860
+%LID#0#1860-0-Benjamin_Speed#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:1861
+%LID#0#1861-0-Benjamin_Speed#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:1865
+%LID#0#1865-1-Canterbury,_New_Zealand#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	770	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Canterbury,_New_Zealand
+##############
+%GID:1866
+%LID#1#1866-2-Tribunal_Records#3#3#15
+#Pattern
+v	0	13	ANY
+v	1	727	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	2	Prosthetic_Records
+%Y
+eq-let	3	Tribunal_Records
+##############
+%GID:1869
+%LID#1#1869-3-Fire_Records_(UK)#3#3#15
+#Pattern
+v	0	13	ANY
+v	1	770	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+eq-let	0	Bailter_Space
+%Y
+eq-let	2	Fire_Records_(UK)
+##############
+%GID:1871
+%LID#0#1871-0-Los_Tres#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	475	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	Los_Tres
+##############
+%GID:1872
+%LID#1#1872-0-Reflections_(Minnesota_band)#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	768	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	2	Your_Memorial
+%Y
+eq-let	0	Reflections_(Minnesota_band)
+##############
+%GID:1877
+%LID#0#1877-0-Benjamin_Speed#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	164	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:1882
+%LID#0#1882-1-Sarajevo#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	188	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Sarajevo
+##############
+%GID:1884
+%LID#0#1884-2-Staind#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	86	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	Staind
+##############
+%GID:1887
+%LID#1#1887-0-Morgan_Heritage#2#2#15
+#Pattern
+v	0	13	ANY
+v	1	86	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+eq-let	3	Staind
+%Y
+eq-let	0	Morgan_Heritage
+##############
+%GID:1892
+%LID#1#1892-0-Twin_Shadow#6#6#29
+#Pattern
+v	0	13	ANY
+v	1	181	ANY
+v	2	11	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+eq-let	2	Terrible_Records
+%Y
+eq-let	0	Twin_Shadow
+##############
+%GID:1896
+%LID#1#1896-2-United_States#4#4#15
+#Pattern
+v	0	13	ANY
+v	1	181	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+eq-let	0	Da_Bush_Babees
+%Y
+eq-let	3	United_States
+##############
+%GID:1897
+%LID#0#1897-3-Stacie_Orrico#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	29	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Stacie_Orrico
+##############
+%GID:1898
+%LID#0#1898-0-The_Main_Ingredient_(band)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	The_Main_Ingredient_(band)
+##############
+%GID:1900
+%LID#0#1900-2-The_Crystal_Method#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	The_Crystal_Method
+##############
+%GID:1901
+%LID#0#1901-2-Aviate_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	768	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Aviate_Records
+##############
+%GID:1907
+%LID#0#1907-2-Sheavy#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1069	ANY
+v	2	19	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-let	3	Sheavy
+##############
+%GID:1908
+%LID#0#1908-3-Capitol_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	84	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:1909
+%LID#0#1909-0-Luis_Fonsi#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	614	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Luis_Fonsi
+##############
+%GID:1912
+%LID#0#1912-0-Smitty#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1134	ANY
+v	2	11	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Smitty
+##############
+%GID:1914
+%LID#0#1914-1-Little_Haiti#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	1134	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Little_Haiti
+##############
+%GID:1916
+%LID#0#1916-1-Muskogee,_Oklahoma#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1165	ANY
+v	2	30	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-let	1	Muskogee,_Oklahoma
+##############
+%GID:1917
+%LID#1#1917-3-Atlantic_Records#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	86	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Roadrunner_Records
+%Y
+eq-let	2	Atlantic_Records
+##############
+%GID:1919
+%LID#0#1919-0-Darius_Jones_(saxophonist)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	219	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Darius_Jones_(saxophonist)
+##############
+%GID:1921
+%LID#0#1921-0-Unwound#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	13	ANY
+v	3	80	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Unwound
+##############
+%GID:1922
+%LID#0#1922-1-Muskogee,_Oklahoma#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1165	ANY
+v	2	11	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Muskogee,_Oklahoma
+##############
+%GID:1923
+%LID#0#1923-1-Scarborough,_Toronto#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Scarborough,_Toronto
+##############
+%GID:1925
+%LID#0#1925-1-Canterbury,_New_Zealand#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	770	ANY
+v	2	13	ANY
+v	3	1039	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Canterbury,_New_Zealand
+##############
+%GID:1928
+%LID#1#1928-3-Little_Teddy_Recordings#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	770	ANY
+v	2	11	ANY
+v	3	1039	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	0	The_Bats_(New_Zealand_band)
+%Y
+eq-let	2	Little_Teddy_Recordings
+##############
+%GID:1930
+%LID#0#1930-1-Tumwater,_Washington#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	11	ANY
+v	3	80	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Tumwater,_Washington
+##############
+%GID:1932
+%LID#0#1932-2-Hathut_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	731	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Hathut_Records
+##############
+%GID:1933
+%LID#1#1933-0-Izhar_Ashdot#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	104	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	2	Man_Alive_(band)
+%Y
+eq-let	0	Izhar_Ashdot
+##############
+%GID:1934
+%LID#0#1934-2-Everloving_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	59	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Everloving_Records
+##############
+%GID:1936
+%LID#0#1936-2-Everloving_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	59	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Everloving_Records
+##############
+%GID:1938
+%LID#0#1938-0-Phantom_Planet#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Phantom_Planet
+##############
+%GID:1943
+%LID#0#1943-2-Mint_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Mint_Records
+##############
+%GID:1945
+%LID#0#1945-0-Ua_(singer)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	462	ANY
+v	2	134	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	Ua_(singer)
+##############
+%GID:1946
+%LID#1#1946-3-Interscope_Records#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Sub_Pop
+%Y
+eq-let	2	Interscope_Records
+##############
+%GID:1948
+%LID#1#1948-3-Sixstepsrecords#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Sparrow_Records
+%Y
+eq-let	2	Sixstepsrecords
+##############
+%GID:1950
+%LID#0#1950-0-Textures_(band)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	50	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Textures_(band)
+##############
+%GID:1954
+%LID#0#1954-2-Warner_Music_Canada#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	470	ANY
+v	2	63	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Warner_Music_Canada
+##############
+%GID:1959
+%LID#0#1959-3-AUM_Fidelity#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	219	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	AUM_Fidelity
+##############
+%GID:1961
+%LID#0#1961-2-Profile_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Profile_Records
+##############
+%GID:1962
+%LID#1#1962-0-Morgan_Heritage#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	86	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	2	Staind
+%Y
+eq-let	0	Morgan_Heritage
+##############
+%GID:1966
+%LID#0#1966-3-True_North_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	True_North_Records
+##############
+%GID:1969
+%LID#0#1969-2-Nevada#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	1	ANY
+v	3	19	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Nevada
+##############
+%GID:1973
+%LID#0#1973-0-Little_Ghost_(band)#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	10	ANY
+v	2	13	ANY
+v	3	19	ANY
+e	0	110	1
+e	0	74	3
+e	2	74	3
+#Condition
+%X
+%Y
+eq-let	0	Little_Ghost_(band)
+##############
+%GID:1974
+%LID#0#1974-2-Blackground_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	1134	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Blackground_Records
+##############
+%GID:1978
+%LID#0#1978-1-Rome#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:1979
+%LID#0#1979-1-I_Can_Talk#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	10	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	I_Can_Talk
+##############
+%GID:1981
+%LID#0#1981-1-Dalarna_County#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	371	ANY
+v	2	63	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Dalarna_County
+##############
+%GID:1982
+%LID#0#1982-1-DeRidder,_Louisiana#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	165	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	DeRidder,_Louisiana
+##############
+%GID:1986
+%LID#0#1986-2-New_York_City#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	1	ANY
+v	3	20	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:1987
+%LID#0#1987-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:1993
+%LID#1#1993-3-Capitol_Records_Nashville#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	165	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Bigger_Picture_Music_Group
+%Y
+eq-let	2	Capitol_Records_Nashville
+##############
+%GID:1994
+%LID#0#1994-3-Universal_Music_Group#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	376	ANY
+v	2	63	ANY
+v	3	32	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Universal_Music_Group
+##############
+%GID:1995
+%LID#0#1995-1-Princeton,_New_Jersey#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	54	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Princeton,_New_Jersey
+##############
+%GID:1997
+%LID#0#1997-3-Sire_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	2	Sire_Records
+##############
+%GID:2000
+%LID#0#2000-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	27	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##############
+%GID:2006
+%LID#1#2006-3-England#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	180	ANY
+v	2	2	ANY
+v	3	2	ANY
+e	0	74	1
+e	0	74	3
+e	0	74	2
+#Condition
+%X
+eq-let	3	Suffolk
+%Y
+eq-let	2	England
+##############
+%GID:2007
+%LID#0#2007-1-Daytona_Beach,_Florida#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	321	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Daytona_Beach,_Florida
+##############
+%GID:2011
+%LID#0#2011-0-Jethro_Tull_(band)#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	412	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Jethro_Tull_(band)
+##############
+%GID:2012
+%LID#0#2012-0-Jimi_Hendrix#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Jimi_Hendrix
+##############
+%GID:2013
+%LID#0#2013-1-Dalarna_County#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	371	ANY
+v	2	63	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Dalarna_County
+##############
+%GID:2014
+%LID#1#2014-0-Moxy_Früvous#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	2	Hayden_(musician)
+%Y
+eq-let	0	Moxy_Früvous
+##############
+%GID:2015
+%LID#1#2015-2-Blues#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	2	Rhythm_and_blues
+%Y
+eq-let	3	Blues
+##############
+%GID:2016
+%LID#1#2016-0-Eraso!#3#3#15
+#Pattern
+v	0	13	ANY
+v	1	35	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+eq-let	2	Locomotive
+%Y
+eq-let	0	Eraso!
+##############
+%GID:2019
+%LID#0#2019-0-Garnett_Silk#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1043	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-let	0	Garnett_Silk
+##############
+%GID:2022
+%LID#0#2022-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	899	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	San_Francisco_Bay_Area
+##############
+%GID:2025
+%LID#0#2025-1-Billboard_200#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Billboard_200
+##############
+%GID:2027
+%LID#0#2027-0-Chris_Tomlin#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	5	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Chris_Tomlin
+##############
+%GID:2030
+%LID#0#2030-1-Muskogee,_Oklahoma#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1165	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Muskogee,_Oklahoma
+##############
+%GID:2031
+%LID#0#2031-0-Don_Ross_(guitarist)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	266	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Don_Ross_(guitarist)
+##############
+%GID:2033
+%LID#0#2033-1-Rome#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:2043
+%LID#0#2043-1-Metropolis_Rescore#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	164	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Metropolis_Rescore
+##############
+%GID:2048
+%LID#0#2048-3-EMI#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	371	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	63	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	EMI
+##############
+%GID:2058
+%LID#0#2058-4-Warner_Music_Group#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	35	ANY
+v	2	11	ANY
+v	3	75	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Warner_Music_Group
+##############
+%GID:2059
+%LID#0#2059-1-Rome#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	63	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:2068
+%LID#0#2068-4-Warner_Music_Group#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	75	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Warner_Music_Group
+##############
+%GID:2069
+%LID#0#2069-4-True_North_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	True_North_Records
+##############
+%GID:2071
+%LID#0#2071-0-Jimi_Hendrix#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	13	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Jimi_Hendrix
+##############
+%GID:2077
+%LID#0#2077-0-Man_Alive_(band)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	104	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Man_Alive_(band)
+##############
+%GID:2081
+%LID#0#2081-0-Mr._Children#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	59	ANY
+v	2	13	ANY
+v	3	39	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Mr._Children
+##############
+%GID:2083
+%LID#0#2083-3-Adelaide#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	19	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	2	Adelaide
+##############
+%GID:2086
+%LID#1#2086-3-Sub_Pop#4#4#8
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+eq-let	4	Interscope_Records
+%Y
+eq-let	2	Sub_Pop
+##############
+%GID:2088
+%LID#0#2088-4-Six_Degrees_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	188	ANY
+v	2	1	ANY
+v	3	2	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Six_Degrees_Records
+##############
+%GID:2093
+%LID#0#2093-0-Genghis_Tron#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	386	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Genghis_Tron
+##############
+%GID:2102
+%LID#0#2102-3-Minneapolis#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	438	ANY
+v	2	5	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	74	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	Minneapolis
+##############
+%GID:2113
+%LID#0#2113-0-Bongzilla#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Bongzilla
+##############
+%GID:2118
+%LID#0#2118-1-Limerick#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	969	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	1	Limerick
+##############
+%GID:2126
+%LID#0#2126-2-Morgan_Heritage#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	86	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	3	Morgan_Heritage
+##############
+%GID:2130
+%LID#0#2130-4-Adelaide#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	19	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	4	Adelaide
+##############
+%GID:2132
+%LID#0#2132-1-Rome#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	63	ANY
+e	0	74	1
+e	2	74	1
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:2133
+%LID#0#2133-0-American_Music_Club#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	American_Music_Club
+##############
+%GID:2136
+%LID#0#2136-3-United_States#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	2	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	74	2
+e	3	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:2139
+%LID#0#2139-0-Chris_Tomlin#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	5	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Chris_Tomlin
+##############
+%GID:2144
+%LID#0#2144-0-Textures_(band)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	50	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	63	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	0	Textures_(band)
+##############
+%GID:2150
+%LID#0#2150-4-Creative_Vibes#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Creative_Vibes
+##############
+%GID:2152
+%LID#0#2152-0-Los_Bunkers#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	475	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	63	ANY
+e	0	74	1
+e	0	75	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Los_Bunkers
+##############
+%GID:2154
+%LID#0#2154-0-The_Northern_Pikes#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	470	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	4
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	The_Northern_Pikes
+##############
+%GID:2168
+%LID#1#2168-2-The_Ventures#6#6#29
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+eq-let	4	GNP_Crescendo_Record_Co.
+%Y
+eq-let	3	The_Ventures
+##############
+%GID:2171
+%LID#0#2171-0-Sheavy#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1069	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sheavy
+##############
+%GID:2180
+%LID#0#2180-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	2	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##############
+%GID:2186
+%LID#1#2186-3-A&M_Records#1#1#8
+#Pattern
+v	0	13	ANY
+v	1	727	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+eq-let	4	RCA
+%Y
+eq-let	2	A&M_Records
+##############
+%GID:2187
+%LID#0#2187-0-Blues_Traveler#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	54	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Blues_Traveler
+##############
+%GID:2192
+%LID#1#2192-3-Matador_Records#6#6#25
+#Pattern
+v	0	13	ANY
+v	1	59	ANY
+v	2	13	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+eq-let	4	Warner_Music_Group
+%Y
+eq-let	2	Matador_Records
+##############
+%GID:2197
+%LID#0#2197-4-Blacklisted_(album)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	4	Blacklisted_(album)
+##############
+%GID:2198
+%LID#0#2198-2-Kedar_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Kedar_Records
+##############
+%GID:2199
+%LID#0#2199-3-RCA_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	RCA_Records
+##############
+%GID:2203
+%LID#0#2203-3-Adelaide#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	19	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	Adelaide
+##############
+%GID:2204
+%LID#1#2204-4-West_Pole_Music#5#5#29
+#Pattern
+v	0	13	ANY
+v	1	969	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+eq-let	3	Senakah
+%Y
+eq-let	4	West_Pole_Music
+##############
+%GID:2219
+%LID#0#2219-4-Capitol_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	4	Capitol_Records
+##############
+%GID:2225
+%LID#0#2225-1-Waco,_Texas#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1162	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	74	1
+e	0	75	4
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	1	Waco,_Texas
+##############
+%GID:2233
+%LID#0#2233-2-The_Crystal_Method#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	19	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	3	74	1
+e	3	74	2
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	3	The_Crystal_Method
+##############
+%GID:2235
+%LID#1#2235-4-V2_Records#3#3#8
+#Pattern
+v	0	13	ANY
+v	1	18	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+eq-let	2	Geffen_Records
+%Y
+eq-let	4	V2_Records
+##############
+%GID:2239
+%LID#0#2239-0-Los_Bunkers#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	475	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Los_Bunkers
+##############
+%GID:2255
+%LID#0#2255-3-United_States#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	2	ANY
+v	3	13	ANY
+v	4	20	ANY
+e	0	74	1
+e	0	74	2
+e	0	74	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:2268
+%LID#0#2268-1-Minneapolis–Saint_Paul#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	768	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	1	Minneapolis–Saint_Paul
+##############
+%GID:2270
+%LID#0#2270-0-Reflections_(Minnesota_band)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	768	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Reflections_(Minnesota_band)
+##############
+%GID:2283
+%LID#1#2283-0-The_Innocence_Mission#1#1#8
+#Pattern
+v	0	13	ANY
+v	1	727	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+eq-let	2	W.A.R.%3F_–_What_Are_Records%3F
+%Y
+eq-let	0	The_Innocence_Mission
+##############
+%GID:2291
+%LID#1#2291-2-Barenaked_Ladies#4#4#29
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+e	3	75	4
+#Condition
+%X
+eq-let	2	Island_Records
+%Y
+eq-let	3	Barenaked_Ladies
+##############
+%GID:2300
+%LID#0#2300-2-Florida#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1134	ANY
+v	2	58	ANY
+v	3	19	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	74	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Florida
+##############
+%GID:2301
+%LID#0#2301-2-Florida#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1134	ANY
+v	2	58	ANY
+v	3	19	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	74	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Florida
+##############
+%GID:2303
+%LID#0#2303-4-Blacklisted_(album)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	4	Blacklisted_(album)
+##############
+%GID:2304
+%LID#0#2304-3-Hathut_Records#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	731	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	2	Hathut_Records
+##############
+%GID:2307
+%LID#0#2307-4-Blacklisted_(album)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	74	1
+e	0	75	4
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	4	Blacklisted_(album)
+##############
+%GID:2310
+%LID#0#2310-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra

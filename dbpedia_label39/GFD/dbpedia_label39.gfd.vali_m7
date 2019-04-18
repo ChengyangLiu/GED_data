@@ -1,0 +1,426 @@
+##############
+%GID:149
+%LID#0#149-1-Music#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	62	ANY
+e	0	82	1
+#Condition
+%X
+%Y
+eq-let	1	Music
+##############
+%GID:278
+%LID#0#278-1-Detroit#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	122	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-let	1	Detroit
+##############
+%GID:296
+%LID#1#296-1-Oakville,_Ontario#5#5#15
+#Pattern
+v	0	39	ANY
+v	1	351	ANY
+e	0	100	1
+#Condition
+%X
+eq-let	0	Geotab
+%Y
+eq-let	1	Oakville,_Ontario
+##############
+%GID:666
+%LID#1#666-0-Saepio#1#1#15
+#Pattern
+v	0	39	ANY
+v	1	438	ANY
+v	2	1	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+eq-let	2	Document_imaging
+%Y
+eq-let	0	Saepio
+##############
+%GID:865
+%LID#1#865-2-Finance#2#2#14
+#Pattern
+v	0	39	ANY
+v	1	622	ANY
+v	2	0	ANY
+e	0	100	1
+e	0	81	2
+#Condition
+%X
+eq-let	0	Cambodia_Securities_Exchange
+%Y
+eq-let	2	Finance
+##############
+%GID:1070
+%LID#0#1070-0-Marotta#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+e	0	81	1
+e	0	82	2
+#Condition
+%X
+%Y
+eq-let	0	Marotta
+##############
+%GID:1089
+%LID#0#1089-1-Lone_Star_Funds#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	925	ANY
+v	2	1	ANY
+e	0	45	1
+e	0	82	2
+#Condition
+%X
+%Y
+eq-let	1	Lone_Star_Funds
+##############
+%GID:1304
+%LID#0#1304-0-Ayoxxa_Biosystems#0#0#8
+#Pattern
+v	0	39	ANY
+v	1	2204	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	80	2
+e	3	80	2
+#Condition
+%X
+%Y
+eq-let	0	Ayoxxa_Biosystems
+##############
+%GID:1382
+%LID#0#1382-1-Lone_Star_Funds#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	925	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	45	1
+e	0	82	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-let	1	Lone_Star_Funds
+##############
+%GID:1563
+%LID#0#1563-0-Carlson_Wagonlit_Travel#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	183	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	81	2
+e	3	81	2
+#Condition
+%X
+%Y
+eq-let	0	Carlson_Wagonlit_Travel
+##############
+%GID:1619
+%LID#0#1619-1-Times_Square#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	128	ANY
+v	2	2	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	100	2
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	Times_Square
+##############
+%GID:1804
+%LID#0#1804-1-Delhi#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	445	ANY
+v	2	456	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	100	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-let	1	Delhi
+##############
+%GID:2443
+%LID#0#2443-0-Joyva#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	460	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	81	2
+e	3	81	2
+#Condition
+%X
+%Y
+eq-let	0	Joyva
+##############
+%GID:2547
+%LID#0#2547-1-Delhi#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	445	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	45	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-let	1	Delhi
+##############
+%GID:2678
+%LID#0#2678-2-Semiconductor_industry#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	366	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+e	3	81	2
+#Condition
+%X
+%Y
+eq-let	2	Semiconductor_industry
+##############
+%GID:3153
+%LID#0#3153-0-Viagens_Abreu#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	151	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+e	3	81	2
+#Condition
+%X
+%Y
+eq-let	0	Viagens_Abreu
+##############
+%GID:3340
+%LID#0#3340-1-Lone_Star_Funds#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	925	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	45	1
+e	0	81	2
+e	0	82	3
+#Condition
+%X
+%Y
+eq-let	1	Lone_Star_Funds
+##############
+%GID:3377
+%LID#0#3377-1-Greenpoint,_Brooklyn#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	181	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	45	2
+e	3	81	2
+#Condition
+%X
+%Y
+eq-let	1	Greenpoint,_Brooklyn
+##############
+%GID:3535
+%LID#1#3535-4-Opendorse#5#5#15
+#Pattern
+v	0	39	ANY
+v	1	349	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	81	2
+e	0	81	3
+e	4	81	2
+#Condition
+%X
+eq-let	2	Sports_marketing
+%Y
+eq-let	4	Opendorse
+##############
+%GID:3867
+%LID#0#3867-3-Travel_agency#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	151	ANY
+v	2	39	ANY
+v	3	0	ANY
+v	4	39	ANY
+e	0	100	1
+e	2	100	1
+e	2	45	3
+e	4	81	3
+#Condition
+%X
+%Y
+eq-let	3	Travel_agency
+##############
+%GID:4289
+%LID#0#4289-0-DPCI#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	128	ANY
+v	2	2	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	100	2
+e	0	45	3
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	0	DPCI
+##############
+%GID:5715
+%LID#0#5715-3-Abreu_Carga#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	151	ANY
+v	2	0	ANY
+v	3	39	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	45	2
+e	3	45	0
+e	4	81	2
+#Condition
+%X
+%Y
+eq-let	3	Abreu_Carga
+##############
+%GID:5835
+%LID#0#5835-1-Ada_Township,_Michigan#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	80	2
+e	0	81	3
+e	4	81	3
+#Condition
+%X
+%Y
+eq-let	1	Ada_Township,_Michigan
+##############
+%GID:6048
+%LID#0#6048-2-en#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	45	2
+e	0	81	3
+e	4	81	3
+#Condition
+%X
+%Y
+eq-let	2	en
+##############
+%GID:6952
+%LID#0#6952-3-Travel_agency#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	151	ANY
+v	2	39	ANY
+v	3	0	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	45	3
+e	2	100	1
+e	4	81	3
+#Condition
+%X
+%Y
+eq-let	3	Travel_agency
+##############
+%GID:7232
+%LID#1#7232-3-Madrid#7#7#25
+#Pattern
+v	0	39	ANY
+v	1	171	ANY
+v	2	19	ANY
+v	3	19	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	100	2
+e	0	100	3
+e	4	100	2
+#Condition
+%X
+eq-let	2	Santiago
+%Y
+eq-let	3	Madrid
+##############
+%GID:7546
+%LID#1#7546-3-Salarpuria_Sattva#5#5#15
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	0	ANY
+v	3	39	ANY
+v	4	0	ANY
+e	0	100	1
+e	0	45	2
+e	3	80	2
+e	3	81	4
+#Condition
+%X
+eq-let	4	Real_estate_development
+%Y
+eq-let	3	Salarpuria_Sattva
+##############
+%GID:8396
+%LID#0#8396-2-Doug_DeVos#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	9	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	80	2
+e	0	81	3
+e	4	81	3
+#Condition
+%X
+%Y
+eq-let	2	Doug_DeVos

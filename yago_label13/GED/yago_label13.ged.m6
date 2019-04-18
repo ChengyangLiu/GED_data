@@ -1,0 +1,93 @@
+##########
+%GID:63
+%LID#1#63-0-<Dita_Von_Teese>#0#0#33
+#Pattern
+v	0	13	ANY
+v	1	9	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	5	1
+e	3	10	2
+#Condition
+%X
+eq-let	1	name	<Holy_Wood_(novel)>
+%Y
+eq-id	0	id	3	id
+##########
+%GID:88
+%LID#0#88-1-<Democratic_Party_(United_States)>#0#0#5
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	7	2
+e	1	7	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:122
+%LID#1#122-1-<Night_Train_to_Murder>#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	5	2
+e	1	5	3
+#Condition
+%X
+eq-let	0	name	<Eric_Morecambe>
+%Y
+eq-id	2	0
+##########
+%GID:124
+%LID#1#124-0-<James_Van_Der_Beek>#14#14#33
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	10	1
+e	3	10	2
+#Condition
+%X
+eq-let	2	name	<Heather_McComb>
+%Y
+eq-id	0	id	3	id
+##########
+%GID:201
+%LID#1#201-1-<Night_Train_to_Murder>#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	13	ANY
+e	0	5	1
+e	3	5	2
+#Condition
+%X
+eq-let	0	name	<Eric_Morecambe>
+%Y
+eq-id	1	2
+##########
+%GID:212
+%LID#1#212-1-<Judson_Pearce_Morgan>#5#5#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	0	ANY
+v	4	0	ANY
+e	0	10	1
+e	1	14	3
+e	2	14	4
+#Condition
+%X
+eq-let	2	name	<Kim_Miyori>
+%Y
+eq-id	3	0

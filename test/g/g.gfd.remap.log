@@ -1,0 +1,582 @@
+v	0	0	a
+v	1	1	a
+v	2	2	c
+v	3	0	a
+v	4	1	a
+v	5	2	c
+e	0	{3}	1
+e	0	{3}	2
+e	1	{3}	3
+e	3	{3}	4
+e	3	{3}	5
+Total:42
+
+%GID:0
+%LID#0-1-c#0#0#0
+v	0	0	ANY
+v	1	2	ANY
+e	0	3	1
+%X
+%Y
+eq-let	1	c
+
+%GID:0
+%LID#0-0-a#0#0#1
+v	0	0	ANY
+v	1	2	ANY
+e	0	3	1
+%X
+%Y
+eq-let	0	a
+
+%GID:1
+%LID#1-1-a#0#0#0
+v	0	0	ANY
+v	1	1	ANY
+e	0	3	1
+%X
+%Y
+eq-let	1	a
+
+%GID:1
+%LID#1-0-1-1#0#0#2
+v	0	0	ANY
+v	1	1	ANY
+e	0	3	1
+%X
+%Y
+eq-var	0	-1	1	-1
+
+%GID:1
+%LID#1-0-a#0#0#1
+v	0	0	ANY
+v	1	1	ANY
+e	0	3	1
+%X
+%Y
+eq-let	0	a
+
+%GID:2
+%LID#2-1-a#0#0#0
+v	0	1	ANY
+v	1	0	ANY
+e	0	3	1
+%X
+%Y
+eq-let	1	a
+
+%GID:2
+%LID#2-0-2-1#0#0#2
+v	0	1	ANY
+v	1	0	ANY
+e	0	3	1
+%X
+%Y
+eq-var	0	-1	1	-1
+
+%GID:2
+%LID#2-0-a#0#0#1
+v	0	1	ANY
+v	1	0	ANY
+e	0	3	1
+%X
+%Y
+eq-let	0	a
+
+%GID:3
+%LID#3-1-a#0#0#0
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	3	2
+e	2	3	1
+%X
+%Y
+eq-let	2	a
+
+%GID:3
+%LID#3-0-a#0#0#2
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	3	2
+e	2	3	1
+%X
+%Y
+eq-let	0	a
+
+%GID:3
+%LID#3-1-3-2#0#0#4
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	3	2
+e	2	3	1
+%X
+%Y
+eq-var	1	-1	2	-1
+
+%GID:3
+%LID#3-2-a#0#0#1
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	3	2
+e	2	3	1
+%X
+%Y
+eq-let	1	a
+
+%GID:3
+%LID#3-0-3-1#0#0#3
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	3	2
+e	2	3	1
+%X
+%Y
+eq-var	0	-1	2	-1
+
+%GID:3
+%LID#3-0-3-2#0#0#5
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	3	2
+e	2	3	1
+%X
+%Y
+eq-var	0	-1	1	-1
+
+%GID:4
+%LID#4-1-a#0#0#0
+v	0	0	ANY
+v	1	2	ANY
+v	2	1	ANY
+e	0	3	2
+e	0	3	1
+%X
+%Y
+eq-let	2	a
+
+%GID:4
+%LID#4-0-a#0#0#2
+v	0	0	ANY
+v	1	2	ANY
+v	2	1	ANY
+e	0	3	2
+e	0	3	1
+%X
+%Y
+eq-let	0	a
+
+%GID:4
+%LID#4-2-c#0#0#1
+v	0	0	ANY
+v	1	2	ANY
+v	2	1	ANY
+e	0	3	2
+e	0	3	1
+%X
+%Y
+eq-let	1	c
+
+%GID:4
+%LID#4-0-4-1#0#0#3
+v	0	0	ANY
+v	1	2	ANY
+v	2	1	ANY
+e	0	3	2
+e	0	3	1
+%X
+%Y
+eq-var	0	-1	2	-1
+
+%GID:5
+%LID#5-1-a#0#0#0
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-let	2	a
+
+%GID:5
+%LID#5-0-a#0#0#2
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-let	0	a
+
+%GID:5
+%LID#5-1-5-2#0#0#4
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-var	1	-1	2	-1
+
+%GID:5
+%LID#5-2-a#0#0#1
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-let	1	a
+
+%GID:5
+%LID#5-0-5-1#0#0#3
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-var	0	-1	2	-1
+
+%GID:5
+%LID#5-0-5-2#0#0#5
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-var	0	-1	1	-1
+
+%GID:6
+%LID#6-2-a#0#0#0
+v	0	0	ANY
+v	1	1	ANY
+v	2	2	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-let	1	a
+
+%GID:6
+%LID#6-0-a#0#0#2
+v	0	0	ANY
+v	1	1	ANY
+v	2	2	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-let	0	a
+
+%GID:6
+%LID#6-1-c#0#0#1
+v	0	0	ANY
+v	1	1	ANY
+v	2	2	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-let	2	c
+
+%GID:6
+%LID#6-0-6-2#0#0#3
+v	0	0	ANY
+v	1	1	ANY
+v	2	2	ANY
+e	0	3	2
+e	1	3	0
+%X
+%Y
+eq-var	0	-1	1	-1
+
+%GID:7
+%LID#7-1-a#0#0#0
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	1	3	2
+%X
+%Y
+eq-let	1	a
+
+%GID:7
+%LID#7-3-a#0#0#2
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	1	3	2
+%X
+%Y
+eq-let	2	a
+
+%GID:7
+%LID#7-0-7-3#0#0#6
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	1	3	2
+%X
+%Y
+eq-var	0	-1	2	-1
+
+%GID:7
+%LID#7-0-a#0#0#4
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	1	3	2
+%X
+%Y
+eq-let	0	a
+
+%GID:7
+%LID#7-1-7-3#0#0#1
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	1	3	2
+%X
+%Y
+eq-var	1	-1	2	-1
+
+%GID:7
+%LID#7-2-c#0#0#3
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	1	3	2
+%X
+%Y
+eq-let	3	c
+
+%GID:7
+%LID#7-0-7-1#0#0#5
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	1	3	2
+%X
+%Y
+eq-var	0	-1	1	-1
+
+%GID:8
+%LID#8-1-a#0#0#0
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	2	3	0
+%X
+%Y
+eq-let	1	a
+
+%GID:8
+%LID#8-3-a#0#0#2
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	2	3	0
+%X
+%Y
+eq-let	2	a
+
+%GID:8
+%LID#8-0-8-3#0#0#6
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	2	3	0
+%X
+%Y
+eq-var	0	-1	2	-1
+
+%GID:8
+%LID#8-0-a#0#0#4
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	2	3	0
+%X
+%Y
+eq-let	0	a
+
+%GID:8
+%LID#8-1-8-3#0#0#1
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	2	3	0
+%X
+%Y
+eq-var	1	-1	2	-1
+
+%GID:8
+%LID#8-2-c#0#0#3
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	2	3	0
+%X
+%Y
+eq-let	3	c
+
+%GID:8
+%LID#8-0-8-1#0#0#5
+v	0	0	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	3	1
+e	0	3	3
+e	2	3	0
+%X
+%Y
+eq-var	0	-1	1	-1
+
+vf2 on No.1 GEDs
+vf2 on No.2 GEDs
+vf2 on No.3 GEDs
+vf2 on No.4 GEDs
+vf2 on No.5 GEDs
+vf2 on No.6 GEDs
+vf2 on No.7 GEDs
+vf2 on No.8 GEDs
+vf2 on No.9 GEDs
+vf2 on No.10 GEDs
+vf2 on No.11 GEDs
+vf2 on No.12 GEDs
+vf2 on No.13 GEDs
+vf2 on No.14 GEDs
+vf2 on No.15 GEDs
+vf2 on No.16 GEDs
+vf2 on No.17 GEDs
+vf2 on No.18 GEDs
+vf2 on No.19 GEDs
+vf2 on No.20 GEDs
+vf2 on No.21 GEDs
+vf2 on No.22 GEDs
+vf2 on No.23 GEDs
+vf2 on No.24 GEDs
+vf2 on No.25 GEDs
+vf2 on No.26 GEDs
+vf2 on No.27 GEDs
+vf2 on No.28 GEDs
+vf2 on No.29 GEDs
+vf2 on No.30 GEDs
+vf2 on No.31 GEDs
+vf2 on No.32 GEDs
+vf2 on No.33 GEDs
+vf2 on No.34 GEDs
+vf2 on No.35 GEDs
+vf2 on No.36 GEDs
+vf2 on No.37 GEDs
+vf2 on No.38 GEDs
+vf2 on No.39 GEDs
+vf2 on No.40 GEDs
+vf2 on No.41 GEDs
+vf2 on No.42 GEDs
+Checking NO.1 GED	1
+Checking NO.2 GED	1
+Checking NO.3 GED	1
+Checking NO.4 GED	1
+Checking NO.5 GED	1
+Checking NO.6 GED	1
+Checking NO.7 GED	1
+Checking NO.8 GED	1
+Checking NO.9 GED	1
+Checking NO.10 GED	1
+Checking NO.11 GED	1
+Checking NO.12 GED	1
+Checking NO.13 GED	1
+Checking NO.14 GED	1
+Checking NO.15 GED	1
+Checking NO.16 GED	1
+Checking NO.17 GED	1
+Checking NO.18 GED	1
+Checking NO.19 GED	1
+Checking NO.20 GED	1
+Checking NO.21 GED	1
+Checking NO.22 GED	1
+Checking NO.23 GED	1
+Checking NO.24 GED	1
+Checking NO.25 GED	1
+Checking NO.26 GED	1
+Checking NO.27 GED	1
+Checking NO.28 GED	1
+Checking NO.29 GED	1
+Checking NO.30 GED	1
+Checking NO.31 GED	1
+Checking NO.32 GED	1
+Checking NO.33 GED	1
+Checking NO.34 GED	1
+Checking NO.35 GED	1
+Checking NO.36 GED	1
+Checking NO.37 GED	1
+Checking NO.38 GED	1
+Checking NO.39 GED	1
+Checking NO.40 GED	1
+Checking NO.41 GED	1
+Checking NO.42 GED	1
+
+The results:
+1	1	1	1	1	
+1	1	1	1	1	
+1	1	1	1	1	
+1	1	1	1	1	
+1	1	1	1	1	
+1	1	1	1	1	
+1	1	1	1	1	
+1	1	1	1	1	
+1	1	

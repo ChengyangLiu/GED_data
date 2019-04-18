@@ -1,0 +1,13 @@
+##########
+%GID:65
+%LID#0#65-1-City#0#0#0
+#Pattern
+v	0	5	ANY
+v	1	19	ANY
+v	2	5	ANY
+e	0	30	1
+e	2	30	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

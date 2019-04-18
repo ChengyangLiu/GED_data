@@ -1,0 +1,12 @@
+##############
+%GID:10
+%LID#1#10-1-<Battle_of_Catana_(397_BC)>#7#7#15
+#Pattern
+v	0	6	ANY
+v	1	9	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	0	<Carthage>
+%Y
+eq-let	1	<Battle_of_Catana_(397_BC)>

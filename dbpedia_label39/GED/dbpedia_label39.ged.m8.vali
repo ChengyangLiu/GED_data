@@ -1,0 +1,103 @@
+##############
+%GID:875
+%LID#0#875-2-HPTi#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	1294	ANY
+v	2	1294	ANY
+v	3	39	ANY
+e	0	100	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1757
+%LID#1#1757-0-OnePlus#6#6#17
+#Pattern
+v	0	39	ANY
+v	1	292	ANY
+v	2	292	ANY
+v	3	39	ANY
+v	4	1	ANY
+e	0	100	1
+e	0	82	4
+e	3	45	2
+#Condition
+%X
+eq-let	3	OnePlus_One
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3764
+%LID#0#3764-1-Bangkok#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	3	100	2
+e	3	81	4
+e	5	82	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4636
+%LID#0#4636-3-Payment_system#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	81	4
+e	3	100	2
+e	5	82	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5184
+%LID#0#5184-1-Madison,_Wisconsin#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	391	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	3	100	2
+e	3	81	4
+e	5	81	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8457
+%LID#0#8457-1-Madison,_Wisconsin#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	391	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	81	4
+e	3	100	2
+e	5	81	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

@@ -1,0 +1,14 @@
+##############
+%GID:96
+%LID#1#96-1-<Sangeet_Natak_Akademi_Award>#11#11#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	3	ANY
+e	0	1	2
+e	1	10	0
+#Condition
+%X
+eq-let	0	<Bhakti_Barve>
+%Y
+eq-let	2	<Sangeet_Natak_Akademi_Award>

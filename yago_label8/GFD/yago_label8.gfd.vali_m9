@@ -1,0 +1,40 @@
+##############
+%GID:20
+%LID#1#20-1-<University_of_London>#2#2#29
+#Pattern
+v	0	8	ANY
+v	1	15	ANY
+e	0	19	1
+#Condition
+%X
+eq-let	0	<Nazia_Hassan>
+%Y
+eq-let	1	<University_of_London>
+##############
+%GID:82
+%LID#0#82-0-<The_Soviet_Story>#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	14	2
+#Condition
+%X
+%Y
+eq-let	0	<The_Soviet_Story>
+##############
+%GID:129
+%LID#0#129-3-<Nicole_Lai>#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	0	1
+e	2	3	1
+e	3	14	1
+#Condition
+%X
+%Y
+eq-let	2	<Nicole_Lai>

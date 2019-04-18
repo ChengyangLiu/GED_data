@@ -1,0 +1,28 @@
+##############
+%GID:12
+%LID#1#12-0-<R._Kannan>#2#2#15
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	7	ANY
+e	0	26	1
+e	2	26	1
+#Condition
+%X
+eq-let	1	<Kodambakkam,_Chennai>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:33
+%LID#1#33-1-<Paris>#2#2#15
+#Pattern
+v	0	7	ANY
+v	1	6	ANY
+v	2	7	ANY
+e	0	26	1
+e	2	26	1
+#Condition
+%X
+eq-let	0	<Chris_Renaud_(animator)>
+%Y
+eq-id	0	id	2	id

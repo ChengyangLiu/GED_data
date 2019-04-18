@@ -1,0 +1,28 @@
+##############
+%GID:5
+%LID#1#5-1-<Socotra>#0#0#15
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<Socotra_Airport>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:8
+%LID#1#8-1-<Croatia>#5#5#15
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+e	0	18	1
+e	2	18	1
+#Condition
+%X
+eq-let	0	<Rijeka_Airport>
+%Y
+eq-id	0	id	2	id

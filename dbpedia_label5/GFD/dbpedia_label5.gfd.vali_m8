@@ -1,0 +1,18 @@
+##############
+%GID:455
+%LID#1#455-4-Outagamie_County,_Wisconsin#3#3#12
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	5	ANY
+v	3	5	ANY
+v	4	11	ANY
+e	0	30	1
+e	2	90	1
+e	3	30	1
+e	3	93	4
+#Condition
+%X
+eq-let	3	Seymour,_Wisconsin
+%Y
+eq-let	4	Outagamie_County,_Wisconsin

@@ -1,0 +1,40 @@
+%GID:16
+%LID#1#16-0-<Frogn>#120#120#561
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	1	<Akershus>
+%Y
+eq-let	0	<Frogn>
+##########
+%GID:17
+%LID#1#17-1-<Caucasian_War>#37#37#99
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	1	<Principality_of_Mingrelia>
+%Y
+eq-let	2	<Caucasian_War>
+##########
+%GID:18
+%LID#1#18-2-<Belize>#8#8#29
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	24	2
+#Condition
+%X
+eq-let	0	<Izabal_Department>
+%Y
+eq-let	1	<Belize>
+##########

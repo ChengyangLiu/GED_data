@@ -1,0 +1,361 @@
+##############
+%GID:437
+%LID#0#437-1-IPod#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	42	ANY
+v	2	42	ANY
+v	3	39	ANY
+e	0	82	1
+e	3	82	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:508
+%LID#0#508-0-Gold_Pure_Food_Products_Co.#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	572	ANY
+v	2	572	ANY
+v	3	39	ANY
+e	0	82	1
+e	0	82	2
+e	3	82	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:527
+%LID#0#527-0-American_Champion#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1619	ANY
+v	2	1619	ANY
+v	3	39	ANY
+e	0	82	1
+e	0	82	2
+e	3	82	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:712
+%LID#0#712-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+e	0	100	1
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:738
+%LID#0#738-0-Lancair#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1967	ANY
+v	2	1967	ANY
+v	3	39	ANY
+e	0	82	1
+e	0	82	2
+e	3	82	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:771
+%LID#0#771-1-Taco#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	710	ANY
+v	2	710	ANY
+v	3	39	ANY
+e	0	82	1
+e	3	82	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1003
+%LID#0#1003-1-Yogurt#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	465	ANY
+v	2	465	ANY
+v	3	39	ANY
+e	0	82	1
+e	3	82	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1143
+%LID#0#1143-1-M1911_pistol#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	1175	ANY
+v	2	1175	ANY
+v	3	39	ANY
+e	0	82	1
+e	3	82	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1188
+%LID#0#1188-1-Micron_Technology#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	2369	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	82	2
+e	3	45	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:2521
+%LID#1#2521-2-Paysbuy#4#4#12
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	39	ANY
+v	4	141	ANY
+e	0	100	1
+e	3	100	2
+e	3	45	4
+#Condition
+%X
+eq-let	0	MPay
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2811
+%LID#1#2811-3-DTAC#7#7#27
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	39	ANY
+v	4	141	ANY
+e	0	100	1
+e	0	45	4
+e	3	100	2
+#Condition
+%X
+eq-let	2	MPay
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3126
+%LID#1#3126-2-Starmark#9#9#39
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	39	ANY
+v	4	1	ANY
+e	0	100	1
+e	3	100	2
+e	3	80	4
+#Condition
+%X
+eq-let	0	Paysbuy
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3164
+%LID#1#3164-0-Paysbuy#2#2#11
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	39	ANY
+v	4	1	ANY
+e	0	100	1
+e	0	80	4
+e	3	100	2
+#Condition
+%X
+eq-let	3	2C2P
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4347
+%LID#0#4347-1-GameWeek_Magazine#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	10	ANY
+v	2	10	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	81	1
+e	3	81	2
+e	3	82	4
+e	3	82	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4491
+%LID#0#4491-2-OnePlus#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	292	ANY
+v	2	292	ANY
+v	3	39	ANY
+v	4	9	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	82	5
+e	3	100	2
+e	3	80	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4842
+%LID#0#4842-2-Oak_Futures#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	300	ANY
+v	2	300	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	100	1
+e	3	100	2
+e	3	81	4
+e	3	81	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5037
+%LID#0#5037-1-Ada_Township,_Michigan#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	102	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	100	1
+e	3	100	2
+e	3	82	4
+e	3	82	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5083
+%LID#0#5083-1-Ada_Township,_Michigan#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	102	ANY
+v	2	102	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	82	4
+e	0	82	5
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5543
+%LID#1#5543-4-IMC_Financial_Markets#4#4#25
+#Pattern
+v	0	39	ANY
+v	1	300	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	39	ANY
+e	0	100	1
+e	0	81	2
+e	0	81	4
+e	5	82	3
+#Condition
+%X
+eq-let	3	Capital_market
+%Y
+eq-id	2	id	3	id
+##############
+%GID:7924
+%LID#0#7924-0-Oak_Futures#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	300	ANY
+v	2	300	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	81	4
+e	0	81	5
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7982
+%LID#0#7982-1-Shenzhen#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	292	ANY
+v	2	292	ANY
+v	3	39	ANY
+v	4	9	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	80	4
+e	3	100	2
+e	3	82	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8109
+%LID#0#8109-1-GameWeek_Magazine#0#0#3
+#Pattern
+v	0	39	ANY
+v	1	10	ANY
+v	2	10	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	81	1
+e	0	82	4
+e	0	82	5
+e	3	81	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

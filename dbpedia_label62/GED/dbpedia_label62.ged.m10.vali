@@ -1,0 +1,14 @@
+##############
+%GID:121
+%LID#0#121-1-S2S_Pte._Ltd.#0#0#5
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	4047	ANY
+v	3	4047	ANY
+e	0	75	2
+e	1	75	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

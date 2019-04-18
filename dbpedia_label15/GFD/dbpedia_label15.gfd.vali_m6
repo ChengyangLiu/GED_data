@@ -1,0 +1,28 @@
+##############
+%GID:43
+%LID#0#43-1-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:172
+%LID#0#172-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation

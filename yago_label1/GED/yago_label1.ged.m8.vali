@@ -1,0 +1,30 @@
+##############
+%GID:10
+%LID#1#10-1-<Nazi_Germany>#3#3#29
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	24	1
+e	2	24	1
+#Condition
+%X
+eq-let	0	<Second_Czechoslovak_Republic>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:36
+%LID#1#36-0-<Cossack_Hetmanate>#10#10#29
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	2
+e	2	17	1
+e	3	0	2
+#Condition
+%X
+eq-let	1	<Battle_of_Krithia_Vineyard>
+%Y
+eq-id	0	id	3	id

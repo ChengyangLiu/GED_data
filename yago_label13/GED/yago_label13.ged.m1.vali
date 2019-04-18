@@ -1,0 +1,491 @@
+##############
+%GID:18
+%LID#0#18-1-<John_Zorn>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+v	2	13	ANY
+e	0	11	1
+e	2	11	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:33
+%LID#0#33-1-<Hong_Kong>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:34
+%LID#0#34-0-<Mehmet_Günsür>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:35
+%LID#0#35-1-<nl/Beste_Partij>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	13	ANY
+e	0	7	1
+e	2	7	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:36
+%LID#0#36-1-<Tiburon,_California>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	11	ANY
+v	2	13	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:39
+%LID#0#39-1-<Tyagaraja>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	4	ANY
+v	2	13	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:40
+%LID#0#40-0-<Jeffrey_Hunter>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	9	ANY
+v	2	13	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:43
+%LID#0#43-0-<Ben_Foster>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	5	ANY
+v	2	13	ANY
+e	0	7	1
+e	2	7	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:47
+%LID#0#47-1-<Mumbai>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	14	ANY
+v	2	13	ANY
+e	0	26	1
+e	2	26	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:51
+%LID#0#51-1-<Seattle_Sounders_FC>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	5	ANY
+v	2	13	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:53
+%LID#0#53-2-<wordnet_guitar_103467517>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	23	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:57
+%LID#0#57-0-<Edwin_Richfield>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	25	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:61
+%LID#0#61-1-<John_Drew_Barrymore>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	21	2
+e	2	21	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:64
+%LID#0#64-1-<Jeff_Anderson>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	5	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:66
+%LID#0#66-1-<Jennifer_Kendal>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	7	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	21	2
+e	2	21	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:73
+%LID#0#73-0-<Carol_Hughes_(actress)>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	3	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:76
+%LID#0#76-1-<Louis_C.K.>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	11	2
+e	2	5	1
+e	3	11	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:77
+%LID#0#77-0-<Maria_Charles>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	12	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	21	2
+e	2	9	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:79
+%LID#0#79-0-<Samuel_Hui>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	11	2
+e	2	11	1
+e	3	11	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:83
+%LID#0#83-1-<Sam_Troughton>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	21	2
+e	1	21	0
+e	3	21	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:86
+%LID#0#86-1-<Eddie_Griffin>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	12	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	11	2
+e	2	9	1
+e	3	11	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:91
+%LID#0#91-2-<http://www.moonfrye.com>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	10	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	21	2
+e	2	6	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:104
+%LID#0#104-1-<Maria_Charles>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	21	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:108
+%LID#0#108-1-<Richard_Schiff>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	11	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	7	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:113
+%LID#0#113-0-<Mary_Nighy>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	19	2
+e	1	21	0
+e	3	19	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:114
+%LID#0#114-1-<Rodney_Dangerfield>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	11	2
+e	2	13	1
+e	3	11	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:121
+%LID#0#121-2-<Hong_Kong>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	14	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:126
+%LID#0#126-1-<David_Troughton>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	21	2
+e	2	21	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:127
+%LID#0#127-0-<Lynne_Frederick>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	11	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:128
+%LID#0#128-0-<Lalla_Ward>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	10	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	6	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:129
+%LID#0#129-0-<Zach_Gilford>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	7	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	10	1
+e	3	10	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:143
+%LID#0#143-1-<Sam_Troughton>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	21	1
+e	2	21	0
+e	3	21	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:149
+%LID#0#149-2-<Hong_Kong>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	10	1
+e	1	14	3
+e	2	3	4
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:228
+%LID#0#228-1-<David_Troughton>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	21	1
+e	1	21	2
+e	3	21	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id

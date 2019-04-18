@@ -1,0 +1,109 @@
+##########
+%GID:384
+%LID#0#384-1-Jerusalem#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	104	ANY
+v	3	104	ANY
+e	0	16	2
+e	1	16	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:433
+%LID#0#433-1-Seoul#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	562	ANY
+v	3	562	ANY
+e	0	16	2
+e	1	16	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:729
+%LID#0#729-1-Lahore#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	245	ANY
+v	3	245	ANY
+e	0	16	2
+e	1	39	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:1685
+%LID#1#1685-2-Parviz_Shahbazi#9#9#37
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	1487	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	4	20	2
+e	4	21	3
+#Condition
+%X
+eq-let	2	name	Parviz_Shahbazi__1
+%Y
+eq-id	1	2
+##########
+%GID:2159
+%LID#0#2159-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	15	ANY
+v	4	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	20	3
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:2359
+%LID#0#2359-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	15	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	20	3
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:5407
+%LID#0#5407-2-R._Sarathkumar#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	445	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	4	21	5
+#Condition
+%X
+%Y
+eq-id	1	2

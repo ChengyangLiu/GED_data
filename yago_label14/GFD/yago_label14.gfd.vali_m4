@@ -1,0 +1,16 @@
+##############
+%GID:66
+%LID#1#66-3-<Maota_Airport>#2#2#33
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	18	0
+e	3	18	0
+#Condition
+%X
+eq-let	3	<Fagali'i_Airport>
+%Y
+eq-let	2	<Maota_Airport>

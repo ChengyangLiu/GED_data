@@ -1,0 +1,335 @@
+##############
+%GID:230
+%LID#1#230-1-Zagreb#9#9#25
+#Pattern
+v	0	7	ANY
+v	1	264	ANY
+e	0	16	1
+#Condition
+%X
+eq-let	0	Oktavijan_Miletić
+%Y
+eq-let	1	Zagreb
+##############
+%GID:647
+%LID#0#647-1-Halifax,_Nova_Scotia#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	266	ANY
+e	0	16	2
+e	0	21	1
+#Condition
+%X
+%Y
+eq-let	2	Halifax,_Nova_Scotia
+##############
+%GID:1339
+%LID#0#1339-0-Tony_Jaa#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	13	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	0	Tony_Jaa
+##############
+%GID:1411
+%LID#0#1411-0-Balu_Mahendra#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	0	Balu_Mahendra
+##############
+%GID:1791
+%LID#0#1791-0-Roberto_Benigni#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	95	ANY
+v	2	0	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Roberto_Benigni
+##############
+%GID:1911
+%LID#0#1911-1-Sibiu#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	1135	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	1	Sibiu
+##############
+%GID:1969
+%LID#0#1969-0-Tony_Jaa#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1015	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	0	Tony_Jaa
+##############
+%GID:2060
+%LID#0#2060-0-Natasha_Arthy#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	1109	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	0	Natasha_Arthy
+##############
+%GID:2525
+%LID#1#2525-3-Shoba#9#9#37
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	9	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+e	0	22	4
+#Condition
+%X
+eq-let	4	Mounika_(actress)
+%Y
+eq-let	2	Shoba
+##############
+%GID:2726
+%LID#0#2726-1-Isfahan#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##############
+%GID:3111
+%LID#0#3111-0-Roberto_Benigni#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	95	ANY
+v	2	0	ANY
+v	3	15	ANY
+v	4	9	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+e	0	22	4
+#Condition
+%X
+%Y
+eq-let	0	Roberto_Benigni
+##############
+%GID:3168
+%LID#0#3168-0-Roberto_Benigni#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	95	ANY
+v	2	0	ANY
+v	3	15	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+e	0	21	4
+#Condition
+%X
+%Y
+eq-let	0	Roberto_Benigni
+##############
+%GID:3171
+%LID#0#3171-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	19	ANY
+v	3	7	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	39	2
+e	3	16	1
+e	4	39	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:3482
+%LID#0#3482-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	19	ANY
+v	3	7	ANY
+v	4	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	39	2
+e	4	39	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:3735
+%LID#1#3735-2-Aditya_Assarat#2#2#14
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	15	ANY
+v	3	7	ANY
+v	4	0	ANY
+e	0	16	1
+e	0	20	2
+e	3	16	1
+e	3	21	4
+#Condition
+%X
+eq-let	4	Aditya_Assarat__1
+%Y
+eq-let	3	Aditya_Assarat
+##############
+%GID:3832
+%LID#0#3832-0-Balu_Mahendra#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	9	ANY
+v	3	0	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+e	0	39	4
+#Condition
+%X
+%Y
+eq-let	0	Balu_Mahendra
+##############
+%GID:4018
+%LID#0#4018-1-Davao_City#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	7	ANY
+v	3	6	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	4
+e	2	21	3
+#Condition
+%X
+%Y
+eq-let	1	Davao_City
+##############
+%GID:4190
+%LID#1#4190-2-Bahman_Farmanara#1#1#14
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	2	Film_director
+%Y
+eq-let	3	Bahman_Farmanara
+##############
+%GID:5172
+%LID#0#5172-0-Mauro_Mueller#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	142	ANY
+v	2	0	ANY
+v	3	2	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+e	4	39	3
+#Condition
+%X
+%Y
+eq-let	0	Mauro_Mueller
+##############
+%GID:5190
+%LID#0#5190-1-Bangkok#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	15	ANY
+v	3	7	ANY
+v	4	0	ANY
+e	0	16	1
+e	0	20	2
+e	0	21	4
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Bangkok
+##############
+%GID:5379
+%LID#0#5379-0-Balu_Mahendra#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	9	ANY
+v	3	0	ANY
+v	4	55	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+e	0	39	4
+#Condition
+%X
+%Y
+eq-let	0	Balu_Mahendra

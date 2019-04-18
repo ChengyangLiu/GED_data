@@ -1,0 +1,258 @@
+##############
+%GID:26
+%LID#1#26-0-Haim_Gouri#3#3#15
+#Pattern
+v	0	7	ANY
+v	1	9	ANY
+v	2	7	ANY
+e	0	20	1
+e	2	20	1
+#Condition
+%X
+eq-let	1	Uri_Zvi_Greenberg
+%Y
+eq-id	0	id	2	id
+##############
+%GID:64
+%LID#1#64-1-Christchurch#1#1#15
+#Pattern
+v	0	7	ANY
+v	1	365	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	Len_Lye
+%Y
+eq-id	0	id	2	id
+##############
+%GID:94
+%LID#1#94-0-Nancy_Hower#2#2#15
+#Pattern
+v	0	7	ANY
+v	1	306	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Wyckoff,_New_Jersey
+%Y
+eq-id	0	id	2	id
+##############
+%GID:185
+%LID#1#185-1-Bradley_Beach,_New_Jersey#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	54	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	TJ_Lubinsky
+%Y
+eq-id	0	id	2	id
+##############
+%GID:202
+%LID#1#202-0-Laurence_Trimble#5#5#15
+#Pattern
+v	0	7	ANY
+v	1	79	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Robbinston,_Maine
+%Y
+eq-id	0	id	2	id
+##############
+%GID:231
+%LID#1#231-1-Skurup_Municipality#6#6#14
+#Pattern
+v	0	7	ANY
+v	1	260	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	Gösta_Werner
+%Y
+eq-id	0	id	2	id
+##############
+%GID:276
+%LID#1#276-0-Hossein_Shahabi#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	10	ANY
+v	2	7	ANY
+e	0	20	1
+e	2	20	1
+#Condition
+%X
+eq-let	1	Fajr_International_Film_Festival
+%Y
+eq-id	0	id	2	id
+##############
+%GID:699
+%LID#0#699-0-Norman_Foster,_Baron_Foster_of_Thames_Bank#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	15	ANY
+v	2	126	ANY
+v	3	7	ANY
+e	0	20	2
+e	0	20	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1225
+%LID#1#1225-2-Television_presenter#0#0#15
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	7	ANY
+v	3	0	ANY
+v	4	0	ANY
+e	0	16	1
+e	0	21	3
+e	2	21	4
+#Condition
+%X
+eq-let	2	Yuri_Mamin
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1761
+%LID#1#1761-0-Lucélia_Santos#4#4#29
+#Pattern
+v	0	7	ANY
+v	1	242	ANY
+v	2	242	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	2	Film_director
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2204
+%LID#1#2204-0-Suzana_Amaral#9#9#29
+#Pattern
+v	0	7	ANY
+v	1	242	ANY
+v	2	242	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+eq-let	2	Suzana_Amaral__1
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2877
+%LID#1#2877-2-Television_presenter#0#0#14
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	7	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	2	21	4
+#Condition
+%X
+eq-let	2	Nadirshah
+%Y
+eq-id	3	id	4	id
+##############
+%GID:3293
+%LID#1#3293-3-Television_presenter#6#6#15
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+e	5	21	3
+#Condition
+%X
+eq-let	4	Shingo_Yamashiro
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4481
+%LID#1#4481-3-Television_presenter#6#6#15
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	5	21	3
+#Condition
+%X
+eq-let	4	Shingo_Yamashiro
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4518
+%LID#0#4518-0-Chetan_Anand_(director)#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	245	ANY
+v	3	0	ANY
+v	4	15	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	20	4
+e	0	21	3
+e	5	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5897
+%LID#1#5897-2-Television_presenter#0#0#14
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	7	ANY
+v	4	0	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	4
+e	3	21	4
+e	5	39	2
+#Condition
+%X
+eq-let	2	Nadirshah
+%Y
+eq-id	1	id	2	id

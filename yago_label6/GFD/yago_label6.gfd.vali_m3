@@ -1,0 +1,11 @@
+##############
+%GID:0
+%LID#0#0-1-<Europe>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	14	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Europe>

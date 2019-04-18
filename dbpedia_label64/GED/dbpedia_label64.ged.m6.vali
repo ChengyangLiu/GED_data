@@ -1,0 +1,150 @@
+##############
+%GID:10
+%LID#1#10-0-Vegpro_F.C.#9#9#15
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	1	Naivasha
+%Y
+eq-id	0	id	2	id
+##############
+%GID:218
+%LID#0#218-1-Bangkok#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	712	ANY
+v	3	712	ANY
+e	0	195	2
+e	1	195	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:244
+%LID#0#244-1-Caracas#0#0#5
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	751	ANY
+v	3	751	ANY
+e	0	195	2
+e	1	195	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:280
+%LID#0#280-1-Pyongyang#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	591	ANY
+v	3	591	ANY
+e	0	195	2
+e	1	195	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:429
+%LID#1#429-3-2011_DPR_Korea_League#8#8#39
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	591	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	4	195	2
+#Condition
+%X
+eq-let	0	April_25_Sports_Club
+%Y
+eq-id	1	id	2	id
+##############
+%GID:642
+%LID#1#642-3-2011_DPR_Korea_League#8#8#37
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	591	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	4	195	2
+e	4	198	3
+#Condition
+%X
+eq-let	3	April_25_Sports_Club
+%Y
+eq-id	1	id	2	id
+##############
+%GID:792
+%LID#0#792-1-Pyongyang#0#0#8
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	591	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:894
+%LID#0#894-1-Premier_League#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	218	ANY
+v	4	64	ANY
+v	5	64	ANY
+e	0	107	1
+e	4	107	2
+e	4	195	3
+e	5	195	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1108
+%LID#0#1108-1-Caracas#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	751	ANY
+v	2	751	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1116
+%LID#0#1116-1-Bangkok#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

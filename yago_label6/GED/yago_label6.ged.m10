@@ -1,0 +1,102 @@
+##########
+%GID:1
+%LID#1#1-1-<Taluqan_District>#244#244#825
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+v	2	6	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	name	<Taloqan>
+%Y
+eq-id	0	id	2	id
+##########
+%GID:4
+%LID#1#4-0-<Teresina>#180#180#297
+#Pattern
+v	0	6	ANY
+v	1	10	ANY
+v	2	6	ANY
+e	0	6	1
+e	2	6	1
+#Condition
+%X
+eq-let	1	name	<http://www.teresina.pi.gov.br>
+%Y
+eq-id	0	id	2	id
+##########
+%GID:7
+%LID#1#7-0-<Garissa>#5#5#33
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	6	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	1	name	<Nairobi>
+%Y
+eq-id	0	id	2	id
+##########
+%GID:12
+%LID#1#12-0-<Pordenone>#2#2#264
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	2
+e	1	0	3
+#Condition
+%X
+eq-let	1	name	<Cormons>
+%Y
+eq-id	2	0
+##########
+%GID:14
+%LID#1#14-1-<Hokkaido>#294#294#3298
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	2
+e	1	0	3
+#Condition
+%X
+eq-let	0	name	<Nemuro>
+%Y
+eq-id	2	0
+##########
+%GID:18
+%LID#1#18-1-<Province_of_Teruel>#158#158#528
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	6	ANY
+e	0	0	1
+e	3	0	2
+#Condition
+%X
+eq-let	3	name	<Monreal_del_Campo>
+%Y
+eq-id	1	2
+##########
+%GID:22
+%LID#1#22-1-<Hokkaido>#294#294#3298
+#Pattern
+v	0	6	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	6	ANY
+e	0	0	1
+e	3	0	2
+#Condition
+%X
+eq-let	0	name	<Nemuro>
+%Y
+eq-id	1	2

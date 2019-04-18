@@ -1,0 +1,208 @@
+##############
+%GID:51
+%LID#0#51-1-Punjabis#0#0#6
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Punjabis
+##############
+%GID:86
+%LID#0#86-1-Film#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	240	ANY
+e	0	65	2
+e	1	65	2
+#Condition
+%X
+%Y
+eq-let	2	Film
+##############
+%GID:93
+%LID#0#93-1-Vicor_Music_Corporation#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	3109	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Vicor_Music_Corporation
+##############
+%GID:97
+%LID#0#97-1-Sesame_Workshop#0#0#4
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	137	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Sesame_Workshop
+##############
+%GID:100
+%LID#0#100-1-Windham_Hill_Records#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	730	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Windham_Hill_Records
+##############
+%GID:117
+%LID#0#117-1-StarKid_Productions#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	1866	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	StarKid_Productions
+##############
+%GID:120
+%LID#0#120-1-Pyramid_Saimira#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	3625	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Pyramid_Saimira
+##############
+%GID:135
+%LID#0#135-1-MGM_Distribution#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	183	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	MGM_Distribution
+##############
+%GID:183
+%LID#0#183-0-International_Villager#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	65	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	International_Villager
+##############
+%GID:264
+%LID#0#264-1-Windham_Hill_Records#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	730	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Windham_Hill_Records
+##############
+%GID:338
+%LID#0#338-1-Film#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	240	ANY
+v	2	62	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+%Y
+eq-let	1	Film
+##############
+%GID:340
+%LID#0#340-1-MGM_Distribution#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	183	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	MGM_Distribution
+##############
+%GID:349
+%LID#0#349-1-Vicor_Music_Corporation#0#0#5
+#Pattern
+v	0	62	ANY
+v	1	3109	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Vicor_Music_Corporation
+##############
+%GID:428
+%LID#0#428-1-Pyramid_Saimira#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	3625	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Pyramid_Saimira
+##############
+%GID:446
+%LID#0#446-1-Sesame_Workshop#0#0#5
+#Pattern
+v	0	62	ANY
+v	1	137	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Sesame_Workshop
+##############
+%GID:449
+%LID#0#449-1-StarKid_Productions#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	1866	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	StarKid_Productions

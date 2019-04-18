@@ -1,0 +1,58 @@
+##############
+%GID:72
+%LID#1#72-1-Savalou#7#7#15
+#Pattern
+v	0	64	ANY
+v	1	345	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Espoir_FC_(Benin)
+%Y
+eq-id	0	id	2	id
+##############
+%GID:148
+%LID#1#148-0-F.C._Excelsior#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	84	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	1	Monterrey
+%Y
+eq-id	0	id	2	id
+##############
+%GID:153
+%LID#1#153-1-Kayes#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	1489	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	AS_Sigui
+%Y
+eq-id	0	id	2	id
+##############
+%GID:368
+%LID#1#368-1-Sikasso#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1489	ANY
+v	3	64	ANY
+e	0	195	2
+e	0	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	0	Stade_Malien_de_Sikasso
+%Y
+eq-id	0	id	3	id

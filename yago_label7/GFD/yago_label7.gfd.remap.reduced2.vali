@@ -1,0 +1,318 @@
+##############
+%GID:92
+%LID#1#92-3-<T._K._Rajeev_Kumar>#3#3#33
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	25	1
+e	2	26	1
+e	3	25	1
+#Condition
+%X
+eq-let	1	<India>
+%Y
+eq-let	2	<T._K._Rajeev_Kumar>
+##############
+%GID:95
+%LID#1#95-1-<Harold_&_Kumar_Escape_from_Guantanamo_Bay>#19#19#66
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	0	<Jon_Hurwitz>
+%Y
+eq-let	1	<Harold_&_Kumar_Escape_from_Guantanamo_Bay>
+##############
+%GID:98
+%LID#1#98-0-<Steve_Berra>#3#3#6
+#Pattern
+v	0	7	ANY
+v	1	6	ANY
+v	2	7	ANY
+e	0	26	1
+e	2	26	1
+#Condition
+%X
+eq-let	2	<Patrick_Creadon>
+%Y
+eq-let	0	<Steve_Berra>
+##############
+%GID:100
+%LID#1#100-1-<Paris>#8#8#58
+#Pattern
+v	0	7	ANY
+v	1	6	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	26	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	3	<Robert_Enrico>
+%Y
+eq-let	1	<Paris>
+##############
+%GID:102
+%LID#1#102-1-<wordnet_piano_103928116>#9#9#66
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	23	1
+e	2	23	1
+e	3	23	1
+#Condition
+%X
+eq-let	0	<Jason_Lai>
+%Y
+eq-let	1	<wordnet_piano_103928116>
+##############
+%GID:103
+%LID#1#103-0-<Chuck_Menville>#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	9	ANY
+v	2	7	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	2	<Len_Janson>
+%Y
+eq-let	0	<Chuck_Menville>
+##############
+%GID:105
+%LID#1#105-1-<Los_Angeles>#40#40#198
+#Pattern
+v	0	7	ANY
+v	1	6	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	14	1
+e	2	26	1
+e	3	14	1
+#Condition
+%X
+eq-let	3	<Richard_Elfman>
+%Y
+eq-let	1	<Los_Angeles>
+##############
+%GID:108
+%LID#1#108-3-<Lourdes_Portillo>#2#2#6
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	22	1
+e	2	4	1
+e	3	4	1
+#Condition
+%X
+eq-let	3	<Susana_Blaustein_Muñoz>
+%Y
+eq-let	2	<Lourdes_Portillo>
+##############
+%GID:109
+%LID#1#109-0-<Satish_Kumar>#7#7#39
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+e	0	26	1
+e	2	26	1
+#Condition
+%X
+eq-let	2	<John_Pilger>
+%Y
+eq-let	0	<Satish_Kumar>
+##############
+%GID:110
+%LID#1#110-3-<Steve_Berra>#11#11#128
+#Pattern
+v	0	7	ANY
+v	1	6	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	14	1
+e	2	26	1
+e	3	26	1
+#Condition
+%X
+eq-let	3	<Patrick_Creadon>
+%Y
+eq-let	2	<Steve_Berra>
+##############
+%GID:114
+%LID#1#114-1-<The_Croods>#9#9#29
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	7	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	2	<Chris_Sanders_(director)>
+%Y
+eq-let	1	<The_Croods>
+##############
+%GID:115
+%LID#1#115-0-<Peter_Pau>#2#2#6
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+e	0	14	1
+e	2	14	1
+#Condition
+%X
+eq-let	2	<Quentin_Lee>
+%Y
+eq-let	0	<Peter_Pau>
+##############
+%GID:116
+%LID#0#116-3-<Sanjay_Gadhvi>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	14	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	14	1
+e	2	26	1
+e	3	14	1
+#Condition
+%X
+%Y
+eq-let	2	<Sanjay_Gadhvi>
+##############
+%GID:118
+%LID#1#118-2-<Bill_Berry>#15#15#99
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	7	ANY
+e	0	23	1
+e	2	23	1
+#Condition
+%X
+eq-let	0	<Kevin_Godley>
+%Y
+eq-let	2	<Bill_Berry>
+##############
+%GID:119
+%LID#0#119-0-<Frank_Hanly>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	20	1
+e	2	26	1
+e	3	25	1
+#Condition
+%X
+%Y
+eq-let	0	<Frank_Hanly>
+##############
+%GID:127
+%LID#1#127-2-<Quentin_Lee>#0#0#9
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	14	1
+e	2	25	1
+e	3	14	1
+#Condition
+%X
+eq-let	0	<Peter_Pau>
+%Y
+eq-let	3	<Quentin_Lee>
+##############
+%GID:131
+%LID#1#131-2-<John_Pilger>#5#5#29
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	25	1
+e	2	26	1
+e	3	26	1
+#Condition
+%X
+eq-let	2	<Satish_Kumar>
+%Y
+eq-let	3	<John_Pilger>
+##############
+%GID:132
+%LID#0#132-0-<Mick_Garris>#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	14	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+%Y
+eq-let	0	<Mick_Garris>
+##############
+%GID:134
+%LID#1#134-1-<Paris>#10#10#128
+#Pattern
+v	0	7	ANY
+v	1	6	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	14	1
+e	2	3	1
+e	3	14	1
+#Condition
+%X
+eq-let	0	<José_Giovanni>
+%Y
+eq-let	1	<Paris>
+##############
+%GID:135
+%LID#0#135-2-<Sanjay_Gadhvi>#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	14	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	14	1
+e	2	3	1
+e	3	26	1
+#Condition
+%X
+%Y
+eq-let	3	<Sanjay_Gadhvi>
+##############
+%GID:136
+%LID#1#136-0-<Steve_Berra>#12#12#25
+#Pattern
+v	0	7	ANY
+v	1	6	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	26	1
+e	2	3	1
+e	3	26	1
+#Condition
+%X
+eq-let	3	<Patrick_Creadon>
+%Y
+eq-let	0	<Steve_Berra>

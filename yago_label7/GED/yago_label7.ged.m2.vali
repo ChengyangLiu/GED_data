@@ -1,0 +1,74 @@
+##############
+%GID:6
+%LID#1#6-0-<Ronald_Goldman>#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	7	ANY
+e	0	19	1
+e	2	19	1
+#Condition
+%X
+eq-let	1	<Los_Angeles_Pierce_College>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:14
+%LID#1#14-0-<Hayao_Miyazaki>#2#2#6
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	7	ANY
+e	0	21	1
+e	2	21	1
+#Condition
+%X
+eq-let	1	<Gorō_Miyazaki>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:52
+%LID#1#52-1-<Ken_Kwapis>#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	10	2
+e	2	5	1
+e	3	10	2
+#Condition
+%X
+eq-let	0	<Marisa_Silver>
+%Y
+eq-id	0	id	3	id
+##############
+%GID:64
+%LID#1#64-0-<Chuck_Menville>#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	5	2
+e	1	5	3
+#Condition
+%X
+eq-let	1	<Len_Janson>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:103
+%LID#1#103-0-<Chuck_Menville>#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	7	ANY
+e	0	5	1
+e	3	5	2
+#Condition
+%X
+eq-let	3	<Len_Janson>
+%Y
+eq-id	1	id	2	id

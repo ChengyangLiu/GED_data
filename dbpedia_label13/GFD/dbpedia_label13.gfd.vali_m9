@@ -1,0 +1,232 @@
+##############
+%GID:1341
+%LID#0#1341-1-Band_of_Gypsys#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys
+##############
+%GID:1750
+%LID#0#1750-0-Benjamin_Speed#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:1861
+%LID#0#1861-0-Benjamin_Speed#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Benjamin_Speed
+##############
+%GID:2043
+%LID#0#2043-1-Metropolis_Rescore#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	164	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Metropolis_Rescore
+##############
+%GID:2071
+%LID#0#2071-0-Jimi_Hendrix#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	13	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Jimi_Hendrix
+##############
+%GID:2130
+%LID#0#2130-4-Adelaide#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	19	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	4	Adelaide
+##############
+%GID:2150
+%LID#0#2150-4-Creative_Vibes#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Creative_Vibes
+##############
+%GID:2346
+%LID#0#2346-2-Barclay_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Barclay_Records
+##############
+%GID:2551
+%LID#0#2551-4-Creative_Vibes#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Creative_Vibes
+##############
+%GID:2799
+%LID#0#2799-4-Adelaide#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	19	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	4	Adelaide
+##############
+%GID:3469
+%LID#0#3469-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	899	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	San_Francisco_Bay_Area
+##############
+%GID:3621
+%LID#0#3621-1-Metropolis_Rescore#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	164	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Metropolis_Rescore
+##############
+%GID:4357
+%LID#0#4357-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	899	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	San_Francisco_Bay_Area
+##############
+%GID:5059
+%LID#0#5059-0-Steve_Fox_(musician)#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Steve_Fox_(musician)

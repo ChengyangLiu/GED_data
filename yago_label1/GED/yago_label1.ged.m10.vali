@@ -1,0 +1,127 @@
+##############
+%GID:0
+%LID#1#0-1-<Berber_Revolt>#364#364#396
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Umayyad_Caliphate>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:1
+%LID#1#1-1-<http://www.lradelitzsch.de>#2#2#132
+#Pattern
+v	0	1	ANY
+v	1	10	ANY
+v	2	1	ANY
+e	0	6	1
+e	2	6	1
+#Condition
+%X
+eq-let	0	<Delitzsch_(district)>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:4
+%LID#1#4-1-<Tobagonian_Creole>#52#52#66
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	35	1
+e	2	35	1
+#Condition
+%X
+eq-let	0	<Tobago>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:5
+%LID#1#5-1-<Italian_Somaliland_somalo>#129#129#297
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	33	1
+e	2	33	1
+#Condition
+%X
+eq-let	0	<Trust_Territory_of_Somalia>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:9
+%LID#1#9-1-<Battle_of_Worringen>#220#220#297
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Berg_(state)>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:15
+%LID#1#15-1-<Lüneburg>#12#12#132
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<Lüneburg_(district)>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:16
+%LID#1#16-0-<Frogn>#120#120#561
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	1	<Akershus>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:17
+%LID#1#17-1-<Caucasian_War>#37#37#99
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	17	2
+e	1	17	3
+#Condition
+%X
+eq-let	1	<Principality_of_Mingrelia>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:20
+%LID#0#20-1-<Europe>#0#0#91
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	2
+e	1	0	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

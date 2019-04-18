@@ -1,0 +1,45 @@
+##########
+%GID:61
+%LID#1#61-1-<Louisville,_Kentucky>#10#10#35
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	14	2
+e	1	14	3
+#Condition
+%X
+eq-let	1	name	<William_Girdler>
+%Y
+eq-id	2	0
+##########
+%GID:68
+%LID#1#68-1-<Andhra_Pradesh>#4#4#29
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	26	2
+e	1	26	3
+#Condition
+%X
+eq-let	1	name	<V._V._Vinayak>
+%Y
+eq-id	2	0
+##########
+%GID:109
+%LID#1#109-0-<Satish_Kumar>#7#7#39
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	7	ANY
+e	0	26	1
+e	3	26	2
+#Condition
+%X
+eq-let	3	name	<John_Pilger>
+%Y
+eq-id	1	2

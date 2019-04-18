@@ -1,0 +1,56 @@
+##############
+%GID:2
+%LID#1#2-1-<University_of_Massachusetts_Amherst>#7#7#15
+#Pattern
+v	0	7	ANY
+v	1	11	ANY
+v	2	7	ANY
+e	0	19	1
+e	2	19	1
+#Condition
+%X
+eq-let	0	<Jonathan_Hensleigh>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:22
+%LID#1#22-1-<Horror_comics>#5#5#15
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	7	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	0	<Robert_Tinnell>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:39
+%LID#1#39-1-<Singapore>#4#4#14
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+e	0	14	1
+e	2	14	1
+#Condition
+%X
+eq-let	0	<Cheng_Ding_An>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:44
+%LID#1#44-0-<Satyen_Bose_(director)>#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	14	ANY
+v	2	7	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+eq-let	1	<Mumbai>
+%Y
+eq-id	0	id	2	id

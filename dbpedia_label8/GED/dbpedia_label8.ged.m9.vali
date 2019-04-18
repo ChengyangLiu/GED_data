@@ -1,0 +1,68 @@
+##############
+%GID:1511
+%LID#1#1511-3-Fervent_Records#8#8#33
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	75	3
+#Condition
+%X
+eq-let	3	Dara_Maclean
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2409
+%LID#1#2409-0-Dara_Maclean#3#3#37
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	75	3
+e	4	39	2
+#Condition
+%X
+eq-let	2	Fervent_Records
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2534
+%LID#1#2534-3-Pop_music#2#2#33
+#Pattern
+v	0	8	ANY
+v	1	356	ANY
+v	2	356	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	65	3
+e	4	39	2
+#Condition
+%X
+eq-let	0	Kashy_Keegan
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3279
+%LID#1#3279-0-Jessica_Sutta#6#6#29
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	75	3
+e	4	16	2
+#Condition
+%X
+eq-let	2	A&M_Records
+%Y
+eq-id	1	id	2	id

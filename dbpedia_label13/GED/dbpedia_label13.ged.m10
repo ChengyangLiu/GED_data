@@ -1,0 +1,244 @@
+##########
+%GID:244
+%LID#0#244-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	171	ANY
+v	3	171	ANY
+e	0	74	2
+e	1	74	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:840
+%LID#0#840-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:1361
+%LID#0#1361-2-Telex_(band)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:2093
+%LID#0#2093-0-Genghis_Tron#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	386	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	11	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	5	75	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:2133
+%LID#0#2133-0-American_Music_Club#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	5	75	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:2570
+%LID#0#2570-2-Victor_Entertainment#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	59	ANY
+v	2	32	ANY
+v	3	32	ANY
+v	4	32	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	5	75	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:2921
+%LID#0#2921-3-Sixstepsrecords#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	11	ANY
+v	5	13	ANY
+e	0	109	1
+e	0	75	3
+e	0	75	2
+e	5	75	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:3007
+%LID#0#3007-0-Keith_Sweat#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	128	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:3030
+%LID#0#3030-1-Rome#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:3087
+%LID#0#3087-2-Jovanotti#0#0#8
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:3573
+%LID#0#3573-3-Sixstepsrecords#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	11	ANY
+v	5	13	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+e	5	75	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:3717
+%LID#0#3717-3-True_North_Records#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	1	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:4050
+%LID#0#4050-3-True_North_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	1	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:4672
+%LID#0#4672-1-Harlem#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	128	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	2

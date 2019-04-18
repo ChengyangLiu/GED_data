@@ -1,0 +1,335 @@
+##############
+%GID:211
+%LID#1#211-1-<California>#1#1#33
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	20	1
+e	2	26	1
+e	3	26	1
+#Condition
+%X
+eq-let	2	<Kip_Pardue>
+%Y
+eq-let	1	<California>
+##############
+%GID:212
+%LID#1#212-1-<Judson_Pearce_Morgan>#5#5#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	10	1
+e	1	14	3
+e	2	14	3
+#Condition
+%X
+eq-let	2	<Kim_Miyori>
+%Y
+eq-let	1	<Judson_Pearce_Morgan>
+##############
+%GID:216
+%LID#1#216-1-<United_Kingdom>#5#5#99
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	25	1
+e	2	26	1
+e	3	25	1
+#Condition
+%X
+eq-let	2	<Corey_Johnson_(actor)>
+%Y
+eq-let	1	<United_Kingdom>
+##############
+%GID:220
+%LID#1#220-0-<Fay_Ripley>#12#12#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	14	ANY
+e	0	10	1
+e	1	14	3
+e	2	3	3
+#Condition
+%X
+eq-let	2	<John_Hargreaves_(actor)>
+%Y
+eq-let	0	<Fay_Ripley>
+##############
+%GID:221
+%LID#1#221-1-<Royal_Academy_of_Dramatic_Art>#15#15#99
+#Pattern
+v	0	13	ANY
+v	1	15	ANY
+v	2	13	ANY
+e	0	19	1
+e	2	19	1
+#Condition
+%X
+eq-let	2	<Jerry_Hardin>
+%Y
+eq-let	1	<Royal_Academy_of_Dramatic_Art>
+##############
+%GID:223
+%LID#0#223-1-<George_Lam>#0#0#27
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	10	1
+e	1	14	3
+e	2	14	3
+#Condition
+%X
+%Y
+eq-let	1	<George_Lam>
+##############
+%GID:226
+%LID#1#226-2-<George_Hamilton_(actor)>#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+e	0	21	1
+e	2	21	1
+#Condition
+%X
+eq-let	0	<Alana_Stewart>
+%Y
+eq-let	2	<George_Hamilton_(actor)>
+##############
+%GID:227
+%LID#1#227-1-<Los_Angeles>#175#175#1451
+#Pattern
+v	0	13	ANY
+v	1	6	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	14	1
+e	2	3	1
+e	3	14	1
+#Condition
+%X
+eq-let	3	<Randy_Spelling>
+%Y
+eq-let	1	<Los_Angeles>
+##############
+%GID:228
+%LID#0#228-1-<David_Troughton>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+e	0	21	1
+e	1	21	2
+#Condition
+%X
+%Y
+eq-let	1	<David_Troughton>
+##############
+%GID:230
+%LID#0#230-0-<Maria_Charles>#0#0#52
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	12	ANY
+e	0	21	1
+e	1	9	3
+e	2	9	3
+#Condition
+%X
+%Y
+eq-let	0	<Maria_Charles>
+##############
+%GID:231
+%LID#0#231-2-<Gawn_Grainger>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	3	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	1	1
+e	2	10	3
+e	3	10	0
+#Condition
+%X
+%Y
+eq-let	3	<Gawn_Grainger>
+##############
+%GID:232
+%LID#1#232-1-<Bill_Cosby>#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+e	0	11	1
+e	2	11	1
+#Condition
+%X
+eq-let	0	<Moms_Mabley>
+%Y
+eq-let	1	<Bill_Cosby>
+##############
+%GID:235
+%LID#1#235-1-<Magritte_Award>#25#25#66
+#Pattern
+v	0	13	ANY
+v	1	3	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	1	1
+e	2	10	3
+e	3	1	1
+#Condition
+%X
+eq-let	0	<Lubna_Azabal>
+%Y
+eq-let	1	<Magritte_Award>
+##############
+%GID:236
+%LID#1#236-1-<Newport_Beach,_California>#145#145#1814
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	13	ANY
+e	0	14	1
+e	2	14	1
+#Condition
+%X
+eq-let	2	<Alexis_Thorpe>
+%Y
+eq-let	1	<Newport_Beach,_California>
+##############
+%GID:239
+%LID#1#239-3-<The_Hawk_Is_Dying>#6#6#29
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	10	1
+e	1	13	2
+e	3	10	0
+#Condition
+%X
+eq-let	0	<Rip_Torn>
+%Y
+eq-let	2	<The_Hawk_Is_Dying>
+##############
+%GID:241
+%LID#1#241-2-<Code_Red_(TV_series)>#17#17#198
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	8	ANY
+e	0	10	1
+e	1	13	3
+e	2	13	3
+#Condition
+%X
+eq-let	2	<Martina_Deignan>
+%Y
+eq-let	3	<Code_Red_(TV_series)>
+##############
+%GID:242
+%LID#1#242-1-<Vancouver>#108#108#874
+#Pattern
+v	0	13	ANY
+v	1	14	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	14	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	0	<Zachary_Ansley>
+%Y
+eq-let	1	<Vancouver>
+##############
+%GID:244
+%LID#1#244-2-<Alan_Lake>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	10	1
+e	1	13	2
+e	3	10	1
+#Condition
+%X
+eq-let	0	<Richard_Dawson>
+%Y
+eq-let	3	<Alan_Lake>
+##############
+%GID:245
+%LID#0#245-0-<Roger_Smith_(actor)>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	8	ANY
+e	0	10	1
+e	1	13	3
+e	2	8	3
+#Condition
+%X
+%Y
+eq-let	0	<Roger_Smith_(actor)>
+##############
+%GID:247
+%LID#0#247-2-<United_Kingdom>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	10	1
+e	1	25	3
+e	2	25	3
+#Condition
+%X
+%Y
+eq-let	3	<United_Kingdom>
+##############
+%GID:250
+%LID#1#250-2-<Los_Angeles>#180#180#1649
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	6	ANY
+e	0	10	1
+e	1	3	3
+e	2	3	3
+#Condition
+%X
+eq-let	2	<Sara_Haden>
+%Y
+eq-let	3	<Los_Angeles>
+##############
+%GID:251
+%LID#0#251-0-<Ronit_Roy>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	14	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	26	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+%Y
+eq-let	0	<Ronit_Roy>

@@ -1,0 +1,79 @@
+##############
+%GID:7
+%LID#1#7-0-<Bob_Brookmeyer>#0#0#15
+#Pattern
+v	0	8	ANY
+v	1	11	ANY
+e	0	3	1
+#Condition
+%X
+eq-let	1	<New_London,_New_Hampshire>
+%Y
+eq-let	0	<Bob_Brookmeyer>
+##############
+%GID:39
+%LID#1#39-0-<Marat_Bisengaliev>#9#9#15
+#Pattern
+v	0	8	ANY
+v	1	2	ANY
+e	0	21	1
+#Condition
+%X
+eq-let	1	<Aruhan_Galieva>
+%Y
+eq-let	0	<Marat_Bisengaliev>
+##############
+%GID:54
+%LID#0#54-2-<Per_Husby>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	25	2
+#Condition
+%X
+%Y
+eq-let	1	<Per_Husby>
+##############
+%GID:65
+%LID#0#65-1-<Paris>#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	3	2
+#Condition
+%X
+%Y
+eq-let	2	<Paris>
+##############
+%GID:70
+%LID#1#70-0-<Palmy_Days>#1#1#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	8	0
+#Condition
+%X
+eq-let	1	<Harry_Akst>
+%Y
+eq-let	0	<Palmy_Days>
+##############
+%GID:220
+%LID#0#220-3-<Nicole_Lai>#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	14	1
+e	2	3	1
+e	3	14	1
+#Condition
+%X
+%Y
+eq-let	2	<Nicole_Lai>

@@ -1,0 +1,255 @@
+##############
+%GID:13
+%LID#0#13-1-<Dongguk_University>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	5	ANY
+e	0	19	1
+#Condition
+%X
+%Y
+eq-let	1	<Dongguk_University>
+##############
+%GID:25
+%LID#1#25-1-<Gautam_Chattopadhyay>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+e	0	21	1
+#Condition
+%X
+eq-let	0	<Uttam_Kumar>
+%Y
+eq-let	1	<Gautam_Chattopadhyay>
+##############
+%GID:69
+%LID#1#69-2-<George_Hamilton_(actor)>#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	2	ANY
+e	0	21	2
+e	1	21	2
+#Condition
+%X
+eq-let	0	<Alana_Stewart>
+%Y
+eq-let	1	<George_Hamilton_(actor)>
+##############
+%GID:74
+%LID#1#74-2-<Sydney>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	14	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	14	1
+#Condition
+%X
+eq-let	0	<Fay_Ripley>
+%Y
+eq-let	1	<Sydney>
+##############
+%GID:95
+%LID#1#95-2-<California>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	26	1
+#Condition
+%X
+eq-let	0	<Poppy_Montgomery>
+%Y
+eq-let	1	<California>
+##############
+%GID:100
+%LID#1#100-2-<Richard_Jeni>#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	2	ANY
+e	0	11	2
+e	1	11	2
+#Condition
+%X
+eq-let	0	<Andrew_Dice_Clay>
+%Y
+eq-let	1	<Richard_Jeni>
+##############
+%GID:106
+%LID#1#106-2-<Janice_Vidal>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	10	ANY
+e	0	6	2
+e	1	6	2
+#Condition
+%X
+eq-let	0	<Andy_Hui>
+%Y
+eq-let	1	<Janice_Vidal>
+##############
+%GID:112
+%LID#1#112-0-<Polly_Ann_Young>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	1	<Paul_Stanton_(actor)>
+%Y
+eq-let	0	<Polly_Ann_Young>
+##############
+%GID:131
+%LID#1#131-1-<Roma_Downey>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	15	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	19	1
+#Condition
+%X
+eq-let	1	<University_of_Santa_Monica>
+%Y
+eq-let	2	<Roma_Downey>
+##############
+%GID:138
+%LID#1#138-3-<The_Hawk_Is_Dying>#7#7#29
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	10	1
+e	1	10	3
+e	3	13	2
+#Condition
+%X
+eq-let	0	<Amy_Wright>
+%Y
+eq-let	2	<The_Hawk_Is_Dying>
+##############
+%GID:146
+%LID#0#146-2-<Santa_Barbara,_California>#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	10	1
+e	1	14	3
+e	2	3	3
+#Condition
+%X
+%Y
+eq-let	3	<Santa_Barbara,_California>
+##############
+%GID:154
+%LID#0#154-1-<Richard_Schiff>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	10	1
+e	1	7	3
+e	2	7	3
+#Condition
+%X
+%Y
+eq-let	1	<Richard_Schiff>
+##############
+%GID:164
+%LID#1#164-2-<Richard_Jeni>#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+e	0	11	1
+e	2	11	1
+#Condition
+%X
+eq-let	0	<Andrew_Dice_Clay>
+%Y
+eq-let	2	<Richard_Jeni>
+##############
+%GID:185
+%LID#1#185-0-<Polly_Ann_Young>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+v	2	13	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	2	<Paul_Stanton_(actor)>
+%Y
+eq-let	0	<Polly_Ann_Young>
+##############
+%GID:204
+%LID#1#204-2-<Janice_Vidal>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	10	ANY
+v	2	13	ANY
+e	0	6	1
+e	2	6	1
+#Condition
+%X
+eq-let	0	<Andy_Hui>
+%Y
+eq-let	2	<Janice_Vidal>
+##############
+%GID:226
+%LID#1#226-2-<George_Hamilton_(actor)>#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	13	ANY
+e	0	21	1
+e	2	21	1
+#Condition
+%X
+eq-let	0	<Alana_Stewart>
+%Y
+eq-let	2	<George_Hamilton_(actor)>
+##############
+%GID:239
+%LID#1#239-3-<The_Hawk_Is_Dying>#6#6#29
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	10	1
+e	1	13	2
+e	3	10	0
+#Condition
+%X
+eq-let	0	<Rip_Torn>
+%Y
+eq-let	2	<The_Hawk_Is_Dying>
+##############
+%GID:244
+%LID#1#244-2-<Alan_Lake>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	10	1
+e	1	13	2
+e	3	10	1
+#Condition
+%X
+eq-let	0	<Richard_Dawson>
+%Y
+eq-let	3	<Alan_Lake>

@@ -1,0 +1,127 @@
+##############
+%GID:24
+%LID#1#24-0-Khan_Research_Laboratories_F.C.#6#6#14
+#Pattern
+v	0	64	ANY
+v	1	245	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	1	Rawalpindi
+%Y
+eq-id	0	id	2	id
+##############
+%GID:68
+%LID#1#68-0-San_Diego_Spirit#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	1	San_Diego
+%Y
+eq-id	0	id	2	id
+##############
+%GID:69
+%LID#1#69-0-Paide_Linnameeskond_II#7#7#15
+#Pattern
+v	0	64	ANY
+v	1	1171	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	1	Paide
+%Y
+eq-id	0	id	2	id
+##############
+%GID:493
+%LID#1#493-2-FC_Talanta#6#6#25
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	595	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	4	195	2
+e	4	197	3
+#Condition
+%X
+eq-let	2	Michael_Nam
+%Y
+eq-id	1	id	2	id
+##############
+%GID:508
+%LID#1#508-0-Garankuwa_United_F.C.#9#9#33
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	401	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	2	M_Tigers_F.C.
+%Y
+eq-id	1	id	2	id
+##############
+%GID:572
+%LID#1#572-3-Michael_Nam#5#5#27
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	595	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	4	195	2
+#Condition
+%X
+eq-let	3	Ligi_Ndogo_S.C._Academy
+%Y
+eq-id	1	id	2	id
+##############
+%GID:973
+%LID#0#973-3-DPR_Korea_League_2006_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	591	ANY
+v	3	1	ANY
+v	4	64	ANY
+v	5	64	ANY
+e	0	195	1
+e	4	195	2
+e	4	198	3
+e	5	198	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1122
+%LID#0#1122-0-Moranbong_Sports_Club#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	591	ANY
+v	3	1	ANY
+v	4	64	ANY
+v	5	64	ANY
+e	0	195	1
+e	0	198	3
+e	4	195	2
+e	5	198	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

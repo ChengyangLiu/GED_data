@@ -1,0 +1,48 @@
+##########
+%GID:749
+%LID#0#749-2-Warner_Music_Canada#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:824
+%LID#0#824-2-Six_Degrees_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	188	ANY
+v	2	13	ANY
+v	3	11	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:842
+%LID#0#842-2-Warner_Music_Canada#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	470	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-id	3	0

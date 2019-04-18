@@ -1,0 +1,343 @@
+##########
+%GID:72
+%LID#1#72-1-Savalou#7#7#15
+#Pattern
+v	0	64	ANY
+v	1	345	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	name	Espoir_FC_(Benin)
+%Y
+eq-id	0	id	2	id
+##########
+%GID:138
+%LID#1#138-1-Cheltenham#1#1#15
+#Pattern
+v	0	64	ANY
+v	1	412	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	name	Cheltenham_Town_F.C.
+%Y
+eq-id	0	id	2	id
+##########
+%GID:148
+%LID#1#148-0-F.C._Excelsior#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	84	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	1	name	Monterrey
+%Y
+eq-id	0	id	2	id
+##########
+%GID:153
+%LID#1#153-1-Kayes#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	1489	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	name	AS_Sigui
+%Y
+eq-id	0	id	2	id
+##########
+%GID:368
+%LID#1#368-1-Sikasso#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1489	ANY
+v	3	64	ANY
+e	0	195	2
+e	0	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	0	name	Stade_Malien_de_Sikasso
+%Y
+eq-id	0	id	3	id
+##########
+%GID:432
+%LID#0#432-1-Sohag#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	3881	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:452
+%LID#1#452-0-FK_Vardar#9#9#33
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	4
+#Condition
+%X
+eq-let	2	name	FK_Sileks
+%Y
+eq-id	3	0
+##########
+%GID:482
+%LID#0#482-2-2010_NPSL_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	21	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:483
+%LID#0#483-2-Ethiopia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1176	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:528
+%LID#0#528-0-Shahid_Mansouri_Gharchak_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	110	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:614
+%LID#0#614-2-2014_Major_League_Soccer_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:622
+%LID#0#622-1-Rome#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	77	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:656
+%LID#0#656-0-Mälarhöjdens_IK#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	2251	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:660
+%LID#0#660-2-2014_Major_League_Soccer_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	23	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:737
+%LID#0#737-0-Shahid_Mansouri_Gharchak_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	110	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	64	ANY
+e	0	195	1
+e	0	197	4
+e	0	198	2
+e	5	198	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:773
+%LID#0#773-3-2010_NPSL_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	21	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	64	ANY
+e	0	195	1
+e	0	197	4
+e	0	198	2
+e	5	198	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:834
+%LID#0#834-2-Ethiopia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1176	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	5
+e	2	195	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:849
+%LID#0#849-1-Rome#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	77	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	9	ANY
+v	5	64	ANY
+e	0	195	1
+e	0	197	4
+e	0	198	2
+e	5	198	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:948
+%LID#0#948-0-San_Jose_Earthquakes#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	11	ANY
+v	5	64	ANY
+e	0	195	1
+e	0	195	4
+e	0	198	2
+e	5	198	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:1068
+%LID#0#1068-0-San_Jose_Earthquakes#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	9	ANY
+v	5	64	ANY
+e	0	195	1
+e	0	197	4
+e	0	198	2
+e	5	198	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:1164
+%LID#0#1164-0-D.C._United#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	23	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	9	ANY
+v	5	64	ANY
+e	0	195	1
+e	0	197	4
+e	0	198	2
+e	5	198	3
+#Condition
+%X
+%Y
+eq-id	2	3

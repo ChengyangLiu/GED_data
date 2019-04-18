@@ -1,0 +1,4370 @@
+##############
+%GID:1
+%LID#0#1-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	25	ANY
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:2
+%LID#1#2-0-Sweet_Sensation_(The_Embassy_album)#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	2	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	1	International
+%Y
+eq-let	0	Sweet_Sensation_(The_Embassy_album)
+##############
+%GID:3
+%LID#0#3-1-Malayalam_cinema#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	3	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Malayalam_cinema
+##############
+%GID:9
+%LID#0#9-1-HMV#0#0#9
+#Pattern
+v	0	62	ANY
+v	1	229	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	HMV
+##############
+%GID:10
+%LID#0#10-0-Stan_Getz_Meets_João_&_Astrud_Gilberto#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	388	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Stan_Getz_Meets_João_&_Astrud_Gilberto
+##############
+%GID:11
+%LID#0#11-0-Figgas_4_Life#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	3226	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Figgas_4_Life
+##############
+%GID:16
+%LID#0#16-1-Pyramid_Saimira#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	3625	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Pyramid_Saimira
+##############
+%GID:18
+%LID#0#18-0-Genesis:_Together_and_Apart#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	220	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Genesis:_Together_and_Apart
+##############
+%GID:19
+%LID#0#19-1-Vicor_Music_Corporation#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	3109	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Vicor_Music_Corporation
+##############
+%GID:20
+%LID#0#20-1-CBS#0#0#5
+#Pattern
+v	0	62	ANY
+v	1	184	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	CBS
+##############
+%GID:21
+%LID#1#21-1-MGM_Distribution#3#3#14
+#Pattern
+v	0	62	ANY
+v	1	183	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	The_Pilgrim_(Owen_Campbell_album)
+%Y
+eq-let	1	MGM_Distribution
+##############
+%GID:22
+%LID#0#22-0-Reunion_(Viggo_Mortensen_album)#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	2064	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Reunion_(Viggo_Mortensen_album)
+##############
+%GID:23
+%LID#0#23-0-Heliopolis_(album)#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	5016	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Heliopolis_(album)
+##############
+%GID:24
+%LID#0#24-1-S2S_Pte._Ltd.#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	4047	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	S2S_Pte._Ltd.
+##############
+%GID:25
+%LID#0#25-1-California#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	1	California
+##############
+%GID:28
+%LID#1#28-1-Sesame_Workshop#5#5#14
+#Pattern
+v	0	62	ANY
+v	1	137	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Aren't_You_Glad_You're_You%3F
+%Y
+eq-let	1	Sesame_Workshop
+##############
+%GID:29
+%LID#0#29-1-Mathrubhumi#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	214	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Mathrubhumi
+##############
+%GID:30
+%LID#0#30-1-Windham_Hill_Records#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	730	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Windham_Hill_Records
+##############
+%GID:31
+%LID#0#31-0-Dreams_of_Childhood#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	572	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Dreams_of_Childhood
+##############
+%GID:32
+%LID#0#32-0-Life,_Liberty_&_the_Pursuit_of_Free_Downloads#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	4395	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Life,_Liberty_&_the_Pursuit_of_Free_Downloads
+##############
+%GID:33
+%LID#0#33-1-J_Storm#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	2375	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	J_Storm
+##############
+%GID:35
+%LID#0#35-1-Christmas#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	278	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Christmas
+##############
+%GID:36
+%LID#0#36-1-Gael_Linn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1081	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Gael_Linn
+##############
+%GID:38
+%LID#1#38-1-Most_Valuable_Player#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	15	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Pobre_Corazón
+%Y
+eq-let	1	Most_Valuable_Player
+##############
+%GID:39
+%LID#0#39-1-Philips#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	403	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Philips
+##############
+%GID:40
+%LID#1#40-1-Mod_Mobilian#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	722	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	My_Dearest_Darkest_Neighbor
+%Y
+eq-let	1	Mod_Mobilian
+##############
+%GID:41
+%LID#0#41-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+e	0	109	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:42
+%LID#1#42-1-DreamWorks#5#5#14
+#Pattern
+v	0	62	ANY
+v	1	200	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Take_Back_the_Universe_and_Give_Me_Yesterday
+%Y
+eq-let	1	DreamWorks
+##############
+%GID:43
+%LID#1#43-1-Warner_Home_Video#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	684	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Alice_Cooper:_The_Nightmare
+%Y
+eq-let	1	Warner_Home_Video
+##############
+%GID:44
+%LID#0#44-0-Tragedy_(album)#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	53	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Tragedy_(album)
+##############
+%GID:45
+%LID#0#45-1-Fox_Video#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	2678	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Fox_Video
+##############
+%GID:47
+%LID#0#47-1-Australian_Broadcasting_Corporation#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	164	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Australian_Broadcasting_Corporation
+##############
+%GID:48
+%LID#0#48-1-StarKid_Productions#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	1866	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	StarKid_Productions
+##############
+%GID:50
+%LID#0#50-1-Tiger_Media_Limited#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	3848	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Tiger_Media_Limited
+##############
+%GID:51
+%LID#0#51-1-Punjabis#0#0#6
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Punjabis
+##############
+%GID:53
+%LID#0#53-0-Phantom_(2015_film)__Phantom__1#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	3571	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Phantom_(2015_film)__Phantom__1
+##############
+%GID:54
+%LID#0#54-1-Webzen_Games#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	3378	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Webzen_Games
+##############
+%GID:55
+%LID#0#55-1-Film#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	240	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Film
+##############
+%GID:58
+%LID#1#58-1-Hollywood_Fame#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	64	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Tha_Return
+%Y
+eq-let	1	Hollywood_Fame
+##############
+%GID:60
+%LID#0#60-1-Brooklyn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	121	ANY
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	1	Brooklyn
+##############
+%GID:61
+%LID#0#61-0-The_Expendables_(2010_film)__The_Expendables:_Original_Motion_Picture_Soundtrac__1#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1192	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	The_Expendables_(2010_film)__The_Expendables:_Original_Motion_Picture_Soundtrac__1
+##############
+%GID:62
+%LID#0#62-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+e	0	109	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:64
+%LID#0#64-0-Cheerful_Sensibility#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	836	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Cheerful_Sensibility
+##############
+%GID:65
+%LID#0#65-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+e	0	110	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:69
+%LID#0#69-0-Kellylicious#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	292	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Kellylicious
+##############
+%GID:70
+%LID#1#70-1-Syco#7#7#13
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Avatar:_Music_from_the_Motion_Picture
+%Y
+eq-let	1	Syco
+##############
+%GID:71
+%LID#0#71-0-Graphite_(album)#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	2268	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Graphite_(album)
+##############
+%GID:72
+%LID#0#72-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+e	0	110	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:77
+%LID#0#77-0-Un_Año_de_Conciertos#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	196	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Un_Año_de_Conciertos
+##############
+%GID:79
+%LID#1#79-1-Nobel_Prize_in_Literature#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	15	ANY
+e	0	65	1
+#Condition
+%X
+eq-let	0	Art,_Truth_and_Politics
+%Y
+eq-let	1	Nobel_Prize_in_Literature
+##############
+%GID:80
+%LID#0#80-1-Showtunes#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	217	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Showtunes
+##############
+%GID:82
+%LID#0#82-1-Raga#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Raga
+##############
+%GID:83
+%LID#1#83-0-Myths_and_Other_Legends#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	53	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	1	Metro_Music
+%Y
+eq-let	0	Myths_and_Other_Legends
+##############
+%GID:84
+%LID#1#84-1-Vice_(magazine)#1#1#8
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	The_Supreme_Genius_of_King_Khan_and_the_Shrines
+%Y
+eq-let	1	Vice_(magazine)
+##############
+%GID:86
+%LID#0#86-1-Film#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	240	ANY
+e	0	65	2
+e	1	65	2
+#Condition
+%X
+%Y
+eq-let	2	Film
+##############
+%GID:87
+%LID#0#87-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	11	ANY
+v	2	9	ANY
+e	0	110	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:88
+%LID#0#88-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	13	ANY
+v	2	1	ANY
+e	0	109	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:89
+%LID#0#89-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	25	ANY
+v	2	9	ANY
+e	0	110	2
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:91
+%LID#0#91-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	9	ANY
+e	0	110	2
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:92
+%LID#0#92-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	121	ANY
+v	2	1	ANY
+e	0	109	2
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:93
+%LID#0#93-1-Vicor_Music_Corporation#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	3109	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Vicor_Music_Corporation
+##############
+%GID:94
+%LID#0#94-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	11	ANY
+v	2	25	ANY
+e	0	74	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:95
+%LID#0#95-1-Showtunes#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	1866	ANY
+v	2	217	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Showtunes
+##############
+%GID:96
+%LID#0#96-2-Anthology_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	109	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Anthology_Recordings
+##############
+%GID:97
+%LID#0#97-1-Sesame_Workshop#0#0#4
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	137	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Sesame_Workshop
+##############
+%GID:98
+%LID#0#98-2-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	109	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Mercury_Records
+##############
+%GID:99
+%LID#0#99-1-Film#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	39	ANY
+v	2	240	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Film
+##############
+%GID:100
+%LID#0#100-1-Windham_Hill_Records#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	730	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Windham_Hill_Records
+##############
+%GID:101
+%LID#0#101-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	13	ANY
+v	2	1	ANY
+e	0	110	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:103
+%LID#0#103-1-Brooklyn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+e	0	74	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Brooklyn
+##############
+%GID:104
+%LID#0#104-1-Brooklyn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	121	ANY
+e	0	74	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Brooklyn
+##############
+%GID:105
+%LID#0#105-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	11	ANY
+v	2	9	ANY
+e	0	109	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:106
+%LID#1#106-0-The_Supreme_Genius_of_King_Khan_and_the_Shrines#3#3#6
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	10	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	1	Only_the_Dead_See_the_End_of_the_War
+%Y
+eq-let	0	The_Supreme_Genius_of_King_Khan_and_the_Shrines
+##############
+%GID:107
+%LID#0#107-2-Def_Jam_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	8	ANY
+v	2	200	ANY
+e	0	75	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Def_Jam_Recordings
+##############
+%GID:108
+%LID#0#108-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	25	ANY
+v	2	9	ANY
+e	0	109	2
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:110
+%LID#0#110-2-Nadiadwala_Grandson_Entertainment#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	39	ANY
+v	2	3571	ANY
+e	0	75	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Nadiadwala_Grandson_Entertainment
+##############
+%GID:111
+%LID#0#111-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	9	ANY
+e	0	109	2
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:112
+%LID#0#112-1-Showtunes#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	11	ANY
+v	2	217	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Showtunes
+##############
+%GID:113
+%LID#0#113-1-California#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	25	ANY
+v	2	19	ANY
+e	0	74	2
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	2	California
+##############
+%GID:114
+%LID#0#114-0-_Wild_East#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+e	0	65	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	_Wild_East
+##############
+%GID:115
+%LID#0#115-1-California#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	11	ANY
+v	2	19	ANY
+e	0	74	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	California
+##############
+%GID:116
+%LID#0#116-0-Come_(1_album)#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	11	ANY
+v	2	19	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Come_(1_album)
+##############
+%GID:117
+%LID#0#117-1-StarKid_Productions#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	1866	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	StarKid_Productions
+##############
+%GID:118
+%LID#1#118-1-Syco#9#9#33
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	234	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	0	Avatar:_Music_from_the_Motion_Picture
+%Y
+eq-let	2	Syco
+##############
+%GID:120
+%LID#0#120-1-Pyramid_Saimira#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	3625	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Pyramid_Saimira
+##############
+%GID:121
+%LID#0#121-1-S2S_Pte._Ltd.#0#0#5
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	4047	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	S2S_Pte._Ltd.
+##############
+%GID:122
+%LID#0#122-2-Pyramid_Saimira#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	3625	ANY
+v	2	234	ANY
+e	0	75	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Pyramid_Saimira
+##############
+%GID:123
+%LID#0#123-2-Anthology_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	110	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Anthology_Recordings
+##############
+%GID:125
+%LID#0#125-2-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	110	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Mercury_Records
+##############
+%GID:126
+%LID#0#126-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	121	ANY
+v	2	1	ANY
+e	0	110	2
+e	0	74	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:127
+%LID#0#127-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	109	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:128
+%LID#0#128-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	109	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:129
+%LID#0#129-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	109	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:130
+%LID#0#130-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	109	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:131
+%LID#0#131-1-Christmas#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	13	ANY
+v	2	278	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Christmas
+##############
+%GID:132
+%LID#1#132-1-Horror_fiction#0#0#6
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	15	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+eq-let	0	Realm_of_Shadows
+%Y
+eq-let	2	Horror_fiction
+##############
+%GID:133
+%LID#0#133-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	110	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:134
+%LID#0#134-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	110	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:135
+%LID#0#135-1-MGM_Distribution#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	183	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	MGM_Distribution
+##############
+%GID:136
+%LID#0#136-1-Brooklyn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	13	ANY
+v	2	121	ANY
+e	0	74	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Brooklyn
+##############
+%GID:138
+%LID#0#138-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	110	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:139
+%LID#0#139-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	110	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:140
+%LID#1#140-2-Come_(1_album)#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	19	ANY
+e	0	65	2
+e	1	65	2
+#Condition
+%X
+eq-let	0	_Wild_East
+%Y
+eq-let	1	Come_(1_album)
+##############
+%GID:141
+%LID#0#141-0-International_Villager#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	10	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	International_Villager
+##############
+%GID:144
+%LID#1#144-2-Aerosmith_Video_Scrapbook#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	2678	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	0	CherFitness:_A_New_Attitude
+%Y
+eq-let	1	Aerosmith_Video_Scrapbook
+##############
+%GID:147
+%LID#0#147-1-California#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	11	ANY
+v	3	25	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	California
+##############
+%GID:148
+%LID#0#148-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:149
+%LID#0#149-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:150
+%LID#0#150-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:151
+%LID#0#151-1-Brooklyn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	121	ANY
+v	2	9	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Brooklyn
+##############
+%GID:152
+%LID#0#152-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:153
+%LID#0#153-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:155
+%LID#0#155-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:156
+%LID#0#156-2-Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	3625	ANY
+v	3	62	ANY
+e	0	75	1
+e	0	75	2
+e	3	75	1
+#Condition
+%X
+%Y
+eq-let	3	Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1
+##############
+%GID:158
+%LID#0#158-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:159
+%LID#1#159-2-Folk_rock#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	2	Indie_folk
+%Y
+eq-let	3	Folk_rock
+##############
+%GID:161
+%LID#0#161-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	19	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:163
+%LID#0#163-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:164
+%LID#1#164-2-Psychedelic_rock#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	2	Hard_rock
+%Y
+eq-let	3	Psychedelic_rock
+##############
+%GID:165
+%LID#0#165-0-Come_(1_album)#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	11	ANY
+v	3	62	ANY
+e	0	65	1
+e	0	75	2
+e	3	65	1
+#Condition
+%X
+%Y
+eq-let	0	Come_(1_album)
+##############
+%GID:167
+%LID#0#167-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:169
+%LID#0#169-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:174
+%LID#0#174-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:175
+%LID#0#175-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	121	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:176
+%LID#1#176-2-Aerosmith_Video_Scrapbook#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	2678	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	CherFitness:_A_New_Attitude
+%Y
+eq-let	2	Aerosmith_Video_Scrapbook
+##############
+%GID:177
+%LID#0#177-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	11	ANY
+e	0	110	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:178
+%LID#0#178-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:179
+%LID#0#179-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:180
+%LID#0#180-1-Brooklyn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	121	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Brooklyn
+##############
+%GID:181
+%LID#0#181-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	121	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:182
+%LID#0#182-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:183
+%LID#0#183-0-International_Villager#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	65	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	International_Villager
+##############
+%GID:184
+%LID#0#184-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:185
+%LID#0#185-0-_Wild_East#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	11	ANY
+v	3	62	ANY
+e	0	65	1
+e	3	65	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	_Wild_East
+##############
+%GID:186
+%LID#1#186-2-Folk_rock#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	2	Indie_folk
+%Y
+eq-let	3	Folk_rock
+##############
+%GID:187
+%LID#0#187-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:188
+%LID#0#188-3-Banghra#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	9	ANY
+v	3	62	ANY
+e	0	65	1
+e	3	65	1
+e	3	65	2
+#Condition
+%X
+%Y
+eq-let	2	Banghra
+##############
+%GID:190
+%LID#0#190-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	121	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:191
+%LID#0#191-2-Anthology_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Anthology_Recordings
+##############
+%GID:192
+%LID#0#192-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:193
+%LID#0#193-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	19	ANY
+e	0	110	1
+e	0	74	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:194
+%LID#0#194-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:195
+%LID#0#195-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:196
+%LID#0#196-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	13	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:197
+%LID#0#197-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	25	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:198
+%LID#0#198-2-Anthology_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Anthology_Recordings
+##############
+%GID:199
+%LID#0#199-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:200
+%LID#0#200-1-AVM_Productions#0#0#4
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	62	ANY
+v	3	3625	ANY
+e	0	75	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	AVM_Productions
+##############
+%GID:201
+%LID#0#201-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	121	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:202
+%LID#0#202-2-Anthology_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Anthology_Recordings
+##############
+%GID:203
+%LID#0#203-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:204
+%LID#0#204-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	19	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:207
+%LID#1#207-1-Syco#9#9#33
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	Avatar:_Music_from_the_Motion_Picture
+%Y
+eq-let	1	Syco
+##############
+%GID:210
+%LID#0#210-0-_Wild_East#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	9	ANY
+v	3	62	ANY
+e	0	65	1
+e	0	65	2
+e	3	65	1
+#Condition
+%X
+%Y
+eq-let	0	_Wild_East
+##############
+%GID:211
+%LID#0#211-0-Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	3625	ANY
+v	3	62	ANY
+e	0	75	1
+e	3	75	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1
+##############
+%GID:212
+%LID#0#212-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:213
+%LID#0#213-1-Showtunes#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	217	ANY
+v	2	62	ANY
+v	3	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	Showtunes
+##############
+%GID:214
+%LID#0#214-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:215
+%LID#0#215-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:216
+%LID#0#216-0-Come_(1_album)#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	62	ANY
+v	3	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Come_(1_album)
+##############
+%GID:222
+%LID#0#222-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	25	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:223
+%LID#0#223-1-Brooklyn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	121	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Brooklyn
+##############
+%GID:226
+%LID#0#226-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:227
+%LID#0#227-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	121	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:228
+%LID#1#228-2-Psychedelic_rock#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	2	Hard_rock
+%Y
+eq-let	3	Psychedelic_rock
+##############
+%GID:232
+%LID#0#232-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:235
+%LID#0#235-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	19	ANY
+e	0	109	1
+e	0	74	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:237
+%LID#0#237-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:238
+%LID#0#238-2-Anthology_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Anthology_Recordings
+##############
+%GID:239
+%LID#0#239-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:241
+%LID#0#241-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:242
+%LID#0#242-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	0	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:244
+%LID#1#244-0-The_Supreme_Genius_of_King_Khan_and_the_Shrines#3#3#6
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	2	Only_the_Dead_See_the_End_of_the_War
+%Y
+eq-let	0	The_Supreme_Genius_of_King_Khan_and_the_Shrines
+##############
+%GID:245
+%LID#0#245-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	0	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:247
+%LID#1#247-2-Come_(1_album)#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	62	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+eq-let	0	_Wild_East
+%Y
+eq-let	2	Come_(1_album)
+##############
+%GID:251
+%LID#0#251-1-California#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	62	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	California
+##############
+%GID:252
+%LID#0#252-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	25	ANY
+v	2	62	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:253
+%LID#0#253-0-International_Villager#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+v	2	62	ANY
+v	3	1	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	International_Villager
+##############
+%GID:254
+%LID#0#254-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	13	ANY
+e	0	109	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:255
+%LID#0#255-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	121	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:256
+%LID#0#256-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:257
+%LID#0#257-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	11	ANY
+e	0	109	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:258
+%LID#0#258-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:259
+%LID#0#259-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:261
+%LID#1#261-3-Hard_rock#3#3#8
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Psychedelic_rock
+%Y
+eq-let	2	Hard_rock
+##############
+%GID:263
+%LID#0#263-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:264
+%LID#0#264-1-Windham_Hill_Records#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	730	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Windham_Hill_Records
+##############
+%GID:267
+%LID#0#267-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:271
+%LID#0#271-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:272
+%LID#0#272-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	1	ANY
+v	4	25	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:273
+%LID#0#273-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:275
+%LID#0#275-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	121	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:276
+%LID#1#276-3-Hard_rock#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Psychedelic_rock
+%Y
+eq-let	2	Hard_rock
+##############
+%GID:277
+%LID#0#277-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:278
+%LID#0#278-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:279
+%LID#0#279-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:280
+%LID#0#280-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:281
+%LID#0#281-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:282
+%LID#1#282-0-Thanmathra__Thanmathra__1#6#6#14
+#Pattern
+v	0	62	ANY
+v	1	240	ANY
+v	2	39	ANY
+v	3	62	ANY
+e	0	65	1
+e	0	75	2
+e	3	65	1
+e	3	75	2
+#Condition
+%X
+eq-let	3	Innathe_Chintha_Vishayam__Innathe_Chinthavishayam__1
+%Y
+eq-let	0	Thanmathra__Thanmathra__1
+##############
+%GID:283
+%LID#0#283-1-Red_House_Painters#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	19	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Red_House_Painters
+##############
+%GID:285
+%LID#0#285-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:289
+%LID#0#289-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	19	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	74	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:291
+%LID#0#291-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:292
+%LID#0#292-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	121	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:295
+%LID#1#295-3-Psychedelic_rock#3#3#8
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	4	Hard_rock
+%Y
+eq-let	2	Psychedelic_rock
+##############
+%GID:297
+%LID#0#297-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	121	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:298
+%LID#1#298-3-Hard_rock#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Psychedelic_rock
+%Y
+eq-let	2	Hard_rock
+##############
+%GID:299
+%LID#0#299-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:301
+%LID#0#301-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:303
+%LID#0#303-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	25	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:305
+%LID#0#305-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	1	ANY
+v	4	25	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:306
+%LID#0#306-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	19	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:309
+%LID#0#309-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	0	ANY
+v	4	25	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:311
+%LID#0#311-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:313
+%LID#0#313-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:315
+%LID#0#315-3-Banghra#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	9	ANY
+v	3	62	ANY
+v	4	11	ANY
+e	0	65	1
+e	0	75	4
+e	3	65	1
+e	3	65	2
+#Condition
+%X
+%Y
+eq-let	2	Banghra
+##############
+%GID:317
+%LID#1#317-3-Psychedelic_rock#3#3#8
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	4	Hard_rock
+%Y
+eq-let	2	Psychedelic_rock
+##############
+%GID:320
+%LID#0#320-1-California#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	11	ANY
+v	3	25	ANY
+v	4	62	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	California
+##############
+%GID:321
+%LID#1#321-3-Folk_rock#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Indie_folk
+%Y
+eq-let	2	Folk_rock
+##############
+%GID:322
+%LID#0#322-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:323
+%LID#0#323-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:325
+%LID#0#325-1-Red_House_Painters#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	19	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Red_House_Painters
+##############
+%GID:326
+%LID#0#326-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:328
+%LID#0#328-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:331
+%LID#0#331-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:332
+%LID#0#332-1-Red_House_Painters#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Red_House_Painters
+##############
+%GID:335
+%LID#0#335-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:336
+%LID#0#336-0-International_Villager#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+v	2	62	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	65	1
+e	0	75	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	International_Villager
+##############
+%GID:337
+%LID#0#337-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:338
+%LID#0#338-1-Film#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	240	ANY
+v	2	62	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+%Y
+eq-let	1	Film
+##############
+%GID:339
+%LID#0#339-1-Red_House_Painters#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	25	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Red_House_Painters
+##############
+%GID:340
+%LID#0#340-1-MGM_Distribution#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	183	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	MGM_Distribution
+##############
+%GID:341
+%LID#0#341-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:343
+%LID#0#343-0-Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	3625	ANY
+v	3	62	ANY
+v	4	62	ANY
+e	0	75	1
+e	3	75	1
+e	3	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1
+##############
+%GID:344
+%LID#0#344-1-Red_House_Painters#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Red_House_Painters
+##############
+%GID:349
+%LID#0#349-1-Vicor_Music_Corporation#0#0#5
+#Pattern
+v	0	62	ANY
+v	1	3109	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Vicor_Music_Corporation
+##############
+%GID:350
+%LID#1#350-3-Hard_rock#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Psychedelic_rock
+%Y
+eq-let	2	Hard_rock
+##############
+%GID:351
+%LID#0#351-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:352
+%LID#0#352-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:353
+%LID#0#353-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:355
+%LID#0#355-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:356
+%LID#0#356-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	121	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:358
+%LID#0#358-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	0	ANY
+v	4	25	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:359
+%LID#0#359-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:362
+%LID#0#362-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	19	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	74	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:363
+%LID#0#363-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:364
+%LID#0#364-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	19	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:366
+%LID#0#366-2-Anthology_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Anthology_Recordings
+##############
+%GID:367
+%LID#1#367-3-Live_at_Palladium:_Malmö#2#2#8
+#Pattern
+v	0	62	ANY
+v	1	25	ANY
+v	2	62	ANY
+v	3	11	ANY
+v	4	62	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	4	Live_at_Phoenix_Public_House_Melbourne
+%Y
+eq-let	2	Live_at_Palladium:_Malmö
+##############
+%GID:373
+%LID#1#373-4-Hopeless_Illusions#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	65	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	2	The_Secret_(Vib_Gyor_EP)
+%Y
+eq-let	4	Hopeless_Illusions
+##############
+%GID:380
+%LID#0#380-0-International_Villager#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	62	ANY
+e	0	65	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	International_Villager
+##############
+%GID:384
+%LID#0#384-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	25	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:385
+%LID#0#385-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:390
+%LID#0#390-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:393
+%LID#0#393-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	19	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	74	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:395
+%LID#0#395-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	121	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:396
+%LID#1#396-4-Hopeless_Illusions#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	65	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	2	The_Secret_(Vib_Gyor_EP)
+%Y
+eq-let	4	Hopeless_Illusions
+##############
+%GID:397
+%LID#0#397-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:398
+%LID#0#398-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:399
+%LID#1#399-3-Live_at_Palladium:_Malmö#3#3#8
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	11	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	4	Live_at_Phoenix_Public_House_Melbourne
+%Y
+eq-let	2	Live_at_Palladium:_Malmö
+##############
+%GID:402
+%LID#0#402-2-Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	3625	ANY
+v	3	62	ANY
+v	4	62	ANY
+e	0	75	1
+e	0	75	2
+e	3	75	1
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	3	Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1
+##############
+%GID:403
+%LID#0#403-0-Come_(1_album)#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	11	ANY
+v	3	62	ANY
+v	4	62	ANY
+e	0	65	1
+e	0	75	2
+e	3	65	1
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Come_(1_album)
+##############
+%GID:404
+%LID#1#404-3-Live_at_Palladium:_Malmö#3#3#8
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	62	ANY
+v	3	11	ANY
+v	4	62	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	4	Live_at_Phoenix_Public_House_Melbourne
+%Y
+eq-let	2	Live_at_Palladium:_Malmö
+##############
+%GID:405
+%LID#0#405-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:406
+%LID#0#406-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:407
+%LID#1#407-3-Hard_rock#3#3#8
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Psychedelic_rock
+%Y
+eq-let	2	Hard_rock
+##############
+%GID:409
+%LID#0#409-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:410
+%LID#0#410-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:411
+%LID#0#411-3-San_Francisco#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	25	ANY
+v	3	0	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	2	San_Francisco
+##############
+%GID:413
+%LID#1#413-3-Hard_rock#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Psychedelic_rock
+%Y
+eq-let	2	Hard_rock
+##############
+%GID:414
+%LID#0#414-0-_Wild_East#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	11	ANY
+v	3	62	ANY
+v	4	62	ANY
+e	0	65	1
+e	3	65	1
+e	3	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	_Wild_East
+##############
+%GID:417
+%LID#0#417-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:421
+%LID#1#421-4-Indie_folk#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Folk_rock
+%Y
+eq-let	4	Indie_folk
+##############
+%GID:424
+%LID#0#424-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	121	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:426
+%LID#0#426-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	121	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:428
+%LID#0#428-1-Pyramid_Saimira#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	3625	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Pyramid_Saimira
+##############
+%GID:430
+%LID#0#430-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:431
+%LID#0#431-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:432
+%LID#1#432-4-Indie_folk#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Folk_rock
+%Y
+eq-let	4	Indie_folk
+##############
+%GID:435
+%LID#0#435-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:436
+%LID#0#436-2-Anthology_Recordings#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Anthology_Recordings
+##############
+%GID:438
+%LID#0#438-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:439
+%LID#0#439-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	0	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:441
+%LID#0#441-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sun_Kil_Moon
+##############
+%GID:443
+%LID#0#443-1-Brooklyn#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	121	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Brooklyn
+##############
+%GID:446
+%LID#0#446-1-Sesame_Workshop#0#0#5
+#Pattern
+v	0	62	ANY
+v	1	137	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Sesame_Workshop
+##############
+%GID:447
+%LID#0#447-1-Red_House_Painters#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	25	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Red_House_Painters
+##############
+%GID:448
+%LID#0#448-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:449
+%LID#0#449-1-StarKid_Productions#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	1866	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	StarKid_Productions
+##############
+%GID:450
+%LID#0#450-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	121	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	74	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Sir_Lord_Baltimore
+##############
+%GID:451
+%LID#0#451-1-Red_House_Painters#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	62	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Red_House_Painters
+##############
+%GID:453
+%LID#1#453-3-Live_at_Palladium:_Malmö#3#3#8
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	62	ANY
+v	3	11	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	4	Live_at_Phoenix_Public_House_Melbourne
+%Y
+eq-let	2	Live_at_Palladium:_Malmö
+##############
+%GID:456
+%LID#0#456-1-Red_House_Painters#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	62	ANY
+e	0	109	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Red_House_Painters
+##############
+%GID:461
+%LID#0#461-0-_Wild_East#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	9	ANY
+v	3	62	ANY
+v	4	11	ANY
+e	0	65	1
+e	0	65	2
+e	3	65	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	0	_Wild_East
+##############
+%GID:462
+%LID#1#462-3-Folk_rock#4#4#8
+#Pattern
+v	0	62	ANY
+v	1	9	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Indie_folk
+%Y
+eq-let	2	Folk_rock
+##############
+%GID:463
+%LID#0#463-4-Mercury_Records#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	121	ANY
+v	4	9	ANY
+e	0	109	1
+e	0	74	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##############
+%GID:465
+%LID#0#465-0-International_Villager#0#0#2
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	62	ANY
+e	0	65	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	International_Villager

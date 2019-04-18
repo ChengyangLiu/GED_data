@@ -1,0 +1,34 @@
+nohup: ignoring input
+[CORE]~ Start Loading Graph
+[INFO]- loading vertex total: 5152
+[INFO]- loading edge total: 3244
+[CORE]~ Completed
+[CORE]~ Start Loading GED
+[INFO]- loading GED total: 2
+[CORE]~ Completed
+[CORE]~ Start Classifying GED
+[INFO]- connected: 2
+[INFO]- disconnected: 0
+[CORE]~ Completed
+[CORE]~ Start Converting To Boost Graph
+[CORE]~ Completed
+[CORE]~ Start Filtering Unexpected GED
+[INFO]- independent node: 0
+[INFO]- wrong literal: 0
+[INFO]- unexpected disconnection: 0
+[CORE]~ Completed
+[CORE]~ Running VF2
+[INFO]- vf2 on No.1 GED
+[INFO]- vf2 on No.2 GED
+[CORE]~ Completed
+[CORE]~ Start Writing Mapping
+[CORE]~ Completed
+[CORE]~ Start Validating GED
+[INFO]- Checking NO.1 GED: 0
+[INFO]- Checking NO.2 GED: 0
+[TEST]* 
+The results:
+0	0	
+[CORE]~ Completed
+[CORE]~ Start Writing Results
+[CORE]~ Completed

@@ -1,0 +1,246 @@
+##############
+%GID:0
+%LID#1#0-0-<Ingrid_Jensen>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+e	0	26	1
+#Condition
+%X
+eq-let	1	<New_York_City>
+%Y
+eq-let	0	<Ingrid_Jensen>
+##############
+%GID:12
+%LID#1#12-1-<Jon_Kleinberg>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	2	ANY
+e	0	30	1
+#Condition
+%X
+eq-let	0	<Amit_Kumar>
+%Y
+eq-let	1	<Jon_Kleinberg>
+##############
+%GID:21
+%LID#1#21-0-<Lead_Belly>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+e	0	11	1
+#Condition
+%X
+eq-let	1	<Woody_Guthrie>
+%Y
+eq-let	0	<Lead_Belly>
+##############
+%GID:43
+%LID#1#43-0-<Dorce_Gamalama>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+e	0	25	1
+#Condition
+%X
+eq-let	1	<Indonesia>
+%Y
+eq-let	0	<Dorce_Gamalama>
+##############
+%GID:47
+%LID#1#47-2-<Dave_Matthews>#1#1#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	11	ANY
+e	0	7	2
+e	1	7	2
+#Condition
+%X
+eq-let	0	<Gene_Austin>
+%Y
+eq-let	1	<Dave_Matthews>
+##############
+%GID:52
+%LID#1#52-0-<Luther_Vandross>#1#1#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	2	ANY
+e	0	11	2
+e	1	11	2
+#Condition
+%X
+eq-let	1	<Frankie_Beverly>
+%Y
+eq-let	0	<Luther_Vandross>
+##############
+%GID:53
+%LID#1#53-2-<Noor_pensionär>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Ohtlikud_mängud>
+%Y
+eq-let	1	<Noor_pensionär>
+##############
+%GID:62
+%LID#1#62-0-<Liam_Gallagher>#4#4#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	13	ANY
+e	0	10	2
+e	1	10	2
+#Condition
+%X
+eq-let	1	<Jim_Kerr>
+%Y
+eq-let	0	<Liam_Gallagher>
+##############
+%GID:63
+%LID#1#63-0-<Willie_Hutch>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	0	ANY
+e	0	3	2
+e	1	3	2
+#Condition
+%X
+eq-let	1	<Freddie_King>
+%Y
+eq-let	0	<Willie_Hutch>
+##############
+%GID:72
+%LID#1#72-2-<Trummy_Young>#3#3#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	11	ANY
+e	0	3	2
+e	1	3	2
+#Condition
+%X
+eq-let	0	<Ed_Cassidy>
+%Y
+eq-let	1	<Trummy_Young>
+##############
+%GID:87
+%LID#1#87-0-<Luther_Vandross>#1#1#6
+#Pattern
+v	0	8	ANY
+v	1	2	ANY
+v	2	8	ANY
+e	0	11	1
+e	2	11	1
+#Condition
+%X
+eq-let	2	<Frankie_Beverly>
+%Y
+eq-let	0	<Luther_Vandross>
+##############
+%GID:109
+%LID#1#109-0-<Liam_Gallagher>#4#4#6
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+v	2	8	ANY
+e	0	10	1
+e	2	10	1
+#Condition
+%X
+eq-let	2	<Jim_Kerr>
+%Y
+eq-let	0	<Liam_Gallagher>
+##############
+%GID:113
+%LID#1#113-2-<Trummy_Young>#3#3#6
+#Pattern
+v	0	8	ANY
+v	1	11	ANY
+v	2	8	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+eq-let	0	<Ed_Cassidy>
+%Y
+eq-let	2	<Trummy_Young>
+##############
+%GID:114
+%LID#1#114-2-<Noor_pensionär>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	8	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<Ohtlikud_mängud>
+%Y
+eq-let	2	<Noor_pensionär>
+##############
+%GID:127
+%LID#0#127-3-<Cisco_Houston>#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	3	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	1	1
+e	2	11	0
+e	3	1	1
+#Condition
+%X
+%Y
+eq-let	2	<Cisco_Houston>
+##############
+%GID:135
+%LID#1#135-0-<Willie_Hutch>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	8	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+eq-let	2	<Freddie_King>
+%Y
+eq-let	0	<Willie_Hutch>
+##############
+%GID:136
+%LID#0#136-3-<Cisco_Houston>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	3	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	1	1
+e	2	11	3
+e	3	1	1
+#Condition
+%X
+%Y
+eq-let	2	<Cisco_Houston>
+##############
+%GID:145
+%LID#1#145-2-<Dave_Matthews>#1#1#6
+#Pattern
+v	0	8	ANY
+v	1	11	ANY
+v	2	8	ANY
+e	0	7	1
+e	2	7	1
+#Condition
+%X
+eq-let	0	<Gene_Austin>
+%Y
+eq-let	2	<Dave_Matthews>

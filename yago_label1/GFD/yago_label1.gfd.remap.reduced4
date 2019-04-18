@@ -1,0 +1,35 @@
+%GID:13
+%LID#1#13-1-<North_Africa>#225#225#890
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Zirid_dynasty>
+%Y
+eq-let	1	<North_Africa>
+##########
+%GID:14
+%LID#0#14-1-<Europe>#0#0#31
+#Pattern
+v	0	1	ANY
+v	1	14	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Europe>
+##########
+%GID:15
+%LID#1#15-1-<Lüneburg>#12#12#132
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Lüneburg_(district)>
+%Y
+eq-let	1	<Lüneburg>
+##########

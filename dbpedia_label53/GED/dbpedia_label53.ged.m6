@@ -1,0 +1,133 @@
+##########
+%GID:143
+%LID#0#143-1-Taiwanese_pop#0#0#5
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	65	2
+e	1	65	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:151
+%LID#0#151-1-Two_Steps_from_Hell#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	39	ANY
+v	3	39	ANY
+e	0	264	2
+e	1	264	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:174
+%LID#0#174-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	709	ANY
+v	3	53	ANY
+e	0	188	2
+e	0	6	1
+e	3	188	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##########
+%GID:189
+%LID#0#189-1-Queens_of_Noise#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	53	ANY
+e	0	75	2
+e	1	75	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:260
+%LID#1#260-1-Shut_Up_and_Dance:_Mixes#8#8#35
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	1509	ANY
+v	3	53	ANY
+e	0	188	2
+e	0	6	1
+e	3	188	2
+#Condition
+%X
+eq-let	1	name	Jesse_Johnson_(musician)
+%Y
+eq-id	0	id	3	id
+##########
+%GID:675
+%LID#0#675-1-Two_Steps_from_Hell#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	39	ANY
+v	3	53	ANY
+e	0	264	1
+e	3	264	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:859
+%LID#0#859-0-Private_Dancer#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	13	ANY
+v	5	53	ANY
+e	0	188	1
+e	0	6	4
+e	0	65	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:901
+%LID#0#901-1-Taiwanese_pop#0#0#7
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	15	ANY
+v	3	53	ANY
+e	0	65	1
+e	3	65	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:933
+%LID#0#933-1-Queens_of_Noise#0#0#8
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	53	ANY
+e	0	75	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-id	1	2

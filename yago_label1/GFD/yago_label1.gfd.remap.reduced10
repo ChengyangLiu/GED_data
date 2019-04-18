@@ -1,0 +1,39 @@
+%GID:31
+%LID#0#31-2-<Juliaca>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	28	1
+#Condition
+%X
+%Y
+eq-let	1	<Juliaca>
+##########
+%GID:32
+%LID#0#32-0-<Nazi_Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	17	2
+e	1	24	0
+#Condition
+%X
+%Y
+eq-let	0	<Nazi_Germany>
+##########
+%GID:33
+%LID#0#33-1-<Lebanon>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	24	1
+#Condition
+%X
+%Y
+eq-let	2	<Lebanon>
+##########

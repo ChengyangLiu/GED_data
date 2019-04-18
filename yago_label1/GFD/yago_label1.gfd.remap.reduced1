@@ -1,0 +1,35 @@
+%GID:4
+%LID#1#4-1-<Tobagonian_Creole>#52#52#66
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	0	<Tobago>
+%Y
+eq-let	1	<Tobagonian_Creole>
+##########
+%GID:5
+%LID#1#5-1-<Italian_Somaliland_somalo>#129#129#297
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+e	0	33	1
+#Condition
+%X
+eq-let	0	<Trust_Territory_of_Somalia>
+%Y
+eq-let	1	<Italian_Somaliland_somalo>
+##########
+%GID:6
+%LID#0#6-1-<Strasbourg>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	28	1
+#Condition
+%X
+%Y
+eq-let	1	<Strasbourg>
+##########

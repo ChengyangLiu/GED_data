@@ -1,0 +1,59 @@
+##############
+%GID:143
+%LID#0#143-1-Taiwanese_pop#0#0#5
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	65	2
+e	1	65	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:174
+%LID#0#174-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	709	ANY
+v	3	53	ANY
+e	0	188	2
+e	0	6	1
+e	3	188	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:260
+%LID#1#260-1-Shut_Up_and_Dance:_Mixes#8#8#35
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	1509	ANY
+v	3	53	ANY
+e	0	188	2
+e	0	6	1
+e	3	188	2
+#Condition
+%X
+eq-let	1	Jesse_Johnson_(musician)
+%Y
+eq-id	0	id	3	id
+##############
+%GID:901
+%LID#0#901-1-Taiwanese_pop#0#0#7
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	15	ANY
+v	3	53	ANY
+e	0	65	1
+e	3	65	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

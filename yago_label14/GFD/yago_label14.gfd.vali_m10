@@ -1,0 +1,1017 @@
+##############
+%GID:0
+%LID#1#0-1-<Cheboksary>#155#155#297
+#Pattern
+v	0	14	ANY
+v	1	6	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Cheboksary_Airport>
+%Y
+eq-let	1	<Cheboksary>
+##############
+%GID:2
+%LID#1#2-1-<Paramaribo>#54#54#66
+#Pattern
+v	0	14	ANY
+v	1	6	ANY
+e	0	18	1
+#Condition
+%X
+eq-let	0	<Washabo_Airport>
+%Y
+eq-let	1	<Paramaribo>
+##############
+%GID:3
+%LID#1#3-0-<Grand_Cayman>#32#32#297
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	1	<United_Kingdom>
+%Y
+eq-let	0	<Grand_Cayman>
+##############
+%GID:9
+%LID#1#9-0-<Tanjung_Harapan_Airport>#218#218#1682
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	1	<Juwata_International_Airport>
+%Y
+eq-let	0	<Tanjung_Harapan_Airport>
+##############
+%GID:10
+%LID#1#10-1-<Ketchikan_Gateway_Borough,_Alaska>#59#59#396
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	18	0
+#Condition
+%X
+eq-let	1	<Klawock_Airport>
+%Y
+eq-let	2	<Ketchikan_Gateway_Borough,_Alaska>
+##############
+%GID:17
+%LID#1#17-2-<Boende_Airport>#29#29#99
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	18	0
+#Condition
+%X
+eq-let	2	<Democratic_Republic_of_the_Congo>
+%Y
+eq-let	1	<Boende_Airport>
+##############
+%GID:21
+%LID#1#21-1-<Laverton,_Western_Australia>#21#21#66
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Laverton_Airport>
+%Y
+eq-let	2	<Laverton,_Western_Australia>
+##############
+%GID:23
+%LID#1#23-1-<Düsseldorf_Airport>#495#495#536
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+e	0	18	2
+e	1	18	0
+#Condition
+%X
+eq-let	0	<Malta_International_Airport>
+%Y
+eq-let	2	<Düsseldorf_Airport>
+##############
+%GID:24
+%LID#1#24-1-<Paramaribo>#46#46#437
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	6	ANY
+e	0	18	2
+e	1	18	2
+#Condition
+%X
+eq-let	1	<Oelemari_Airport>
+%Y
+eq-let	2	<Paramaribo>
+##############
+%GID:32
+%LID#1#32-3-<Boende_Airport>#3#3#66
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	18	0
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Bunia_Airport>
+%Y
+eq-let	2	<Boende_Airport>
+##############
+%GID:33
+%LID#1#33-1-<Paramaribo>#67#67#874
+#Pattern
+v	0	14	ANY
+v	1	6	ANY
+v	2	14	ANY
+e	0	18	1
+e	2	18	1
+#Condition
+%X
+eq-let	2	<Ralleigh_Airstrip>
+%Y
+eq-let	1	<Paramaribo>
+##############
+%GID:37
+%LID#1#37-1-<Rarotonga>#32#32#99
+#Pattern
+v	0	14	ANY
+v	1	0	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	18	0
+e	3	18	0
+#Condition
+%X
+eq-let	3	<Mauke_Airport>
+%Y
+eq-let	1	<Rarotonga>
+##############
+%GID:38
+%LID#1#38-0-<Fort_Smith_Airport>#1#1#528
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	18	1
+e	2	18	1
+e	3	18	0
+#Condition
+%X
+eq-let	1	<Yellowknife_Airport>
+%Y
+eq-let	0	<Fort_Smith_Airport>
+##############
+%GID:46
+%LID#0#46-1-<Karmøy>#0#0#11
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	18	1
+e	2	18	0
+e	3	18	0
+#Condition
+%X
+%Y
+eq-let	1	<Karmøy>
+##############
+%GID:47
+%LID#1#47-1-<Papua_New_Guinea>#10#10#66
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	18	3
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Kikori_Airport>
+%Y
+eq-let	1	<Papua_New_Guinea>
+##############
+%GID:53
+%LID#1#53-2-<Málaga_Airport>#97#97#1715
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	18	1
+e	1	18	3
+e	2	18	0
+#Condition
+%X
+eq-let	2	<Pemba_Airport_(Mozambique)>
+%Y
+eq-let	3	<Málaga_Airport>
+##############
+%GID:54
+%LID#1#54-0-<Cad._FAP_Guillermo_del_Castillo_Paredes_Airport>#403#403#1319
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	18	1
+e	2	18	0
+e	3	18	0
+#Condition
+%X
+eq-let	3	<Juanjuí_Airport>
+%Y
+eq-let	0	<Cad._FAP_Guillermo_del_Castillo_Paredes_Airport>
+##############
+%GID:55
+%LID#1#55-1-<Galapagos_Islands>#18#18#107
+#Pattern
+v	0	14	ANY
+v	1	0	ANY
+v	2	14	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	2	<Seymour_Airport>
+%Y
+eq-let	1	<Galapagos_Islands>
+##############
+%GID:56
+%LID#1#56-2-<Toncontín_International_Airport>#17#17#33
+#Pattern
+v	0	14	ANY
+v	1	0	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	18	3
+e	3	18	0
+#Condition
+%X
+eq-let	0	<Juan_Manuel_Gálvez_International_Airport>
+%Y
+eq-let	3	<Toncontín_International_Airport>
+##############
+%GID:62
+%LID#1#62-2-<Kamloops_Airport>#375#375#3364
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<La_Ronge>
+%Y
+eq-let	2	<Kamloops_Airport>
+##############
+%GID:63
+%LID#1#63-0-<Khartoum_International_Airport>#46#46#396
+#Pattern
+v	0	14	ANY
+v	1	6	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	18	0
+e	3	18	0
+#Condition
+%X
+eq-let	3	<Geneina_Airport>
+%Y
+eq-let	0	<Khartoum_International_Airport>
+##############
+%GID:64
+%LID#1#64-1-<Laverton,_Western_Australia>#14#14#128
+#Pattern
+v	0	14	ANY
+v	1	0	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	2	<Sunrise_Dam_Gold_Mine>
+%Y
+eq-let	1	<Laverton,_Western_Australia>
+##############
+%GID:68
+%LID#1#68-1-<Fa'a'ā_International_Airport>#397#397#1715
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	18	1
+e	2	18	3
+e	3	18	0
+#Condition
+%X
+eq-let	3	<Manihi_Airport>
+%Y
+eq-let	1	<Fa'a'ā_International_Airport>
+##############
+%GID:70
+%LID#1#70-1-<Thailand>#82#82#1583
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	0	<Khon_Kaen_Airport>
+%Y
+eq-let	1	<Thailand>
+##############
+%GID:72
+%LID#1#72-1-<Rangiroa_Airport>#51#51#1319
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	3
+e	2	18	3
+e	4	18	1
+#Condition
+%X
+eq-let	0	<Manihi_Airport>
+%Y
+eq-let	1	<Rangiroa_Airport>
+##############
+%GID:76
+%LID#1#76-1-<Vancouver_International_Airport>#168#168#1583
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	1
+e	3	18	0
+e	4	18	1
+#Condition
+%X
+eq-let	3	<Fort_MacKay/Firebag_Aerodrome>
+%Y
+eq-let	1	<Vancouver_International_Airport>
+##############
+%GID:77
+%LID#1#77-0-<Chennai_International_Airport>#135#135#3430
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	3
+e	3	18	0
+e	4	18	3
+#Condition
+%X
+eq-let	4	<Konarak_Airport>
+%Y
+eq-let	0	<Chennai_International_Airport>
+##############
+%GID:81
+%LID#1#81-1-<Mohammed_V_International_Airport>#312#312#1583
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	1
+e	3	18	1
+e	4	18	2
+#Condition
+%X
+eq-let	0	<Sania_Ramel_Airport>
+%Y
+eq-let	1	<Mohammed_V_International_Airport>
+##############
+%GID:86
+%LID#1#86-1-<John_F._Kennedy_International_Airport>#259#259#1649
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	4
+e	2	18	1
+e	3	18	1
+#Condition
+%X
+eq-let	0	<Maurice_Bishop_International_Airport>
+%Y
+eq-let	1	<John_F._Kennedy_International_Airport>
+##############
+%GID:87
+%LID#1#87-2-<Lubumbashi_International_Airport>#16#16#25
+#Pattern
+v	0	14	ANY
+v	1	0	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	18	3
+e	3	18	0
+e	4	18	3
+#Condition
+%X
+eq-let	0	<Kananga_Airport>
+%Y
+eq-let	3	<Lubumbashi_International_Airport>
+##############
+%GID:101
+%LID#1#101-2-<Mackay_Airport>#476#476#1715
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	0
+e	3	18	1
+e	4	18	3
+#Condition
+%X
+eq-let	2	<Pakse_International_Airport>
+%Y
+eq-let	3	<Mackay_Airport>
+##############
+%GID:117
+%LID#1#117-1-<Wellington_International_Airport>#252#252#1781
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	0
+e	3	18	0
+e	4	18	1
+#Condition
+%X
+eq-let	0	<Christchurch_International_Airport>
+%Y
+eq-let	1	<Wellington_International_Airport>
+##############
+%GID:119
+%LID#1#119-1-<Athens_International_Airport>#205#205#1715
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	18	1
+e	2	18	1
+e	3	18	1
+#Condition
+%X
+eq-let	0	<Karpathos_Island_National_Airport>
+%Y
+eq-let	1	<Athens_International_Airport>
+##############
+%GID:122
+%LID#1#122-3-<Nueva_Hesperides_International_Airport>#200#200#3430
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	4
+e	2	18	1
+e	3	18	0
+#Condition
+%X
+eq-let	3	<Alfredo_Vásquez_Cobo_International_Airport>
+%Y
+eq-let	2	<Nueva_Hesperides_International_Airport>
+##############
+%GID:127
+%LID#1#127-0-<Winnipeg_James_Armstrong_Richardson_International_Airport>#107#107#1715
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	0
+e	3	18	0
+e	4	18	2
+#Condition
+%X
+eq-let	3	<Red_Lake_Airport>
+%Y
+eq-let	0	<Winnipeg_James_Armstrong_Richardson_International_Airport>
+##############
+%GID:128
+%LID#1#128-1-<Thailand>#87#87#1583
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	2	<Nakhon_Si_Thammarat_Airport>
+%Y
+eq-let	1	<Thailand>
+##############
+%GID:129
+%LID#1#129-0-<Manihi_Airport>#311#311#3430
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	2
+e	3	18	0
+e	4	18	2
+#Condition
+%X
+eq-let	4	<Tubuai_–_Mataura_Airport>
+%Y
+eq-let	0	<Manihi_Airport>
+##############
+%GID:131
+%LID#1#131-3-<Saipan_International_Airport>#238#238#3430
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	3
+e	3	18	1
+e	4	18	2
+#Condition
+%X
+eq-let	0	<Toyama_Airport>
+%Y
+eq-let	2	<Saipan_International_Airport>
+##############
+%GID:132
+%LID#1#132-1-<Dublin_Airport>#288#288#2902
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	1
+e	3	18	1
+e	4	18	0
+#Condition
+%X
+eq-let	3	<Pisa_International_Airport>
+%Y
+eq-let	1	<Dublin_Airport>
+##############
+%GID:140
+%LID#1#140-1-<Rarotonga>#6#6#99
+#Pattern
+v	0	14	ANY
+v	1	0	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	18	0
+e	3	18	0
+e	4	18	0
+#Condition
+%X
+eq-let	2	<Manihiki_Island_Airport>
+%Y
+eq-let	1	<Rarotonga>
+##############
+%GID:150
+%LID#1#150-1-<Harbin_Taiping_International_Airport>#376#376#1583
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	4
+e	2	18	3
+e	3	18	1
+#Condition
+%X
+eq-let	3	<Jeju_International_Airport>
+%Y
+eq-let	1	<Harbin_Taiping_International_Airport>
+##############
+%GID:152
+%LID#1#152-0-<Aguenar_–_Hadj_Bey_Akhamok_Airport>#15#15#198
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	3
+e	2	18	0
+e	3	18	4
+#Condition
+%X
+eq-let	1	<Oran_Es_Sénia_Airport>
+%Y
+eq-let	0	<Aguenar_–_Hadj_Bey_Akhamok_Airport>
+##############
+%GID:154
+%LID#1#154-1-<Edmonton_International_Airport>#156#156#792
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	3
+e	2	18	3
+e	4	18	2
+#Condition
+%X
+eq-let	0	<Fort_MacKay/Firebag_Aerodrome>
+%Y
+eq-let	1	<Edmonton_International_Airport>
+##############
+%GID:155
+%LID#1#155-0-<El_Dorado_International_Airport>#195#195#1715
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	3
+e	2	18	3
+e	4	18	0
+#Condition
+%X
+eq-let	4	<Alfredo_Vásquez_Cobo_International_Airport>
+%Y
+eq-let	0	<El_Dorado_International_Airport>
+##############
+%GID:160
+%LID#1#160-0-<Urgench_International_Airport>#407#407#3431
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	0
+e	3	18	1
+e	4	18	2
+#Condition
+%X
+eq-let	3	<Bryansk_International_Airport>
+%Y
+eq-let	0	<Urgench_International_Airport>
+##############
+%GID:178
+%LID#1#178-0-<Grantley_Adams_International_Airport>#292#292#1715
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	0
+e	3	18	1
+e	4	18	1
+#Condition
+%X
+eq-let	3	<Barra_Airport_(Scotland)>
+%Y
+eq-let	0	<Grantley_Adams_International_Airport>
+##############
+%GID:181
+%LID#1#181-1-<Kuala_Lumpur_International_Airport>#198#198#528
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	3
+e	3	18	1
+e	4	18	0
+#Condition
+%X
+eq-let	2	<Long_Akah_Airport>
+%Y
+eq-let	1	<Kuala_Lumpur_International_Airport>
+##############
+%GID:182
+%LID#1#182-3-<Krasnodar_International_Airport>#129#129#264
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	3
+e	3	18	0
+e	4	18	2
+#Condition
+%X
+eq-let	4	<Alykel_Airport>
+%Y
+eq-let	2	<Krasnodar_International_Airport>
+##############
+%GID:189
+%LID#1#189-4-<José_Celestino_Mutis_Airport>#33#33#396
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	18	0
+#Condition
+%X
+eq-let	0	<El_Caraño_Airport>
+%Y
+eq-let	4	<José_Celestino_Mutis_Airport>
+##############
+%GID:191
+%LID#1#191-1-<Düsseldorf_Airport>#492#492#528
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	1
+e	3	18	1
+e	4	18	3
+#Condition
+%X
+eq-let	2	<Leipzig/Halle_Airport>
+%Y
+eq-let	1	<Düsseldorf_Airport>
+##############
+%GID:194
+%LID#1#194-1-<Russia>#43#43#297
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	18	2
+#Condition
+%X
+eq-let	3	<Baykit_Airport>
+%Y
+eq-let	1	<Russia>
+##############
+%GID:199
+%LID#1#199-1-<Muscat_International_Airport>#363#363#3430
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	2
+e	2	18	4
+e	3	18	1
+#Condition
+%X
+eq-let	3	<Konarak_Airport>
+%Y
+eq-let	1	<Muscat_International_Airport>
+##############
+%GID:200
+%LID#1#200-1-<Winnipeg_James_Armstrong_Richardson_International_Airport>#254#254#3166
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	2
+e	3	18	1
+e	4	18	3
+#Condition
+%X
+eq-let	0	<Brandon_Municipal_Airport>
+%Y
+eq-let	1	<Winnipeg_James_Armstrong_Richardson_International_Airport>
+##############
+%GID:205
+%LID#1#205-1-<Londrina_Airport>#23#23#1451
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	3
+e	2	18	0
+e	4	18	3
+#Condition
+%X
+eq-let	4	<Joaçaba_Airport>
+%Y
+eq-let	1	<Londrina_Airport>
+##############
+%GID:208
+%LID#1#208-1-<Wellington_International_Airport>#316#316#1715
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	3
+e	2	18	1
+e	4	18	2
+#Condition
+%X
+eq-let	2	<Gisborne_Airport>
+%Y
+eq-let	1	<Wellington_International_Airport>
+##############
+%GID:219
+%LID#1#219-4-<Igarka_Airport>#2#2#58
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	18	3
+e	3	0	1
+e	4	18	3
+#Condition
+%X
+eq-let	2	<Podkamennaya_Tunguska_Airport>
+%Y
+eq-let	4	<Igarka_Airport>
+##############
+%GID:230
+%LID#1#230-2-<Kikori_Airport>#1#1#264
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	18	3
+#Condition
+%X
+eq-let	4	<Kamusi_Airport>
+%Y
+eq-let	3	<Kikori_Airport>
+##############
+%GID:237
+%LID#1#237-1-<El_Dorado_International_Airport>#123#123#1979
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	2	18	1
+e	3	18	1
+e	4	18	1
+#Condition
+%X
+eq-let	0	<Gerardo_Tobar_López_Airport>
+%Y
+eq-let	1	<El_Dorado_International_Airport>
+##############
+%GID:238
+%LID#1#238-0-<Khartoum_International_Airport>#51#51#198
+#Pattern
+v	0	14	ANY
+v	1	6	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	18	0
+e	3	18	0
+e	4	18	0
+#Condition
+%X
+eq-let	3	<Geneina_Airport>
+%Y
+eq-let	0	<Khartoum_International_Airport>
+##############
+%GID:255
+%LID#1#255-4-<Podkamennaya_Tunguska_Airport>#7#7#39
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	1
+e	2	18	0
+e	3	0	1
+e	4	18	0
+#Condition
+%X
+eq-let	2	<Igarka_Airport>
+%Y
+eq-let	4	<Podkamennaya_Tunguska_Airport>
+##############
+%GID:266
+%LID#1#266-1-<Pulkovo_Airport>#458#458#573
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	18	1
+e	1	18	2
+e	3	18	1
+e	4	18	2
+#Condition
+%X
+eq-let	0	<Bugulma_Airport>
+%Y
+eq-let	1	<Pulkovo_Airport>

@@ -1,0 +1,78 @@
+##############
+%GID:26
+%LID#1#26-1-Mumbai#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Indian_Institute_of_Architects
+%Y
+eq-let	1	Mumbai
+##############
+%GID:134
+%LID#0#134-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:166
+%LID#0#166-0-Dramatists_Guild_of_America#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	0	Dramatists_Guild_of_America
+##############
+%GID:183
+%LID#0#183-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:197
+%LID#0#197-3-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com

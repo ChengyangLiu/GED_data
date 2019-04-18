@@ -1,0 +1,13155 @@
+##########
+%GID:5
+%LID#0#5-0-Virginia_Tech_Hokies_women's_soccer#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	15	ANY
+e	0	107	1
+#Condition
+%X
+%Y
+eq-let	0	Virginia_Tech_Hokies_women's_soccer
+##########
+%GID:6
+%LID#0#6-1-Badalona#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	995	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Badalona
+##########
+%GID:7
+%LID#1#7-1-Oxford#1#1#15
+#Pattern
+v	0	64	ANY
+v	1	114	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Oxford_University_A.F.C.
+%Y
+eq-let	1	Oxford
+##########
+%GID:8
+%LID#0#8-1-Caracas#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	751	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Caracas
+##########
+%GID:9
+%LID#1#9-0-Hamworthy_United_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	356	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Poole
+%Y
+eq-let	0	Hamworthy_United_F.C.
+##########
+%GID:10
+%LID#1#10-0-Vegpro_F.C.#9#9#15
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Naivasha
+%Y
+eq-let	0	Vegpro_F.C.
+##########
+%GID:11
+%LID#0#11-1-Ocean_City,_New_Jersey#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	69	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Ocean_City,_New_Jersey
+##########
+%GID:13
+%LID#1#13-0-Prime_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	593	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Osogbo
+%Y
+eq-let	0	Prime_F.C.
+##########
+%GID:14
+%LID#0#14-1-Huíla_Province#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	990	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Huíla_Province
+##########
+%GID:15
+%LID#0#15-0-Shahid_Mansouri_Gharchak_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	110	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Shahid_Mansouri_Gharchak_FSC
+##########
+%GID:16
+%LID#0#16-0-Kearny_Celtic#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	481	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Kearny_Celtic
+##########
+%GID:17
+%LID#1#17-1-To_be_announced#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Toros_F.C.
+%Y
+eq-let	1	To_be_announced
+##########
+%GID:18
+%LID#0#18-1-Premier_League#0#0#3
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+e	0	107	1
+#Condition
+%X
+%Y
+eq-let	1	Premier_League
+##########
+%GID:20
+%LID#0#20-0-KMF_Marbo_Beograd#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1027	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	KMF_Marbo_Beograd
+##########
+%GID:21
+%LID#0#21-1-Hanoi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	927	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Hanoi
+##########
+%GID:22
+%LID#0#22-0-Planaltina_Esporte_Clube#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2880	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Planaltina_Esporte_Clube
+##########
+%GID:23
+%LID#1#23-1-KwaZulu–Natal#1#1#14
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Sobantu_Shooting_Stars
+%Y
+eq-let	1	KwaZulu–Natal
+##########
+%GID:24
+%LID#1#24-0-Khan_Research_Laboratories_F.C.#6#6#14
+#Pattern
+v	0	64	ANY
+v	1	245	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Rawalpindi
+%Y
+eq-let	0	Khan_Research_Laboratories_F.C.
+##########
+%GID:25
+%LID#0#25-1-Erie,_Pennsylvania#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	521	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Erie,_Pennsylvania
+##########
+%GID:26
+%LID#0#26-0-Rimyongsu_Sports_Club#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	488	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Rimyongsu_Sports_Club
+##########
+%GID:28
+%LID#0#28-1-Kfar_Saba#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	486	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Kfar_Saba
+##########
+%GID:29
+%LID#0#29-1-Funafuti#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	483	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Funafuti
+##########
+%GID:31
+%LID#1#31-1-Staten_Island#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Staten_Island_Vipers
+%Y
+eq-let	1	Staten_Island
+##########
+%GID:32
+%LID#1#32-1-Fongshan_District#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	1	Fongshan_District
+##########
+%GID:33
+%LID#0#33-1-Santiago_de_Cuba#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	250	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Santiago_de_Cuba
+##########
+%GID:35
+%LID#0#35-1-Şanlıurfa#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	51	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Şanlıurfa
+##########
+%GID:36
+%LID#0#36-1-Somoto,_Madriz#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2804	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Somoto,_Madriz
+##########
+%GID:37
+%LID#0#37-1-2014–15_Sepahan_F.C._season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014–15_Sepahan_F.C._season
+##########
+%GID:38
+%LID#0#38-0-KMN_Puntar#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2489	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	KMN_Puntar
+##########
+%GID:39
+%LID#0#39-1-Folkungavallen#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	4662	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Folkungavallen
+##########
+%GID:41
+%LID#1#41-1-Suphan_Buri#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	2495	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Suphanburi_F.C._Reserves_and_Academy
+%Y
+eq-let	1	Suphan_Buri
+##########
+%GID:42
+%LID#0#42-1-Portland_Parish#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Portland_Parish
+##########
+%GID:43
+%LID#0#43-0-SD_Ponferradina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	858	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	SD_Ponferradina
+##########
+%GID:45
+%LID#0#45-1-Plaines_Wilhems_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	978	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Plaines_Wilhems_District
+##########
+%GID:46
+%LID#0#46-1-Hägersten#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2251	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Hägersten
+##########
+%GID:48
+%LID#0#48-1-Virginia_Beach,_Virginia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	219	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Virginia_Beach,_Virginia
+##########
+%GID:49
+%LID#1#49-0-Club_Deportivo_Vista_Alegre#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Arraiján_District
+%Y
+eq-let	0	Club_Deportivo_Vista_Alegre
+##########
+%GID:51
+%LID#0#51-0-Buxmont_Torch_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	611	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Buxmont_Torch_FC
+##########
+%GID:53
+%LID#1#53-1-Carson_City,_Nevada#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	210	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Nevada_Wonders
+%Y
+eq-let	1	Carson_City,_Nevada
+##########
+%GID:54
+%LID#0#54-0-Durham_Flames#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	574	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Durham_Flames
+##########
+%GID:55
+%LID#0#55-0-A.S.D._Penne_Calcio#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	571	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	A.S.D._Penne_Calcio
+##########
+%GID:56
+%LID#1#56-1-Viimsi#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	185	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	FC_Lantana_Tallinn
+%Y
+eq-let	1	Viimsi
+##########
+%GID:57
+%LID#0#57-0-Põlva_FC_Lootos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1609	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Põlva_FC_Lootos
+##########
+%GID:58
+%LID#0#58-1-Thurrock#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	180	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Thurrock
+##########
+%GID:59
+%LID#0#59-0-Westbury_United_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Westbury_United_F.C.
+##########
+%GID:60
+%LID#0#60-0-Muger_Cement#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1176	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Muger_Cement
+##########
+%GID:61
+%LID#0#61-0-FC_Nouadhibou#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1331	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	FC_Nouadhibou
+##########
+%GID:62
+%LID#0#62-0-Malavan_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2145	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Malavan_F.C.
+##########
+%GID:63
+%LID#0#63-1-Guangxi#0#0#1
+#Pattern
+v	0	64	ANY
+v	1	509	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Guangxi
+##########
+%GID:65
+%LID#1#65-0-RC_Daloa#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	989	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Daloa
+%Y
+eq-let	0	RC_Daloa
+##########
+%GID:66
+%LID#1#66-1-San_Jose,_California#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	San_Jose_Earthquakes
+%Y
+eq-let	1	San_Jose,_California
+##########
+%GID:67
+%LID#0#67-0-A.D._Municipal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	987	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	A.D._Municipal
+##########
+%GID:68
+%LID#1#68-0-San_Diego_Spirit#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	San_Diego
+%Y
+eq-let	0	San_Diego_Spirit
+##########
+%GID:69
+%LID#1#69-0-Paide_Linnameeskond_II#7#7#15
+#Pattern
+v	0	64	ANY
+v	1	1171	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Paide
+%Y
+eq-let	0	Paide_Linnameeskond_II
+##########
+%GID:70
+%LID#0#70-1-Phnom_Penh#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Phnom_Penh
+##########
+%GID:71
+%LID#1#71-0-First_Tower_United_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	467	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Saint_Peter,_Jersey
+%Y
+eq-let	0	First_Tower_United_F.C.
+##########
+%GID:72
+%LID#1#72-1-Savalou#7#7#15
+#Pattern
+v	0	64	ANY
+v	1	345	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Espoir_FC_(Benin)
+%Y
+eq-let	1	Savalou
+##########
+%GID:75
+%LID#1#75-0-NK_Jedinstvo_Bihać#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	188	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Bihać
+%Y
+eq-let	0	NK_Jedinstvo_Bihać
+##########
+%GID:77
+%LID#0#77-0-Gamba_Osaka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	462	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Gamba_Osaka
+##########
+%GID:78
+%LID#0#78-1-Pyongyang#0#0#3
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Pyongyang
+##########
+%GID:79
+%LID#1#79-0-Kawasaki_Frontale#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	592	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Nakahara
+%Y
+eq-let	0	Kawasaki_Frontale
+##########
+%GID:80
+%LID#0#80-1-North_East_Valley#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	471	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	North_East_Valley
+##########
+%GID:81
+%LID#1#81-0-Montrose_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	7	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Angus
+%Y
+eq-let	0	Montrose_F.C.
+##########
+%GID:82
+%LID#0#82-1-Al_Batinah_Region#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2708	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Al_Batinah_Region
+##########
+%GID:83
+%LID#0#83-1-Bonaire#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	590	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bonaire
+##########
+%GID:84
+%LID#0#84-1-Santa_Cruz_de_la_Sierra#0#0#1
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Santa_Cruz_de_la_Sierra
+##########
+%GID:85
+%LID#0#85-0-Club_Choré_Central#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	4040	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Club_Choré_Central
+##########
+%GID:89
+%LID#0#89-0-FK_Budućnost_Banovići#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1973	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	FK_Budućnost_Banovići
+##########
+%GID:90
+%LID#0#90-1-La_Felguera#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1058	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	La_Felguera
+##########
+%GID:91
+%LID#0#91-0-Tallahassee_Scorpions#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	4	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Tallahassee_Scorpions
+##########
+%GID:92
+%LID#1#92-1-Medvode#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	837	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	NK_Jezero_Medvode
+%Y
+eq-let	1	Medvode
+##########
+%GID:93
+%LID#0#93-1-Sohag#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3881	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Sohag
+##########
+%GID:95
+%LID#0#95-1-Bangkok#0#0#3
+#Pattern
+v	0	64	ANY
+v	1	712	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bangkok
+##########
+%GID:96
+%LID#0#96-1-Bromley#0#0#1
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bromley
+##########
+%GID:97
+%LID#0#97-1-Calgary#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	556	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Calgary
+##########
+%GID:98
+%LID#0#98-1-Muhanga_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1180	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Muhanga_District
+##########
+%GID:99
+%LID#0#99-1-Skopje#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##########
+%GID:100
+%LID#0#100-1-Ulaanbaatar#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	553	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Ulaanbaatar
+##########
+%GID:101
+%LID#1#101-1-Redwood_City,_California#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	27	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	DV8_Defenders
+%Y
+eq-let	1	Redwood_City,_California
+##########
+%GID:102
+%LID#0#102-1-Ramat_Gan#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	157	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Ramat_Gan
+##########
+%GID:103
+%LID#0#103-0-Toronto_Lynx#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	433	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Toronto_Lynx
+##########
+%GID:104
+%LID#0#104-1-Jacksonville,_Florida#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	25	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Jacksonville,_Florida
+##########
+%GID:105
+%LID#0#105-1-Clapham_Common#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	398	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Clapham_Common
+##########
+%GID:107
+%LID#0#107-0-D.C._United#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	23	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	D.C._United
+##########
+%GID:108
+%LID#0#108-0-TSC_Maryland_Red_Devils#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	21	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	TSC_Maryland_Red_Devils
+##########
+%GID:111
+%LID#0#111-0-IFK_Luleå#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3524	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	IFK_Luleå
+##########
+%GID:112
+%LID#0#112-0-Reynir#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2555	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Reynir
+##########
+%GID:113
+%LID#0#113-0-IF_Trauma#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1464	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	IF_Trauma
+##########
+%GID:114
+%LID#0#114-1-Moengo#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Moengo
+##########
+%GID:115
+%LID#1#115-1-Burguillos_del_Cerro#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	6008	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	CD_Burguillos
+%Y
+eq-let	1	Burguillos_del_Cerro
+##########
+%GID:116
+%LID#0#116-0-Khangarid_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1870	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Khangarid_FC
+##########
+%GID:117
+%LID#0#117-0-Masafi_Club#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	849	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Masafi_Club
+##########
+%GID:122
+%LID#1#122-0-Hamilton_Thunder#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Hamilton,_Ontario
+%Y
+eq-let	0	Hamilton_Thunder
+##########
+%GID:124
+%LID#0#124-1-Gagauzia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	10	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Gagauzia
+##########
+%GID:126
+%LID#1#126-1-Kaohsiung#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	1	Kaohsiung
+##########
+%GID:127
+%LID#1#127-1-Hangzhou#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	292	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Hangzhou_Sanchao_F.C.
+%Y
+eq-let	1	Hangzhou
+##########
+%GID:128
+%LID#0#128-1-Brussels#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	171	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Brussels
+##########
+%GID:133
+%LID#0#133-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+e	0	107	1
+#Condition
+%X
+%Y
+eq-let	1	Ponta_Delgada_Football_Association
+##########
+%GID:134
+%LID#0#134-1-Tegueste,_Santa_Cruz_de_Tenerife#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3416	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Tegueste,_Santa_Cruz_de_Tenerife
+##########
+%GID:137
+%LID#0#137-1-Abyan_Governorate#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	811	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Abyan_Governorate
+##########
+%GID:138
+%LID#1#138-1-Cheltenham#1#1#15
+#Pattern
+v	0	64	ANY
+v	1	412	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Cheltenham_Town_F.C.
+%Y
+eq-let	1	Cheltenham
+##########
+%GID:139
+%LID#0#139-1-Eastbourne#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	413	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Eastbourne
+##########
+%GID:140
+%LID#0#140-1-Tokyo#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	133	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Tokyo
+##########
+%GID:142
+%LID#0#142-1-Otago#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	770	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Otago
+##########
+%GID:143
+%LID#1#143-1-Selangor#2#2#9
+#Pattern
+v	0	64	ANY
+v	1	494	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	PLUS_F.C.
+%Y
+eq-let	1	Selangor
+##########
+%GID:145
+%LID#1#145-1-Beijing#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	262	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Beijing_Institute_of_Technology_F.C.
+%Y
+eq-let	1	Beijing
+##########
+%GID:148
+%LID#1#148-0-F.C._Excelsior#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	84	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Monterrey
+%Y
+eq-let	0	F.C._Excelsior
+##########
+%GID:150
+%LID#1#150-1-Harrisburg,_Pennsylvania#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	80	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	MISL)
+%Y
+eq-let	1	Harrisburg,_Pennsylvania
+##########
+%GID:151
+%LID#0#151-0-FC_Zangezour#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2338	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	FC_Zangezour
+##########
+%GID:152
+%LID#1#152-1-Amaan_Stadium#1#1#8
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Miembeni_S.C.
+%Y
+eq-let	1	Amaan_Stadium
+##########
+%GID:153
+%LID#1#153-1-Kayes#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	1489	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	AS_Sigui
+%Y
+eq-let	1	Kayes
+##########
+%GID:154
+%LID#0#154-1-Isfahan#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##########
+%GID:155
+%LID#0#155-1-Granma_Province#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	818	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Granma_Province
+##########
+%GID:156
+%LID#0#156-1-Lautoka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2188	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Lautoka
+##########
+%GID:157
+%LID#1#157-1-Trabzon#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Sürmenespor
+%Y
+eq-let	1	Trabzon
+##########
+%GID:158
+%LID#0#158-1-East_Hanover_Township,_New_Jersey#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	306	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	East_Hanover_Township,_New_Jersey
+##########
+%GID:159
+%LID#0#159-1-Azores#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Azores
+##########
+%GID:160
+%LID#0#160-1-Dujiangyan_City#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	267	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Dujiangyan_City
+##########
+%GID:161
+%LID#1#161-1-Saint_Saviour,_Guernsey#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	422	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Sylvans_S.C.
+%Y
+eq-let	1	Saint_Saviour,_Guernsey
+##########
+%GID:162
+%LID#0#162-0-Sociedad_Gimnástica_Española_de_San_José#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	263	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Sociedad_Gimnástica_Española_de_San_José
+##########
+%GID:163
+%LID#1#163-0-FC_Baulmes#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	142	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Baulmes
+%Y
+eq-let	0	FC_Baulmes
+##########
+%GID:164
+%LID#0#164-0-Terengganu_Cycling_Team#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	15	ANY
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Terengganu_Cycling_Team
+##########
+%GID:165
+%LID#0#165-1-Jamaica,_Queens#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	384	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Jamaica,_Queens
+##########
+%GID:166
+%LID#0#166-1-Zagreb#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	264	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Zagreb
+##########
+%GID:168
+%LID#1#168-1-Mark_Bentley#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	13	ANY
+e	0	197	1
+#Condition
+%X
+eq-let	0	Grays_Athletic_F.C.
+%Y
+eq-let	1	Mark_Bentley
+##########
+%GID:169
+%LID#1#169-0-Wayside_Celtic_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	7	ANY
+e	0	197	1
+#Condition
+%X
+eq-let	1	Peter_Lennon
+%Y
+eq-let	0	Wayside_Celtic_F.C.
+##########
+%GID:170
+%LID#0#170-0-Tartu_JK_Welco#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	214	ANY
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Tartu_JK_Welco
+##########
+%GID:171
+%LID#0#171-1-Rome#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	77	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##########
+%GID:172
+%LID#0#172-1-Đồng_Xoài#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2907	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Đồng_Xoài
+##########
+%GID:173
+%LID#0#173-1-Madison,_Wisconsin#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	391	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Madison,_Wisconsin
+##########
+%GID:174
+%LID#1#174-0-Helvécia_Futsal_Club#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	11	ANY
+e	0	197	1
+#Condition
+%X
+eq-let	1	FA_National_Futsal_League
+%Y
+eq-let	0	Helvécia_Futsal_Club
+##########
+%GID:177
+%LID#1#177-1-2011_3._Divisjon#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+e	0	198	1
+#Condition
+%X
+eq-let	0	Salangen_IF
+%Y
+eq-let	1	2011_3._Divisjon
+##########
+%GID:179
+%LID#0#179-1-Mexico_City#0#0#1
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Mexico_City
+##########
+%GID:180
+%LID#0#180-0-Nimba_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1813	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Nimba_FC
+##########
+%GID:181
+%LID#1#181-1-Córdoba,_Veracruz#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Patriotas_de_Córdoba
+%Y
+eq-let	1	Córdoba,_Veracruz
+##########
+%GID:182
+%LID#0#182-0-Pakchong_United_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1015	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Pakchong_United_F.C.
+##########
+%GID:183
+%LID#0#183-0-Jagudis_de_Biombo#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2501	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Jagudis_de_Biombo
+##########
+%GID:184
+%LID#0#184-0-VV_Sneek_Wit_Zwart#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1257	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	VV_Sneek_Wit_Zwart
+##########
+%GID:186
+%LID#1#186-0-Malacoff#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	2103	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Izalco
+%Y
+eq-let	0	Malacoff
+##########
+%GID:187
+%LID#0#187-0-Atlético_Bello#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1376	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Bello
+##########
+%GID:188
+%LID#0#188-0-Inter_Moengotapoe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1223	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Inter_Moengotapoe
+##########
+%GID:189
+%LID#0#189-1-Al_Batinah_Region#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2708	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Al_Batinah_Region
+##########
+%GID:190
+%LID#0#190-2-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	190	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bolivia
+##########
+%GID:191
+%LID#1#191-2-AS_Bakaridjan#4#4#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	1489	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	AS_Biton
+%Y
+eq-let	1	AS_Bakaridjan
+##########
+%GID:192
+%LID#0#192-1-Tegueste,_Santa_Cruz_de_Tenerife#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	35	ANY
+v	2	3416	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Tegueste,_Santa_Cruz_de_Tenerife
+##########
+%GID:193
+%LID#0#193-1-Kfar_Saba#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	486	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Kfar_Saba
+##########
+%GID:194
+%LID#0#194-1-Bonaire#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	72	ANY
+v	2	590	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Bonaire
+##########
+%GID:195
+%LID#0#195-0-IF_Trauma#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	1464	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	IF_Trauma
+##########
+%GID:196
+%LID#1#196-2-San_Francisco_F.C.#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	976	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	Atlético_Nacional_(Panama)
+%Y
+eq-let	1	San_Francisco_F.C.
+##########
+%GID:197
+%LID#0#197-0-Shahid_Mansouri_Gharchak_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	110	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Shahid_Mansouri_Gharchak_FSC
+##########
+%GID:198
+%LID#0#198-2-Paul_Hegarty#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	7	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Paul_Hegarty
+##########
+%GID:199
+%LID#0#199-0-DV8_Defenders#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	27	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	DV8_Defenders
+##########
+%GID:200
+%LID#0#200-1-Gagauzia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	5	ANY
+v	2	10	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Gagauzia
+##########
+%GID:201
+%LID#0#201-2-Ethiopia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1176	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Ethiopia
+##########
+%GID:202
+%LID#1#202-0-California_Jaguars#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	11	ANY
+v	2	108	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+eq-let	1	Salinas_Sports_Complex
+%Y
+eq-let	0	California_Jaguars
+##########
+%GID:203
+%LID#0#203-1-Gagauzia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	10	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Gagauzia
+##########
+%GID:204
+%LID#1#204-0-Puebla_F.C._Reserves#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	84	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Lobos_Prepa
+%Y
+eq-let	0	Puebla_F.C._Reserves
+##########
+%GID:205
+%LID#0#205-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	151	ANY
+v	2	119	ANY
+e	0	107	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Ponta_Delgada_Football_Association
+##########
+%GID:206
+%LID#0#206-0-OUWAFC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	114	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	OUWAFC
+##########
+%GID:207
+%LID#0#207-2-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	190	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	David_de_la_Torre
+##########
+%GID:208
+%LID#0#208-0-Tallahassee_Scorpions#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	4	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Tallahassee_Scorpions
+##########
+%GID:209
+%LID#0#209-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	119	ANY
+e	0	107	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Ponta_Delgada_Football_Association
+##########
+%GID:210
+%LID#0#210-2-Portugal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	148	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Portugal
+##########
+%GID:211
+%LID#1#211-1-Puebla,_Puebla#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	84	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	0	Puebla_F.C._Reserves
+%Y
+eq-let	2	Puebla,_Puebla
+##########
+%GID:212
+%LID#0#212-0-Beijing_Institute_of_Technology_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	262	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Beijing_Institute_of_Technology_F.C.
+##########
+%GID:213
+%LID#1#213-0-Gloucester_City_A.F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	412	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	1	Tim_Harris_(footballer)
+%Y
+eq-let	0	Gloucester_City_A.F.C.
+##########
+%GID:214
+%LID#1#214-0-Garankuwa_United_F.C.#9#9#33
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	401	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	M_Tigers_F.C.
+%Y
+eq-let	0	Garankuwa_United_F.C.
+##########
+%GID:215
+%LID#0#215-2-Tomás_Boy#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	71	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Tomás_Boy
+##########
+%GID:216
+%LID#0#216-0-Khemara_Keila_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	622	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Khemara_Keila_FC
+##########
+%GID:217
+%LID#0#217-0-NK_Famos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	188	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	NK_Famos
+##########
+%GID:218
+%LID#0#218-1-Bangkok#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	712	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Bangkok
+##########
+%GID:219
+%LID#0#219-1-Jacksonville,_Florida#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	25	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Jacksonville,_Florida
+##########
+%GID:220
+%LID#0#220-1-Rawalpindi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	245	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Rawalpindi
+##########
+%GID:221
+%LID#1#221-2-2010–11_Vodacom_League#6#6#29
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	401	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	Sobantu_Shooting_Stars
+%Y
+eq-let	1	2010–11_Vodacom_League
+##########
+%GID:222
+%LID#0#222-2-New_York_City#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	20	ANY
+v	2	121	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##########
+%GID:223
+%LID#0#223-1-Somoto,_Madriz#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2804	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Somoto,_Madriz
+##########
+%GID:224
+%LID#1#224-0-Capelense_SC#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	148	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	S.C._Praiense
+%Y
+eq-let	0	Capelense_SC
+##########
+%GID:225
+%LID#0#225-0-Pakchong_United_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	814	ANY
+v	2	1015	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Pakchong_United_F.C.
+##########
+%GID:226
+%LID#0#226-1-Hägersten#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2251	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Hägersten
+##########
+%GID:227
+%LID#0#227-0-Taraba_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	593	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Taraba_F.C.
+##########
+%GID:228
+%LID#0#228-2-Mehmed_Janjoš#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	188	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Mehmed_Janjoš
+##########
+%GID:229
+%LID#0#229-1-Ningbo#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	292	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Ningbo
+##########
+%GID:230
+%LID#0#230-0-Riverside_County_Elite#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	19	ANY
+v	2	107	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Riverside_County_Elite
+##########
+%GID:231
+%LID#0#231-0-Atlético_Bello#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1376	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Bello
+##########
+%GID:232
+%LID#0#232-1-San_Diego#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	11	ANY
+v	2	107	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	San_Diego
+##########
+%GID:233
+%LID#0#233-2-2014_Girabola#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	990	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014_Girabola
+##########
+%GID:234
+%LID#0#234-2-Spain#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1058	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Spain
+##########
+%GID:235
+%LID#0#235-1-Erie,_Pennsylvania#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	521	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Erie,_Pennsylvania
+##########
+%GID:236
+%LID#0#236-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	218	ANY
+v	2	0	ANY
+e	0	107	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:237
+%LID#0#237-0-Bromley_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	435	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Bromley_F.C.
+##########
+%GID:238
+%LID#1#238-0-California_Jaguars#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	108	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	1	Mark_Semioli
+%Y
+eq-let	0	California_Jaguars
+##########
+%GID:239
+%LID#0#239-1-Trabzon#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	309	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Trabzon
+##########
+%GID:240
+%LID#1#240-2-Chen_Kuei#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	295	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	1	Chen_Kuei
+##########
+%GID:241
+%LID#0#241-1-Plaines_Wilhems_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	978	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Plaines_Wilhems_District
+##########
+%GID:242
+%LID#0#242-2-Robert_Iwanicki#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	295	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Robert_Iwanicki
+##########
+%GID:243
+%LID#0#243-0-VV_Sneek_Wit_Zwart#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1257	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	VV_Sneek_Wit_Zwart
+##########
+%GID:244
+%LID#0#244-1-Caracas#0#0#5
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	751	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Caracas
+##########
+%GID:245
+%LID#0#245-0-Atlético_Bello#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1376	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Bello
+##########
+%GID:246
+%LID#0#246-2-2014_Major_League_Soccer_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	108	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014_Major_League_Soccer_season
+##########
+%GID:247
+%LID#1#247-1-Qaiser_Ali#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	197	2
+e	0	197	1
+#Condition
+%X
+eq-let	1	Ghulam_Rasool_(footballer)
+%Y
+eq-let	2	Qaiser_Ali
+##########
+%GID:248
+%LID#0#248-0-Gamba_Osaka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	462	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Gamba_Osaka
+##########
+%GID:249
+%LID#0#249-2-Stefan_Draganov#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	21	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Stefan_Draganov
+##########
+%GID:251
+%LID#0#251-1-Vändra#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	185	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Vändra
+##########
+%GID:252
+%LID#1#252-2-2014_Intercity_Football_League#4#4#14
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	492	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	2	Xinzhuang_District
+%Y
+eq-let	1	2014_Intercity_Football_League
+##########
+%GID:253
+%LID#0#253-0-FK_Budućnost_Banovići#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	1973	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	FK_Budućnost_Banovići
+##########
+%GID:254
+%LID#0#254-1-Đồng_Xoài#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2907	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Đồng_Xoài
+##########
+%GID:255
+%LID#1#255-2-2014–15_Macedonian_Second_Football_League#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	675	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	FK_Shkupi
+%Y
+eq-let	1	2014–15_Macedonian_Second_Football_League
+##########
+%GID:256
+%LID#0#256-0-FC_Baulmes#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	142	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	FC_Baulmes
+##########
+%GID:257
+%LID#0#257-0-KMF_Marbo_Beograd#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1027	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	KMF_Marbo_Beograd
+##########
+%GID:258
+%LID#0#258-2-Paul_Aigbogun#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	210	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Paul_Aigbogun
+##########
+%GID:259
+%LID#0#259-1-Santa_Clarita,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	107	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Santa_Clarita,_California
+##########
+%GID:261
+%LID#0#261-2-Praia_da_Vitória#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	19	ANY
+v	2	148	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Praia_da_Vitória
+##########
+%GID:262
+%LID#0#262-2-2015_China_League_Two#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	509	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2015_China_League_Two
+##########
+%GID:263
+%LID#0#263-1-Rome#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	77	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Rome
+##########
+%GID:264
+%LID#0#264-2-2014_Major_League_Soccer_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	23	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014_Major_League_Soccer_season
+##########
+%GID:265
+%LID#0#265-2-2014–15_Segunda_División#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	858	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014–15_Segunda_División
+##########
+%GID:266
+%LID#0#266-1-Brussels#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	171	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Brussels
+##########
+%GID:267
+%LID#0#267-1-Jamaica,_Queens#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	384	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Jamaica,_Queens
+##########
+%GID:268
+%LID#1#268-0-S.V._Notch#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	1223	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Inter_Moengotapoe
+%Y
+eq-let	0	S.V._Notch
+##########
+%GID:269
+%LID#0#269-0-Buxmont_Torch_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	611	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Buxmont_Torch_FC
+##########
+%GID:270
+%LID#0#270-0-Zam_Zam_Isfahan_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1487	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Zam_Zam_Isfahan_FSC
+##########
+%GID:271
+%LID#0#271-1-Azores#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	151	ANY
+v	2	148	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Azores
+##########
+%GID:272
+%LID#1#272-2-2014–15_Football_League_Two#6#6#12
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	412	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	Cheltenham_Town_F.C.
+%Y
+eq-let	1	2014–15_Football_League_Two
+##########
+%GID:273
+%LID#0#273-1-Johor#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	494	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Johor
+##########
+%GID:274
+%LID#1#274-0-Khemara_Keila_FC#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	622	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Build_Bright_University_FC
+%Y
+eq-let	0	Khemara_Keila_FC
+##########
+%GID:275
+%LID#1#275-0-Eastbourne_United_Association_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	413	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Eastbourne_Town_F.C.
+%Y
+eq-let	0	Eastbourne_United_Association_F.C.
+##########
+%GID:276
+%LID#0#276-0-Staten_Island_Vipers#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	121	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Staten_Island_Vipers
+##########
+%GID:277
+%LID#1#277-2-FK_Vardar#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	675	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	FK_Shkupi
+%Y
+eq-let	1	FK_Vardar
+##########
+%GID:278
+%LID#0#278-2-1966–68_Liga_Bet#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	157	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	1966–68_Liga_Bet
+##########
+%GID:279
+%LID#0#279-2-Bayamo#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	910	ANY
+v	2	818	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bayamo
+##########
+%GID:280
+%LID#0#280-1-Pyongyang#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	591	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Pyongyang
+##########
+%GID:281
+%LID#1#281-2-Michoacán#7#7#25
+#Pattern
+v	0	64	ANY
+v	1	85	ANY
+v	2	1017	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+eq-let	2	Morelia
+%Y
+eq-let	1	Michoacán
+##########
+%GID:282
+%LID#0#282-1-Virginia_Beach,_Virginia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	219	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Virginia_Beach,_Virginia
+##########
+%GID:283
+%LID#0#283-2-Duncan_Wilde#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	433	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Duncan_Wilde
+##########
+%GID:284
+%LID#0#284-2-Ahmad_Baghbanbashi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	1487	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Ahmad_Baghbanbashi
+##########
+%GID:285
+%LID#1#285-0-Arsenal_F.C.#5#5#12
+#Pattern
+v	0	64	ANY
+v	1	11	ANY
+v	2	0	ANY
+e	0	107	2
+e	0	195	1
+#Condition
+%X
+eq-let	1	Emirates_Stadium
+%Y
+eq-let	0	Arsenal_F.C.
+##########
+%GID:286
+%LID#0#286-1-Sillamäe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	1171	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Sillamäe
+##########
+%GID:287
+%LID#1#287-0-FC_Talanta#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	595	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	2	Nairobi
+%Y
+eq-let	0	FC_Talanta
+##########
+%GID:288
+%LID#0#288-2-Ali_Bushri#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	3029	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Ali_Bushri
+##########
+%GID:289
+%LID#0#289-1-Ocean_City,_New_Jersey#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	69	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Ocean_City,_New_Jersey
+##########
+%GID:290
+%LID#0#290-0-Avispa_Fukuoka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	592	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Avispa_Fukuoka
+##########
+%GID:291
+%LID#1#291-2-Geoffrey_Maxwell#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1043	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	0	St._George's_SC
+%Y
+eq-let	1	Geoffrey_Maxwell
+##########
+%GID:292
+%LID#0#292-2-Blacksburg,_Virginia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	72	ANY
+v	2	15	ANY
+e	0	107	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Blacksburg,_Virginia
+##########
+%GID:293
+%LID#0#293-2-Adrian_Gaitan#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	121	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Adrian_Gaitan
+##########
+%GID:294
+%LID#0#294-2-Hamid_Estili#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	2145	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Hamid_Estili
+##########
+%GID:295
+%LID#0#295-2-Gary_Stempel#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	976	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Gary_Stempel
+##########
+%GID:296
+%LID#0#296-1-Madison,_Wisconsin#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	391	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Madison,_Wisconsin
+##########
+%GID:297
+%LID#1#297-0-NK_Jezero_Medvode#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	837	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	2	Medvode
+%Y
+eq-let	0	NK_Jezero_Medvode
+##########
+%GID:298
+%LID#0#298-0-Westbury_United_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	64	ANY
+e	0	197	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Westbury_United_F.C.
+##########
+%GID:299
+%LID#0#299-0-Reynir#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2555	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Reynir
+##########
+%GID:300
+%LID#0#300-2-Miguel_Aguilar_Obando#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	64	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Miguel_Aguilar_Obando
+##########
+%GID:301
+%LID#0#301-1-Angus#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	7	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Angus
+##########
+%GID:302
+%LID#0#302-1-Susumu_Watanabe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	7	ANY
+e	0	197	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Susumu_Watanabe
+##########
+%GID:303
+%LID#0#303-2-2013–14_TFF_First_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	309	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2013–14_TFF_First_League
+##########
+%GID:304
+%LID#0#304-1-Ottawa#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	16	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Ottawa
+##########
+%GID:305
+%LID#0#305-0-Build_Bright_University_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	622	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Build_Bright_University_FC
+##########
+%GID:306
+%LID#0#306-2-2014_Swedish_Football_Division_1#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	3524	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014_Swedish_Football_Division_1
+##########
+%GID:307
+%LID#1#307-0-Shanghai_United_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	262	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Shanghai_Pudong_Zobon_F.C.
+%Y
+eq-let	0	Shanghai_United_F.C.
+##########
+%GID:308
+%LID#1#308-0-Chelsea_F.C.#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	107	2
+e	0	197	1
+#Condition
+%X
+eq-let	1	José_Mourinho
+%Y
+eq-let	0	Chelsea_F.C.
+##########
+%GID:309
+%LID#0#309-2-Anthony_Portelli#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	481	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Anthony_Portelli
+##########
+%GID:310
+%LID#1#310-0-Malindi_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	3029	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Miembeni_S.C.
+%Y
+eq-let	0	Malindi_F.C.
+##########
+%GID:311
+%LID#1#311-2-Fongshan_District#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	295	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	1	Fongshan_District
+##########
+%GID:312
+%LID#0#312-2-2011_Mongolia_Premier_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	553	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2011_Mongolia_Premier_League
+##########
+%GID:313
+%LID#0#313-1-Kfar_Saba#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	486	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Kfar_Saba
+##########
+%GID:314
+%LID#0#314-2-2011–12_Terceira_Divisão#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	148	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2011–12_Terceira_Divisão
+##########
+%GID:315
+%LID#1#315-2-Estadio_Luis_%22Pirata%22_Fuente#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	11	ANY
+v	2	1017	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+eq-let	0	Tiburones_Rojos_de_Coatzacoalcos
+%Y
+eq-let	1	Estadio_Luis_%22Pirata%22_Fuente
+##########
+%GID:316
+%LID#0#316-0-Beijing_Institute_of_Technology_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	262	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Beijing_Institute_of_Technology_F.C.
+##########
+%GID:317
+%LID#0#317-1-Sohag#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	3881	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Sohag
+##########
+%GID:318
+%LID#0#318-0-Cruz_Azul#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	71	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Cruz_Azul
+##########
+%GID:319
+%LID#0#319-2-2010–11_Moldovan_National_Division#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	10	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2010–11_Moldovan_National_Division
+##########
+%GID:320
+%LID#0#320-2-2013–14_Ethiopian_Premier_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1176	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2013–14_Ethiopian_Premier_League
+##########
+%GID:321
+%LID#1#321-2-MBJB_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	494	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	Melodi_Jaya_Sports_Club
+%Y
+eq-let	1	MBJB_F.C.
+##########
+%GID:322
+%LID#1#322-1-Paul_Barron#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	13	ANY
+e	0	197	2
+e	0	198	1
+#Condition
+%X
+eq-let	1	2014_PDL_season
+%Y
+eq-let	2	Paul_Barron
+##########
+%GID:323
+%LID#1#323-0-Foolad_Mahan_Novin_FSC#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1487	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	1	2011–12_Iran_Futsal's_1st_Division
+%Y
+eq-let	0	Foolad_Mahan_Novin_FSC
+##########
+%GID:324
+%LID#1#324-2-2014–15_United_Counties_Football_League#4#4#14
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	114	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	Northampton_ON_Chenecks_F.C.
+%Y
+eq-let	1	2014–15_United_Counties_Football_League
+##########
+%GID:325
+%LID#0#325-2-2010_Bolivian_Football_Regional_Leagues#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	190	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2010_Bolivian_Football_Regional_Leagues
+##########
+%GID:326
+%LID#0#326-2-Mark_Bentley#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	13	ANY
+v	2	180	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Mark_Bentley
+##########
+%GID:327
+%LID#1#327-2-MNK_Uspinjača_Zagreb#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	264	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	F.C._Nacional
+%Y
+eq-let	1	MNK_Uspinjača_Zagreb
+##########
+%GID:328
+%LID#0#328-0-KMF_Marbo_Beograd#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	11	ANY
+v	2	1027	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	KMF_Marbo_Beograd
+##########
+%GID:329
+%LID#0#329-0-Club_Choré_Central#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	4040	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Club_Choré_Central
+##########
+%GID:330
+%LID#0#330-2-Enrique_Meza#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	1017	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Enrique_Meza
+##########
+%GID:331
+%LID#1#331-0-Lynch's_Irish_Pub_F.C.#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	25	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Jacksonville_United_FC
+%Y
+eq-let	0	Lynch's_Irish_Pub_F.C.
+##########
+%GID:332
+%LID#0#332-1-Premier_League#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	0	ANY
+e	0	107	2
+e	1	107	2
+#Condition
+%X
+%Y
+eq-let	2	Premier_League
+##########
+%GID:333
+%LID#1#333-2-PEL_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	245	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	Pakistan_Railways_F.C.
+%Y
+eq-let	1	PEL_F.C.
+##########
+%GID:334
+%LID#0#334-2-Ademola_Adeshina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	593	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Ademola_Adeshina
+##########
+%GID:335
+%LID#0#335-1-Trabzon#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	309	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Trabzon
+##########
+%GID:336
+%LID#0#336-1-Hangzhou#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	292	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Hangzhou
+##########
+%GID:337
+%LID#1#337-1-Kaohsiung#1#1#15
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	295	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	2	Kaohsiung
+##########
+%GID:338
+%LID#0#338-0-Pakchong_United_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1015	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Pakchong_United_F.C.
+##########
+%GID:339
+%LID#1#339-0-Inter_Moengotapoe#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1223	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	1	2014–15_SVB_Hoofdklasse
+%Y
+eq-let	0	Inter_Moengotapoe
+##########
+%GID:340
+%LID#0#340-0-Khangarid_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1870	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Khangarid_FC
+##########
+%GID:341
+%LID#0#341-1-Jacksonville,_Florida#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	25	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Jacksonville,_Florida
+##########
+%GID:342
+%LID#0#342-1-Huíla_Province#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	990	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Huíla_Province
+##########
+%GID:343
+%LID#0#343-1-Rawalpindi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	245	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Rawalpindi
+##########
+%GID:344
+%LID#1#344-2-SV_Juventus#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	590	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	SV_Vespo
+%Y
+eq-let	1	SV_Juventus
+##########
+%GID:345
+%LID#0#345-0-Shahid_Mansouri_Gharchak_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	110	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Shahid_Mansouri_Gharchak_FSC
+##########
+%GID:346
+%LID#0#346-1-Portland_Parish#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	11	ANY
+v	2	1043	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Portland_Parish
+##########
+%GID:348
+%LID#0#348-0-Nimba_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1813	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Nimba_FC
+##########
+%GID:349
+%LID#0#349-0-Tiburones_Rojos_de_Coatzacoalcos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1017	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	0	Tiburones_Rojos_de_Coatzacoalcos
+##########
+%GID:350
+%LID#0#350-2-2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	188	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina
+##########
+%GID:351
+%LID#1#351-1-Poole#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	356	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	Hamworthy_United_F.C.
+%Y
+eq-let	2	Poole
+##########
+%GID:352
+%LID#0#352-2-2014_Fiji_National_Football_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2188	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014_Fiji_National_Football_League
+##########
+%GID:353
+%LID#0#353-0-Bromley_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	435	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Bromley_F.C.
+##########
+%GID:354
+%LID#0#354-2-Ontario#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	19	ANY
+v	2	16	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Ontario
+##########
+%GID:355
+%LID#1#355-2-Chen_Kuei#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	492	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	1	Chen_Kuei
+##########
+%GID:356
+%LID#0#356-2-2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1973	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina
+##########
+%GID:357
+%LID#0#357-1-Đồng_Xoài#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2907	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Đồng_Xoài
+##########
+%GID:358
+%LID#0#358-1-Xinzhuang_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	492	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Xinzhuang_District
+##########
+%GID:359
+%LID#0#359-1-Madison,_Wisconsin#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	391	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Madison,_Wisconsin
+##########
+%GID:360
+%LID#1#360-2-Taipei_Physical_Education_College#4#4#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	295	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	1	Taipei_Physical_Education_College
+##########
+%GID:361
+%LID#1#361-2-2007_DPR_Korea_League_season#6#6#12
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	591	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	Amnokgang_Sports_Club
+%Y
+eq-let	1	2007_DPR_Korea_League_season
+##########
+%GID:362
+%LID#1#362-0-Club_Real_América#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	190	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Club_Callejas
+%Y
+eq-let	0	Club_Real_América
+##########
+%GID:363
+%LID#0#363-0-SD_Ponferradina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	858	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	SD_Ponferradina
+##########
+%GID:364
+%LID#0#364-0-Once_Municipal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	2103	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Once_Municipal
+##########
+%GID:365
+%LID#1#365-2-Taipei_Physical_Education_College#4#4#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	492	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	1	Taipei_Physical_Education_College
+##########
+%GID:366
+%LID#1#366-2-Crystal_Palace_L.F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	435	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	Bromley_F.C.
+%Y
+eq-let	1	Crystal_Palace_L.F.C.
+##########
+%GID:367
+%LID#1#367-0-Ligi_Ndogo_S.C._Academy#1#1#14
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	595	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	1	Ibrahim_Mbikalo
+%Y
+eq-let	0	Ligi_Ndogo_S.C._Academy
+##########
+%GID:368
+%LID#1#368-1-Sikasso#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	1489	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+eq-let	0	Stade_Malien_de_Sikasso
+%Y
+eq-let	2	Sikasso
+##########
+%GID:369
+%LID#1#369-0-Avispa_Fukuoka#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	592	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	1	Masami_Ihara
+%Y
+eq-let	0	Avispa_Fukuoka
+##########
+%GID:370
+%LID#0#370-2-2010_NPSL_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	21	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2010_NPSL_season
+##########
+%GID:372
+%LID#1#372-2-2013_Esiliiga#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	185	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	2	Vändra
+%Y
+eq-let	1	2013_Esiliiga
+##########
+%GID:373
+%LID#0#373-0-Gamba_Osaka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	462	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Gamba_Osaka
+##########
+%GID:374
+%LID#1#374-0-Curepipe_SC#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	978	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	AS_de_Vacoas
+%Y
+eq-let	0	Curepipe_SC
+##########
+%GID:375
+%LID#0#375-1-La_Felguera#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	35	ANY
+v	2	1058	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	La_Felguera
+##########
+%GID:376
+%LID#0#376-1-Rome#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	77	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Rome
+##########
+%GID:377
+%LID#0#377-0-D.C._United#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	23	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	D.C._United
+##########
+%GID:378
+%LID#1#378-2-Zekirija_Ramadan#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	675	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	0	FK_Shkupi
+%Y
+eq-let	1	Zekirija_Ramadan
+##########
+%GID:379
+%LID#1#379-0-Foolad_Mahan_Novin_FSC#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	1487	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Zam_Zam_Isfahan_FSC
+%Y
+eq-let	0	Foolad_Mahan_Novin_FSC
+##########
+%GID:380
+%LID#0#380-2-2013–14_Belgian_Second_Division#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	171	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2013–14_Belgian_Second_Division
+##########
+%GID:381
+%LID#0#381-2-2014–15_Liga_MX_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1017	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014–15_Liga_MX_season
+##########
+%GID:382
+%LID#0#382-1-Nairobi#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	595	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Nairobi
+##########
+%GID:383
+%LID#0#383-1-Carson_City,_Nevada#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	210	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Carson_City,_Nevada
+##########
+%GID:384
+%LID#0#384-1-Santa_Clarita,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	107	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Santa_Clarita,_California
+##########
+%GID:385
+%LID#0#385-1-Santa_Clarita,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	107	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Santa_Clarita,_California
+##########
+%GID:386
+%LID#1#386-1-KwaZulu–Natal#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	401	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	1	Professor_Ngubane
+%Y
+eq-let	2	KwaZulu–Natal
+##########
+%GID:387
+%LID#0#387-1-Muhanga_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1180	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Muhanga_District
+##########
+%GID:388
+%LID#1#388-2-Club_Astros#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	71	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	Cruz_Azul
+%Y
+eq-let	1	Club_Astros
+##########
+%GID:389
+%LID#0#389-0-Hanover_Park_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	401	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Hanover_Park_F.C.
+##########
+%GID:390
+%LID#0#390-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	119	ANY
+e	0	107	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Ponta_Delgada_Football_Association
+##########
+%GID:391
+%LID#0#391-0-Malavan_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2145	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Malavan_F.C.
+##########
+%GID:392
+%LID#0#392-2-2014_PDL_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	433	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014_PDL_season
+##########
+%GID:393
+%LID#0#393-1-Oxford#0#0#1
+#Pattern
+v	0	64	ANY
+v	1	2	ANY
+v	2	114	ANY
+e	0	195	2
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	2	Oxford
+##########
+%GID:394
+%LID#0#394-2-Matt_Busch(Coach)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	219	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	1	Matt_Busch(Coach)
+##########
+%GID:395
+%LID#1#395-0-Guangxi_Longguida_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	509	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Guangxi_Tianji
+%Y
+eq-let	0	Guangxi_Longguida_F.C.
+##########
+%GID:396
+%LID#1#396-2-Dynamo_Unacob_FC_de_Parakou#7#7#33
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	345	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	0	Buffles_du_Borgou_FC
+%Y
+eq-let	1	Dynamo_Unacob_FC_de_Parakou
+##########
+%GID:397
+%LID#0#397-2-2014–15_Sussex_County_Football_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	413	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014–15_Sussex_County_Football_League
+##########
+%GID:398
+%LID#0#398-1-Ocean_City,_New_Jersey#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	69	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Ocean_City,_New_Jersey
+##########
+%GID:399
+%LID#0#399-1-Selangor#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	494	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Selangor
+##########
+%GID:400
+%LID#0#400-2-2014–15_Isthmian_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	180	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2014–15_Isthmian_League
+##########
+%GID:401
+%LID#1#401-2-2014–15_Football_League_Championship#6#6#14
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	107	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	Watford_F.C.
+%Y
+eq-let	1	2014–15_Football_League_Championship
+##########
+%GID:402
+%LID#0#402-1-Badalona#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	995	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Badalona
+##########
+%GID:403
+%LID#1#403-0-Club_Deportivo_Vista_Alegre#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	976	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	2	Arraiján_District
+%Y
+eq-let	0	Club_Deportivo_Vista_Alegre
+##########
+%GID:404
+%LID#0#404-1-Sacramento,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	27	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Sacramento,_California
+##########
+%GID:405
+%LID#1#405-0-St._George's_SC#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	1043	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+eq-let	1	Highgate_United_F.C._(Jamaican_football_club)
+%Y
+eq-let	0	St._George's_SC
+##########
+%GID:406
+%LID#0#406-0-Reynir#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2555	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Reynir
+##########
+%GID:407
+%LID#0#407-1-Al_Batinah_Region#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	2708	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	2	Al_Batinah_Region
+##########
+%GID:408
+%LID#1#408-1-Sillamäe#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	1171	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+eq-let	0	JK_Sillamäe_Kalev_II
+%Y
+eq-let	2	Sillamäe
+##########
+%GID:409
+%LID#0#409-0-Buxmont_Torch_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	611	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	0	Buxmont_Torch_FC
+##########
+%GID:410
+%LID#0#410-2-2009_CAF_Champions_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	3029	ANY
+e	0	195	2
+e	0	198	1
+#Condition
+%X
+%Y
+eq-let	1	2009_CAF_Champions_League
+##########
+%GID:411
+%LID#1#411-2-Stephen_O'Kane_(soccer)#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	16	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+eq-let	2	Ottawa
+%Y
+eq-let	1	Stephen_O'Kane_(soccer)
+##########
+%GID:412
+%LID#0#412-0-Espoir_FC_(Benin)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	9	ANY
+v	2	345	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	0	Espoir_FC_(Benin)
+##########
+%GID:413
+%LID#0#413-1-Hanoi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1	ANY
+v	2	927	ANY
+e	0	195	2
+e	0	197	1
+#Condition
+%X
+%Y
+eq-let	2	Hanoi
+##########
+%GID:414
+%LID#1#414-3-Chen_Kuei#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	2	Chen_Kuei
+##########
+%GID:415
+%LID#1#415-2-FK_Shkupi#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	FK_Vardar
+%Y
+eq-let	3	FK_Shkupi
+##########
+%GID:416
+%LID#1#416-2-Ho_Chun#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	3	Ho_Chun
+##########
+%GID:417
+%LID#0#417-0-Club_Choré_Central#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	4040	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Club_Choré_Central
+##########
+%GID:418
+%LID#0#418-1-Al_Batinah_Region#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2708	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Al_Batinah_Region
+##########
+%GID:419
+%LID#1#419-2-Garankuwa_United_F.C.#6#6#29
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	2	Joseph_Mekoe
+%Y
+eq-let	3	Garankuwa_United_F.C.
+##########
+%GID:420
+%LID#0#420-1-Banovići#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	1973	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Banovići
+##########
+%GID:421
+%LID#1#421-2-Goce_Sedloski#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+eq-let	0	FK_Vardar
+%Y
+eq-let	3	Goce_Sedloski
+##########
+%GID:422
+%LID#0#422-0-Zam_Zam_Isfahan_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Zam_Zam_Isfahan_FSC
+##########
+%GID:423
+%LID#1#423-0-AS_Biton#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1489	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	3	AS_Bakaridjan
+%Y
+eq-let	0	AS_Biton
+##########
+%GID:424
+%LID#0#424-3-2014_Intercity_Football_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014_Intercity_Football_League
+##########
+%GID:425
+%LID#0#425-0-Foolad_Mahan_Novin_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Foolad_Mahan_Novin_FSC
+##########
+%GID:426
+%LID#0#426-0-Atlético_Nacional_(Panama)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Nacional_(Panama)
+##########
+%GID:427
+%LID#0#427-2-2014_Swedish_Football_Division_1#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3524	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014_Swedish_Football_Division_1
+##########
+%GID:428
+%LID#0#428-1-Johor#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	494	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	1	Johor
+##########
+%GID:429
+%LID#1#429-3-2011_DPR_Korea_League#8#8#39
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	April_25_Sports_Club
+%Y
+eq-let	2	2011_DPR_Korea_League
+##########
+%GID:430
+%LID#0#430-1-Mexico_City#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	1	Mexico_City
+##########
+%GID:431
+%LID#0#431-3-2014–15_Liga_MX_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	1	ANY
+v	3	85	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_Liga_MX_season
+##########
+%GID:432
+%LID#0#432-1-Sohag#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	3881	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Sohag
+##########
+%GID:433
+%LID#1#433-3-Chen_Kuei#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	2	Chen_Kuei
+##########
+%GID:434
+%LID#0#434-0-Cruz_Azul#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Cruz_Azul
+##########
+%GID:435
+%LID#1#435-0-Curepipe_SC#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	978	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	AS_de_Vacoas
+%Y
+eq-let	0	Curepipe_SC
+##########
+%GID:436
+%LID#0#436-1-Amaan_Stadium#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	1	Amaan_Stadium
+##########
+%GID:437
+%LID#1#437-0-Club_Real_América#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Club_Callejas
+%Y
+eq-let	0	Club_Real_América
+##########
+%GID:438
+%LID#0#438-3-2014–15_SVB_Hoofdklasse#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_SVB_Hoofdklasse
+##########
+%GID:439
+%LID#0#439-2-S.C._Praiense#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	3	S.C._Praiense
+##########
+%GID:440
+%LID#0#440-2-Build_Bright_University_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	3	Build_Bright_University_FC
+##########
+%GID:442
+%LID#0#442-1-Rawalpindi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	245	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Rawalpindi
+##########
+%GID:443
+%LID#1#443-2-Eastbourne_Town_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	413	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	0	Eastbourne_United_Association_F.C.
+%Y
+eq-let	3	Eastbourne_Town_F.C.
+##########
+%GID:444
+%LID#0#444-0-Inter_Moengotapoe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Inter_Moengotapoe
+##########
+%GID:445
+%LID#1#445-2-Highgate_United_F.C._(Jamaican_football_club)#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	0	St._George's_SC
+%Y
+eq-let	3	Highgate_United_F.C._(Jamaican_football_club)
+##########
+%GID:446
+%LID#1#446-2-Club_Callejas#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	Club_Real_América
+%Y
+eq-let	3	Club_Callejas
+##########
+%GID:447
+%LID#0#447-0-Nimba_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1813	ANY
+v	2	64	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Nimba_FC
+##########
+%GID:449
+%LID#0#449-0-FC_Talanta#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	FC_Talanta
+##########
+%GID:450
+%LID#0#450-1-San_Jose,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	San_Jose,_California
+##########
+%GID:451
+%LID#0#451-2-Ali_Bushri#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Ali_Bushri
+##########
+%GID:452
+%LID#1#452-0-FK_Vardar#9#9#33
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+eq-let	2	FK_Sileks
+%Y
+eq-let	0	FK_Vardar
+##########
+%GID:453
+%LID#0#453-1-Ocean_City,_New_Jersey#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	69	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Ocean_City,_New_Jersey
+##########
+%GID:454
+%LID#0#454-1-Jacksonville,_Florida#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	25	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	1	Jacksonville,_Florida
+##########
+%GID:455
+%LID#0#455-2-Ontario#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	1	ANY
+v	3	19	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Ontario
+##########
+%GID:456
+%LID#1#456-2-Club_Astros#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Cruz_Azul
+%Y
+eq-let	2	Club_Astros
+##########
+%GID:458
+%LID#0#458-1-Puebla,_Puebla#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	84	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	1	Puebla,_Puebla
+##########
+%GID:459
+%LID#0#459-2-2013_Esiliiga#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	185	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2013_Esiliiga
+##########
+%GID:460
+%LID#1#460-1-Gauteng#7#7#33
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	3	M_Tigers_F.C.
+%Y
+eq-let	1	Gauteng
+##########
+%GID:461
+%LID#0#461-1-Đồng_Xoài#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2907	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Đồng_Xoài
+##########
+%GID:462
+%LID#1#462-2-MBJB_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	494	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Melodi_Jaya_Sports_Club
+%Y
+eq-let	2	MBJB_F.C.
+##########
+%GID:463
+%LID#0#463-1-Azores#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	151	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	1	Azores
+##########
+%GID:465
+%LID#0#465-1-Huíla_Province#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	990	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Huíla_Province
+##########
+%GID:466
+%LID#1#466-3-Loyola_Sport_Club#7#7#25
+#Pattern
+v	0	64	ANY
+v	1	751	ANY
+v	2	64	ANY
+v	3	64	ANY
+e	0	195	1
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+eq-let	3	La_Salle_FC
+%Y
+eq-let	2	Loyola_Sport_Club
+##########
+%GID:467
+%LID#0#467-2-Mehmed_Janjoš#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	188	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Mehmed_Janjoš
+##########
+%GID:468
+%LID#0#468-0-SD_Ponferradina#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	858	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	SD_Ponferradina
+##########
+%GID:469
+%LID#0#469-0-OUWAFC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	114	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	0	OUWAFC
+##########
+%GID:470
+%LID#0#470-0-Atlético_Nacional_(Panama)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Nacional_(Panama)
+##########
+%GID:471
+%LID#0#471-1-Portland_Parish#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	1	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	1	Portland_Parish
+##########
+%GID:472
+%LID#1#472-2-Crystal_Palace_L.F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Bromley_F.C.
+%Y
+eq-let	2	Crystal_Palace_L.F.C.
+##########
+%GID:473
+%LID#1#473-0-Taipei_Physical_Education_College#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	3	Taiwan_Power_Company_F.C.
+%Y
+eq-let	0	Taipei_Physical_Education_College
+##########
+%GID:474
+%LID#0#474-2-Khemara_Keila_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	3	Khemara_Keila_FC
+##########
+%GID:475
+%LID#1#475-1-Gauteng#6#6#35
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	3	Garankuwa_United_F.C.
+%Y
+eq-let	1	Gauteng
+##########
+%GID:476
+%LID#0#476-2-2014–15_SVB_Hoofdklasse#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014–15_SVB_Hoofdklasse
+##########
+%GID:477
+%LID#0#477-1-San_Jose,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	1	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	San_Jose,_California
+##########
+%GID:478
+%LID#0#478-2-Estadio_Morelos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	1	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Morelos
+##########
+%GID:479
+%LID#1#479-2-San_Francisco_F.C.#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Atlético_Nacional_(Panama)
+%Y
+eq-let	2	San_Francisco_F.C.
+##########
+%GID:480
+%LID#0#480-3-Portugal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	2	ANY
+v	3	151	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	2	Portugal
+##########
+%GID:481
+%LID#0#481-0-Bromley_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Bromley_F.C.
+##########
+%GID:482
+%LID#0#482-2-2010_NPSL_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	21	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2010_NPSL_season
+##########
+%GID:483
+%LID#0#483-2-Ethiopia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1176	ANY
+v	2	64	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	3	Ethiopia
+##########
+%GID:484
+%LID#0#484-3-2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1973	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina
+##########
+%GID:486
+%LID#0#486-1-Isfahan#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##########
+%GID:487
+%LID#0#487-2-New_York_City#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	1	ANY
+v	3	20	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##########
+%GID:488
+%LID#1#488-2-Club_Callejas#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	0	Club_Real_América
+%Y
+eq-let	3	Club_Callejas
+##########
+%GID:489
+%LID#1#489-3-Kasem_Bundit_University_F.C.#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	712	ANY
+v	2	64	ANY
+v	3	64	ANY
+e	0	195	1
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+eq-let	0	Thai_Honda_F.C.
+%Y
+eq-let	2	Kasem_Bundit_University_F.C.
+##########
+%GID:490
+%LID#0#490-3-Zeliha_Şimşek#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Zeliha_Şimşek
+##########
+%GID:491
+%LID#0#491-3-2014–15_Football_Conference#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_Football_Conference
+##########
+%GID:492
+%LID#0#492-1-Bonaire#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	590	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bonaire
+##########
+%GID:493
+%LID#1#493-2-FC_Talanta#6#6#25
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	2	Michael_Nam
+%Y
+eq-let	3	FC_Talanta
+##########
+%GID:494
+%LID#0#494-2-S.C._Praiense#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	19	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	3	S.C._Praiense
+##########
+%GID:495
+%LID#0#495-2-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	3	Bolivia
+##########
+%GID:496
+%LID#0#496-2-Inter_Moengotapoe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	3	Inter_Moengotapoe
+##########
+%GID:497
+%LID#0#497-1-Ottawa#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Ottawa
+##########
+%GID:499
+%LID#0#499-2-2014_PDL_season#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	433	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014_PDL_season
+##########
+%GID:500
+%LID#0#500-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+v	2	151	ANY
+v	3	148	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	1	Ponta_Delgada_Football_Association
+##########
+%GID:501
+%LID#0#501-0-Staten_Island_Vipers#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	0	Staten_Island_Vipers
+##########
+%GID:503
+%LID#0#503-2-Guangxi_Tianji#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	509	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	3	Guangxi_Tianji
+##########
+%GID:504
+%LID#0#504-1-Jacksonville,_Florida#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	25	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	1	Jacksonville,_Florida
+##########
+%GID:505
+%LID#0#505-0-Moranbong_Sports_Club#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Moranbong_Sports_Club
+##########
+%GID:506
+%LID#0#506-1-Rome#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	77	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##########
+%GID:507
+%LID#1#507-2-PEL_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	245	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Pakistan_Railways_F.C.
+%Y
+eq-let	2	PEL_F.C.
+##########
+%GID:508
+%LID#1#508-0-Garankuwa_United_F.C.#9#9#33
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	M_Tigers_F.C.
+%Y
+eq-let	0	Garankuwa_United_F.C.
+##########
+%GID:509
+%LID#1#509-0-Taiwan_Power_Company_F.C.#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	492	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+eq-let	2	Chen_Kuei
+%Y
+eq-let	0	Taiwan_Power_Company_F.C.
+##########
+%GID:510
+%LID#0#510-2-Duncan_Wilde#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	433	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Duncan_Wilde
+##########
+%GID:511
+%LID#1#511-3-Ho_Chun#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	2	Ho_Chun
+##########
+%GID:512
+%LID#0#512-1-Sillamäe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1171	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Sillamäe
+##########
+%GID:513
+%LID#1#513-2-FK_Vardar#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	2	2014–15_Macedonian_First_Football_League
+%Y
+eq-let	3	FK_Vardar
+##########
+%GID:514
+%LID#0#514-0-Shahid_Mansouri_Gharchak_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	110	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	Shahid_Mansouri_Gharchak_FSC
+##########
+%GID:515
+%LID#0#515-3-2010_NPSL_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	21	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2010_NPSL_season
+##########
+%GID:516
+%LID#1#516-3-Royal_Blues_F.C.#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+eq-let	1	Fongshan_District
+%Y
+eq-let	2	Royal_Blues_F.C.
+##########
+%GID:517
+%LID#0#517-2-Xinzhuang_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	9	ANY
+v	3	492	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	3	Xinzhuang_District
+##########
+%GID:518
+%LID#0#518-3-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	David_de_la_Torre
+##########
+%GID:519
+%LID#0#519-2-S.C._Praiense#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	2	S.C._Praiense
+##########
+%GID:520
+%LID#0#520-2-Enrique_Meza#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Enrique_Meza
+##########
+%GID:522
+%LID#0#522-2-2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	188	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina
+##########
+%GID:523
+%LID#0#523-0-Maccabi_Kfar_Saba_F.C._(women)#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	486	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Maccabi_Kfar_Saba_F.C._(women)
+##########
+%GID:524
+%LID#0#524-0-KMF_Marbo_Beograd#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1027	ANY
+v	2	1	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	0	KMF_Marbo_Beograd
+##########
+%GID:525
+%LID#0#525-3-Mark_Goldberg#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Mark_Goldberg
+##########
+%GID:526
+%LID#1#526-0-AS_Biton#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1489	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+eq-let	3	AS_Bakaridjan
+%Y
+eq-let	0	AS_Biton
+##########
+%GID:527
+%LID#1#527-0-San_Jose_Earthquakes#6#6#29
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	9	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+eq-let	1	San_Jose,_California
+%Y
+eq-let	0	San_Jose_Earthquakes
+##########
+%GID:528
+%LID#0#528-0-Shahid_Mansouri_Gharchak_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	110	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Shahid_Mansouri_Gharchak_FSC
+##########
+%GID:529
+%LID#0#529-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	218	ANY
+e	0	107	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:530
+%LID#0#530-2-Estadio_Morelos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	9	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Morelos
+##########
+%GID:531
+%LID#0#531-2-Paul_Hegarty#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Paul_Hegarty
+##########
+%GID:532
+%LID#1#532-2-Taiwan_Power_Company_F.C.#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	3	Taiwan_Power_Company_F.C.
+##########
+%GID:534
+%LID#0#534-3-Knoxville_Force#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	391	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	2	Knoxville_Force
+##########
+%GID:536
+%LID#1#536-2-Dynamo_Unacob_FC_de_Parakou#7#7#33
+#Pattern
+v	0	64	ANY
+v	1	345	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Buffles_du_Borgou_FC
+%Y
+eq-let	2	Dynamo_Unacob_FC_de_Parakou
+##########
+%GID:537
+%LID#1#537-0-Malindi_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Miembeni_S.C.
+%Y
+eq-let	0	Malindi_F.C.
+##########
+%GID:539
+%LID#1#539-2-Taipei_Physical_Education_College#4#4#6
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	2	Taipei_Physical_Education_College
+##########
+%GID:540
+%LID#0#540-3-Mark_Goldberg#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	Mark_Goldberg
+##########
+%GID:541
+%LID#0#541-2-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Bolivia
+##########
+%GID:542
+%LID#1#542-3-Goce_Sedloski#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	FK_Vardar
+%Y
+eq-let	2	Goce_Sedloski
+##########
+%GID:544
+%LID#0#544-3-2013_FKF_Division_One#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	2	2013_FKF_Division_One
+##########
+%GID:545
+%LID#0#545-0-Malavan_F.C.#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	2145	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Malavan_F.C.
+##########
+%GID:546
+%LID#0#546-3-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	David_de_la_Torre
+##########
+%GID:547
+%LID#1#547-2-Zam_Zam_Isfahan_FSC#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	Foolad_Mahan_Novin_FSC
+%Y
+eq-let	3	Zam_Zam_Isfahan_FSC
+##########
+%GID:548
+%LID#0#548-3-Zeliha_Şimşek#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	Zeliha_Şimşek
+##########
+%GID:549
+%LID#0#549-2-2013_PDL_season#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	219	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2013_PDL_season
+##########
+%GID:550
+%LID#0#550-3-Roberto_Apunte#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	25	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	Roberto_Apunte
+##########
+%GID:551
+%LID#0#551-2-2014–15_Liga_MX_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014–15_Liga_MX_season
+##########
+%GID:552
+%LID#0#552-2-Torero_Stadium#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	64	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	3	Torero_Stadium
+##########
+%GID:553
+%LID#1#553-2-FK_Shkupi#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	0	FK_Vardar
+%Y
+eq-let	3	FK_Shkupi
+##########
+%GID:554
+%LID#0#554-3-2009_CAF_Champions_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	2009_CAF_Champions_League
+##########
+%GID:555
+%LID#0#555-2-Tomás_Boy#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Tomás_Boy
+##########
+%GID:556
+%LID#1#556-0-Lynch's_Irish_Pub_F.C.#3#3#6
+#Pattern
+v	0	64	ANY
+v	1	25	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Jacksonville_United_FC
+%Y
+eq-let	0	Lynch's_Irish_Pub_F.C.
+##########
+%GID:557
+%LID#1#557-0-Taipei_Physical_Education_College#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	3	Taiwan_Power_Company_F.C.
+%Y
+eq-let	0	Taipei_Physical_Education_College
+##########
+%GID:558
+%LID#1#558-0-S.V._Notch#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Inter_Moengotapoe
+%Y
+eq-let	0	S.V._Notch
+##########
+%GID:560
+%LID#0#560-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	64	ANY
+e	0	107	1
+e	2	107	1
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:561
+%LID#0#561-1-Erie,_Pennsylvania#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	521	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Erie,_Pennsylvania
+##########
+%GID:562
+%LID#0#562-1-Brussels#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	171	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Brussels
+##########
+%GID:563
+%LID#1#563-1-Veracruz_(city)#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	64	ANY
+v	3	85	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+eq-let	2	Patriotas_de_Córdoba
+%Y
+eq-let	1	Veracruz_(city)
+##########
+%GID:565
+%LID#1#565-0-Khemara_Keila_FC#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Build_Bright_University_FC
+%Y
+eq-let	0	Khemara_Keila_FC
+##########
+%GID:566
+%LID#0#566-3-Roberto_Apunte#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	25	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Roberto_Apunte
+##########
+%GID:567
+%LID#0#567-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	218	ANY
+e	0	107	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:569
+%LID#1#569-1-Gauteng#9#9#33
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+eq-let	0	M_Tigers_F.C.
+%Y
+eq-let	1	Gauteng
+##########
+%GID:570
+%LID#0#570-0-Avispa_Fukuoka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	592	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	Avispa_Fukuoka
+##########
+%GID:571
+%LID#0#571-2-Ethiopia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1176	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Ethiopia
+##########
+%GID:572
+%LID#1#572-3-Michael_Nam#5#5#27
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+eq-let	3	Ligi_Ndogo_S.C._Academy
+%Y
+eq-let	2	Michael_Nam
+##########
+%GID:574
+%LID#0#574-1-Johor#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	494	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	1	Johor
+##########
+%GID:575
+%LID#0#575-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+v	2	64	ANY
+v	3	148	ANY
+e	0	107	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	1	Ponta_Delgada_Football_Association
+##########
+%GID:577
+%LID#0#577-3-2009_CAF_Champions_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	2	2009_CAF_Champions_League
+##########
+%GID:578
+%LID#0#578-2-Build_Bright_University_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	3	Build_Bright_University_FC
+##########
+%GID:579
+%LID#1#579-2-Taiwan_Power_Company_F.C.#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	3	Taiwan_Power_Company_F.C.
+##########
+%GID:580
+%LID#0#580-2-Paul_Aigbogun#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	210	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Paul_Aigbogun
+##########
+%GID:581
+%LID#0#581-2-2015_China_League_Two#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	509	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2015_China_League_Two
+##########
+%GID:583
+%LID#0#583-1-Portland_Parish#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	11	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	1	Portland_Parish
+##########
+%GID:584
+%LID#0#584-3-Comrat#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	10	ANY
+v	2	5	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	2	Comrat
+##########
+%GID:585
+%LID#0#585-1-Susumu_Watanabe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	7	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	197	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Susumu_Watanabe
+##########
+%GID:586
+%LID#1#586-0-Guangxi_Longguida_F.C.#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	509	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Guangxi_Tianji
+%Y
+eq-let	0	Guangxi_Longguida_F.C.
+##########
+%GID:590
+%LID#1#590-0-Puebla_F.C._Reserves#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	84	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Lobos_Prepa
+%Y
+eq-let	0	Puebla_F.C._Reserves
+##########
+%GID:591
+%LID#0#591-1-Plaines_Wilhems_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	978	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	1	Plaines_Wilhems_District
+##########
+%GID:592
+%LID#1#592-0-Shanghai_United_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	262	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Shanghai_Pudong_Zobon_F.C.
+%Y
+eq-let	0	Shanghai_United_F.C.
+##########
+%GID:593
+%LID#1#593-3-Ligi_Ndogo_S.C._Academy#6#6#25
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	64	ANY
+e	0	195	1
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+eq-let	3	FC_Talanta
+%Y
+eq-let	2	Ligi_Ndogo_S.C._Academy
+##########
+%GID:594
+%LID#0#594-2-Praia_da_Vitória#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	1	ANY
+v	3	19	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Praia_da_Vitória
+##########
+%GID:595
+%LID#0#595-1-Madison,_Wisconsin#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Madison,_Wisconsin
+##########
+%GID:596
+%LID#1#596-0-Eastbourne_United_Association_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	413	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Eastbourne_Town_F.C.
+%Y
+eq-let	0	Eastbourne_United_Association_F.C.
+##########
+%GID:597
+%LID#1#597-3-Club_Callejas#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+eq-let	0	Club_Real_América
+%Y
+eq-let	2	Club_Callejas
+##########
+%GID:599
+%LID#1#599-2-AS_Bakaridjan#4#4#6
+#Pattern
+v	0	64	ANY
+v	1	1489	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	AS_Biton
+%Y
+eq-let	2	AS_Bakaridjan
+##########
+%GID:600
+%LID#0#600-2-Spain#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1058	ANY
+v	2	35	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	3	Spain
+##########
+%GID:601
+%LID#0#601-2-Ahmad_Baghbanbashi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Ahmad_Baghbanbashi
+##########
+%GID:602
+%LID#1#602-2-Emirates_Stadium#5#5#12
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	11	ANY
+e	0	107	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+eq-let	0	Arsenal_F.C.
+%Y
+eq-let	3	Emirates_Stadium
+##########
+%GID:606
+%LID#1#606-2-Zam_Zam_Isfahan_FSC#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	0	Foolad_Mahan_Novin_FSC
+%Y
+eq-let	3	Zam_Zam_Isfahan_FSC
+##########
+%GID:607
+%LID#0#607-1-Bonaire#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	590	ANY
+v	2	72	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	1	Bonaire
+##########
+%GID:609
+%LID#0#609-0-Staten_Island_Vipers#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	64	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Staten_Island_Vipers
+##########
+%GID:610
+%LID#0#610-2-Estadio_Luis_%22Pirata%22_Fuente#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	2	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Luis_%22Pirata%22_Fuente
+##########
+%GID:611
+%LID#1#611-0-Garankuwa_United_F.C.#7#7#29
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+eq-let	1	Gauteng
+%Y
+eq-let	0	Garankuwa_United_F.C.
+##########
+%GID:612
+%LID#0#612-1-Santa_Clarita,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Santa_Clarita,_California
+##########
+%GID:613
+%LID#0#613-3-Gary_Stempel#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Gary_Stempel
+##########
+%GID:614
+%LID#0#614-2-2014_Major_League_Soccer_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014_Major_League_Soccer_season
+##########
+%GID:615
+%LID#0#615-2-Miembeni_S.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	3	Miembeni_S.C.
+##########
+%GID:616
+%LID#0#616-1-Azores#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	1	Azores
+##########
+%GID:619
+%LID#1#619-2-Club_Callejas#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	0	Club_Real_América
+%Y
+eq-let	3	Club_Callejas
+##########
+%GID:621
+%LID#1#621-3-Veracruz#7#7#29
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	85	ANY
+v	3	11	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+eq-let	1	Veracruz_(city)
+%Y
+eq-let	2	Veracruz
+##########
+%GID:622
+%LID#0#622-1-Rome#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	77	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##########
+%GID:625
+%LID#0#625-0-Inter_Moengotapoe#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	64	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Inter_Moengotapoe
+##########
+%GID:626
+%LID#0#626-0-Gamba_Osaka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	462	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Gamba_Osaka
+##########
+%GID:628
+%LID#0#628-1-Xinzhuang_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Xinzhuang_District
+##########
+%GID:629
+%LID#0#629-0-Buxmont_Torch_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	611	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	Buxmont_Torch_FC
+##########
+%GID:630
+%LID#0#630-2-2013–14_Belgian_Second_Division#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	171	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2013–14_Belgian_Second_Division
+##########
+%GID:631
+%LID#1#631-3-2014_Intercity_Football_League#3#3#33
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	492	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+eq-let	0	Royal_Blues_F.C.
+%Y
+eq-let	2	2014_Intercity_Football_League
+##########
+%GID:632
+%LID#0#632-3-Portugal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	2	Portugal
+##########
+%GID:633
+%LID#1#633-0-Club_Real_América#2#2#9
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	64	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+eq-let	2	Club_Callejas
+%Y
+eq-let	0	Club_Real_América
+##########
+%GID:634
+%LID#0#634-0-Beijing_Institute_of_Technology_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	262	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	Beijing_Institute_of_Technology_F.C.
+##########
+%GID:635
+%LID#1#635-2-Club_Callejas#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	Club_Real_América
+%Y
+eq-let	3	Club_Callejas
+##########
+%GID:636
+%LID#0#636-0-Tiburones_Rojos_de_Coatzacoalcos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	85	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	0	Tiburones_Rojos_de_Coatzacoalcos
+##########
+%GID:637
+%LID#0#637-3-2010–11_Moldovan_National_Division#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	10	ANY
+v	2	1	ANY
+v	3	5	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2010–11_Moldovan_National_Division
+##########
+%GID:638
+%LID#1#638-3-Taiwan_Power_Company_F.C.#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+eq-let	0	Royal_Blues_F.C.
+%Y
+eq-let	2	Taiwan_Power_Company_F.C.
+##########
+%GID:639
+%LID#0#639-1-Vändra#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	185	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Vändra
+##########
+%GID:640
+%LID#0#640-3-Hossein_Afzali#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	Hossein_Afzali
+##########
+%GID:641
+%LID#0#641-1-Kfar_Saba#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	486	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Kfar_Saba
+##########
+%GID:642
+%LID#1#642-3-2011_DPR_Korea_League#8#8#37
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	3	April_25_Sports_Club
+%Y
+eq-let	2	2011_DPR_Korea_League
+##########
+%GID:643
+%LID#0#643-2-Moldova#0#0#8
+#Pattern
+v	0	64	ANY
+v	1	10	ANY
+v	2	64	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	3	Moldova
+##########
+%GID:644
+%LID#1#644-3-Moranbong_Sports_Club#7#7#25
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	64	ANY
+v	3	64	ANY
+e	0	195	1
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+eq-let	0	Amnokgang_Sports_Club
+%Y
+eq-let	2	Moranbong_Sports_Club
+##########
+%GID:645
+%LID#1#645-2-Arsinspor#7#7#25
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+v	2	64	ANY
+v	3	64	ANY
+e	0	195	1
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+eq-let	0	Trabzonspor_(women)
+%Y
+eq-let	3	Arsinspor
+##########
+%GID:646
+%LID#0#646-2-Guangxi_Longguida_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	509	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	3	Guangxi_Longguida_F.C.
+##########
+%GID:647
+%LID#0#647-0-Zam_Zam_Isfahan_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	0	Zam_Zam_Isfahan_FSC
+##########
+%GID:648
+%LID#0#648-2-S.C._Praiense#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	3	S.C._Praiense
+##########
+%GID:649
+%LID#0#649-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	64	ANY
+v	3	218	ANY
+e	0	107	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:651
+%LID#0#651-2-Ontario#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	1	ANY
+v	3	19	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	3	Ontario
+##########
+%GID:652
+%LID#1#652-2-Eastbourne_Town_F.C.#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	413	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	Eastbourne_United_Association_F.C.
+%Y
+eq-let	3	Eastbourne_Town_F.C.
+##########
+%GID:653
+%LID#1#653-2-Ho_Chun#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	3	Ho_Chun
+##########
+%GID:654
+%LID#0#654-3-Portugal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+v	2	2	ANY
+v	3	151	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	2	Portugal
+##########
+%GID:656
+%LID#0#656-0-Mälarhöjdens_IK#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	2251	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Mälarhöjdens_IK
+##########
+%GID:657
+%LID#0#657-2-Hamid_Estili#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2145	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Hamid_Estili
+##########
+%GID:658
+%LID#0#658-3-2014–15_Isthmian_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	180	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_Isthmian_League
+##########
+%GID:659
+%LID#0#659-1-Rawalpindi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	245	ANY
+v	2	64	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	2	197	3
+#Condition
+%X
+%Y
+eq-let	1	Rawalpindi
+##########
+%GID:660
+%LID#0#660-2-2014_Major_League_Soccer_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	23	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014_Major_League_Soccer_season
+##########
+%GID:661
+%LID#0#661-3-Portugal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+v	2	2	ANY
+v	3	148	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	2	Portugal
+##########
+%GID:662
+%LID#0#662-0-Atlético_Bello#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1376	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Bello
+##########
+%GID:663
+%LID#0#663-3-Nakhon_Ratchasima#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1015	ANY
+v	2	814	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	2	Nakhon_Ratchasima
+##########
+%GID:664
+%LID#1#664-0-Taiwan_Power_Company_F.C.#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	492	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	0	Taiwan_Power_Company_F.C.
+##########
+%GID:665
+%LID#0#665-1-Plaines_Wilhems_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	978	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	1	Plaines_Wilhems_District
+##########
+%GID:666
+%LID#0#666-1-Puebla,_Puebla#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	84	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	1	Puebla,_Puebla
+##########
+%GID:667
+%LID#1#667-2-MNK_Uspinjača_Zagreb#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	264	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	F.C._Nacional
+%Y
+eq-let	2	MNK_Uspinjača_Zagreb
+##########
+%GID:668
+%LID#1#668-0-Garankuwa_United_F.C.#7#7#29
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+eq-let	2	Joseph_Mekoe
+%Y
+eq-let	0	Garankuwa_United_F.C.
+##########
+%GID:669
+%LID#0#669-1-Al_Batinah_Region#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2708	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Al_Batinah_Region
+##########
+%GID:671
+%LID#1#671-3-Taipei_Physical_Education_College#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	64	ANY
+v	3	492	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	2	Taipei_Physical_Education_College
+##########
+%GID:674
+%LID#0#674-1-Santa_Clarita,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	1	Santa_Clarita,_California
+##########
+%GID:675
+%LID#0#675-0-Cruz_Azul#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Cruz_Azul
+##########
+%GID:676
+%LID#0#676-0-Bromley_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	Bromley_F.C.
+##########
+%GID:677
+%LID#0#677-3-2013–14_Iranian_Futsal_Super_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2013–14_Iranian_Futsal_Super_League
+##########
+%GID:678
+%LID#0#678-1-Portland_Parish#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Portland_Parish
+##########
+%GID:680
+%LID#0#680-0-Atlético_Bello#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1376	ANY
+v	2	64	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Bello
+##########
+%GID:682
+%LID#0#682-1-Sacramento,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	27	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Sacramento,_California
+##########
+%GID:683
+%LID#0#683-2-Atlético_Nacional_(Panama)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	3	Atlético_Nacional_(Panama)
+##########
+%GID:684
+%LID#0#684-2-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	David_de_la_Torre
+##########
+%GID:685
+%LID#0#685-3-2014_Cambodian_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	2014_Cambodian_League
+##########
+%GID:686
+%LID#1#686-3-Ho_Chun#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	2	Ho_Chun
+##########
+%GID:688
+%LID#0#688-0-Taraba_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	593	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	0	Taraba_F.C.
+##########
+%GID:689
+%LID#1#689-0-S.V._Notch#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	2	2014–15_SVB_Hoofdklasse
+%Y
+eq-let	0	S.V._Notch
+##########
+%GID:690
+%LID#0#690-1-Santa_Clarita,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	1	Santa_Clarita,_California
+##########
+%GID:692
+%LID#0#692-3-2010–11_Moldovan_National_Division#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	10	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2010–11_Moldovan_National_Division
+##########
+%GID:693
+%LID#0#693-2-Gary_Stempel#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Gary_Stempel
+##########
+%GID:694
+%LID#0#694-0-Gamba_Osaka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	462	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	Gamba_Osaka
+##########
+%GID:695
+%LID#0#695-1-Premier_League#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	64	ANY
+e	0	107	1
+e	3	107	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	1	Premier_League
+##########
+%GID:696
+%LID#0#696-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	11	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:697
+%LID#0#697-1-Mexico_City#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+%Y
+eq-let	1	Mexico_City
+##########
+%GID:698
+%LID#0#698-0-D.C._United#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	23	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	D.C._United
+##########
+%GID:699
+%LID#1#699-2-Villa_Park#9#9#25
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	11	ANY
+e	0	107	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+eq-let	0	Aston_Villa_F.C.
+%Y
+eq-let	3	Villa_Park
+##########
+%GID:701
+%LID#0#701-1-Phnom_Penh#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Phnom_Penh
+##########
+%GID:702
+%LID#1#702-2-Taipei_Physical_Education_College#4#4#6
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	2	Taipei_Physical_Education_College
+##########
+%GID:703
+%LID#0#703-3-Enrique_Meza#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	9	ANY
+v	3	85	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+#Condition
+%X
+%Y
+eq-let	2	Enrique_Meza
+##########
+%GID:706
+%LID#1#706-0-Foolad_Mahan_Novin_FSC#1#1#6
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	2	Zam_Zam_Isfahan_FSC
+%Y
+eq-let	0	Foolad_Mahan_Novin_FSC
+##########
+%GID:707
+%LID#0#707-2-Matt_Busch(Coach)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	219	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Matt_Busch(Coach)
+##########
+%GID:708
+%LID#0#708-0-Reynir#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2555	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	Reynir
+##########
+%GID:709
+%LID#1#709-3-FC_Talanta#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	2	197	3
+#Condition
+%X
+eq-let	0	Vegpro_F.C.
+%Y
+eq-let	2	FC_Talanta
+##########
+%GID:711
+%LID#0#711-1-Bonaire#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	590	ANY
+v	2	64	ANY
+v	3	72	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	1	Bonaire
+##########
+%GID:712
+%LID#0#712-2-2014_Girabola#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	990	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014_Girabola
+##########
+%GID:713
+%LID#0#713-0-SD_Ponferradina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	858	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	0	SD_Ponferradina
+##########
+%GID:714
+%LID#1#714-3-2014–15_SVB_Hoofdklasse#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	3	S.V._Notch
+%Y
+eq-let	2	2014–15_SVB_Hoofdklasse
+##########
+%GID:715
+%LID#0#715-1-Carson_City,_Nevada#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	210	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Carson_City,_Nevada
+##########
+%GID:716
+%LID#1#716-3-2014–15_Football_League_Two#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	412	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+eq-let	0	Cheltenham_Town_F.C.
+%Y
+eq-let	2	2014–15_Football_League_Two
+##########
+%GID:717
+%LID#0#717-0-Staten_Island_Vipers#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	20	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+#Condition
+%X
+%Y
+eq-let	0	Staten_Island_Vipers
+##########
+%GID:718
+%LID#1#718-3-Geoffrey_Maxwell#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	St._George's_SC
+%Y
+eq-let	2	Geoffrey_Maxwell
+##########
+%GID:719
+%LID#0#719-1-Somoto,_Madriz#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2804	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Somoto,_Madriz
+##########
+%GID:720
+%LID#0#720-2-Stephen_O'Kane_(soccer)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	3	Stephen_O'Kane_(soccer)
+##########
+%GID:721
+%LID#1#721-1-Nairobi#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+eq-let	2	2013_FKF_Division_One
+%Y
+eq-let	1	Nairobi
+##########
+%GID:722
+%LID#0#722-1-Muhanga_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1180	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	1	Muhanga_District
+##########
+%GID:723
+%LID#0#723-3-2014_Vietnamese_Second_Division#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2907	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014_Vietnamese_Second_Division
+##########
+%GID:724
+%LID#0#724-0-Cruz_Azul#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	9	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Cruz_Azul
+##########
+%GID:725
+%LID#1#725-2-FK_Vardar#2#2#6
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+eq-let	0	FK_Shkupi
+%Y
+eq-let	2	FK_Vardar
+##########
+%GID:727
+%LID#1#727-4-Ho_Chun#7#7#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	492	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	3	197	4
+#Condition
+%X
+eq-let	0	Taiwan_Power_Company_F.C.
+%Y
+eq-let	4	Ho_Chun
+##########
+%GID:728
+%LID#0#728-4-2011–12_Terceira_Divisão#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	151	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	4	2011–12_Terceira_Divisão
+##########
+%GID:729
+%LID#0#729-0-Nimba_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1813	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	4	195	3
+#Condition
+%X
+%Y
+eq-let	0	Nimba_FC
+##########
+%GID:730
+%LID#1#730-0-Inter_Moengotapoe#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	3	S.V._Notch
+%Y
+eq-let	0	Inter_Moengotapoe
+##########
+%GID:734
+%LID#1#734-4-2008_Enterprise_Football_League#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2008_Enterprise_Football_League
+##########
+%GID:736
+%LID#1#736-2-Garankuwa_United_F.C.#7#7#33
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+eq-let	0	M_Tigers_F.C.
+%Y
+eq-let	3	Garankuwa_United_F.C.
+##########
+%GID:737
+%LID#0#737-0-Shahid_Mansouri_Gharchak_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	110	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Shahid_Mansouri_Gharchak_FSC
+##########
+%GID:738
+%LID#0#738-4-Praia_da_Vitória#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	151	ANY
+v	3	64	ANY
+v	4	19	ANY
+e	0	195	1
+e	0	195	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	4	Praia_da_Vitória
+##########
+%GID:739
+%LID#1#739-4-NK_Podgrmeč#4#4#9
+#Pattern
+v	0	64	ANY
+v	1	188	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+eq-let	2	FK_Rudar_Kakanj
+%Y
+eq-let	4	NK_Podgrmeč
+##########
+%GID:740
+%LID#0#740-1-Azores#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	151	ANY
+v	3	64	ANY
+v	4	2	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	3	195	4
+#Condition
+%X
+%Y
+eq-let	1	Azores
+##########
+%GID:742
+%LID#1#742-0-Sobantu_Shooting_Stars#6#6#35
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+eq-let	2	Winners_Park_F.C.
+%Y
+eq-let	0	Sobantu_Shooting_Stars
+##########
+%GID:743
+%LID#0#743-2-2014–15_Segunda_División#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	858	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014–15_Segunda_División
+##########
+%GID:744
+%LID#0#744-2-Inter_Moengotapoe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	3	Inter_Moengotapoe
+##########
+%GID:746
+%LID#0#746-4-Taiwan_Power_Company_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	4	Taiwan_Power_Company_F.C.
+##########
+%GID:747
+%LID#1#747-2-FK_Shkupi#5#5#29
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	2	Zekirija_Ramadan
+%Y
+eq-let	3	FK_Shkupi
+##########
+%GID:749
+%LID#0#749-3-Hossein_Afzali#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	2	Hossein_Afzali
+##########
+%GID:750
+%LID#1#750-4-Atlético_Juventud#7#7#15
+#Pattern
+v	0	64	ANY
+v	1	1376	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	4	195	3
+#Condition
+%X
+eq-let	2	Atlético_de_la_Sabana
+%Y
+eq-let	4	Atlético_Juventud
+##########
+%GID:754
+%LID#0#754-4-JK_Tammeka_II_Tartu#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	185	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	4	JK_Tammeka_II_Tartu
+##########
+%GID:755
+%LID#0#755-3-S.V._Transvaal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+%Y
+eq-let	2	S.V._Transvaal
+##########
+%GID:759
+%LID#1#759-0-Taipei_Physical_Education_College#6#6#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	492	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	3	198	4
+#Condition
+%X
+eq-let	3	Taiwan_Power_Company_F.C.
+%Y
+eq-let	0	Taipei_Physical_Education_College
+##########
+%GID:760
+%LID#0#760-1-Banovići#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1973	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	1	Banovići
+##########
+%GID:763
+%LID#0#763-2-Estadio_Morelos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	85	ANY
+v	3	11	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+e	0	197	4
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Morelos
+##########
+%GID:764
+%LID#0#764-1-Xinzhuang_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	Xinzhuang_District
+##########
+%GID:765
+%LID#1#765-0-Taiwan_Power_Company_F.C.#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	492	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	0	Taiwan_Power_Company_F.C.
+##########
+%GID:766
+%LID#0#766-3-Praia_da_Vitória#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	19	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Praia_da_Vitória
+##########
+%GID:770
+%LID#0#770-1-Kfar_Saba#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	486	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	1	Kfar_Saba
+##########
+%GID:771
+%LID#1#771-3-Goce_Sedloski#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+eq-let	0	FK_Vardar
+%Y
+eq-let	2	Goce_Sedloski
+##########
+%GID:772
+%LID#0#772-2-2014_Girabola#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	990	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014_Girabola
+##########
+%GID:773
+%LID#0#773-3-2010_NPSL_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	21	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2010_NPSL_season
+##########
+%GID:774
+%LID#0#774-2-Estadio_Morelos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	9	ANY
+v	3	11	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Morelos
+##########
+%GID:777
+%LID#0#777-1-Sohag#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	3881	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	1	Sohag
+##########
+%GID:781
+%LID#0#781-4-Puer_Wanhao_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	509	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	4	Puer_Wanhao_F.C.
+##########
+%GID:783
+%LID#1#783-2-FK_Shkupi#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	0	FK_Vardar
+%Y
+eq-let	3	FK_Shkupi
+##########
+%GID:784
+%LID#0#784-0-Inter_Moengotapoe#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-let	0	Inter_Moengotapoe
+##########
+%GID:785
+%LID#1#785-4-Monarcas_Morelia#4#4#8
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+eq-let	2	Club_Atlas
+%Y
+eq-let	4	Monarcas_Morelia
+##########
+%GID:786
+%LID#0#786-2-Khemara_Keila_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	3	Khemara_Keila_FC
+##########
+%GID:790
+%LID#0#790-4-Springfield_Storm#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	210	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	4	Springfield_Storm
+##########
+%GID:791
+%LID#0#791-0-Atlético_Nacional_(Panama)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Nacional_(Panama)
+##########
+%GID:792
+%LID#0#792-1-Pyongyang#0#0#8
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Pyongyang
+##########
+%GID:795
+%LID#0#795-3-2013–14_Iranian_Futsal_Super_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2013–14_Iranian_Futsal_Super_League
+##########
+%GID:796
+%LID#0#796-3-Hossein_Afzali#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	Hossein_Afzali
+##########
+%GID:797
+%LID#0#797-3-2013_PDL_season#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	219	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2013_PDL_season
+##########
+%GID:798
+%LID#1#798-4-Ibrahim_Mbikalo#6#6#29
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+eq-let	3	Ligi_Ndogo_S.C._Academy
+%Y
+eq-let	4	Ibrahim_Mbikalo
+##########
+%GID:799
+%LID#0#799-1-Sillamäe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1171	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	Sillamäe
+##########
+%GID:801
+%LID#1#801-3-Ho_Chun#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	492	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+eq-let	4	2008_Enterprise_Football_League
+%Y
+eq-let	2	Ho_Chun
+##########
+%GID:802
+%LID#0#802-3-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	2	David_de_la_Torre
+##########
+%GID:803
+%LID#0#803-3-2014–15_SVB_Hoofdklasse#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	1	ANY
+v	3	2	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_SVB_Hoofdklasse
+##########
+%GID:807
+%LID#0#807-4-2013_FKF_Division_One#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	4	2013_FKF_Division_One
+##########
+%GID:809
+%LID#0#809-3-Sürmenespor#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	197	4
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Sürmenespor
+##########
+%GID:810
+%LID#1#810-0-Taipei_Physical_Education_College#6#6#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	492	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	3	Taiwan_Power_Company_F.C.
+%Y
+eq-let	0	Taipei_Physical_Education_College
+##########
+%GID:814
+%LID#0#814-1-Premier_League#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	107	1
+e	3	107	1
+e	3	195	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	1	Premier_League
+##########
+%GID:815
+%LID#0#815-0-M_Tigers_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	0	M_Tigers_F.C.
+##########
+%GID:817
+%LID#1#817-1-Gauteng#6#6#33
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+eq-let	2	Joseph_Mekoe
+%Y
+eq-let	1	Gauteng
+##########
+%GID:818
+%LID#1#818-4-Vegalta_Sendai#5#5#8
+#Pattern
+v	0	64	ANY
+v	1	462	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+eq-let	2	Sagan_Tosu
+%Y
+eq-let	4	Vegalta_Sendai
+##########
+%GID:820
+%LID#0#820-1-Carson_City,_Nevada#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	210	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	Carson_City,_Nevada
+##########
+%GID:821
+%LID#0#821-1-Portland_Parish#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	11	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	3	197	4
+#Condition
+%X
+%Y
+eq-let	1	Portland_Parish
+##########
+%GID:823
+%LID#0#823-2-2014–15_SVB_Hoofdklasse#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014–15_SVB_Hoofdklasse
+##########
+%GID:827
+%LID#0#827-2-S.C._Praiense#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	19	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	3	S.C._Praiense
+##########
+%GID:828
+%LID#0#828-3-Ibrahim_Mbikalo#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	2	Ibrahim_Mbikalo
+##########
+%GID:830
+%LID#1#830-3-Club_Real_Potosí#6#6#15
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+eq-let	0	Club_Real_América
+%Y
+eq-let	2	Club_Real_Potosí
+##########
+%GID:832
+%LID#1#832-4-2008_Enterprise_Football_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2008_Enterprise_Football_League
+##########
+%GID:834
+%LID#0#834-2-Ethiopia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1176	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	4
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	3	Ethiopia
+##########
+%GID:837
+%LID#1#837-3-Moranbong_Sports_Club#9#9#33
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+eq-let	3	April_25_Sports_Club
+%Y
+eq-let	2	Moranbong_Sports_Club
+##########
+%GID:838
+%LID#1#838-4-Zekirija_Ramadan#7#7#29
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+eq-let	3	FK_Shkupi
+%Y
+eq-let	4	Zekirija_Ramadan
+##########
+%GID:843
+%LID#0#843-0-Taiwan_Power_Company_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Taiwan_Power_Company_F.C.
+##########
+%GID:844
+%LID#0#844-4-National_Defense_Ministry_FC#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	4	National_Defense_Ministry_FC
+##########
+%GID:845
+%LID#0#845-0-FC_Talanta#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	FC_Talanta
+##########
+%GID:846
+%LID#0#846-3-2014–15_SVB_Hoofdklasse#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_SVB_Hoofdklasse
+##########
+%GID:848
+%LID#0#848-1-San_Diego#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	64	ANY
+v	3	11	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	4	195	3
+#Condition
+%X
+%Y
+eq-let	1	San_Diego
+##########
+%GID:849
+%LID#0#849-1-Rome#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	77	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##########
+%GID:852
+%LID#0#852-1-Bonaire#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	590	ANY
+v	2	72	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bonaire
+##########
+%GID:854
+%LID#0#854-2-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	David_de_la_Torre
+##########
+%GID:856
+%LID#0#856-2-Ontario#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	1	ANY
+v	3	19	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Ontario
+##########
+%GID:860
+%LID#0#860-4-2013_FKF_Division_One#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	2	195	1
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	4	2013_FKF_Division_One
+##########
+%GID:861
+%LID#0#861-3-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	David_de_la_Torre
+##########
+%GID:862
+%LID#1#862-3-Goce_Sedloski#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	0	FK_Vardar
+%Y
+eq-let	2	Goce_Sedloski
+##########
+%GID:863
+%LID#1#863-3-FC_Edineț#8#8#14
+#Pattern
+v	0	64	ANY
+v	1	10	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	198	4
+#Condition
+%X
+eq-let	4	2011–12_Moldovan_%22B%22_Division
+%Y
+eq-let	2	FC_Edineț
+##########
+%GID:864
+%LID#0#864-2-Estadio_Morelos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	1	ANY
+v	3	11	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Morelos
+##########
+%GID:867
+%LID#0#867-2-Mehmed_Janjoš#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	188	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Mehmed_Janjoš
+##########
+%GID:869
+%LID#1#869-3-Ho_Chun#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	2	Ho_Chun
+##########
+%GID:871
+%LID#0#871-3-Ibrahim_Mbikalo#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	Ibrahim_Mbikalo
+##########
+%GID:872
+%LID#0#872-4-2014–15_Liga_MX_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	4	2014–15_Liga_MX_season
+##########
+%GID:877
+%LID#1#877-4-2014_Intercity_Football_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2014_Intercity_Football_League
+##########
+%GID:879
+%LID#0#879-3-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	3	197	4
+#Condition
+%X
+%Y
+eq-let	2	Bolivia
+##########
+%GID:881
+%LID#1#881-4-2013–14_SAFA_Second_Division#7#7#29
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	3	M_Tigers_F.C.
+%Y
+eq-let	4	2013–14_SAFA_Second_Division
+##########
+%GID:882
+%LID#0#882-0-Foolad_Mahan_Novin_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	0	Foolad_Mahan_Novin_FSC
+##########
+%GID:884
+%LID#0#884-0-Taiwan_Power_Company_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Taiwan_Power_Company_F.C.
+##########
+%GID:885
+%LID#0#885-3-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	David_de_la_Torre
+##########
+%GID:886
+%LID#0#886-3-2014_Vietnamese_Second_Division#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2907	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014_Vietnamese_Second_Division
+##########
+%GID:887
+%LID#1#887-2-FK_Shkupi#5#5#29
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+eq-let	2	Zekirija_Ramadan
+%Y
+eq-let	3	FK_Shkupi
+##########
+%GID:888
+%LID#0#888-3-Hossein_Afzali#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	Hossein_Afzali
+##########
+%GID:890
+%LID#0#890-1-Bonaire#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	590	ANY
+v	2	72	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	4	195	2
+#Condition
+%X
+%Y
+eq-let	1	Bonaire
+##########
+%GID:891
+%LID#0#891-2-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	4	195	3
+#Condition
+%X
+%Y
+eq-let	3	Bolivia
+##########
+%GID:893
+%LID#0#893-4-2011–12_Terceira_Divisão#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+v	2	64	ANY
+v	3	148	ANY
+v	4	1	ANY
+e	0	107	1
+e	0	195	3
+e	2	195	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-let	4	2011–12_Terceira_Divisão
+##########
+%GID:894
+%LID#0#894-1-Premier_League#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	107	1
+e	3	107	1
+e	3	195	2
+e	4	195	2
+#Condition
+%X
+%Y
+eq-let	1	Premier_League
+##########
+%GID:897
+%LID#1#897-2-FK_Shkupi#5#5#29
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	2	2014–15_Macedonian_First_Football_League
+%Y
+eq-let	3	FK_Shkupi
+##########
+%GID:899
+%LID#0#899-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	11	ANY
+v	4	1	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:901
+%LID#1#901-4-2014_Intercity_Football_League#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2014_Intercity_Football_League
+##########
+%GID:902
+%LID#1#902-3-Geoffrey_Maxwell#7#7#29
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+eq-let	4	Michael_Beckford
+%Y
+eq-let	2	Geoffrey_Maxwell
+##########
+%GID:903
+%LID#0#903-0-Gamba_Osaka#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	462	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Gamba_Osaka
+##########
+%GID:904
+%LID#0#904-3-2014–15_Segunda_División#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	858	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_Segunda_División
+##########
+%GID:906
+%LID#0#906-1-Madison,_Wisconsin#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	Madison,_Wisconsin
+##########
+%GID:908
+%LID#0#908-0-Zam_Zam_Isfahan_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	0	Zam_Zam_Isfahan_FSC
+##########
+%GID:909
+%LID#1#909-2-Ligi_Ndogo_S.C._Academy#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	4	Michael_Nam
+%Y
+eq-let	3	Ligi_Ndogo_S.C._Academy
+##########
+%GID:911
+%LID#0#911-4-VSI_Tampa_Bay_FC_(PDL)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	219	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	4	VSI_Tampa_Bay_FC_(PDL)
+##########
+%GID:912
+%LID#0#912-1-Premier_League#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	107	1
+e	3	107	1
+e	3	195	2
+e	3	197	4
+#Condition
+%X
+%Y
+eq-let	1	Premier_League
+##########
+%GID:913
+%LID#0#913-2-S.C._Praiense#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	151	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	3	S.C._Praiense
+##########
+%GID:916
+%LID#1#916-4-2013–14_Iranian_Futsal_Super_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	3	Foolad_Mahan_Novin_FSC
+%Y
+eq-let	4	2013–14_Iranian_Futsal_Super_League
+##########
+%GID:918
+%LID#1#918-3-Liberia_Petroleum_Refining_Company_Oilers#3#3#8
+#Pattern
+v	0	64	ANY
+v	1	1813	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+eq-let	4	Diogo_Von_Mastenbroek
+%Y
+eq-let	2	Liberia_Petroleum_Refining_Company_Oilers
+##########
+%GID:919
+%LID#1#919-0-Club_Real_América#4#4#8
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	3	198	4
+#Condition
+%X
+eq-let	3	Club_Callejas
+%Y
+eq-let	0	Club_Real_América
+##########
+%GID:921
+%LID#0#921-0-Inter_Moengotapoe#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	4
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Inter_Moengotapoe
+##########
+%GID:922
+%LID#0#922-0-Nimba_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1813	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+%Y
+eq-let	0	Nimba_FC
+##########
+%GID:924
+%LID#0#924-1-Santa_Clarita,_California#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	9	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	1	Santa_Clarita,_California
+##########
+%GID:927
+%LID#0#927-0-Atlético_Bello#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1376	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	4
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Bello
+##########
+%GID:928
+%LID#0#928-4-2014–15_Surinamese_Eerste_Klasse#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	4	2014–15_Surinamese_Eerste_Klasse
+##########
+%GID:929
+%LID#0#929-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	218	ANY
+v	4	1	ANY
+e	0	107	1
+e	0	195	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:932
+%LID#0#932-3-Roberto_Apunte#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	25	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+%Y
+eq-let	2	Roberto_Apunte
+##########
+%GID:935
+%LID#0#935-0-Cruz_Azul#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Cruz_Azul
+##########
+%GID:938
+%LID#0#938-2-Xinzhuang_District#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	9	ANY
+v	3	492	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	3	Xinzhuang_District
+##########
+%GID:942
+%LID#1#942-4-2007_DPR_Korea_League_season#6#6#35
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	2	195	1
+e	2	198	4
+e	3	195	1
+#Condition
+%X
+eq-let	2	Amnokgang_Sports_Club
+%Y
+eq-let	4	2007_DPR_Korea_League_season
+##########
+%GID:945
+%LID#0#945-4-2014_Major_League_Soccer_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	9	ANY
+v	3	11	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	4	2014_Major_League_Soccer_season
+##########
+%GID:947
+%LID#0#947-3-2014_Cambodian_League#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014_Cambodian_League
+##########
+%GID:948
+%LID#0#948-0-San_Jose_Earthquakes#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	1	ANY
+v	3	11	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	San_Jose_Earthquakes
+##########
+%GID:950
+%LID#0#950-1-Portland_Parish#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	11	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	1	Portland_Parish
+##########
+%GID:952
+%LID#1#952-2-M_Tigers_F.C.#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	0	Garankuwa_United_F.C.
+%Y
+eq-let	3	M_Tigers_F.C.
+##########
+%GID:953
+%LID#1#953-4-AS_Police_de_Bamako#8#8#29
+#Pattern
+v	0	64	ANY
+v	1	1489	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+e	4	195	2
+#Condition
+%X
+eq-let	0	AS_Biton
+%Y
+eq-let	4	AS_Police_de_Bamako
+##########
+%GID:958
+%LID#1#958-4-2008_Enterprise_Football_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2008_Enterprise_Football_League
+##########
+%GID:959
+%LID#0#959-2-Tomás_Boy#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Tomás_Boy
+##########
+%GID:962
+%LID#0#962-2-2014_Swedish_Football_Division_1#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3524	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-let	3	2014_Swedish_Football_Division_1
+##########
+%GID:963
+%LID#0#963-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+v	2	151	ANY
+v	3	148	ANY
+v	4	2	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	2
+e	0	195	4
+#Condition
+%X
+%Y
+eq-let	1	Ponta_Delgada_Football_Association
+##########
+%GID:964
+%LID#0#964-3-Trabzonspor_(women)#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	195	1
+e	2	195	1
+e	2	197	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Trabzonspor_(women)
+##########
+%GID:972
+%LID#0#972-2-Stephen_O'Kane_(soccer)#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Stephen_O'Kane_(soccer)
+##########
+%GID:973
+%LID#0#973-3-DPR_Korea_League_2006_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	DPR_Korea_League_2006_season
+##########
+%GID:975
+%LID#0#975-0-Foolad_Mahan_Novin_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Foolad_Mahan_Novin_FSC
+##########
+%GID:978
+%LID#1#978-3-Chen_Kuei#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	4	Ho_Chun
+%Y
+eq-let	2	Chen_Kuei
+##########
+%GID:980
+%LID#0#980-2-S.C._Praiense#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	3	S.C._Praiense
+##########
+%GID:982
+%LID#0#982-0-Zam_Zam_Isfahan_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	0	Zam_Zam_Isfahan_FSC
+##########
+%GID:984
+%LID#1#984-0-Taiwan_Power_Company_F.C.#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	492	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	0	Taiwan_Power_Company_F.C.
+##########
+%GID:987
+%LID#1#987-0-Club_Real_América#4#4#8
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	3	Club_Callejas
+%Y
+eq-let	0	Club_Real_América
+##########
+%GID:988
+%LID#0#988-3-David_de_la_Torre#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	2	David_de_la_Torre
+##########
+%GID:989
+%LID#1#989-4-2013–14_Iranian_Futsal_Super_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	3	Zam_Zam_Isfahan_FSC
+%Y
+eq-let	4	2013–14_Iranian_Futsal_Super_League
+##########
+%GID:991
+%LID#0#991-4-2014–15_Ethiopian_Premier_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1176	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-let	4	2014–15_Ethiopian_Premier_League
+##########
+%GID:993
+%LID#0#993-3-2013–14_Iranian_Futsal_Super_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2013–14_Iranian_Futsal_Super_League
+##########
+%GID:994
+%LID#1#994-4-2013_FKF_Division_One#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	3
+e	2	197	3
+e	2	198	4
+#Condition
+%X
+eq-let	0	Vegpro_F.C.
+%Y
+eq-let	4	2013_FKF_Division_One
+##########
+%GID:996
+%LID#0#996-3-Rochester_Rhinos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-let	2	Rochester_Rhinos
+##########
+%GID:997
+%LID#0#997-4-Patriotas_de_Córdoba#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	85	ANY
+v	3	2	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+e	4	195	2
+#Condition
+%X
+%Y
+eq-let	4	Patriotas_de_Córdoba
+##########
+%GID:998
+%LID#1#998-4-2014–15_Surinamese_Eerste_Klasse#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	3	S.V._Notch
+%Y
+eq-let	4	2014–15_Surinamese_Eerste_Klasse
+##########
+%GID:999
+%LID#1#999-4-2008_Enterprise_Football_League#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2008_Enterprise_Football_League
+##########
+%GID:1000
+%LID#0#1000-2-Inter_Moengotapoe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Inter_Moengotapoe
+##########
+%GID:1003
+%LID#1#1003-4-Dhofar_S.C.S.C.#4#4#12
+#Pattern
+v	0	64	ANY
+v	1	2708	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+eq-let	2	Al
+%Y
+eq-let	4	Dhofar_S.C.S.C.
+##########
+%GID:1004
+%LID#1#1004-2-Club_Callejas#1#1#14
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	0	Club_Real_América
+%Y
+eq-let	3	Club_Callejas
+##########
+%GID:1006
+%LID#0#1006-3-2014–15_Ligat_Nashim#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	486	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_Ligat_Nashim
+##########
+%GID:1007
+%LID#1#1007-0-Taipei_Physical_Education_College#7#7#29
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	3	Taiwan_Power_Company_F.C.
+%Y
+eq-let	0	Taipei_Physical_Education_College
+##########
+%GID:1009
+%LID#0#1009-0-Zam_Zam_Isfahan_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+%Y
+eq-let	0	Zam_Zam_Isfahan_FSC
+##########
+%GID:1010
+%LID#1#1010-1-New_Taipei_City#6#6#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	492	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+eq-let	4	Taiwan_Power_Company_F.C.
+%Y
+eq-let	1	New_Taipei_City
+##########
+%GID:1011
+%LID#0#1011-0-Zam_Zam_Isfahan_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	0	Zam_Zam_Isfahan_FSC
+##########
+%GID:1014
+%LID#0#1014-0-Taiwan_Power_Company_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Taiwan_Power_Company_F.C.
+##########
+%GID:1015
+%LID#0#1015-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+v	2	64	ANY
+v	3	148	ANY
+v	4	19	ANY
+e	0	107	1
+e	0	195	3
+e	2	195	3
+e	2	195	4
+#Condition
+%X
+%Y
+eq-let	1	Ponta_Delgada_Football_Association
+##########
+%GID:1017
+%LID#0#1017-3-2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1973	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2012–13_First_League_of_the_Federation_of_Bosnia_and_Herzegovina
+##########
+%GID:1018
+%LID#0#1018-2-S.C._Praiense#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	19	ANY
+v	3	64	ANY
+v	4	2	ANY
+e	0	195	1
+e	0	195	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	3	S.C._Praiense
+##########
+%GID:1019
+%LID#0#1019-3-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+%Y
+eq-let	2	Bolivia
+##########
+%GID:1020
+%LID#1#1020-3-Rochester_Rhinos#1#1#8
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+eq-let	4	Bob_Lilley
+%Y
+eq-let	2	Rochester_Rhinos
+##########
+%GID:1021
+%LID#0#1021-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	64	ANY
+v	3	218	ANY
+v	4	1	ANY
+e	0	107	1
+e	0	195	3
+e	0	198	4
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:1023
+%LID#1#1023-0-Club_Real_América#4#4#8
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+eq-let	3	Club_Callejas
+%Y
+eq-let	0	Club_Real_América
+##########
+%GID:1024
+%LID#1#1024-4-ART_Municipal_Jalapa#6#6#15
+#Pattern
+v	0	64	ANY
+v	1	2804	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+eq-let	2	Deportivo_Ocotal
+%Y
+eq-let	4	ART_Municipal_Jalapa
+##########
+%GID:1027
+%LID#1#1027-4-2008_Enterprise_Football_League#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	64	ANY
+v	3	492	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	4
+e	2	195	3
+#Condition
+%X
+eq-let	2	Taiwan_Power_Company_F.C.
+%Y
+eq-let	4	2008_Enterprise_Football_League
+##########
+%GID:1028
+%LID#0#1028-0-FC_Talanta#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	FC_Talanta
+##########
+%GID:1030
+%LID#0#1030-3-Enrique_Meza#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	9	ANY
+v	3	85	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	2	Enrique_Meza
+##########
+%GID:1033
+%LID#1#1033-2-Club_Callejas#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	0	Club_Real_América
+%Y
+eq-let	3	Club_Callejas
+##########
+%GID:1037
+%LID#1#1037-4-Arsène_Wenger#7#7#14
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	107	1
+e	0	197	4
+e	3	107	1
+e	3	195	2
+#Condition
+%X
+eq-let	0	Arsenal_F.C.
+%Y
+eq-let	4	Arsène_Wenger
+##########
+%GID:1040
+%LID#0#1040-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	11	ANY
+v	4	9	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	2
+e	0	197	4
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:1041
+%LID#1#1041-0-Garankuwa_United_F.C.#8#8#35
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+eq-let	4	Sobantu_Shooting_Stars
+%Y
+eq-let	0	Garankuwa_United_F.C.
+##########
+%GID:1042
+%LID#0#1042-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	64	ANY
+v	3	218	ANY
+v	4	9	ANY
+e	0	107	1
+e	0	195	3
+e	0	197	4
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:1045
+%LID#1#1045-0-Eastbourne_Town_F.C.#6#6#27
+#Pattern
+v	0	64	ANY
+v	1	413	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	3	Eastbourne_United_Association_F.C.
+%Y
+eq-let	0	Eastbourne_Town_F.C.
+##########
+%GID:1046
+%LID#0#1046-1-Portland_Parish#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	11	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	1	Portland_Parish
+##########
+%GID:1049
+%LID#1#1049-3-Ho_Chun#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	2	Ho_Chun
+##########
+%GID:1056
+%LID#0#1056-3-Gary_Stempel#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	976	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Gary_Stempel
+##########
+%GID:1057
+%LID#0#1057-2-Ivo_Traça#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	990	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Ivo_Traça
+##########
+%GID:1059
+%LID#0#1059-3-Mark_Goldberg#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Mark_Goldberg
+##########
+%GID:1062
+%LID#1#1062-0-Taipei_Physical_Education_College#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	64	ANY
+v	3	492	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	4
+e	2	195	3
+#Condition
+%X
+eq-let	2	Taiwan_Power_Company_F.C.
+%Y
+eq-let	0	Taipei_Physical_Education_College
+##########
+%GID:1063
+%LID#1#1063-4-Sunshine_Queens#5#5#13
+#Pattern
+v	0	64	ANY
+v	1	593	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+eq-let	2	Nembe_City_F.C.
+%Y
+eq-let	4	Sunshine_Queens
+##########
+%GID:1065
+%LID#0#1065-1-Mexico_City#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	Mexico_City
+##########
+%GID:1066
+%LID#0#1066-0-FC_Talanta#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	4
+e	2	195	1
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	FC_Talanta
+##########
+%GID:1067
+%LID#1#1067-3-Castle_Vale_F.C.#4#4#8
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	64	ANY
+v	3	218	ANY
+v	4	64	ANY
+e	0	107	1
+e	0	195	3
+e	2	195	3
+e	4	195	3
+#Condition
+%X
+eq-let	4	Walsall_F.C._Youth_and_Reserves
+%Y
+eq-let	2	Castle_Vale_F.C.
+##########
+%GID:1068
+%LID#0#1068-0-San_Jose_Earthquakes#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	108	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	San_Jose_Earthquakes
+##########
+%GID:1069
+%LID#1#1069-4-2014–15_Premier_League#6#6#13
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	107	1
+e	0	198	4
+e	3	107	1
+e	3	195	2
+#Condition
+%X
+eq-let	0	Arsenal_F.C.
+%Y
+eq-let	4	2014–15_Premier_League
+##########
+%GID:1072
+%LID#1#1072-1-Gauteng#7#7#33
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+eq-let	4	Sobantu_Shooting_Stars
+%Y
+eq-let	1	Gauteng
+##########
+%GID:1075
+%LID#0#1075-0-Staten_Island_Vipers#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	20	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+e	0	197	4
+#Condition
+%X
+%Y
+eq-let	0	Staten_Island_Vipers
+##########
+%GID:1076
+%LID#1#1076-3-Ligi_Ndogo_S.C._Academy#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	2	195	1
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+eq-let	3	FC_Talanta
+%Y
+eq-let	2	Ligi_Ndogo_S.C._Academy
+##########
+%GID:1078
+%LID#0#1078-2-2010_NPSL_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	21	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	3	2010_NPSL_season
+##########
+%GID:1079
+%LID#0#1079-4-2009_CAF_Champions_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	4	2009_CAF_Champions_League
+##########
+%GID:1080
+%LID#0#1080-0-Khemara_Keila_FC#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Khemara_Keila_FC
+##########
+%GID:1082
+%LID#1#1082-0-Taipei_Physical_Education_College#6#6#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+eq-let	2	Ho_Chun
+%Y
+eq-let	0	Taipei_Physical_Education_College
+##########
+%GID:1083
+%LID#1#1083-4-2008_Enterprise_Football_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2008_Enterprise_Football_League
+##########
+%GID:1085
+%LID#0#1085-0-Zam_Zam_Isfahan_FSC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Zam_Zam_Isfahan_FSC
+##########
+%GID:1087
+%LID#0#1087-1-Susumu_Watanabe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	7	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	197	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	1	Susumu_Watanabe
+##########
+%GID:1090
+%LID#0#1090-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	11	ANY
+v	4	64	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	2
+e	4	195	2
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:1093
+%LID#0#1093-1-KwaZulu–Natal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	KwaZulu–Natal
+##########
+%GID:1094
+%LID#0#1094-0-Inter_Moengotapoe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	0	Inter_Moengotapoe
+##########
+%GID:1095
+%LID#0#1095-1-Trabzon#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Trabzon
+##########
+%GID:1096
+%LID#1#1096-4-Michael_Beckford#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	1043	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	0	Highgate_United_F.C._(Jamaican_football_club)
+%Y
+eq-let	4	Michael_Beckford
+##########
+%GID:1097
+%LID#0#1097-1-Al_Batinah_Region#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2708	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	Al_Batinah_Region
+##########
+%GID:1098
+%LID#0#1098-1-Ponta_Delgada_Football_Association#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	119	ANY
+v	2	64	ANY
+v	3	148	ANY
+v	4	2	ANY
+e	0	107	1
+e	0	195	3
+e	0	195	4
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	1	Ponta_Delgada_Football_Association
+##########
+%GID:1099
+%LID#0#1099-0-Staten_Island_Vipers#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	4
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Staten_Island_Vipers
+##########
+%GID:1100
+%LID#0#1100-3-Sürmenespor#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	9	ANY
+e	0	195	1
+e	2	195	1
+e	3	195	1
+e	3	197	4
+#Condition
+%X
+%Y
+eq-let	2	Sürmenespor
+##########
+%GID:1102
+%LID#0#1102-2-Duncan_Wilde#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	433	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Duncan_Wilde
+##########
+%GID:1103
+%LID#0#1103-3-Roberto_Apunte#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	25	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	2	Roberto_Apunte
+##########
+%GID:1107
+%LID#0#1107-4-Puer_Wanhao_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	509	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	4	Puer_Wanhao_F.C.
+##########
+%GID:1108
+%LID#0#1108-1-Caracas#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	751	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Caracas
+##########
+%GID:1110
+%LID#0#1110-1-Kaohsiung#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	1	Kaohsiung
+##########
+%GID:1112
+%LID#0#1112-2-Inter_Moengotapoe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	4	195	2
+#Condition
+%X
+%Y
+eq-let	3	Inter_Moengotapoe
+##########
+%GID:1113
+%LID#0#1113-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	218	ANY
+v	4	64	ANY
+e	0	107	1
+e	0	195	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:1114
+%LID#1#1114-4-2014_Intercity_Football_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2014_Intercity_Football_League
+##########
+%GID:1116
+%LID#0#1116-1-Bangkok#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	712	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bangkok
+##########
+%GID:1117
+%LID#0#1117-0-Atlético_Bello#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1376	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-let	0	Atlético_Bello
+##########
+%GID:1122
+%LID#0#1122-0-Moranbong_Sports_Club#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Moranbong_Sports_Club
+##########
+%GID:1124
+%LID#0#1124-4-2014–15_Liga_MX_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	71	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	4	2014–15_Liga_MX_season
+##########
+%GID:1125
+%LID#0#1125-4-2010–11_Vodacom_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	4	2010–11_Vodacom_League
+##########
+%GID:1126
+%LID#0#1126-3-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	2
+e	0	197	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	Bolivia
+##########
+%GID:1128
+%LID#0#1128-4-2014–15_Pakistan_Premier_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	245	ANY
+v	2	64	ANY
+v	3	9	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	4
+e	2	197	3
+#Condition
+%X
+%Y
+eq-let	4	2014–15_Pakistan_Premier_League
+##########
+%GID:1130
+%LID#0#1130-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	64	ANY
+e	0	107	1
+e	0	195	2
+e	3	107	1
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:1132
+%LID#0#1132-2-Ontario#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	1	ANY
+v	3	19	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	3	Ontario
+##########
+%GID:1133
+%LID#0#1133-3-2014–15_Liga_MX_season#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	1	ANY
+v	3	85	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2014–15_Liga_MX_season
+##########
+%GID:1137
+%LID#1#1137-4-Syracuse,_New_York#1#1#8
+#Pattern
+v	0	64	ANY
+v	1	121	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	20	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	195	4
+#Condition
+%X
+eq-let	2	Syracuse_Salty_Dogs
+%Y
+eq-let	4	Syracuse,_New_York
+##########
+%GID:1138
+%LID#0#1138-0-Ottawa_Fury_(2005–13)#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	0	Ottawa_Fury_(2005–13)
+##########
+%GID:1140
+%LID#1#1140-3-Taiwan_Power_Company_F.C.#3#3#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	64	ANY
+v	3	492	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	2	Taiwan_Power_Company_F.C.
+##########
+%GID:1141
+%LID#0#1141-4-Royal_Blues_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	4	Royal_Blues_F.C.
+##########
+%GID:1142
+%LID#0#1142-2-Hamid_Estili#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	2145	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Hamid_Estili
+##########
+%GID:1143
+%LID#1#1143-4-Chen_Kuei#4#4#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	492	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	Chen_Kuei
+##########
+%GID:1146
+%LID#1#1146-4-2008_Enterprise_Football_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	0	Taipei_Physical_Education_College
+%Y
+eq-let	4	2008_Enterprise_Football_League
+##########
+%GID:1149
+%LID#1#1149-4-2014_Intercity_Football_League#3#3#29
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	0	198	4
+e	3	195	1
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2014_Intercity_Football_League
+##########
+%GID:1152
+%LID#0#1152-3-2013–14_Iranian_Futsal_Super_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	2	2013–14_Iranian_Futsal_Super_League
+##########
+%GID:1153
+%LID#1#1153-0-Club_Real_América#3#3#14
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	4
+e	2	195	3
+#Condition
+%X
+eq-let	2	Club_Callejas
+%Y
+eq-let	0	Club_Real_América
+##########
+%GID:1157
+%LID#1#1157-3-FC_Talanta#2#2#29
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	4
+e	2	197	3
+#Condition
+%X
+eq-let	0	Vegpro_F.C.
+%Y
+eq-let	2	FC_Talanta
+##########
+%GID:1162
+%LID#0#1162-1-San_Diego#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	64	ANY
+v	3	11	ANY
+v	4	9	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+%Y
+eq-let	1	San_Diego
+##########
+%GID:1163
+%LID#0#1163-4-2009_CAF_Champions_League#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3029	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	4	2009_CAF_Champions_League
+##########
+%GID:1164
+%LID#0#1164-0-D.C._United#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	23	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	D.C._United
+##########
+%GID:1166
+%LID#0#1166-2-Inter_Moengotapoe#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	3	Inter_Moengotapoe
+##########
+%GID:1167
+%LID#1#1167-3-SD_United_(WPSL)#2#2#8
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	64	ANY
+v	3	11	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+eq-let	4	Elio_Bello
+%Y
+eq-let	2	SD_United_(WPSL)
+##########
+%GID:1170
+%LID#0#1170-3-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	2	Bolivia
+##########
+%GID:1172
+%LID#0#1172-2-Estadio_Morelos#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	85	ANY
+v	3	11	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Morelos
+##########
+%GID:1173
+%LID#1#1173-4-2014_Intercity_Football_League#5#5#15
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	64	ANY
+v	3	492	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	198	4
+#Condition
+%X
+eq-let	2	Taiwan_Power_Company_F.C.
+%Y
+eq-let	4	2014_Intercity_Football_League
+##########
+%GID:1175
+%LID#0#1175-3-FC_Talanta#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	2	195	1
+e	2	198	4
+e	3	195	1
+#Condition
+%X
+%Y
+eq-let	2	FC_Talanta
+##########
+%GID:1177
+%LID#0#1177-3-Mark_Goldberg#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	435	ANY
+v	2	9	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	2	Mark_Goldberg
+##########
+%GID:1182
+%LID#1#1182-4-2014–15_Macedonian_Second_Football_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	675	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	2	2014–15_Macedonian_First_Football_League
+%Y
+eq-let	4	2014–15_Macedonian_Second_Football_League
+##########
+%GID:1183
+%LID#0#1183-1-Nairobi#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	197	2
+e	4	197	2
+#Condition
+%X
+%Y
+eq-let	1	Nairobi
+##########
+%GID:1184
+%LID#0#1184-2-Enrique_Meza#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Enrique_Meza
+##########
+%GID:1189
+%LID#0#1189-2-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	64	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	4
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	3	Bolivia
+##########
+%GID:1191
+%LID#0#1191-4-R.E._Virton#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	171	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	4	R.E._Virton
+##########
+%GID:1192
+%LID#0#1192-2-Estadio_Luis_%22Pirata%22_Fuente#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	2	ANY
+v	3	11	ANY
+v	4	85	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+e	0	195	4
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Luis_%22Pirata%22_Fuente
+##########
+%GID:1193
+%LID#0#1193-1-Moengo#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	2
+e	3	195	1
+e	4	195	2
+#Condition
+%X
+%Y
+eq-let	1	Moengo
+##########
+%GID:1194
+%LID#0#1194-2-Estadio_Luis_%22Pirata%22_Fuente#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1017	ANY
+v	2	85	ANY
+v	3	11	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+e	4	195	2
+#Condition
+%X
+%Y
+eq-let	3	Estadio_Luis_%22Pirata%22_Fuente
+##########
+%GID:1198
+%LID#0#1198-2-Bolivia#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	197	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	3	Bolivia
+##########
+%GID:1202
+%LID#0#1202-1-Rawalpindi#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	245	ANY
+v	2	64	ANY
+v	3	9	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	3
+e	2	197	3
+e	2	198	4
+#Condition
+%X
+%Y
+eq-let	1	Rawalpindi
+##########
+%GID:1203
+%LID#1#1203-3-San_Diego_Gauchos#8#8#14
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	64	ANY
+v	3	11	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	2	198	4
+#Condition
+%X
+eq-let	4	2006_PDL_season
+%Y
+eq-let	2	San_Diego_Gauchos
+##########
+%GID:1206
+%LID#0#1206-1-Nairobi#0#0#8
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Nairobi
+##########
+%GID:1207
+%LID#1#1207-4-2014_Intercity_Football_League#4#4#29
+#Pattern
+v	0	64	ANY
+v	1	492	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	197	2
+#Condition
+%X
+eq-let	3	Taipei_Physical_Education_College
+%Y
+eq-let	4	2014_Intercity_Football_League
+##########
+%GID:1209
+%LID#1#1209-0-Club_Real_América#4#4#8
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+eq-let	3	Club_Callejas
+%Y
+eq-let	0	Club_Real_América
+##########
+%GID:1212
+%LID#1#1212-3-Ligi_Ndogo_S.C._Academy#6#6#33
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	2	195	1
+e	2	197	4
+e	3	195	1
+#Condition
+%X
+eq-let	3	FC_Talanta
+%Y
+eq-let	2	Ligi_Ndogo_S.C._Academy
+##########
+%GID:1213
+%LID#0#1213-0-Taiwan_Power_Company_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	295	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	0	Taiwan_Power_Company_F.C.
+##########
+%GID:1216
+%LID#0#1216-3-Comrat#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	10	ANY
+v	2	5	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	195	3
+e	0	195	2
+e	0	198	4
+#Condition
+%X
+%Y
+eq-let	2	Comrat
+##########
+%GID:1222
+%LID#0#1222-2-Build_Bright_University_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	622	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	3	198	4
+#Condition
+%X
+%Y
+eq-let	3	Build_Bright_University_FC
+##########
+%GID:1224
+%LID#0#1224-0-FC_Talanta#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	1	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	2
+e	3	195	1
+e	4	197	2
+#Condition
+%X
+%Y
+eq-let	0	FC_Talanta
+##########
+%GID:1227
+%LID#1#1227-4-AS_Police_de_Bamako#8#8#33
+#Pattern
+v	0	64	ANY
+v	1	1489	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	195	2
+e	4	195	2
+#Condition
+%X
+eq-let	0	AS_Bakaridjan
+%Y
+eq-let	4	AS_Police_de_Bamako
+##########
+%GID:1230
+%LID#0#1230-0-Aston_Villa_F.C.#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	64	ANY
+v	3	218	ANY
+v	4	9	ANY
+e	0	107	1
+e	0	195	3
+e	2	195	3
+e	2	197	4
+#Condition
+%X
+%Y
+eq-let	0	Aston_Villa_F.C.
+##########
+%GID:1231
+%LID#0#1231-3-Portugal#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	148	ANY
+v	2	2	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	0	198	4
+e	3	195	1
+e	3	195	2
+#Condition
+%X
+%Y
+eq-let	2	Portugal
+##########
+%GID:1234
+%LID#1#1234-0-Club_Real_América#4#4#8
+#Pattern
+v	0	64	ANY
+v	1	190	ANY
+v	2	1	ANY
+v	3	2	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+eq-let	4	Club_Callejas
+%Y
+eq-let	0	Club_Real_América

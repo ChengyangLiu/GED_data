@@ -1,0 +1,38 @@
+##############
+%GID:113
+%LID#1#113-4-<Islay_Airport>#7#7#33
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	0	2
+e	3	18	0
+e	4	18	1
+e	5	18	3
+#Condition
+%X
+eq-let	4	<Coll_Airport>
+%Y
+eq-id	0	id	1	id
+##############
+%GID:180
+%LID#1#180-2-<Colonsay_Airport>#1#1#33
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	0	2
+e	3	18	0
+e	4	18	1
+e	5	18	4
+#Condition
+%X
+eq-let	5	<Islay_Airport>
+%Y
+eq-id	0	id	1	id

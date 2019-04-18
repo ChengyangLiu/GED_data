@@ -1,0 +1,29 @@
+##########
+%GID:19
+%LID#1#19-0-<Terry_Marcel>#4#4#25
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	7	ANY
+e	0	21	1
+e	2	21	1
+#Condition
+%X
+eq-let	1	name	<Rosie_Marcel>
+%Y
+eq-id	0	id	2	id
+##########
+%GID:74
+%LID#1#74-0-<Mick_Garris>#5#5#29
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	14	2
+e	1	3	3
+#Condition
+%X
+eq-let	1	name	<Franklin_J._Schaffner>
+%Y
+eq-id	2	0

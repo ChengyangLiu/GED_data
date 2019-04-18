@@ -1,0 +1,100 @@
+nohup: ignoring input
+[CORE]~ Start Loading Graph
+[INFO]- loading vertex: 10000
+[INFO]- loading vertex: 20000
+[INFO]- loading vertex: 30000
+[INFO]- loading vertex: 40000
+[INFO]- loading vertex: 50000
+[INFO]- loading vertex total: 59303
+[INFO]- loading edge: 10000
+[INFO]- loading edge total: 19770
+[CORE]~ Completed
+[CORE]~ Start Loading GED
+[INFO]- loading GED total: 29
+[CORE]~ Completed
+[CORE]~ Start Classifying GED
+[INFO]- connected: 29
+[INFO]- disconnected: 0
+[CORE]~ Completed
+[CORE]~ Start Converting To Boost Graph
+[CORE]~ Completed
+[CORE]~ Start Filtering Unexpected GED
+[INFO]- independent node: 0
+[INFO]- wrong literal: 2
+[INFO]- same label (used for big graph with little label type): 11
+[INFO]- unexpected disconnection: 0
+[CORE]~ Completed
+[CORE]~ Running VF2
+[INFO]- vf2 on No.1 GED
+[INFO]- vf2 on No.2 GED
+[INFO]- vf2 on No.3 GED
+[INFO]- vf2 on No.4 GED
+[INFO]- vf2 on No.5 GED
+[INFO]- vf2 on No.6 GED
+[INFO]- vf2 on No.7 GED
+[INFO]- vf2 on No.8 GED
+[INFO]- vf2 on No.9 GED
+[INFO]- vf2 on No.10 GED
+[INFO]- vf2 on No.11 GED
+[INFO]- vf2 on No.12 GED
+[INFO]- vf2 on No.13 GED
+[INFO]- vf2 on No.14 GED
+[INFO]- vf2 on No.15 GED
+[INFO]- vf2 on No.16 GED
+[INFO]- vf2 on No.17 GED
+[INFO]- vf2 on No.18 GED
+[INFO]- vf2 on No.19 GED
+[INFO]- vf2 on No.20 GED
+[INFO]- vf2 on No.21 GED
+[INFO]- vf2 on No.22 GED
+[INFO]- vf2 on No.23 GED
+[INFO]- vf2 on No.24 GED
+[INFO]- vf2 on No.25 GED
+[INFO]- vf2 on No.26 GED
+[INFO]- vf2 on No.27 GED
+[INFO]- vf2 on No.28 GED
+[INFO]- vf2 on No.29 GED
+[CORE]~ Completed
+[CORE]~ Start Writing Mapping
+[CORE]~ Completed
+[CORE]~ Start Validating GED
+[INFO]- Checking NO.1 GED: 0
+[INFO]- Checking NO.2 GED: 0
+[INFO]- Checking NO.3 GED: 0
+[INFO]- Checking NO.4 GED: 0
+[INFO]- Checking NO.5 GED: 1
+[INFO]- Checking NO.6 GED: 0
+[INFO]- Checking NO.7 GED: 0
+[INFO]- Checking NO.8 GED: 0
+[INFO]- Checking NO.9 GED: 0
+[INFO]- Checking NO.10 GED: 0
+[INFO]- Checking NO.11 GED: 1
+[INFO]- Checking NO.12 GED: 0
+[INFO]- Checking NO.13 GED: 1
+[INFO]- Checking NO.14 GED: 0
+[INFO]- Checking NO.15 GED: 0
+[INFO]- Checking NO.16 GED: 0
+[INFO]- Checking NO.17 GED: 0
+[INFO]- Checking NO.18 GED: 1
+[INFO]- Checking NO.19 GED: 0
+[INFO]- Checking NO.20 GED: 0
+[INFO]- Checking NO.21 GED: 0
+[INFO]- Checking NO.22 GED: 1
+[INFO]- Checking NO.23 GED: 0
+[INFO]- Checking NO.24 GED: 0
+[INFO]- Checking NO.25 GED: 0
+[INFO]- Checking NO.26 GED: 0
+[INFO]- Checking NO.27 GED: 1
+[INFO]- Checking NO.28 GED: 0
+[INFO]- Checking NO.29 GED: 1
+[TEST]* 
+The results:
+0	0	0	0	1	
+0	0	0	0	0	
+1	0	1	0	0	
+0	0	1	0	0	
+0	1	0	0	0	
+0	1	0	1	
+[CORE]~ Completed
+[CORE]~ Start Writing Results
+[CORE]~ Completed

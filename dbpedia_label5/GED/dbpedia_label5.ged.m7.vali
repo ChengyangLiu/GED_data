@@ -1,0 +1,13 @@
+##############
+%GID:54
+%LID#0#54-0-Port_Harcourt#0#0#6
+#Pattern
+v	0	5	ANY
+v	1	593	ANY
+v	2	5	ANY
+e	0	93	1
+e	2	93	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

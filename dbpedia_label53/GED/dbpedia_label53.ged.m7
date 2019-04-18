@@ -1,0 +1,47 @@
+##########
+%GID:39
+%LID#0#39-1-Gael_Linn#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	1081	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:428
+%LID#0#428-2-Matt_Wallace#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:1083
+%LID#0#1083-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+v	5	0	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	4
+e	2	65	5
+#Condition
+%X
+%Y
+eq-id	3	4

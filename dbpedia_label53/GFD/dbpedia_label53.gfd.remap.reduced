@@ -1,0 +1,13881 @@
+##########
+%GID:0
+%LID#1#0-1-Inhale_Exhale#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+e	0	264	1
+#Condition
+%X
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+%Y
+eq-let	1	Inhale_Exhale
+##########
+%GID:3
+%LID#1#3-1-DreamWorks#5#5#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	My_Life,_Your_Entertainment
+%Y
+eq-let	1	DreamWorks
+##########
+%GID:6
+%LID#1#6-1-ArtistShare#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	722	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Sky_Blue_(album)
+%Y
+eq-let	1	ArtistShare
+##########
+%GID:8
+%LID#1#8-1-Two_Steps_from_Hell#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+e	0	264	1
+#Condition
+%X
+eq-let	0	Legend_(Two_Steps_from_Hell_album)
+%Y
+eq-let	1	Two_Steps_from_Hell
+##########
+%GID:9
+%LID#1#9-1-Australian_Broadcasting_Corporation#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	164	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	The_Flame_(Gina_Jeffreys_album)
+%Y
+eq-let	1	Australian_Broadcasting_Corporation
+##########
+%GID:11
+%LID#0#11-1-Lantis_(company)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	2870	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Lantis_(company)
+##########
+%GID:12
+%LID#0#12-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	542	ANY
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##########
+%GID:13
+%LID#1#13-0-Ghetto_Guide#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+e	0	6	1
+#Condition
+%X
+eq-let	1	Mark_Twang
+%Y
+eq-let	0	Ghetto_Guide
+##########
+%GID:14
+%LID#0#14-1-Simerini#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	214	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Simerini
+##########
+%GID:17
+%LID#0#17-1-Christmas#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	278	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Christmas
+##########
+%GID:19
+%LID#1#19-1-Ballad#6#6#14
+#Pattern
+v	0	53	ANY
+v	1	6	ANY
+e	0	65	1
+#Condition
+%X
+eq-let	0	02_(Urban_Zakapa_album)
+%Y
+eq-let	1	Ballad
+##########
+%GID:23
+%LID#0#23-0-Postscriptum_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3398	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Postscriptum_(album)
+##########
+%GID:24
+%LID#0#24-1-Fruit_preserves#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	839	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Fruit_preserves
+##########
+%GID:26
+%LID#0#26-0-Fight_Like_Apes_and_the_Mystery_of_the_Golden_Medallion#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	9	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Fight_Like_Apes_and_the_Mystery_of_the_Golden_Medallion
+##########
+%GID:27
+%LID#1#27-0-Zebra_(Yello_album)#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+e	0	188	1
+#Condition
+%X
+eq-let	1	Hands_on_Yello
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:28
+%LID#0#28-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:33
+%LID#0#33-1-Metro#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	425	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Metro
+##########
+%GID:34
+%LID#0#34-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:35
+%LID#0#35-1-Taiwanese_pop#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Taiwanese_pop
+##########
+%GID:37
+%LID#1#37-1-GMM_Grammy#4#4#14
+#Pattern
+v	0	53	ANY
+v	1	141	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Ninja_(album)
+%Y
+eq-let	1	GMM_Grammy
+##########
+%GID:38
+%LID#0#38-0-Raja_Chinna_Roja__Raja_Chinna_Roja__1#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	234	ANY
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	Raja_Chinna_Roja__Raja_Chinna_Roja__1
+##########
+%GID:39
+%LID#0#39-1-Gael_Linn#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	1081	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Gael_Linn
+##########
+%GID:42
+%LID#0#42-1-3#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	784	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	1	3
+##########
+%GID:43
+%LID#0#43-1-Screaming_Trees#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	1	Screaming_Trees
+##########
+%GID:44
+%LID#0#44-1-Minos_EMI#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	1	Minos_EMI
+##########
+%GID:47
+%LID#0#47-1-Bohemia#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	1	Bohemia
+##########
+%GID:48
+%LID#0#48-0-Foggy_Mountain_Jamboree#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	0	Foggy_Mountain_Jamboree
+##########
+%GID:49
+%LID#0#49-0-Songs_About_the_Ocean#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	64	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Songs_About_the_Ocean
+##########
+%GID:51
+%LID#0#51-1-ABC_Music#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	62	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	ABC_Music
+##########
+%GID:54
+%LID#0#54-1-CJ_E&M_Music_Performance_Division#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3370	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	CJ_E&M_Music_Performance_Division
+##########
+%GID:55
+%LID#0#55-0-The_Broadway_Concert#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	217	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	The_Broadway_Concert
+##########
+%GID:56
+%LID#0#56-1-Screaming_Trees#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	1	Screaming_Trees
+##########
+%GID:57
+%LID#0#57-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:59
+%LID#0#59-1-FilmOn#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2029	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	FilmOn
+##########
+%GID:60
+%LID#0#60-0-Passion:_The_Road_to_One_Day#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	73	ANY
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	0	Passion:_The_Road_to_One_Day
+##########
+%GID:61
+%LID#0#61-1-Philips#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	403	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Philips
+##########
+%GID:62
+%LID#1#62-0-3_Compositions_of_New_Jazz#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+e	0	188	1
+#Condition
+%X
+eq-let	1	For_Alto
+%Y
+eq-let	0	3_Compositions_of_New_Jazz
+##########
+%GID:63
+%LID#0#63-1-Immediate_Music#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:69
+%LID#0#69-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:70
+%LID#0#70-1-Turkey#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Turkey
+##########
+%GID:71
+%LID#1#71-1-Queens_of_Noise#5#5#13
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Fegmania!
+%Y
+eq-let	1	Queens_of_Noise
+##########
+%GID:75
+%LID#0#75-0-Megahits_(April_Boys_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3109	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Megahits_(April_Boys_album)
+##########
+%GID:78
+%LID#0#78-0-Veterans_Songs#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	10	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Veterans_Songs
+##########
+%GID:82
+%LID#0#82-1-Broadcast_Music,_Inc.#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	137	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Broadcast_Music,_Inc.
+##########
+%GID:83
+%LID#0#83-0-Digital_Mandala#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	93	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Digital_Mandala
+##########
+%GID:84
+%LID#0#84-0-The_Rutles_Archaeology#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	217	ANY
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	0	The_Rutles_Archaeology
+##########
+%GID:85
+%LID#0#85-0-Echoes_and_Rhymes#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1051	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Echoes_and_Rhymes
+##########
+%GID:89
+%LID#1#89-1-Rabbit_Ears_Productions#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+e	0	188	1
+#Condition
+%X
+eq-let	0	A_Night_at_the_Met
+%Y
+eq-let	1	Rabbit_Ears_Productions
+##########
+%GID:90
+%LID#1#90-0-Kite_(Kirsty_MacColl_album)#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+e	0	264	1
+#Condition
+%X
+eq-let	1	Desperate_Character
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:91
+%LID#0#91-1-Rock#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	64	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Rock
+##########
+%GID:93
+%LID#0#93-0-Elf_Titled#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	149	ANY
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Elf_Titled
+##########
+%GID:97
+%LID#0#97-1-Immediate_Music#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:100
+%LID#0#100-1-Tiny_Mix_Tapes#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	722	ANY
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	1	Tiny_Mix_Tapes
+##########
+%GID:103
+%LID#1#103-1-AVM_Productions#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	234	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Raja_Chinna_Roja__Raja_Chinna_Roja__1
+%Y
+eq-let	1	AVM_Productions
+##########
+%GID:106
+%LID#1#106-0-Vetri_Vizha__Vetri_Vizha__1#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	1703	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	1	Sivaji_Productions
+%Y
+eq-let	0	Vetri_Vizha__Vetri_Vizha__1
+##########
+%GID:107
+%LID#0#107-1-Mango#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	19	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Mango
+##########
+%GID:112
+%LID#0#112-0-Unwant#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	161	ANY
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	Unwant
+##########
+%GID:114
+%LID#0#114-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+e	0	188	1
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:115
+%LID#1#115-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+e	0	188	1
+#Condition
+%X
+eq-let	0	Chagall_Guevara_(album)
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:116
+%LID#0#116-2-Soundtrack#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	234	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Soundtrack
+##########
+%GID:117
+%LID#0#117-2-550_Music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	839	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	550_Music
+##########
+%GID:118
+%LID#0#118-0-Mutants_of_Sound#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	9	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	0	Mutants_of_Sound
+##########
+%GID:119
+%LID#0#119-2-Paula_Abdul#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	8	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	1	Paula_Abdul
+##########
+%GID:120
+%LID#0#120-2-Suburban_Noize_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	53	ANY
+e	0	6	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Suburban_Noize_Records
+##########
+%GID:121
+%LID#0#121-0-Louden_Up_Now#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+e	0	6	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Louden_Up_Now
+##########
+%GID:122
+%LID#0#122-1-Bohemia#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	2	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Bohemia
+##########
+%GID:123
+%LID#1#123-1-Shut_Up_and_Dance:_Mixes#6#6#25
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+eq-let	0	Forever_Your_Girl
+%Y
+eq-let	2	Shut_Up_and_Dance:_Mixes
+##########
+%GID:124
+%LID#0#124-0-Mutants_of_Sound#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Mutants_of_Sound
+##########
+%GID:125
+%LID#0#125-2-Bluegrass_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Bluegrass_music
+##########
+%GID:126
+%LID#0#126-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	709	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:127
+%LID#0#127-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	709	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:128
+%LID#0#128-2-Columbia_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	0	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Columbia_Records
+##########
+%GID:129
+%LID#0#129-1-3#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	784	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	3
+##########
+%GID:130
+%LID#0#130-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	32	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	World_music
+##########
+%GID:131
+%LID#0#131-1-Minos_EMI#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	32	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Minos_EMI
+##########
+%GID:132
+%LID#1#132-0-Clairvoyance_(album)#0#0#10
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	594	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+eq-let	1	Garage_rock
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:133
+%LID#0#133-1-Minos_EMI#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	8	ANY
+v	2	32	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Minos_EMI
+##########
+%GID:134
+%LID#0#134-0-Fight_Like_Apes_and_the_Mystery_of_the_Golden_Medallion#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	9	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Fight_Like_Apes_and_the_Mystery_of_the_Golden_Medallion
+##########
+%GID:135
+%LID#0#135-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	661	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Black_Magic_(Magic_Sam_album)
+##########
+%GID:136
+%LID#1#136-0-Clairvoyance_(album)#1#1#20
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	594	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+eq-let	1	Garage_rock
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:137
+%LID#1#137-2-Puta's_Fever#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	234	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	0	Cago
+%Y
+eq-let	1	Puta's_Fever
+##########
+%GID:138
+%LID#0#138-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	542	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Mel_Lewis_Orchestra
+##########
+%GID:139
+%LID#0#139-0-Fight_Like_Apes_and_the_Mystery_of_the_Golden_Medallion#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	9	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Fight_Like_Apes_and_the_Mystery_of_the_Golden_Medallion
+##########
+%GID:140
+%LID#0#140-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:141
+%LID#0#141-2-Foggy_Mountain_Boys#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	1	Foggy_Mountain_Boys
+##########
+%GID:142
+%LID#0#142-2-Virgin_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Virgin_Records
+##########
+%GID:143
+%LID#0#143-1-Taiwanese_pop#0#0#5
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	15	ANY
+e	0	65	2
+e	1	65	2
+#Condition
+%X
+%Y
+eq-let	2	Taiwanese_pop
+##########
+%GID:144
+%LID#0#144-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	661	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Black_Magic_(Magic_Sam_album)
+##########
+%GID:145
+%LID#0#145-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	5110	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:146
+%LID#1#146-2-Trailerhead:_Triumph#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	200	ANY
+e	0	188	2
+e	1	264	2
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	1	Trailerhead:_Triumph
+##########
+%GID:147
+%LID#0#147-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	53	ANY
+e	0	264	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:148
+%LID#0#148-1-Gael_Linn#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	1081	ANY
+e	0	75	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Gael_Linn
+##########
+%GID:149
+%LID#0#149-0-The_Lost._The_Sick._The_Sacred.#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	0	ANY
+e	0	264	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+##########
+%GID:150
+%LID#1#150-0-Rocktronic#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	137	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	1	Morphscape
+%Y
+eq-let	0	Rocktronic
+##########
+%GID:151
+%LID#0#151-1-Two_Steps_from_Hell#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	39	ANY
+e	0	264	2
+e	1	264	2
+#Condition
+%X
+%Y
+eq-let	2	Two_Steps_from_Hell
+##########
+%GID:152
+%LID#0#152-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	1368	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:154
+%LID#0#154-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1368	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:155
+%LID#1#155-1-Bluff_Limbo#6#6#29
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	441	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+eq-let	1	Intelligent_dance_music
+%Y
+eq-let	2	Bluff_Limbo
+##########
+%GID:156
+%LID#0#156-2-Jazz#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	441	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Jazz
+##########
+%GID:157
+%LID#0#157-2-Legacy_Recordings#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	11	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Legacy_Recordings
+##########
+%GID:158
+%LID#0#158-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	11	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:160
+%LID#0#160-0-Louden_Up_Now#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	53	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Louden_Up_Now
+##########
+%GID:161
+%LID#0#161-0-Ghetto_Guide#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	53	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Ghetto_Guide
+##########
+%GID:163
+%LID#0#163-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	200	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:164
+%LID#0#164-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	200	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:165
+%LID#0#165-0-The_Rutles_Archaeology#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	8	ANY
+v	2	217	ANY
+e	0	264	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	The_Rutles_Archaeology
+##########
+%GID:166
+%LID#0#166-2-Bluegrass_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	53	ANY
+e	0	6	2
+e	2	65	1
+#Condition
+%X
+%Y
+eq-let	1	Bluegrass_music
+##########
+%GID:167
+%LID#0#167-1-Immediate_Music#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	200	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:168
+%LID#1#168-1-For_Alto#4#4#25
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	441	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+eq-let	1	Delmark_Records
+%Y
+eq-let	2	For_Alto
+##########
+%GID:169
+%LID#0#169-1-L'Heptade#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	441	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	L'Heptade
+##########
+%GID:170
+%LID#0#170-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	7	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:171
+%LID#1#171-2-George_Drakoulias#9#9#15
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	594	ANY
+e	0	264	2
+e	0	6	1
+#Condition
+%X
+eq-let	0	Dust_(Screaming_Trees_album)
+%Y
+eq-let	1	George_Drakoulias
+##########
+%GID:172
+%LID#0#172-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	661	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	2	Black_Magic_(Magic_Sam_album)
+##########
+%GID:173
+%LID#0#173-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	441	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:174
+%LID#0#174-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	709	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	2	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:176
+%LID#0#176-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	53	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:177
+%LID#0#177-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	1368	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:178
+%LID#0#178-2-Virgin_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	217	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Virgin_Records
+##########
+%GID:179
+%LID#1#179-2-Livin_Right#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	62	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	0	Between_Last_Night_and_Us
+%Y
+eq-let	1	Livin_Right
+##########
+%GID:180
+%LID#0#180-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	39	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Namco
+##########
+%GID:181
+%LID#1#181-0-A_Night_at_the_Met#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	11	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+eq-let	1	Stand
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:182
+%LID#1#182-1-FanFan#4#4#15
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	11	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+eq-let	1	C
+%Y
+eq-let	2	FanFan
+##########
+%GID:183
+%LID#1#183-0-Gothic_Lolita_Agitator#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	2870	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	1	Tokyo_Cramzy_Days
+%Y
+eq-let	0	Gothic_Lolita_Agitator
+##########
+%GID:184
+%LID#0#184-0-Shake_It_Like_This#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	6	ANY
+v	2	11	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Shake_It_Like_This
+##########
+%GID:185
+%LID#0#185-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	39	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Namco
+##########
+%GID:186
+%LID#0#186-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	39	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Namco
+##########
+%GID:187
+%LID#1#187-1-Inhale_Exhale#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+%Y
+eq-let	2	Inhale_Exhale
+##########
+%GID:188
+%LID#1#188-2-Yamalı_Tövbeler#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	2	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	0	Suç_Bende
+%Y
+eq-let	1	Yamalı_Tövbeler
+##########
+%GID:189
+%LID#0#189-1-Queens_of_Noise#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Queens_of_Noise
+##########
+%GID:190
+%LID#0#190-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	200	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:191
+%LID#1#191-2-Archive_(band)#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	11	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+eq-let	2	France_Inter
+%Y
+eq-let	1	Archive_(band)
+##########
+%GID:192
+%LID#0#192-2-BMG_Rights_Management#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	15	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	BMG_Rights_Management
+##########
+%GID:193
+%LID#0#193-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	3294	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	2	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:194
+%LID#0#194-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	200	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:195
+%LID#0#195-2-Celtic_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	5110	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Celtic_music
+##########
+%GID:196
+%LID#0#196-1-Speedrock_Chartbusters_Vol.1#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	3294	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Speedrock_Chartbusters_Vol.1
+##########
+%GID:197
+%LID#0#197-1-Screaming_Trees#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	594	ANY
+e	0	264	2
+e	1	264	2
+#Condition
+%X
+%Y
+eq-let	2	Screaming_Trees
+##########
+%GID:198
+%LID#1#198-2-Punk_rock#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	3294	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+eq-let	2	Speedrock_Chartbusters_Vol.1
+%Y
+eq-let	1	Punk_rock
+##########
+%GID:199
+%LID#0#199-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	7	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:200
+%LID#0#200-0-Clairvoyance_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	594	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:201
+%LID#0#201-0-Unwant#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	161	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Unwant
+##########
+%GID:202
+%LID#0#202-1-Screaming_Trees#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	8	ANY
+v	2	594	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Screaming_Trees
+##########
+%GID:203
+%LID#0#203-1-Rock#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	64	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Rock
+##########
+%GID:204
+%LID#0#204-0-Nova_Akropola#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Nova_Akropola
+##########
+%GID:205
+%LID#0#205-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	53	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:206
+%LID#1#206-0-Ulysses_(broadcast)#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	164	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	1	Seamus_Heaney_Collected_Poems
+%Y
+eq-let	0	Ulysses_(broadcast)
+##########
+%GID:207
+%LID#0#207-1-Blues_&_Roots#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	183	ANY
+v	2	6	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Blues_&_Roots
+##########
+%GID:208
+%LID#0#208-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	709	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	2	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:209
+%LID#0#209-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	200	ANY
+e	0	188	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:210
+%LID#0#210-2-Boom_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	93	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Boom_Records
+##########
+%GID:211
+%LID#0#211-1-Bohemia#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	2	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Bohemia
+##########
+%GID:212
+%LID#0#212-0-Clairvoyance_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	594	ANY
+e	0	6	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:213
+%LID#0#213-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	8	ANY
+v	2	709	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:214
+%LID#0#214-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:215
+%LID#0#215-1-Screaming_Trees#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	8	ANY
+v	2	594	ANY
+e	0	6	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Screaming_Trees
+##########
+%GID:216
+%LID#0#216-2-Alternative_hip_hop#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	722	ANY
+e	0	6	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Alternative_hip_hop
+##########
+%GID:217
+%LID#0#217-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	11	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:218
+%LID#0#218-0-Elf_Titled#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	149	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Elf_Titled
+##########
+%GID:220
+%LID#0#220-1-Tiny_Mix_Tapes#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	722	ANY
+e	0	6	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Tiny_Mix_Tapes
+##########
+%GID:221
+%LID#0#221-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	8	ANY
+v	2	441	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:222
+%LID#0#222-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	200	ANY
+e	0	264	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:223
+%LID#0#223-2-American_Gramaphone#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	278	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	American_Gramaphone
+##########
+%GID:224
+%LID#0#224-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	542	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Mel_Lewis_Orchestra
+##########
+%GID:225
+%LID#0#225-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	200	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:226
+%LID#0#226-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	5110	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:227
+%LID#1#227-0-Voodoo_(VIXX_album)#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	3370	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	1	Alive_(Kim_Kyung
+%Y
+eq-let	0	Voodoo_(VIXX_album)
+##########
+%GID:228
+%LID#0#228-1-GMM_Grammy#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	141	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	GMM_Grammy
+##########
+%GID:229
+%LID#0#229-2-Flying_Fish_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	53	ANY
+e	0	6	2
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Flying_Fish_Records
+##########
+%GID:230
+%LID#0#230-2-Avex_Group#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	666	ANY
+v	2	15	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Avex_Group
+##########
+%GID:231
+%LID#1#231-1-Speedrock_Chartbusters_Vol.1#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	3294	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+eq-let	0	Premium_Quality..._Serve_Loud!
+%Y
+eq-let	2	Speedrock_Chartbusters_Vol.1
+##########
+%GID:232
+%LID#0#232-2-Slipdisc_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Slipdisc_Records
+##########
+%GID:233
+%LID#0#233-0-Foggy_Mountain_Jamboree#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+e	0	188	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	0	Foggy_Mountain_Jamboree
+##########
+%GID:234
+%LID#0#234-2-Odeon_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	32	ANY
+e	0	6	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Odeon_Records
+##########
+%GID:235
+%LID#0#235-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	9	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:236
+%LID#0#236-1-Bohemia#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	2	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	2	Bohemia
+##########
+%GID:237
+%LID#0#237-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	1368	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:238
+%LID#0#238-2-MCA_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	3294	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	MCA_Records
+##########
+%GID:239
+%LID#0#239-1-3#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	784	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	2	3
+##########
+%GID:240
+%LID#1#240-0-Christmas_25th_Anniversary_Collection#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	278	ANY
+e	0	65	2
+e	1	65	2
+#Condition
+%X
+eq-let	1	The_Christmas_Angel:_A_Family_Story
+%Y
+eq-let	0	Christmas_25th_Anniversary_Collection
+##########
+%GID:241
+%LID#0#241-2-Razor_&_Tie#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	6	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Razor_&_Tie
+##########
+%GID:242
+%LID#1#242-2-Trailerhead:_Triumph#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	200	ANY
+e	0	264	2
+e	1	264	2
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	1	Trailerhead:_Triumph
+##########
+%GID:243
+%LID#0#243-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	9	ANY
+v	2	661	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+%Y
+eq-let	2	Black_Magic_(Magic_Sam_album)
+##########
+%GID:244
+%LID#0#244-1-Immediate_Music#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	200	ANY
+e	0	264	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:245
+%LID#0#245-2-Ba_Da_Bing_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	53	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Ba_Da_Bing_Records
+##########
+%GID:246
+%LID#0#246-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	39	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	Namco
+##########
+%GID:247
+%LID#0#247-1-Metro#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	425	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Metro
+##########
+%GID:248
+%LID#0#248-0-Veterans_Songs#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	10	ANY
+e	0	65	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	0	Veterans_Songs
+##########
+%GID:249
+%LID#0#249-2-Solid_State_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Solid_State_Records
+##########
+%GID:250
+%LID#0#250-2-Contemporary_Christian_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	73	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	1	Contemporary_Christian_music
+##########
+%GID:251
+%LID#0#251-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	200	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:252
+%LID#0#252-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	200	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	2	Immediate_Music
+##########
+%GID:253
+%LID#0#253-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	7	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:254
+%LID#0#254-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	7	ANY
+e	0	188	2
+e	0	65	1
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:255
+%LID#1#255-2-The_Sunny_Side_of_the_Street#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	6	ANY
+e	0	65	2
+e	1	65	2
+#Condition
+%X
+eq-let	0	Shake_It_Like_This
+%Y
+eq-let	1	The_Sunny_Side_of_the_Street
+##########
+%GID:256
+%LID#1#256-0-3_Compositions_of_New_Jazz#7#7#25
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	441	ANY
+e	0	188	2
+e	0	264	1
+#Condition
+%X
+eq-let	2	For_Alto
+%Y
+eq-let	0	3_Compositions_of_New_Jazz
+##########
+%GID:257
+%LID#1#257-0-Ali_Farka_Touré_(album)#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	19	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+eq-let	1	The_Wild_Tchoupitoulas_(album)
+%Y
+eq-let	0	Ali_Farka_Touré_(album)
+##########
+%GID:258
+%LID#0#258-2-EMI_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	217	ANY
+e	0	264	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	EMI_Records
+##########
+%GID:259
+%LID#0#259-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	1368	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:260
+%LID#1#260-1-Shut_Up_and_Dance:_Mixes#8#8#35
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+eq-let	1	Jesse_Johnson_(musician)
+%Y
+eq-let	2	Shut_Up_and_Dance:_Mixes
+##########
+%GID:261
+%LID#0#261-1-3#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	784	ANY
+e	0	188	2
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	2	3
+##########
+%GID:263
+%LID#1#263-0-Monsieur_Camembert_(album)#5#5#15
+#Pattern
+v	0	53	ANY
+v	1	425	ANY
+v	2	53	ANY
+v	3	53	ANY
+e	0	75	1
+e	2	75	1
+e	3	75	1
+#Condition
+%X
+eq-let	3	Impressions_of_a_Patch_of_Blue
+%Y
+eq-let	0	Monsieur_Camembert_(album)
+##########
+%GID:264
+%LID#0#264-2-Legacy_Recordings#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	13	ANY
+v	3	11	ANY
+e	0	188	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Legacy_Recordings
+##########
+%GID:265
+%LID#1#265-0-Trailerhead:_Triumph#6#6#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+eq-let	2	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:267
+%LID#0#267-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:268
+%LID#0#268-2-EMI_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	217	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	EMI_Records
+##########
+%GID:269
+%LID#0#269-0-Shake_It_Like_This#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	6	ANY
+v	2	11	ANY
+v	3	53	ANY
+e	0	65	1
+e	3	65	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	Shake_It_Like_This
+##########
+%GID:270
+%LID#0#270-3-Trust_Electricity#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Trust_Electricity
+##########
+%GID:271
+%LID#1#271-2-Da_Mafan#3#3#14
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	65	1
+e	3	65	1
+e	3	75	2
+#Condition
+%X
+eq-let	0	Bubai_de_Lianren
+%Y
+eq-let	3	Da_Mafan
+##########
+%GID:272
+%LID#0#272-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	53	ANY
+v	3	11	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:273
+%LID#0#273-0-Premium_Quality..._Serve_Loud!#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Premium_Quality..._Serve_Loud!
+##########
+%GID:275
+%LID#0#275-2-Jazz#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Jazz
+##########
+%GID:276
+%LID#0#276-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:281
+%LID#1#281-0-Trailerhead:_Triumph#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+#Condition
+%X
+eq-let	2	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:284
+%LID#0#284-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:285
+%LID#0#285-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	7	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:287
+%LID#1#287-2-Fegmania!#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	53	ANY
+e	0	75	1
+e	2	75	1
+e	3	75	1
+#Condition
+%X
+eq-let	0	Camouflage_Heart
+%Y
+eq-let	3	Fegmania!
+##########
+%GID:291
+%LID#1#291-0-Bubai_de_Lianren#1#1#8
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	65	1
+e	0	75	2
+e	3	65	1
+#Condition
+%X
+eq-let	3	Da_Mafan
+%Y
+eq-let	0	Bubai_de_Lianren
+##########
+%GID:293
+%LID#0#293-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	11	ANY
+v	3	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:294
+%LID#1#294-0-Tango_n'_Vectif#4#4#29
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+eq-let	1	Bluff_Limbo
+%Y
+eq-let	0	Tango_n'_Vectif
+##########
+%GID:295
+%LID#0#295-1-L'Heptade#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	L'Heptade
+##########
+%GID:296
+%LID#0#296-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:297
+%LID#0#297-3-Flying_Fish_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	6	1
+e	1	65	3
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Flying_Fish_Records
+##########
+%GID:304
+%LID#0#304-3-Capitol_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##########
+%GID:307
+%LID#0#307-3-Virgin_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Virgin_Records
+##########
+%GID:308
+%LID#0#308-3-4th_&_B'way_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	4th_&_B'way_Records
+##########
+%GID:309
+%LID#0#309-2-Foggy_Mountain_Boys#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	188	1
+e	0	264	2
+#Condition
+%X
+%Y
+eq-let	2	Foggy_Mountain_Boys
+##########
+%GID:310
+%LID#1#310-0-Ulysses_(broadcast)#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	164	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	2	Seamus_Heaney_Collected_Poems
+%Y
+eq-let	0	Ulysses_(broadcast)
+##########
+%GID:311
+%LID#0#311-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Namco
+##########
+%GID:314
+%LID#0#314-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:315
+%LID#0#315-3-Stand#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	2	Stand
+##########
+%GID:318
+%LID#0#318-0-You_All_Look_the_Same_to_Me#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	You_All_Look_the_Same_to_Me
+##########
+%GID:320
+%LID#1#320-3-Trip_rock#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	3	Progressive_rock
+%Y
+eq-let	2	Trip_rock
+##########
+%GID:322
+%LID#1#322-2-Puta's_Fever#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	234	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	Cago
+%Y
+eq-let	2	Puta's_Fever
+##########
+%GID:325
+%LID#0#325-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:326
+%LID#0#326-3-Go_Jazz_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Go_Jazz_Records
+##########
+%GID:329
+%LID#0#329-2-Celtic_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Celtic_music
+##########
+%GID:331
+%LID#0#331-0-Mutants_of_Sound#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	0	Mutants_of_Sound
+##########
+%GID:332
+%LID#0#332-3-Re#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	9	ANY
+v	2	53	ANY
+v	3	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Re
+##########
+%GID:333
+%LID#0#333-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:334
+%LID#0#334-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	9	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:335
+%LID#0#335-0-The_Rutles_Archaeology#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	217	ANY
+v	2	13	ANY
+v	3	8	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	The_Rutles_Archaeology
+##########
+%GID:336
+%LID#0#336-0-Uncle_Anesthesia#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	6	2
+e	3	264	1
+#Condition
+%X
+%Y
+eq-let	0	Uncle_Anesthesia
+##########
+%GID:338
+%LID#0#338-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:339
+%LID#0#339-3-Acid_jazz#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	2	Acid_jazz
+##########
+%GID:341
+%LID#1#341-3-Video_game_music#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	3	Electronic_music
+%Y
+eq-let	2	Video_game_music
+##########
+%GID:342
+%LID#0#342-3-Capitol_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##########
+%GID:343
+%LID#0#343-3-Capitol_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##########
+%GID:344
+%LID#0#344-3-Avex_Group#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	666	ANY
+v	3	53	ANY
+e	0	65	1
+e	3	65	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	2	Avex_Group
+##########
+%GID:345
+%LID#1#345-0-Trailerhead:_Triumph#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+#Condition
+%X
+eq-let	2	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:346
+%LID#1#346-2-Christmas_25th_Anniversary_Collection#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	278	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	65	1
+e	0	75	2
+e	3	65	1
+#Condition
+%X
+eq-let	0	The_Christmas_Angel:_A_Family_Story
+%Y
+eq-let	3	Christmas_25th_Anniversary_Collection
+##########
+%GID:348
+%LID#0#348-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:350
+%LID#0#350-1-Bluff_Limbo#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	1	Bluff_Limbo
+##########
+%GID:351
+%LID#0#351-2-Clairvoyance_(album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	Clairvoyance_(album)
+##########
+%GID:352
+%LID#0#352-3-Go_Jazz_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Go_Jazz_Records
+##########
+%GID:353
+%LID#0#353-0-Mutants_of_Sound#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Mutants_of_Sound
+##########
+%GID:354
+%LID#0#354-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Namco
+##########
+%GID:355
+%LID#0#355-3-Razor_&_Tie#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	6	ANY
+v	2	11	ANY
+v	3	53	ANY
+e	0	65	1
+e	0	75	2
+e	3	65	1
+#Condition
+%X
+%Y
+eq-let	2	Razor_&_Tie
+##########
+%GID:356
+%LID#0#356-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Namco
+##########
+%GID:357
+%LID#0#357-0-Unwant#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	161	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Unwant
+##########
+%GID:358
+%LID#0#358-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:359
+%LID#0#359-3-Celtic_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	2	Celtic_music
+##########
+%GID:360
+%LID#0#360-0-Elf_Titled#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	149	ANY
+v	2	53	ANY
+v	3	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Elf_Titled
+##########
+%GID:361
+%LID#1#361-0-Christmas_25th_Anniversary_Collection#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	278	ANY
+v	2	53	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+eq-let	2	The_Christmas_Angel:_A_Family_Story
+%Y
+eq-let	0	Christmas_25th_Anniversary_Collection
+##########
+%GID:362
+%LID#0#362-3-Epic_Records#0#0#8
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	8	ANY
+v	3	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	2	Epic_Records
+##########
+%GID:366
+%LID#0#366-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:368
+%LID#0#368-2-550_Music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	839	ANY
+v	2	53	ANY
+v	3	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	550_Music
+##########
+%GID:372
+%LID#0#372-0-Zebra_(Yello_album)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	11	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:374
+%LID#0#374-3-Columbia_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	75	2
+e	3	75	1
+#Condition
+%X
+%Y
+eq-let	2	Columbia_Records
+##########
+%GID:375
+%LID#0#375-1-L'Heptade#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	L'Heptade
+##########
+%GID:376
+%LID#0#376-3-Break_from_This_World#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	2	Break_from_This_World
+##########
+%GID:377
+%LID#0#377-1-Shut_Up_and_Dance:_Mixes#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Shut_Up_and_Dance:_Mixes
+##########
+%GID:380
+%LID#0#380-3-Rephlex_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Rephlex_Records
+##########
+%GID:382
+%LID#1#382-3-New_wave_music#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	3	Contemporary_R&B
+%Y
+eq-let	2	New_wave_music
+##########
+%GID:383
+%LID#0#383-1-Minos_EMI#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	1	ANY
+v	3	8	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Minos_EMI
+##########
+%GID:384
+%LID#1#384-2-Giorgio_Moroder#4#4#13
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+#Condition
+%X
+eq-let	2	Flaunt_It_(album)
+%Y
+eq-let	3	Giorgio_Moroder
+##########
+%GID:385
+%LID#1#385-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:386
+%LID#0#386-3-Suburban_Noize_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	75	2
+e	1	65	3
+#Condition
+%X
+%Y
+eq-let	2	Suburban_Noize_Records
+##########
+%GID:387
+%LID#0#387-3-4th_&_B'way_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	4th_&_B'way_Records
+##########
+%GID:388
+%LID#1#388-0-Ali_Farka_Touré_(album)#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	19	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	2	The_Wild_Tchoupitoulas_(album)
+%Y
+eq-let	0	Ali_Farka_Touré_(album)
+##########
+%GID:389
+%LID#1#389-2-Pete_Bellotte#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	6	2
+#Condition
+%X
+eq-let	2	Giorgio_Moroder
+%Y
+eq-let	3	Pete_Bellotte
+##########
+%GID:391
+%LID#0#391-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:392
+%LID#0#392-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:393
+%LID#0#393-3-Flying_Fish_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	3
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Flying_Fish_Records
+##########
+%GID:394
+%LID#0#394-0-Ghetto_Guide#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Ghetto_Guide
+##########
+%GID:395
+%LID#0#395-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:399
+%LID#0#399-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:400
+%LID#0#400-2-Bluegrass_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	188	1
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	2	Bluegrass_music
+##########
+%GID:401
+%LID#0#401-2-Bluegrass_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Bluegrass_music
+##########
+%GID:402
+%LID#1#402-2-Livin_Right#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	62	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	Between_Last_Night_and_Us
+%Y
+eq-let	2	Livin_Right
+##########
+%GID:403
+%LID#1#403-2-Yamalı_Tövbeler#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	Suç_Bende
+%Y
+eq-let	2	Yamalı_Tövbeler
+##########
+%GID:404
+%LID#0#404-0-Ghetto_Guide#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	3
+e	1	65	2
+#Condition
+%X
+%Y
+eq-let	0	Ghetto_Guide
+##########
+%GID:406
+%LID#0#406-2-Contemporary_Christian_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	73	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Contemporary_Christian_music
+##########
+%GID:408
+%LID#1#408-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	188	1
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:409
+%LID#0#409-2-Steve_Fisk#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Steve_Fisk
+##########
+%GID:410
+%LID#1#410-0-Sweet_Oblivion#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Don_Fleming_(musician)
+%Y
+eq-let	0	Sweet_Oblivion
+##########
+%GID:414
+%LID#1#414-0-Gothic_Lolita_Agitator#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	2870	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	2	Tokyo_Cramzy_Days
+%Y
+eq-let	0	Gothic_Lolita_Agitator
+##########
+%GID:416
+%LID#0#416-1-Strangers_in_the_Night_(UFO_album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	1	Strangers_in_the_Night_(UFO_album)
+##########
+%GID:417
+%LID#0#417-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Namco
+##########
+%GID:420
+%LID#1#420-2-Christmas_25th_Anniversary_Collection#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	278	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	65	1
+e	3	65	1
+e	3	75	2
+#Condition
+%X
+eq-let	0	The_Christmas_Angel:_A_Family_Story
+%Y
+eq-let	3	Christmas_25th_Anniversary_Collection
+##########
+%GID:422
+%LID#0#422-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:424
+%LID#1#424-2-Trailerhead#7#7#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:425
+%LID#1#425-0-Trailerhead#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:426
+%LID#0#426-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:427
+%LID#0#427-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:428
+%LID#0#428-2-Matt_Wallace#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+#Condition
+%X
+%Y
+eq-let	3	Matt_Wallace
+##########
+%GID:429
+%LID#0#429-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:430
+%LID#1#430-2-Trailerhead#7#7#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:431
+%LID#0#431-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:432
+%LID#0#432-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:434
+%LID#0#434-0-Louden_Up_Now#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Louden_Up_Now
+##########
+%GID:436
+%LID#0#436-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:437
+%LID#0#437-0-The_Lost._The_Sick._The_Sacred.#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+##########
+%GID:438
+%LID#0#438-1-Immediate_Music#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:439
+%LID#0#439-1-Immediate_Music#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:440
+%LID#1#440-3-Trailer_music#5#5#25
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	3	Symphonic_rock
+%Y
+eq-let	2	Trailer_music
+##########
+%GID:441
+%LID#1#441-0-Trailerhead#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:442
+%LID#0#442-2-Paula_Abdul#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Paula_Abdul
+##########
+%GID:443
+%LID#0#443-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:444
+%LID#0#444-2-Acumen_Nation#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	3	Acumen_Nation
+##########
+%GID:445
+%LID#0#445-1-Shut_Up_and_Dance:_Mixes#0#0#8
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Shut_Up_and_Dance:_Mixes
+##########
+%GID:446
+%LID#1#446-0-Clairvoyance_(album)#0#0#25
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	2	Garage_rock
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:447
+%LID#0#447-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:448
+%LID#1#448-2-İmaj_music#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	784	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	2	Seyhan_Müzik
+%Y
+eq-let	3	İmaj_music
+##########
+%GID:449
+%LID#0#449-2-Acumen_Nation#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Acumen_Nation
+##########
+%GID:450
+%LID#0#450-3-Break_from_This_World#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	2	Break_from_This_World
+##########
+%GID:452
+%LID#0#452-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:453
+%LID#0#453-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:454
+%LID#0#454-0-The_Rutles_Archaeology#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	8	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	The_Rutles_Archaeology
+##########
+%GID:455
+%LID#0#455-3-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Imperativa_Records
+##########
+%GID:456
+%LID#1#456-0-Trailerhead#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	188	1
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:457
+%LID#0#457-3-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Imperativa_Records
+##########
+%GID:458
+%LID#0#458-2-Yoav_Goren#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	3	Yoav_Goren
+##########
+%GID:459
+%LID#1#459-2-Trailerhead#7#7#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	188	1
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:460
+%LID#0#460-3-Suburban_Noize_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Suburban_Noize_Records
+##########
+%GID:461
+%LID#0#461-3-Trust_Electricity#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Trust_Electricity
+##########
+%GID:462
+%LID#0#462-3-Break_from_This_World#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	2	Break_from_This_World
+##########
+%GID:463
+%LID#0#463-3-Break_from_This_World#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	2	Break_from_This_World
+##########
+%GID:464
+%LID#0#464-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:465
+%LID#0#465-2-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	3	Imperativa_Records
+##########
+%GID:466
+%LID#0#466-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	542	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##########
+%GID:467
+%LID#0#467-2-Ba_Da_Bing_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Ba_Da_Bing_Records
+##########
+%GID:469
+%LID#1#469-0-Trailerhead:_Triumph#6#6#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+eq-let	2	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:470
+%LID#0#470-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:472
+%LID#0#472-1-Namco#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Namco
+##########
+%GID:473
+%LID#0#473-3-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Imperativa_Records
+##########
+%GID:474
+%LID#1#474-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+e	0	188	1
+e	2	264	1
+#Condition
+%X
+eq-let	2	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:475
+%LID#0#475-1-Mandy_Smith#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+#Condition
+%X
+%Y
+eq-let	1	Mandy_Smith
+##########
+%GID:476
+%LID#0#476-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:478
+%LID#1#478-3-Pop_music#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	3	Rock_music
+%Y
+eq-let	2	Pop_music
+##########
+%GID:479
+%LID#0#479-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:481
+%LID#0#481-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:482
+%LID#0#482-0-Clairvoyance_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:483
+%LID#0#483-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	9	ANY
+v	3	11	ANY
+e	0	188	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:484
+%LID#0#484-3-Capitol_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##########
+%GID:485
+%LID#0#485-1-Screaming_Trees#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Screaming_Trees
+##########
+%GID:486
+%LID#0#486-3-Trust_Electricity#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Trust_Electricity
+##########
+%GID:487
+%LID#1#487-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	75	2
+e	3	264	1
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:488
+%LID#0#488-0-Clairvoyance_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:491
+%LID#0#491-3-Hip_hop_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	2
+e	1	65	3
+#Condition
+%X
+%Y
+eq-let	2	Hip_hop_music
+##########
+%GID:492
+%LID#0#492-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:493
+%LID#1#493-3-Trailer_music#5#5#25
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	3	Symphonic_rock
+%Y
+eq-let	2	Trailer_music
+##########
+%GID:494
+%LID#0#494-3-Epic_Records#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Epic_Records
+##########
+%GID:495
+%LID#0#495-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:496
+%LID#0#496-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	542	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##########
+%GID:497
+%LID#0#497-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:498
+%LID#0#498-3-Suburban_Noize_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	75	2
+e	1	75	3
+#Condition
+%X
+%Y
+eq-let	2	Suburban_Noize_Records
+##########
+%GID:499
+%LID#0#499-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:500
+%LID#0#500-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:501
+%LID#1#501-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+e	0	264	1
+e	2	264	1
+#Condition
+%X
+eq-let	2	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:505
+%LID#0#505-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:506
+%LID#0#506-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:507
+%LID#0#507-0-Forever_Your_Girl#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Forever_Your_Girl
+##########
+%GID:508
+%LID#0#508-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:509
+%LID#1#509-3-Power_of_Darkness#5#5#15
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	53	ANY
+v	3	53	ANY
+e	0	264	1
+e	2	264	1
+e	3	264	1
+#Condition
+%X
+eq-let	3	Legend_(Two_Steps_from_Hell_album)
+%Y
+eq-let	2	Power_of_Darkness
+##########
+%GID:510
+%LID#0#510-1-Bohemia#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Bohemia
+##########
+%GID:511
+%LID#0#511-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:513
+%LID#0#513-2-Odeon_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Odeon_Records
+##########
+%GID:515
+%LID#0#515-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:519
+%LID#0#519-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:520
+%LID#0#520-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:522
+%LID#0#522-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:523
+%LID#1#523-0-Rocktronic#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	137	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	2	Morphscape
+%Y
+eq-let	0	Rocktronic
+##########
+%GID:524
+%LID#0#524-0-Fight_Like_Apes_and_the_Mystery_of_the_Golden_Medallion#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	9	ANY
+v	2	32	ANY
+v	3	11	ANY
+e	0	65	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Fight_Like_Apes_and_the_Mystery_of_the_Golden_Medallion
+##########
+%GID:525
+%LID#0#525-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	53	ANY
+v	3	11	ANY
+e	0	188	1
+e	0	65	3
+e	2	65	3
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:526
+%LID#0#526-2-Foggy_Mountain_Boys#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	13	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Foggy_Mountain_Boys
+##########
+%GID:527
+%LID#0#527-1-3#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	784	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	3
+##########
+%GID:529
+%LID#0#529-2-Alternative_hip_hop#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	722	ANY
+v	2	11	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	3	Alternative_hip_hop
+##########
+%GID:530
+%LID#0#530-0-Clairvoyance_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	75	2
+e	3	264	1
+#Condition
+%X
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:531
+%LID#0#531-2-Paula_Abdul#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	3	Paula_Abdul
+##########
+%GID:533
+%LID#0#533-3-Epic_Records#0#0#8
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	8	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	75	2
+e	3	264	1
+#Condition
+%X
+%Y
+eq-let	2	Epic_Records
+##########
+%GID:534
+%LID#0#534-3-Slipdisc_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Slipdisc_Records
+##########
+%GID:535
+%LID#0#535-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:537
+%LID#0#537-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:538
+%LID#0#538-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:539
+%LID#1#539-2-Metalcore#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+eq-let	2	Avant
+%Y
+eq-let	3	Metalcore
+##########
+%GID:540
+%LID#0#540-2-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	3	Imperativa_Records
+##########
+%GID:541
+%LID#0#541-0-Hen_Hen_Ai#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	666	ANY
+v	3	53	ANY
+e	0	65	1
+e	0	75	2
+e	3	65	1
+#Condition
+%X
+%Y
+eq-let	0	Hen_Hen_Ai
+##########
+%GID:542
+%LID#0#542-3-Slipdisc_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Slipdisc_Records
+##########
+%GID:543
+%LID#0#543-1-3#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	784	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	3
+##########
+%GID:544
+%LID#0#544-0-Private_Dancer#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer
+##########
+%GID:545
+%LID#0#545-0-Private_Dancer#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer
+##########
+%GID:546
+%LID#0#546-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:547
+%LID#0#547-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##########
+%GID:548
+%LID#1#548-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	75	2
+e	3	264	1
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:549
+%LID#1#549-1-Rabbit_Ears_Productions#5#5#29
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+eq-let	3	Robin_Williams
+%Y
+eq-let	1	Rabbit_Ears_Productions
+##########
+%GID:552
+%LID#0#552-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:554
+%LID#0#554-1-Inhale_Exhale#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Inhale_Exhale
+##########
+%GID:555
+%LID#1#555-2-The_Sunny_Side_of_the_Street#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	6	ANY
+v	2	53	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+eq-let	0	Shake_It_Like_This
+%Y
+eq-let	2	The_Sunny_Side_of_the_Street
+##########
+%GID:558
+%LID#0#558-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:559
+%LID#0#559-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:561
+%LID#0#561-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:563
+%LID#0#563-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:565
+%LID#0#565-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:567
+%LID#0#567-3-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Imperativa_Records
+##########
+%GID:568
+%LID#1#568-0-Voodoo_(VIXX_album)#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	3370	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	2	Alive_(Kim_Kyung
+%Y
+eq-let	0	Voodoo_(VIXX_album)
+##########
+%GID:569
+%LID#0#569-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	9	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:570
+%LID#0#570-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:571
+%LID#1#571-2-Hen_Hen_Ai#7#7#25
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	53	ANY
+v	3	53	ANY
+e	0	65	1
+e	2	65	1
+e	3	65	1
+#Condition
+%X
+eq-let	0	Bubai_de_Lianren
+%Y
+eq-let	3	Hen_Hen_Ai
+##########
+%GID:573
+%LID#0#573-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:574
+%LID#0#574-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:576
+%LID#0#576-1-Rock#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	64	ANY
+v	2	53	ANY
+v	3	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	1	Rock
+##########
+%GID:577
+%LID#0#577-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:578
+%LID#0#578-1-Minos_EMI#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	Minos_EMI
+##########
+%GID:579
+%LID#0#579-1-Speedrock_Chartbusters_Vol.1#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Speedrock_Chartbusters_Vol.1
+##########
+%GID:580
+%LID#1#580-0-Trailerhead#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:581
+%LID#1#581-2-Trailerhead#7#7#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:582
+%LID#1#582-0-Chagall_Guevara_(album)#5#5#29
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+eq-let	2	Rock_music
+%Y
+eq-let	0	Chagall_Guevara_(album)
+##########
+%GID:585
+%LID#0#585-3-Virgin_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Virgin_Records
+##########
+%GID:586
+%LID#1#586-2-World_music#1#1#16
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+eq-let	2	Un_Día_Lejano
+%Y
+eq-let	3	World_music
+##########
+%GID:587
+%LID#0#587-2-Yoav_Goren#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	3	Yoav_Goren
+##########
+%GID:588
+%LID#0#588-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##########
+%GID:589
+%LID#0#589-2-Punk_rock#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	3	Punk_rock
+##########
+%GID:590
+%LID#0#590-1-Immediate_Music#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:591
+%LID#0#591-0-The_Lost._The_Sick._The_Sacred.#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+##########
+%GID:592
+%LID#0#592-1-Immediate_Music#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:594
+%LID#1#594-3-Touch_and_Go_Records#1#1#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	6	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	3	Warp_(record_label)
+%Y
+eq-let	2	Touch_and_Go_Records
+##########
+%GID:595
+%LID#0#595-1-Minos_EMI#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Minos_EMI
+##########
+%GID:596
+%LID#0#596-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	11	ANY
+v	3	7	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:598
+%LID#0#598-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:599
+%LID#1#599-2-Epitaph_Records#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	722	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	6	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+eq-let	2	Quannum_Projects
+%Y
+eq-let	3	Epitaph_Records
+##########
+%GID:600
+%LID#1#600-2-Chris_Cornell#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	6	2
+#Condition
+%X
+eq-let	2	Terry_Date
+%Y
+eq-let	3	Chris_Cornell
+##########
+%GID:601
+%LID#0#601-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	13	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:602
+%LID#0#602-0-Mutants_of_Sound#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	0	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Mutants_of_Sound
+##########
+%GID:603
+%LID#1#603-2-World_music#1#1#16
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	2	75	3
+#Condition
+%X
+eq-let	2	Un_Día_Lejano
+%Y
+eq-let	3	World_music
+##########
+%GID:605
+%LID#0#605-0-Shake_It_Like_This#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	6	ANY
+e	0	188	1
+e	0	65	3
+e	2	65	3
+#Condition
+%X
+%Y
+eq-let	0	Shake_It_Like_This
+##########
+%GID:607
+%LID#0#607-2-Anthony_Braxton#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	3	Anthony_Braxton
+##########
+%GID:608
+%LID#0#608-2-Boom_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	93	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	Boom_Records
+##########
+%GID:609
+%LID#0#609-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:610
+%LID#0#610-1-3#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	784	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	3
+##########
+%GID:612
+%LID#1#612-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:614
+%LID#1#614-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	188	1
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:616
+%LID#0#616-3-Flying_Fish_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	4
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Flying_Fish_Records
+##########
+%GID:618
+%LID#0#618-4-Mercury_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##########
+%GID:620
+%LID#0#620-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:621
+%LID#0#621-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	11	ANY
+v	3	7	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:622
+%LID#0#622-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:625
+%LID#1#625-4-Planet_Mu#0#0#12
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+eq-let	2	Bilious_Paths
+%Y
+eq-let	4	Planet_Mu
+##########
+%GID:626
+%LID#0#626-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:627
+%LID#1#627-4-The_Flying_Club_Cup#2#2#12
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	2	Gulag_Orkestar
+%Y
+eq-let	4	The_Flying_Club_Cup
+##########
+%GID:628
+%LID#0#628-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:629
+%LID#0#629-0-Trailerhead#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:631
+%LID#1#631-4-Casablanca_Records#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+eq-let	2	Bad_Girls_(Donna_Summer_album)
+%Y
+eq-let	4	Casablanca_Records
+##########
+%GID:632
+%LID#0#632-2-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	3	Imperativa_Records
+##########
+%GID:633
+%LID#1#633-2-World_music#1#1#17
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+eq-let	2	Un_Día_Lejano
+%Y
+eq-let	3	World_music
+##########
+%GID:634
+%LID#1#634-3-Solid_Pleasure#1#1#12
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+eq-let	4	Ralph_Records
+%Y
+eq-let	2	Solid_Pleasure
+##########
+%GID:635
+%LID#0#635-4-PolyGram#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	4	PolyGram
+##########
+%GID:636
+%LID#0#636-4-Island_Records#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	4	Island_Records
+##########
+%GID:637
+%LID#1#637-4-Un_Día_Lejano#2#2#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+eq-let	3	World_music
+%Y
+eq-let	4	Un_Día_Lejano
+##########
+%GID:638
+%LID#0#638-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:639
+%LID#0#639-4-Mercury_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##########
+%GID:640
+%LID#0#640-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:641
+%LID#0#641-2-Anthony_Braxton#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Anthony_Braxton
+##########
+%GID:645
+%LID#0#645-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:648
+%LID#0#648-4-Punk_rock#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	4	Punk_rock
+##########
+%GID:649
+%LID#0#649-4-Hard_rock#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	4	Hard_rock
+##########
+%GID:653
+%LID#0#653-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:654
+%LID#0#654-3-Acumen_Nation#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	9	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	4	6	2
+#Condition
+%X
+%Y
+eq-let	2	Acumen_Nation
+##########
+%GID:656
+%LID#0#656-4-Break_from_This_World#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	4	Break_from_This_World
+##########
+%GID:657
+%LID#0#657-4-Chrysalis_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	4	Chrysalis_Records
+##########
+%GID:660
+%LID#0#660-0-Trailerhead#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:663
+%LID#0#663-4-Break_from_This_World#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	4	Break_from_This_World
+##########
+%GID:665
+%LID#1#665-3-Seyhan_Müzik#5#5#8
+#Pattern
+v	0	53	ANY
+v	1	784	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+eq-let	4	İmaj_music
+%Y
+eq-let	2	Seyhan_Müzik
+##########
+%GID:666
+%LID#0#666-0-Mandy_(album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	4
+e	2	6	3
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:667
+%LID#0#667-0-Mandy_(album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	4
+e	2	6	3
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:668
+%LID#0#668-2-Bluegrass_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	53	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	3	Bluegrass_music
+##########
+%GID:669
+%LID#1#669-3-Seyhan_Müzik#5#5#8
+#Pattern
+v	0	53	ANY
+v	1	784	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+eq-let	4	İmaj_music
+%Y
+eq-let	2	Seyhan_Müzik
+##########
+%GID:670
+%LID#1#670-3-Contemporary_R&B#1#1#8
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	4	New_wave_music
+%Y
+eq-let	2	Contemporary_R&B
+##########
+%GID:671
+%LID#0#671-2-Yoav_Goren#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+e	2	65	1
+#Condition
+%X
+%Y
+eq-let	3	Yoav_Goren
+##########
+%GID:673
+%LID#1#673-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:674
+%LID#0#674-0-Ghetto_Guide#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	4
+e	1	65	2
+#Condition
+%X
+%Y
+eq-let	0	Ghetto_Guide
+##########
+%GID:675
+%LID#0#675-1-Two_Steps_from_Hell#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	53	ANY
+e	0	264	1
+e	2	264	1
+#Condition
+%X
+%Y
+eq-let	1	Two_Steps_from_Hell
+##########
+%GID:677
+%LID#1#677-4-Un_Día_Lejano#2#2#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+eq-let	3	World_music
+%Y
+eq-let	4	Un_Día_Lejano
+##########
+%GID:678
+%LID#1#678-3-Touch_and_Go_Records#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+eq-let	4	Warp_(record_label)
+%Y
+eq-let	2	Touch_and_Go_Records
+##########
+%GID:680
+%LID#1#680-4-Sire_Records#3#3#12
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+eq-let	2	14_Songs_(Paul_Westerberg_album)
+%Y
+eq-let	4	Sire_Records
+##########
+%GID:686
+%LID#0#686-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:688
+%LID#0#688-1-Speedrock_Chartbusters_Vol.1#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	1	Speedrock_Chartbusters_Vol.1
+##########
+%GID:690
+%LID#1#690-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	3	264	1
+e	3	65	2
+e	3	75	4
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:692
+%LID#1#692-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	4	75	1
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:693
+%LID#0#693-4-Break_from_This_World#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	4	Break_from_This_World
+##########
+%GID:696
+%LID#0#696-3-Sinitta!#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	6	4
+#Condition
+%X
+%Y
+eq-let	2	Sinitta!
+##########
+%GID:697
+%LID#1#697-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	75	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:698
+%LID#1#698-2-Trailerhead:_Triumph#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	6	2
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:700
+%LID#0#700-4-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Imperativa_Records
+##########
+%GID:706
+%LID#1#706-3-Rock_music#6#6#47
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	3	65	4
+#Condition
+%X
+eq-let	4	World_music
+%Y
+eq-let	2	Rock_music
+##########
+%GID:707
+%LID#0#707-0-Trailerhead#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	4	6	3
+#Condition
+%X
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:709
+%LID#1#709-2-Trailerhead#8#8#58
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	3	65	4
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:714
+%LID#1#714-3-Giorgio_Moroder#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	6	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Pete_Bellotte
+%Y
+eq-let	2	Giorgio_Moroder
+##########
+%GID:715
+%LID#1#715-4-Lucky_Bastards#3#3#12
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+eq-let	2	We_Want_Blood!
+%Y
+eq-let	4	Lucky_Bastards
+##########
+%GID:716
+%LID#1#716-2-Trailerhead#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	6	2
+e	3	264	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:718
+%LID#0#718-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:719
+%LID#0#719-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:721
+%LID#0#721-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:722
+%LID#1#722-4-Avant#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Metalcore
+%Y
+eq-let	4	Avant
+##########
+%GID:725
+%LID#0#725-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:726
+%LID#1#726-2-Rock_music#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	2	Pop_music
+%Y
+eq-let	3	Rock_music
+##########
+%GID:732
+%LID#0#732-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:734
+%LID#1#734-3-Rock_music#7#7#37
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+eq-let	-1	Trust_Electricity
+%Y
+eq-let	2	Rock_music
+##########
+%GID:735
+%LID#0#735-4-Drum_and_bass#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	9	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	4	Drum_and_bass
+##########
+%GID:736
+%LID#0#736-1-Immediate_Music#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:738
+%LID#1#738-0-Bubai_de_Lianren#4#4#25
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	53	ANY
+v	3	53	ANY
+v	4	13	ANY
+e	0	65	1
+e	2	65	1
+e	2	75	4
+e	3	65	1
+#Condition
+%X
+eq-let	3	Hen_Hen_Ai
+%Y
+eq-let	0	Bubai_de_Lianren
+##########
+%GID:741
+%LID#1#741-2-Trailerhead:_Triumph#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	2
+e	0	65	4
+e	3	264	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:743
+%LID#0#743-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:744
+%LID#1#744-2-Electronic_music#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	2	Video_game_music
+%Y
+eq-let	3	Electronic_music
+##########
+%GID:749
+%LID#1#749-3-Trailerhead:_Triumph#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	2	Trailerhead:_Triumph
+##########
+%GID:750
+%LID#0#750-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	9	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:751
+%LID#1#751-2-Trailerhead:_Triumph#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	3	264	1
+e	3	6	2
+e	3	75	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:752
+%LID#0#752-3-Stand#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	7	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	4	65	2
+#Condition
+%X
+%Y
+eq-let	2	Stand
+##########
+%GID:753
+%LID#0#753-2-550_Music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	839	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	3	550_Music
+##########
+%GID:755
+%LID#0#755-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:757
+%LID#0#757-4-Intelligent_dance_music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	4	Intelligent_dance_music
+##########
+%GID:758
+%LID#1#758-4-Fanfare_Records#6#6#8
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+eq-let	2	Sinitta!
+%Y
+eq-let	4	Fanfare_Records
+##########
+%GID:759
+%LID#0#759-2-Ba_Da_Bing_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	3	Ba_Da_Bing_Records
+##########
+%GID:761
+%LID#0#761-4-Break_from_This_World#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	4	Break_from_This_World
+##########
+%GID:762
+%LID#0#762-4-Drum_and_bass#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	9	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	4	Drum_and_bass
+##########
+%GID:763
+%LID#1#763-2-World_music#1#1#17
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	2	75	3
+e	4	75	1
+#Condition
+%X
+eq-let	2	Un_Día_Lejano
+%Y
+eq-let	3	World_music
+##########
+%GID:764
+%LID#0#764-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##########
+%GID:765
+%LID#0#765-3-Hip_hop_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	6	1
+e	0	65	2
+e	0	75	4
+e	1	65	3
+#Condition
+%X
+%Y
+eq-let	2	Hip_hop_music
+##########
+%GID:766
+%LID#1#766-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	2
+e	0	75	4
+e	3	264	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:769
+%LID#1#769-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	3	75	4
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:771
+%LID#0#771-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:773
+%LID#1#773-3-Break_Every_Rule#2#2#12
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+eq-let	4	Contemporary_R&B
+%Y
+eq-let	2	Break_Every_Rule
+##########
+%GID:775
+%LID#0#775-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:776
+%LID#0#776-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:777
+%LID#0#777-1-Bohemia#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Bohemia
+##########
+%GID:778
+%LID#1#778-3-Friend_Opportunity#6#6#12
+#Pattern
+v	0	53	ANY
+v	1	149	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+eq-let	4	ATP_Recordings
+%Y
+eq-let	2	Friend_Opportunity
+##########
+%GID:782
+%LID#0#782-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	65	3
+e	2	65	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:786
+%LID#0#786-4-Black_August_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	6	1
+e	0	65	2
+e	1	65	3
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	4	Black_August_(album)
+##########
+%GID:788
+%LID#1#788-0-Trailerhead:_Triumph#6#6#30
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+eq-let	4	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:789
+%LID#0#789-4-Drum_and_bass#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	4	Drum_and_bass
+##########
+%GID:791
+%LID#1#791-4-Neo#3#3#25
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Garage_rock
+%Y
+eq-let	4	Neo
+##########
+%GID:792
+%LID#0#792-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:800
+%LID#0#800-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:801
+%LID#0#801-4-Jeffrey_Fayman#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+e	2	6	1
+#Condition
+%X
+%Y
+eq-let	-1	Jeffrey_Fayman
+##########
+%GID:804
+%LID#1#804-4-College_rock#6#6#8
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+eq-let	2	Don't_Tell_a_Soul
+%Y
+eq-let	4	College_rock
+##########
+%GID:807
+%LID#0#807-4-Media_Factory#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Media_Factory
+##########
+%GID:808
+%LID#0#808-4-Avex_Group#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	53	ANY
+v	3	53	ANY
+v	4	666	ANY
+e	0	65	1
+e	2	65	1
+e	3	65	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	4	Avex_Group
+##########
+%GID:810
+%LID#0#810-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	8	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:813
+%LID#1#813-3-Solid_Pleasure#2#2#15
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+eq-let	4	Post
+%Y
+eq-let	2	Solid_Pleasure
+##########
+%GID:815
+%LID#0#815-1-Speedrock_Chartbusters_Vol.1#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	1	Speedrock_Chartbusters_Vol.1
+##########
+%GID:819
+%LID#0#819-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:827
+%LID#0#827-2-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	3	Imperativa_Records
+##########
+%GID:831
+%LID#0#831-2-Paula_Abdul#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	8	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	3	Paula_Abdul
+##########
+%GID:832
+%LID#1#832-2-Trailerhead:_Triumph#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	75	4
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:833
+%LID#0#833-0-Trailerhead#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:837
+%LID#1#837-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	65	2
+e	4	75	1
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:838
+%LID#0#838-4-Avex_Group#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	666	ANY
+e	0	65	1
+e	0	75	2
+e	3	65	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	4	Avex_Group
+##########
+%GID:840
+%LID#0#840-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:841
+%LID#1#841-2-Trailer_music#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	2	Symphonic_rock
+%Y
+eq-let	3	Trailer_music
+##########
+%GID:842
+%LID#1#842-2-Contemporary_R&B#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	2	New_wave_music
+%Y
+eq-let	3	Contemporary_R&B
+##########
+%GID:844
+%LID#1#844-3-Trailerhead:_Triumph#2#2#11
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	2	Trailerhead:_Triumph
+##########
+%GID:845
+%LID#1#845-4-Flaunt_It_(album)#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	4	6	3
+#Condition
+%X
+eq-let	2	Big_Trouble_(Big_Trouble_album)
+%Y
+eq-let	4	Flaunt_It_(album)
+##########
+%GID:846
+%LID#1#846-3-Trailerhead#3#3#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	2	Trailerhead
+##########
+%GID:847
+%LID#0#847-1-Immediate_Music#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:848
+%LID#1#848-3-Bad_Girls_(Donna_Summer_album)#1#1#14
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	6	4
+#Condition
+%X
+eq-let	4	Giorgio_Moroder
+%Y
+eq-let	2	Bad_Girls_(Donna_Summer_album)
+##########
+%GID:849
+%LID#0#849-3-Sinitta!#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	62	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	2	Sinitta!
+##########
+%GID:850
+%LID#0#850-0-Zebra_(Yello_album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	75	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:852
+%LID#0#852-1-Strangers_in_the_Night_(UFO_album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	1	Strangers_in_the_Night_(UFO_album)
+##########
+%GID:853
+%LID#0#853-0-Obsession_(UFO_album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:854
+%LID#0#854-3-Flying_Fish_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	6	1
+e	0	75	4
+e	1	65	3
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Flying_Fish_Records
+##########
+%GID:855
+%LID#0#855-0-The_Rutles_Archaeology#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	217	ANY
+v	2	1	ANY
+v	3	8	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	The_Rutles_Archaeology
+##########
+%GID:856
+%LID#0#856-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:857
+%LID#0#857-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:858
+%LID#1#858-3-Da_Mafan#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	53	ANY
+v	3	53	ANY
+v	4	13	ANY
+e	0	65	1
+e	2	65	1
+e	3	65	1
+e	3	75	4
+#Condition
+%X
+eq-let	3	Bubai_de_Lianren
+%Y
+eq-let	2	Da_Mafan
+##########
+%GID:859
+%LID#0#859-0-Private_Dancer#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer
+##########
+%GID:863
+%LID#0#863-4-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Imperativa_Records
+##########
+%GID:864
+%LID#0#864-1-Strangers_in_the_Night_(UFO_album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+%Y
+eq-let	1	Strangers_in_the_Night_(UFO_album)
+##########
+%GID:868
+%LID#1#868-2-Trailerhead:_Triumph#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	3	264	1
+e	3	65	2
+e	3	65	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:869
+%LID#1#869-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	3	264	1
+e	3	65	2
+e	3	75	4
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:872
+%LID#0#872-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:873
+%LID#0#873-0-Clairvoyance_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	8	ANY
+e	0	264	1
+e	0	75	2
+e	3	264	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:874
+%LID#0#874-2-Chris_Cornell#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	6	2
+e	4	6	2
+#Condition
+%X
+%Y
+eq-let	3	Chris_Cornell
+##########
+%GID:875
+%LID#0#875-0-3_Compositions_of_New_Jazz#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	11	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	3_Compositions_of_New_Jazz
+##########
+%GID:876
+%LID#0#876-4-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	-1	Imperativa_Records
+##########
+%GID:877
+%LID#0#877-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:880
+%LID#1#880-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	3	264	1
+e	3	65	2
+e	3	75	4
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:882
+%LID#1#882-0-Trailerhead:_Triumph#6#6#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	4
+e	2	6	3
+#Condition
+%X
+eq-let	2	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:883
+%LID#0#883-3-Break_Every_Rule#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	6	4
+#Condition
+%X
+%Y
+eq-let	2	Break_Every_Rule
+##########
+%GID:884
+%LID#0#884-2-Yoav_Goren#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Yoav_Goren
+##########
+%GID:888
+%LID#0#888-2-Acumen_Nation#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Acumen_Nation
+##########
+%GID:890
+%LID#0#890-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:892
+%LID#0#892-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:893
+%LID#0#893-4-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Imperativa_Records
+##########
+%GID:894
+%LID#1#894-2-Trailerhead:_Triumph#4#4#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	4	Trailer_music
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:895
+%LID#0#895-0-Mutants_of_Sound#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	9	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Mutants_of_Sound
+##########
+%GID:896
+%LID#0#896-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:897
+%LID#1#897-2-Trailerhead#8#8#60
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:898
+%LID#1#898-3-Rock_music#6#6#47
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	65	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	4	World_music
+%Y
+eq-let	2	Rock_music
+##########
+%GID:899
+%LID#1#899-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	75	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:900
+%LID#1#900-4-Boris_Blank_(musician)#4#4#13
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	6	4
+#Condition
+%X
+eq-let	2	One_Second_(Yello_album)
+%Y
+eq-let	4	Boris_Blank_(musician)
+##########
+%GID:901
+%LID#0#901-1-Taiwanese_pop#0#0#7
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	53	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+%Y
+eq-let	1	Taiwanese_pop
+##########
+%GID:902
+%LID#1#902-4-Trailer_music#7#7#25
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Symphonic_rock
+%Y
+eq-let	4	Trailer_music
+##########
+%GID:903
+%LID#0#903-0-Mutants_of_Sound#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	9	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Mutants_of_Sound
+##########
+%GID:906
+%LID#0#906-1-Minos_EMI#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	8	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Minos_EMI
+##########
+%GID:907
+%LID#1#907-3-Symphonic_rock#2#2#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	3	264	1
+e	3	65	2
+e	3	65	4
+#Condition
+%X
+eq-let	4	Trailer_music
+%Y
+eq-let	2	Symphonic_rock
+##########
+%GID:909
+%LID#1#909-0-Trailerhead#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	6	2
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:910
+%LID#1#910-2-Trailerhead:_Triumph#3#3#11
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	3	264	1
+e	3	6	2
+e	3	65	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:911
+%LID#1#911-0-Trailerhead:_Triumph#5#5#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	0	ANY
+e	0	188	1
+e	3	264	1
+e	3	6	2
+e	3	65	4
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:912
+%LID#1#912-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	2
+e	0	75	4
+e	3	264	1
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:913
+%LID#0#913-3-Celtic_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	Celtic_music
+##########
+%GID:915
+%LID#0#915-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	13	ANY
+v	3	9	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:918
+%LID#1#918-4-Soul_music#2#2#15
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+eq-let	2	She_Works_Hard_for_the_Money_(album)
+%Y
+eq-let	4	Soul_music
+##########
+%GID:920
+%LID#0#920-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:922
+%LID#1#922-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	75	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:928
+%LID#0#928-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:930
+%LID#1#930-4-Living_Proof_(Buddy_Guy_album)#7#7#13
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	2	65	3
+e	4	65	3
+#Condition
+%X
+eq-let	2	Jimmy_Reed_at_Carnegie_Hall
+%Y
+eq-let	4	Living_Proof_(Buddy_Guy_album)
+##########
+%GID:932
+%LID#0#932-4-Media_Factory#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Media_Factory
+##########
+%GID:933
+%LID#0#933-1-Queens_of_Noise#0#0#8
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Queens_of_Noise
+##########
+%GID:934
+%LID#0#934-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	8	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:935
+%LID#1#935-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	4	75	1
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:938
+%LID#0#938-3-Hip_hop_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	2
+e	1	65	3
+e	1	75	4
+#Condition
+%X
+%Y
+eq-let	2	Hip_hop_music
+##########
+%GID:939
+%LID#0#939-3-4th_&_B'way_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	4th_&_B'way_Records
+##########
+%GID:941
+%LID#1#941-0-Trailerhead#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	75	2
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:942
+%LID#1#942-2-Industrial_music#4#4#25
+#Pattern
+v	0	53	ANY
+v	1	161	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Gothic_rock
+%Y
+eq-let	3	Industrial_music
+##########
+%GID:943
+%LID#1#943-3-Rock_music#7#7#37
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	75	2
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	-1	Trust_Electricity
+%Y
+eq-let	2	Rock_music
+##########
+%GID:945
+%LID#1#945-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	53	ANY
+e	0	264	1
+e	2	75	1
+e	3	264	1
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:946
+%LID#1#946-2-Pop_music#6#6#27
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Rock_music
+%Y
+eq-let	3	Pop_music
+##########
+%GID:949
+%LID#1#949-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	3	75	4
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:954
+%LID#1#954-2-Trailerhead:_Triumph#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	188	1
+e	3	264	1
+e	3	75	2
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:957
+%LID#0#957-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	6	4
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:958
+%LID#0#958-2-Yoav_Goren#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	3	Yoav_Goren
+##########
+%GID:959
+%LID#0#959-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:960
+%LID#0#960-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	4	65	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:961
+%LID#0#961-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:963
+%LID#1#963-0-Trailerhead:_Triumph#5#5#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+eq-let	4	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:964
+%LID#1#964-3-Chris_Cornell#7#7#25
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	6	2
+e	0	65	4
+#Condition
+%X
+eq-let	3	Terry_Date
+%Y
+eq-let	2	Chris_Cornell
+##########
+%GID:965
+%LID#0#965-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:966
+%LID#1#966-2-Trailerhead:_Triumph#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	75	2
+e	3	264	1
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:967
+%LID#1#967-3-Avant#5#5#8
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Metalcore
+%Y
+eq-let	2	Avant
+##########
+%GID:968
+%LID#0#968-3-Re#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	9	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	32	ANY
+e	0	65	1
+e	0	75	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Re
+##########
+%GID:969
+%LID#0#969-1-3#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	784	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	3
+##########
+%GID:970
+%LID#0#970-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##########
+%GID:971
+%LID#0#971-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##########
+%GID:972
+%LID#1#972-2-Trailerhead:_Triumph#3#3#11
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	4
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:973
+%LID#1#973-0-Trailerhead:_Triumph#5#5#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	65	4
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:974
+%LID#0#974-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:975
+%LID#1#975-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	188	1
+e	3	264	1
+e	3	65	2
+e	4	75	1
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:976
+%LID#0#976-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##########
+%GID:981
+%LID#0#981-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	7	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:982
+%LID#0#982-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:984
+%LID#0#984-1-Rock#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	64	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	1	Rock
+##########
+%GID:985
+%LID#1#985-4-Sound_of_Joy#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	2	Wise_in_Time
+%Y
+eq-let	4	Sound_of_Joy
+##########
+%GID:987
+%LID#0#987-0-Ghetto_Guide#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Ghetto_Guide
+##########
+%GID:988
+%LID#1#988-3-Rock_music#7#7#37
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+eq-let	-1	Trust_Electricity
+%Y
+eq-let	2	Rock_music
+##########
+%GID:990
+%LID#0#990-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:991
+%LID#0#991-2-Foggy_Mountain_Boys#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	53	ANY
+v	3	9	ANY
+e	0	188	1
+e	0	264	3
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	3	Foggy_Mountain_Boys
+##########
+%GID:992
+%LID#0#992-3-Da_Mafan#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	53	ANY
+v	3	53	ANY
+v	4	13	ANY
+e	0	65	1
+e	0	75	4
+e	2	65	1
+e	3	65	1
+#Condition
+%X
+%Y
+eq-let	2	Da_Mafan
+##########
+%GID:993
+%LID#1#993-2-Trailer_music#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+eq-let	2	Symphonic_rock
+%Y
+eq-let	3	Trailer_music
+##########
+%GID:994
+%LID#0#994-2-Terry_Date#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	6	2
+e	4	6	3
+#Condition
+%X
+%Y
+eq-let	3	Terry_Date
+##########
+%GID:995
+%LID#1#995-0-Trailerhead#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	75	2
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:996
+%LID#1#996-2-Pete_Bellotte#4#4#25
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	6	2
+e	4	6	2
+#Condition
+%X
+eq-let	4	Flaunt_It_(album)
+%Y
+eq-let	3	Pete_Bellotte
+##########
+%GID:998
+%LID#1#998-0-Trailerhead#0#0#13
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	4
+e	2	6	3
+#Condition
+%X
+eq-let	2	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:1000
+%LID#1#1000-0-Trailerhead#0#0#12
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	4
+e	2	6	3
+#Condition
+%X
+eq-let	2	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:1002
+%LID#0#1002-0-Mutants_of_Sound#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	0	ANY
+v	3	9	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Mutants_of_Sound
+##########
+%GID:1003
+%LID#1#1003-3-Trailerhead:_Triumph#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	2	Trailerhead:_Triumph
+##########
+%GID:1004
+%LID#1#1004-3-Terry_Date#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	264	1
+e	0	6	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Chris_Cornell
+%Y
+eq-let	2	Terry_Date
+##########
+%GID:1005
+%LID#1#1005-2-Trailerhead:_Triumph#3#3#11
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	4
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1006
+%LID#1#1006-0-Trailerhead:_Triumph#5#5#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	0	ANY
+e	0	264	1
+e	0	65	4
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1007
+%LID#0#1007-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:1010
+%LID#0#1010-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:1011
+%LID#0#1011-3-4th_&_B'way_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	2	4th_&_B'way_Records
+##########
+%GID:1013
+%LID#1#1013-2-Giorgio_Moroder#4#4#14
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	4
+e	2	6	3
+#Condition
+%X
+eq-let	2	Flaunt_It_(album)
+%Y
+eq-let	3	Giorgio_Moroder
+##########
+%GID:1015
+%LID#0#1015-4-Chrysalis_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	4	Chrysalis_Records
+##########
+%GID:1017
+%LID#0#1017-2-Ba_Da_Bing_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	3	Ba_Da_Bing_Records
+##########
+%GID:1018
+%LID#0#1018-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:1019
+%LID#0#1019-4-Break_from_This_World#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	4	Break_from_This_World
+##########
+%GID:1022
+%LID#0#1022-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##########
+%GID:1025
+%LID#0#1025-4-Heavy_metal_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	4	Heavy_metal_music
+##########
+%GID:1026
+%LID#0#1026-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:1028
+%LID#0#1028-4-Rephlex_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	4	Rephlex_Records
+##########
+%GID:1029
+%LID#0#1029-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:1036
+%LID#1#1036-4-Trailer_music#9#9#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Symphonic_rock
+%Y
+eq-let	4	Trailer_music
+##########
+%GID:1047
+%LID#1#1047-2-World_music#1#1#17
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	2	75	3
+e	4	75	1
+#Condition
+%X
+eq-let	2	Un_Día_Lejano
+%Y
+eq-let	3	World_music
+##########
+%GID:1048
+%LID#0#1048-4-Solid_State_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Solid_State_Records
+##########
+%GID:1049
+%LID#0#1049-4-Break_from_This_World#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	4	Break_from_This_World
+##########
+%GID:1050
+%LID#1#1050-3-Trailerhead:_Triumph#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	2	Trailerhead:_Triumph
+##########
+%GID:1052
+%LID#0#1052-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:1054
+%LID#1#1054-0-Trailerhead#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	53	ANY
+e	0	188	1
+e	2	75	1
+e	3	264	1
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:1055
+%LID#0#1055-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	9	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	4	65	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:1056
+%LID#0#1056-3-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	2	Imperativa_Records
+##########
+%GID:1062
+%LID#1#1062-2-Trailer_music#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	2	Symphonic_rock
+%Y
+eq-let	3	Trailer_music
+##########
+%GID:1064
+%LID#1#1064-2-Trailer_music#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+eq-let	2	Symphonic_rock
+%Y
+eq-let	3	Trailer_music
+##########
+%GID:1065
+%LID#1#1065-4-New_wave_music#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Contemporary_R&B
+%Y
+eq-let	4	New_wave_music
+##########
+%GID:1067
+%LID#0#1067-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:1070
+%LID#1#1070-2-Dust_(Screaming_Trees_album)#1#1#25
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	6	2
+e	3	264	1
+e	3	6	4
+#Condition
+%X
+eq-let	4	George_Drakoulias
+%Y
+eq-let	3	Dust_(Screaming_Trees_album)
+##########
+%GID:1071
+%LID#0#1071-4-Punk_rock#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	4	Punk_rock
+##########
+%GID:1072
+%LID#1#1072-3-Rock_music#5#5#8
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	4	Pop_music
+%Y
+eq-let	2	Rock_music
+##########
+%GID:1073
+%LID#0#1073-0-Private_Dancer#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer
+##########
+%GID:1075
+%LID#1#1075-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	75	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1078
+%LID#1#1078-2-Trailerhead:_Triumph#4#4#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	4	Trailer_music
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1079
+%LID#1#1079-3-Trailerhead:_Triumph#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	2	Trailerhead:_Triumph
+##########
+%GID:1080
+%LID#0#1080-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:1081
+%LID#0#1081-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:1082
+%LID#1#1082-3-Rock_music#6#6#47
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	0	ANY
+e	0	264	1
+e	0	65	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	4	World_music
+%Y
+eq-let	2	Rock_music
+##########
+%GID:1083
+%LID#0#1083-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1084
+%LID#0#1084-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1087
+%LID#0#1087-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:1088
+%LID#0#1088-2-Yoav_Goren#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Yoav_Goren
+##########
+%GID:1089
+%LID#0#1089-1-Screaming_Trees#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	2
+e	0	65	4
+e	3	264	1
+#Condition
+%X
+%Y
+eq-let	1	Screaming_Trees
+##########
+%GID:1090
+%LID#1#1090-3-Giorgio_Moroder#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	8	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	6	4
+#Condition
+%X
+eq-let	4	Pete_Bellotte
+%Y
+eq-let	2	Giorgio_Moroder
+##########
+%GID:1091
+%LID#1#1091-4-She_Works_Hard_for_the_Money_(album)#3#3#13
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+eq-let	2	Another_Place_and_Time
+%Y
+eq-let	4	She_Works_Hard_for_the_Money_(album)
+##########
+%GID:1092
+%LID#1#1092-2-Trailerhead#8#8#60
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	4
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1094
+%LID#1#1094-2-World_music#1#1#17
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+eq-let	2	Un_Día_Lejano
+%Y
+eq-let	3	World_music
+##########
+%GID:1096
+%LID#0#1096-2-Yoav_Goren#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	3	Yoav_Goren
+##########
+%GID:1097
+%LID#1#1097-4-Trailer_music#9#9#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Symphonic_rock
+%Y
+eq-let	4	Trailer_music
+##########
+%GID:1099
+%LID#0#1099-0-Shake_It_Like_This#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	6	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	65	3
+e	2	65	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Shake_It_Like_This
+##########
+%GID:1100
+%LID#1#1100-2-Trailerhead:_Triumph#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	188	1
+e	3	264	1
+e	3	6	2
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1101
+%LID#0#1101-0-Ghetto_Guide#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	1	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Ghetto_Guide
+##########
+%GID:1102
+%LID#1#1102-0-Trailerhead#0#0#12
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	4
+e	2	6	3
+#Condition
+%X
+eq-let	2	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:1103
+%LID#1#1103-3-Another_Place_and_Time#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+eq-let	4	Atlantic_Records
+%Y
+eq-let	2	Another_Place_and_Time
+##########
+%GID:1104
+%LID#1#1104-0-Trailerhead#0#0#13
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	4
+e	2	6	3
+#Condition
+%X
+eq-let	2	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:1106
+%LID#1#1106-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1107
+%LID#1#1107-3-Rock_music#6#6#25
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+eq-let	4	Trust_Electricity
+%Y
+eq-let	2	Rock_music
+##########
+%GID:1110
+%LID#1#1110-3-Progressive_rock#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	4	Trip_rock
+%Y
+eq-let	2	Progressive_rock
+##########
+%GID:1113
+%LID#0#1113-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	542	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##########
+%GID:1116
+%LID#0#1116-0-Tango_n'_Vectif#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Tango_n'_Vectif
+##########
+%GID:1117
+%LID#1#1117-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	3	264	1
+e	3	65	2
+e	3	75	4
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1118
+%LID#0#1118-2-Paula_Abdul#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	13	ANY
+v	3	8	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Paula_Abdul
+##########
+%GID:1120
+%LID#1#1120-2-Trailerhead:_Triumph#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	2
+e	0	65	4
+e	3	264	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1121
+%LID#1#1121-4-George_Martin#8#8#14
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	6	4
+#Condition
+%X
+eq-let	2	No_Place_to_Run
+%Y
+eq-let	4	George_Martin
+##########
+%GID:1124
+%LID#1#1124-3-Rock_music#7#7#30
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+eq-let	3	World_music
+%Y
+eq-let	2	Rock_music
+##########
+%GID:1125
+%LID#0#1125-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	4
+e	2	65	3
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:1126
+%LID#0#1126-4-Mercury_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##########
+%GID:1129
+%LID#0#1129-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:1131
+%LID#0#1131-1-Immediate_Music#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:1132
+%LID#0#1132-1-Immediate_Music#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:1133
+%LID#1#1133-2-Trailerhead#8#8#58
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	3	65	4
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1134
+%LID#1#1134-3-Rock_music#6#6#47
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	0	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	3	65	4
+#Condition
+%X
+eq-let	4	World_music
+%Y
+eq-let	2	Rock_music
+##########
+%GID:1139
+%LID#1#1139-2-Trailerhead#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	6	2
+e	3	264	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1140
+%LID#1#1140-4-World_music#8#8#39
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Orchestra
+%Y
+eq-let	4	World_music
+##########
+%GID:1142
+%LID#0#1142-3-Stand#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	Stand
+##########
+%GID:1143
+%LID#0#1143-3-Stand#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	Stand
+##########
+%GID:1144
+%LID#1#1144-0-Trailerhead:_Triumph#6#6#35
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+eq-let	4	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1145
+%LID#0#1145-4-Drum_and_bass#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	9	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	4	Drum_and_bass
+##########
+%GID:1152
+%LID#0#1152-1-Immediate_Music#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:1153
+%LID#0#1153-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1154
+%LID#1#1154-2-Trailerhead:_Triumph#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	75	4
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1156
+%LID#0#1156-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1157
+%LID#0#1157-1-25th_Anniversary_Celebration#0#0#8
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+%Y
+eq-let	1	25th_Anniversary_Celebration
+##########
+%GID:1158
+%LID#0#1158-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:1159
+%LID#0#1159-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:1160
+%LID#1#1160-2-Trailerhead:_Triumph#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	3	264	1
+e	3	6	2
+e	3	75	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1163
+%LID#1#1163-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	65	2
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1164
+%LID#0#1164-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	62	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1165
+%LID#1#1165-2-Clairvoyance_(album)#2#2#33
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	2
+e	3	264	1
+e	3	65	4
+#Condition
+%X
+eq-let	4	Garage_rock
+%Y
+eq-let	3	Clairvoyance_(album)
+##########
+%GID:1166
+%LID#1#1166-4-Trailer_music#7#7#25
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Symphonic_rock
+%Y
+eq-let	4	Trailer_music
+##########
+%GID:1167
+%LID#1#1167-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	3	75	4
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1168
+%LID#0#1168-4-Break_from_This_World#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	4	Break_from_This_World
+##########
+%GID:1169
+%LID#0#1169-4-Imperativa_Records#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Imperativa_Records
+##########
+%GID:1171
+%LID#0#1171-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	4	6	3
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:1172
+%LID#0#1172-3-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	2	Imperativa_Records
+##########
+%GID:1173
+%LID#0#1173-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:1177
+%LID#0#1177-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:1179
+%LID#0#1179-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:1180
+%LID#1#1180-3-Trailerhead:_Triumph#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	75	3
+e	2	75	3
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	2	Trailerhead:_Triumph
+##########
+%GID:1181
+%LID#1#1181-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	2
+e	0	75	4
+e	3	264	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1186
+%LID#1#1186-3-Da_Mafan#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	53	ANY
+v	3	53	ANY
+v	4	666	ANY
+e	0	65	1
+e	0	75	4
+e	2	65	1
+e	3	65	1
+#Condition
+%X
+eq-let	3	Bubai_de_Lianren
+%Y
+eq-let	2	Da_Mafan
+##########
+%GID:1189
+%LID#0#1189-4-Mercury_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	4	Mercury_Records
+##########
+%GID:1192
+%LID#0#1192-0-Mandy_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Mandy_(album)
+##########
+%GID:1193
+%LID#0#1193-1-Shut_Up_and_Dance:_Mixes#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	8	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Shut_Up_and_Dance:_Mixes
+##########
+%GID:1194
+%LID#0#1194-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	9	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:1195
+%LID#1#1195-3-Boy_Krazy_(album)#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+eq-let	4	PolyGram
+%Y
+eq-let	2	Boy_Krazy_(album)
+##########
+%GID:1196
+%LID#0#1196-0-Hen_Hen_Ai#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	666	ANY
+e	0	65	1
+e	0	75	4
+e	3	65	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	0	Hen_Hen_Ai
+##########
+%GID:1197
+%LID#0#1197-1-Bohemia#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Bohemia
+##########
+%GID:1198
+%LID#1#1198-4-Terry_Date#7#7#35
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	6	2
+e	0	6	4
+e	3	264	1
+#Condition
+%X
+eq-let	2	Chris_Cornell
+%Y
+eq-let	4	Terry_Date
+##########
+%GID:1200
+%LID#0#1200-4-Break_from_This_World#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	4	75	1
+#Condition
+%X
+%Y
+eq-let	4	Break_from_This_World
+##########
+%GID:1201
+%LID#0#1201-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:1202
+%LID#0#1202-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1203
+%LID#0#1203-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:1204
+%LID#1#1204-3-Rock_music#7#7#37
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	75	2
+e	3	264	1
+e	3	65	2
+#Condition
+%X
+eq-let	-1	Trust_Electricity
+%Y
+eq-let	2	Rock_music
+##########
+%GID:1206
+%LID#1#1206-4-Heavy_metal_music#1#1#15
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+eq-let	2	Covenant_(UFO_album)
+%Y
+eq-let	4	Heavy_metal_music
+##########
+%GID:1211
+%LID#0#1211-1-Rock#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	64	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	53	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	1	Rock
+##########
+%GID:1213
+%LID#1#1213-0-Trailerhead:_Triumph#6#6#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	4
+e	2	6	3
+#Condition
+%X
+eq-let	2	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1215
+%LID#0#1215-0-Trailerhead#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+e	4	6	3
+#Condition
+%X
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:1216
+%LID#0#1216-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:1217
+%LID#0#1217-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	6	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1218
+%LID#0#1218-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:1219
+%LID#1#1219-2-Trailerhead:_Triumph#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	75	2
+e	3	264	1
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1220
+%LID#0#1220-4-Green_Linnet_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	4	Green_Linnet_Records
+##########
+%GID:1221
+%LID#0#1221-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:1222
+%LID#1#1222-3-Quannum_Projects#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	722	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	6	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+eq-let	4	Epitaph_Records
+%Y
+eq-let	2	Quannum_Projects
+##########
+%GID:1225
+%LID#0#1225-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	6	4
+e	2	6	3
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1231
+%LID#0#1231-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:1235
+%LID#1#1235-3-Trailerhead:_Triumph#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	2	Trailerhead:_Triumph
+##########
+%GID:1237
+%LID#0#1237-4-Jeffrey_Fayman#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	6	1
+#Condition
+%X
+%Y
+eq-let	-1	Jeffrey_Fayman
+##########
+%GID:1238
+%LID#0#1238-4-Acumen_Nation#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	9	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	6	4
+#Condition
+%X
+%Y
+eq-let	4	Acumen_Nation
+##########
+%GID:1240
+%LID#0#1240-0-Obsession_(UFO_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Obsession_(UFO_album)
+##########
+%GID:1242
+%LID#0#1242-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##########
+%GID:1243
+%LID#0#1243-1-Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Strong_Hand_of_Love:_A_Tribute_to_Mark_Heard
+##########
+%GID:1244
+%LID#1#1244-4-Oh_World#4#4#17
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+eq-let	2	Clear_(Bomb_the_Bass_album)
+%Y
+eq-let	4	Oh_World
+##########
+%GID:1246
+%LID#0#1246-3-Trust_Electricity#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Trust_Electricity
+##########
+%GID:1248
+%LID#1#1248-3-Symphonic_rock#2#2#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	3	264	1
+e	3	65	2
+e	3	65	4
+#Condition
+%X
+eq-let	4	Trailer_music
+%Y
+eq-let	2	Symphonic_rock
+##########
+%GID:1251
+%LID#0#1251-1-Mandy_Smith#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	4
+e	2	6	3
+#Condition
+%X
+%Y
+eq-let	1	Mandy_Smith
+##########
+%GID:1252
+%LID#0#1252-3-Trust_Electricity#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	2	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Trust_Electricity
+##########
+%GID:1256
+%LID#1#1256-0-Trailerhead:_Triumph#6#6#35
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+eq-let	4	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1258
+%LID#0#1258-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:1259
+%LID#0#1259-4-Media_Factory#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Media_Factory
+##########
+%GID:1260
+%LID#0#1260-3-Stand#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	7	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	Stand
+##########
+%GID:1261
+%LID#0#1261-3-Stand#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	7	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	Stand
+##########
+%GID:1262
+%LID#0#1262-3-Rough_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	2	Rough_(album)
+##########
+%GID:1263
+%LID#0#1263-3-Rough_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	2	Rough_(album)
+##########
+%GID:1268
+%LID#0#1268-4-Hard_rock#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	4	Hard_rock
+##########
+%GID:1272
+%LID#1#1272-2-Trailerhead:_Triumph#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	3	264	1
+e	3	65	2
+e	3	65	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1275
+%LID#0#1275-0-Uncle_Anesthesia#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	8	ANY
+e	0	264	1
+e	0	6	2
+e	0	75	4
+e	3	264	1
+#Condition
+%X
+%Y
+eq-let	0	Uncle_Anesthesia
+##########
+%GID:1276
+%LID#0#1276-3-Acid_jazz#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	Acid_jazz
+##########
+%GID:1277
+%LID#0#1277-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	13	ANY
+v	3	9	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:1278
+%LID#0#1278-3-Trust_Electricity#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	2	Trust_Electricity
+##########
+%GID:1280
+%LID#1#1280-3-Trailer_music#6#6#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	3	65	4
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	2	Trailer_music
+##########
+%GID:1281
+%LID#0#1281-0-Local_Ground#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	5110	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	6	4
+#Condition
+%X
+%Y
+eq-let	0	Local_Ground
+##########
+%GID:1282
+%LID#1#1282-4-Lunatic_Harness#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+eq-let	2	Bilious_Paths
+%Y
+eq-let	4	Lunatic_Harness
+##########
+%GID:1283
+%LID#0#1283-0-Clairvoyance_(album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Clairvoyance_(album)
+##########
+%GID:1286
+%LID#1#1286-3-Grunge#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	3	Neo
+%Y
+eq-let	2	Grunge
+##########
+%GID:1287
+%LID#0#1287-0-Forever_Your_Girl#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Forever_Your_Girl
+##########
+%GID:1288
+%LID#1#1288-3-Progressive_rock#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	4	Trip_rock
+%Y
+eq-let	2	Progressive_rock
+##########
+%GID:1289
+%LID#0#1289-2-Clairvoyance_(album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	8	ANY
+e	0	264	1
+e	0	75	4
+e	3	264	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	Clairvoyance_(album)
+##########
+%GID:1290
+%LID#0#1290-1-Immediate_Music#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:1291
+%LID#0#1291-1-Immediate_Music#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	1	Immediate_Music
+##########
+%GID:1292
+%LID#1#1292-3-Trailerhead#3#3#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	2	Trailerhead
+##########
+%GID:1293
+%LID#1#1293-4-World_music#8#8#39
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Orchestra
+%Y
+eq-let	4	World_music
+##########
+%GID:1294
+%LID#1#1294-3-Trailerhead:_Triumph#2#2#11
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	2	Trailerhead:_Triumph
+##########
+%GID:1296
+%LID#1#1296-2-Electronic_music#2#2#8
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Video_game_music
+%Y
+eq-let	3	Electronic_music
+##########
+%GID:1297
+%LID#0#1297-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	11	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:1299
+%LID#1#1299-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	2
+e	3	264	1
+e	3	75	4
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1300
+%LID#0#1300-4-Imperativa_Records#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Imperativa_Records
+##########
+%GID:1301
+%LID#0#1301-2-Odeon_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	53	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	6	1
+e	0	75	3
+e	2	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	3	Odeon_Records
+##########
+%GID:1302
+%LID#1#1302-3-American_Made_(Wakefield_album)#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+eq-let	4	Arista_Records
+%Y
+eq-let	2	American_Made_(Wakefield_album)
+##########
+%GID:1304
+%LID#0#1304-0-Private_Dancer#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer
+##########
+%GID:1305
+%LID#0#1305-3-Bridge_(Blues_Traveler_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	2	Bridge_(Blues_Traveler_album)
+##########
+%GID:1306
+%LID#0#1306-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##########
+%GID:1307
+%LID#1#1307-0-Trailerhead:_Triumph#6#6#30
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+eq-let	4	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1310
+%LID#1#1310-3-Rock_music#6#6#25
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+eq-let	4	Trust_Electricity
+%Y
+eq-let	2	Rock_music
+##########
+%GID:1311
+%LID#0#1311-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:1312
+%LID#1#1312-3-Londinium_(album)#5#5#17
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+eq-let	4	Alternative_hip_hop
+%Y
+eq-let	2	Londinium_(album)
+##########
+%GID:1313
+%LID#0#1313-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	62	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1314
+%LID#1#1314-4-Electronic_music#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+eq-let	2	Londinium_(album)
+%Y
+eq-let	4	Electronic_music
+##########
+%GID:1316
+%LID#0#1316-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##########
+%GID:1320
+%LID#0#1320-2-World_music#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	32	ANY
+v	2	8	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	3	World_music
+##########
+%GID:1321
+%LID#1#1321-3-Trailer_music#6#6#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	2
+e	3	264	1
+e	3	65	4
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	2	Trailer_music
+##########
+%GID:1325
+%LID#1#1325-3-Rock_music#7#7#30
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+eq-let	3	World_music
+%Y
+eq-let	2	Rock_music
+##########
+%GID:1326
+%LID#0#1326-3-4th_&_B'way_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	264	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	2	4th_&_B'way_Records
+##########
+%GID:1327
+%LID#0#1327-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	6	2
+e	4	6	3
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##########
+%GID:1329
+%LID#0#1329-3-4th_&_B'way_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	2	4th_&_B'way_Records
+##########
+%GID:1332
+%LID#1#1332-0-Trailerhead:_Triumph#6#6#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	2
+e	0	75	4
+e	3	264	1
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1333
+%LID#0#1333-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:1334
+%LID#1#1334-2-Contemporary_R&B#1#1#15
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Dance
+%Y
+eq-let	3	Contemporary_R&B
+##########
+%GID:1335
+%LID#1#1335-4-Pop_music#2#2#14
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	4
+#Condition
+%X
+eq-let	2	Another_Place_and_Time
+%Y
+eq-let	4	Pop_music
+##########
+%GID:1336
+%LID#0#1336-4-Cracknation#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	9	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-let	4	Cracknation
+##########
+%GID:1337
+%LID#0#1337-1-Black_Magic_(Magic_Sam_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Black_Magic_(Magic_Sam_album)
+##########
+%GID:1339
+%LID#1#1339-2-Trailerhead:_Triumph#4#4#8
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	264	1
+e	3	264	1
+e	3	75	2
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1342
+%LID#1#1342-4-Silvertone_Records_(1980)#3#3#12
+#Pattern
+v	0	53	ANY
+v	1	661	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	2	65	3
+e	2	75	4
+#Condition
+%X
+eq-let	2	Living_Proof_(Buddy_Guy_album)
+%Y
+eq-let	4	Silvertone_Records_(1980)
+##########
+%GID:1343
+%LID#0#1343-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	7	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:1344
+%LID#0#1344-0-A_Night_at_the_Met#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	7	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	A_Night_at_the_Met
+##########
+%GID:1348
+%LID#1#1348-2-Trailerhead#7#7#27
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	53	ANY
+e	0	188	1
+e	3	264	1
+e	3	65	2
+e	4	75	1
+#Condition
+%X
+eq-let	0	Trailerhead:_Triumph
+%Y
+eq-let	3	Trailerhead
+##########
+%GID:1349
+%LID#1#1349-2-Electronic_music#3#3#8
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+eq-let	2	Video_game_music
+%Y
+eq-let	3	Electronic_music
+##########
+%GID:1350
+%LID#0#1350-0-Zebra_(Yello_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##########
+%GID:1351
+%LID#1#1351-3-Giorgio_Moroder#5#5#14
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	13	ANY
+v	3	8	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	4	6	2
+#Condition
+%X
+eq-let	4	Flaunt_It_(album)
+%Y
+eq-let	2	Giorgio_Moroder
+##########
+%GID:1355
+%LID#0#1355-4-Imperativa_Records#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Imperativa_Records
+##########
+%GID:1359
+%LID#0#1359-4-Dance#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	7	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	4	Dance
+##########
+%GID:1360
+%LID#1#1360-0-Trailerhead:_Triumph#5#5#15
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	264	1
+e	0	6	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+eq-let	4	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1362
+%LID#1#1362-0-Trailerhead:_Triumph#5#5#29
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	0	ANY
+e	0	264	1
+e	3	264	1
+e	3	6	2
+e	3	65	4
+#Condition
+%X
+eq-let	3	Trailerhead
+%Y
+eq-let	0	Trailerhead:_Triumph
+##########
+%GID:1363
+%LID#1#1363-2-Trailerhead:_Triumph#3#3#11
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	3	264	1
+e	3	6	2
+e	3	65	4
+#Condition
+%X
+eq-let	0	Trailerhead
+%Y
+eq-let	3	Trailerhead:_Triumph
+##########
+%GID:1364
+%LID#1#1364-0-Trailerhead#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	13	ANY
+v	3	53	ANY
+e	0	264	1
+e	0	6	2
+e	3	264	1
+e	3	6	2
+#Condition
+%X
+eq-let	3	Trailerhead:_Triumph
+%Y
+eq-let	0	Trailerhead
+##########
+%GID:1365
+%LID#1#1365-3-Symphonic_rock#2#2#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	65	2
+e	0	65	4
+e	3	264	1
+#Condition
+%X
+eq-let	4	Trailer_music
+%Y
+eq-let	2	Symphonic_rock
+##########
+%GID:1366
+%LID#0#1366-1-Metro#0#0#3
+#Pattern
+v	0	53	ANY
+v	1	425	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Metro
+##########
+%GID:1368
+%LID#0#1368-0-Ghetto_Guide#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	6	1
+e	0	65	3
+e	1	65	2
+e	1	75	4
+#Condition
+%X
+%Y
+eq-let	0	Ghetto_Guide
+##########
+%GID:1369
+%LID#0#1369-2-Yoav_Goren#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	53	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	65	1
+#Condition
+%X
+%Y
+eq-let	3	Yoav_Goren
+##########
+%GID:1371
+%LID#1#1371-3-Symphonic_rock#2#2#33
+#Pattern
+v	0	53	ANY
+v	1	200	ANY
+v	2	1	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	2
+e	0	65	4
+e	3	264	1
+#Condition
+%X
+eq-let	4	Trailer_music
+%Y
+eq-let	2	Symphonic_rock
+##########
+%GID:1372
+%LID#0#1372-1-Screaming_Trees#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	2
+e	3	264	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	1	Screaming_Trees
+##########
+%GID:1373
+%LID#0#1373-1-Screaming_Trees#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	13	ANY
+v	3	53	ANY
+v	4	8	ANY
+e	0	264	1
+e	0	6	2
+e	3	264	1
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	1	Screaming_Trees

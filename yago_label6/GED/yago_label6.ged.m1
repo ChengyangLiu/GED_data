@@ -1,0 +1,43 @@
+##########
+%GID:5
+%LID#0#5-0-<Vitória,_Espírito_Santo>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	14	ANY
+v	2	6	ANY
+e	0	18	1
+e	2	18	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:15
+%LID#0#15-2-<Manyakheta>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	0	ANY
+v	3	6	ANY
+e	0	0	2
+e	1	0	0
+e	3	0	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##########
+%GID:16
+%LID#0#16-2-<http://www.konya.bel.tr>#0#0#0
+#Pattern
+v	0	6	ANY
+v	1	10	ANY
+v	2	6	ANY
+v	3	6	ANY
+e	0	0	2
+e	2	6	1
+e	3	0	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id

@@ -1,0 +1,23 @@
+##############
+%GID:39
+%LID#0#39-1-Philips#0#0#1
+#Pattern
+v	0	62	ANY
+v	1	403	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Philips
+##############
+%GID:42
+%LID#1#42-1-DreamWorks#5#5#14
+#Pattern
+v	0	62	ANY
+v	1	200	ANY
+e	0	75	1
+#Condition
+%X
+eq-let	0	Take_Back_the_Universe_and_Give_Me_Yesterday
+%Y
+eq-let	1	DreamWorks

@@ -1,0 +1,30 @@
+##############
+%GID:5
+%LID#1#5-0-<Alan_Clarke>#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	11	ANY
+v	2	7	ANY
+e	0	27	1
+e	2	27	1
+#Condition
+%X
+eq-let	1	<One_NorthEast>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:53
+%LID#1#53-0-<Laïla_Marrakchi>#3#3#25
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	10	2
+e	2	4	1
+e	3	10	2
+#Condition
+%X
+eq-let	1	<Piranha_3D>
+%Y
+eq-id	0	id	3	id

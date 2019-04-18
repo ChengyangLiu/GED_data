@@ -1,0 +1,512 @@
+##########
+%GID:26
+%LID#1#26-0-Haim_Gouri#3#3#15
+#Pattern
+v	0	7	ANY
+v	1	9	ANY
+v	2	7	ANY
+e	0	20	1
+e	2	20	1
+#Condition
+%X
+eq-let	1	name	Uri_Zvi_Greenberg
+%Y
+eq-id	0	id	2	id
+##########
+%GID:64
+%LID#1#64-1-Christchurch#1#1#15
+#Pattern
+v	0	7	ANY
+v	1	365	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	name	Len_Lye
+%Y
+eq-id	0	id	2	id
+##########
+%GID:89
+%LID#0#89-1-Montreal#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	232	ANY
+v	2	7	ANY
+e	0	39	1
+e	2	39	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:94
+%LID#1#94-0-Nancy_Hower#2#2#15
+#Pattern
+v	0	7	ANY
+v	1	306	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	name	Wyckoff,_New_Jersey
+%Y
+eq-id	0	id	2	id
+##########
+%GID:185
+%LID#1#185-1-Bradley_Beach,_New_Jersey#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	54	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	name	TJ_Lubinsky
+%Y
+eq-id	0	id	2	id
+##########
+%GID:193
+%LID#1#193-1-Newark,_New_Jersey#4#4#14
+#Pattern
+v	0	7	ANY
+v	1	69	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	name	Jason_Alexander
+%Y
+eq-id	0	id	2	id
+##########
+%GID:202
+%LID#1#202-0-Laurence_Trimble#5#5#15
+#Pattern
+v	0	7	ANY
+v	1	79	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	name	Robbinston,_Maine
+%Y
+eq-id	0	id	2	id
+##########
+%GID:220
+%LID#1#220-1-York#7#7#15
+#Pattern
+v	0	7	ANY
+v	1	81	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	name	Judi_Dench
+%Y
+eq-id	0	id	2	id
+##########
+%GID:231
+%LID#1#231-1-Skurup_Municipality#6#6#14
+#Pattern
+v	0	7	ANY
+v	1	260	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	name	Gösta_Werner
+%Y
+eq-id	0	id	2	id
+##########
+%GID:276
+%LID#1#276-0-Hossein_Shahabi#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	10	ANY
+v	2	7	ANY
+e	0	20	1
+e	2	20	1
+#Condition
+%X
+eq-let	1	name	Fajr_International_Film_Festival
+%Y
+eq-id	0	id	2	id
+##########
+%GID:506
+%LID#1#506-0-R._Sarathkumar#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	456	ANY
+v	3	7	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+eq-let	1	name	R._Sarathkumar__1
+%Y
+eq-id	0	id	3	id
+##########
+%GID:699
+%LID#0#699-0-Norman_Foster,_Baron_Foster_of_Thames_Bank#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	15	ANY
+v	2	126	ANY
+v	3	7	ANY
+e	0	20	2
+e	0	20	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##########
+%GID:1148
+%LID#0#1148-2-Karnataka#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	1180	ANY
+v	2	7	ANY
+v	3	19	ANY
+v	4	19	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:1225
+%LID#1#1225-2-Television_presenter#0#0#15
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	7	ANY
+v	3	0	ANY
+v	4	0	ANY
+e	0	16	1
+e	0	21	3
+e	2	21	4
+#Condition
+%X
+eq-let	2	name	Yuri_Mamin
+%Y
+eq-id	3	0
+##########
+%GID:1761
+%LID#1#1761-0-Lucélia_Santos#4#4#29
+#Pattern
+v	0	7	ANY
+v	1	242	ANY
+v	2	242	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	2	name	Film_director
+%Y
+eq-id	1	2
+##########
+%GID:2204
+%LID#1#2204-0-Suzana_Amaral#9#9#29
+#Pattern
+v	0	7	ANY
+v	1	242	ANY
+v	2	242	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+eq-let	2	name	Suzana_Amaral__1
+%Y
+eq-id	1	2
+##########
+%GID:2693
+%LID#0#2693-4-Film_producer#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1015	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+e	2	21	5
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:2790
+%LID#0#2790-1-Palamuse#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	185	ANY
+v	2	97	ANY
+v	3	97	ANY
+v	4	0	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	4
+e	0	39	2
+e	5	39	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:2808
+%LID#0#2808-1-Lahore#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	19	ANY
+v	3	19	ANY
+v	4	13	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	4
+e	0	39	2
+e	5	39	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:2877
+%LID#1#2877-2-Television_presenter#0#0#14
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	7	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	2	21	4
+#Condition
+%X
+eq-let	2	name	Nadirshah
+%Y
+eq-id	3	4
+##########
+%GID:2953
+%LID#0#2953-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	19	ANY
+v	3	19	ANY
+v	4	19	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	16	4
+e	0	39	2
+e	5	39	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:3293
+%LID#1#3293-3-Television_presenter#6#6#15
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+e	5	21	3
+#Condition
+%X
+eq-let	4	name	Shingo_Yamashiro
+%Y
+eq-id	1	2
+##########
+%GID:3825
+%LID#0#3825-0-Tony_Jaa#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	13	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	15	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+e	2	20	5
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:4219
+%LID#0#4219-4-Nagathihalli_Chandrashekhar__1#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1180	ANY
+v	2	7	ANY
+v	3	19	ANY
+v	4	19	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	5
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:4481
+%LID#1#4481-3-Television_presenter#6#6#15
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	5	21	3
+#Condition
+%X
+eq-let	4	name	Shingo_Yamashiro
+%Y
+eq-id	1	2
+##########
+%GID:4518
+%LID#0#4518-0-Chetan_Anand_(director)#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	245	ANY
+v	3	0	ANY
+v	4	15	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	20	4
+e	0	21	3
+e	5	39	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:4955
+%LID#0#4955-4-Film_producer#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	13	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+e	2	21	5
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:5263
+%LID#0#5263-0-Tony_Jaa#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1015	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	15	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+e	2	20	5
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:5560
+%LID#1#5560-2-Columnist#1#1#27
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	7	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	3
+e	2	21	4
+e	2	21	5
+#Condition
+%X
+eq-let	2	name	Khwaja_Ahmad_Abbas
+%Y
+eq-id	3	4
+##########
+%GID:5897
+%LID#1#5897-2-Television_presenter#0#0#14
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	7	ANY
+v	4	0	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	4
+e	3	21	4
+e	5	39	2
+#Condition
+%X
+eq-let	2	name	Nadirshah
+%Y
+eq-id	1	2
+##########
+%GID:6021
+%LID#0#6021-1-Dobroteasa#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	288	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	0	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	4
+e	0	39	2
+e	5	39	3
+#Condition
+%X
+%Y
+eq-id	2	3

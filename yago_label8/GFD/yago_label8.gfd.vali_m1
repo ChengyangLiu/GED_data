@@ -1,0 +1,195 @@
+##############
+%GID:5
+%LID#0#5-1-<Paris_Hilton>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+e	0	5	1
+#Condition
+%X
+%Y
+eq-let	1	<Paris_Hilton>
+##############
+%GID:16
+%LID#0#16-0-<Una_Healy>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	4	ANY
+e	0	10	1
+#Condition
+%X
+%Y
+eq-let	0	<Una_Healy>
+##############
+%GID:18
+%LID#0#18-1-<New_York_Theatre_Workshop>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+e	0	16	1
+#Condition
+%X
+%Y
+eq-let	1	<New_York_Theatre_Workshop>
+##############
+%GID:19
+%LID#0#19-1-<Carlos_Santana>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+e	0	10	1
+#Condition
+%X
+%Y
+eq-let	1	<Carlos_Santana>
+##############
+%GID:22
+%LID#0#22-1-<Binghamton_University>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+e	0	19	1
+#Condition
+%X
+%Y
+eq-let	1	<Binghamton_University>
+##############
+%GID:25
+%LID#0#25-1-<Copenhagen>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+e	0	5	1
+#Condition
+%X
+%Y
+eq-let	1	<Copenhagen>
+##############
+%GID:27
+%LID#0#27-0-<Jim_Allchin>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	11	ANY
+e	0	19	1
+#Condition
+%X
+%Y
+eq-let	0	<Jim_Allchin>
+##############
+%GID:28
+%LID#0#28-0-<Helga_Meyer>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+e	0	21	1
+#Condition
+%X
+%Y
+eq-let	0	<Helga_Meyer>
+##############
+%GID:31
+%LID#0#31-1-<Singapore>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+e	0	3	1
+#Condition
+%X
+%Y
+eq-let	1	<Singapore>
+##############
+%GID:34
+%LID#0#34-1-<McGill_University>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	15	ANY
+e	0	15	1
+#Condition
+%X
+%Y
+eq-let	1	<McGill_University>
+##############
+%GID:35
+%LID#0#35-0-<Joe_Meek>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+e	0	11	1
+#Condition
+%X
+%Y
+eq-let	0	<Joe_Meek>
+##############
+%GID:38
+%LID#0#38-0-<The_Soviet_Story>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	<The_Soviet_Story>
+##############
+%GID:42
+%LID#0#42-0-<Michelle_Stephenson>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+e	0	26	1
+#Condition
+%X
+%Y
+eq-let	0	<Michelle_Stephenson>
+##############
+%GID:50
+%LID#0#50-1-<Copenhagen>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	6	ANY
+e	0	3	2
+e	1	5	2
+#Condition
+%X
+%Y
+eq-let	2	<Copenhagen>
+##############
+%GID:68
+%LID#0#68-2-<Cisco_Houston>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	3	ANY
+e	0	1	2
+e	1	11	0
+#Condition
+%X
+%Y
+eq-let	1	<Cisco_Houston>
+##############
+%GID:71
+%LID#0#71-1-<World_Music_Awards>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	3	ANY
+e	0	1	2
+e	1	10	0
+#Condition
+%X
+%Y
+eq-let	2	<World_Music_Awards>
+##############
+%GID:77
+%LID#0#77-2-<wordnet_guitar_103467517>#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	2	ANY
+v	2	8	ANY
+e	0	11	2
+e	2	23	1
+#Condition
+%X
+%Y
+eq-let	1	<wordnet_guitar_103467517>

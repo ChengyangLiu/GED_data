@@ -1,0 +1,105 @@
+##############
+%GID:2
+%LID#1#2-1-<University_of_Massachusetts_Amherst>#7#7#15
+#Pattern
+v	0	7	ANY
+v	1	11	ANY
+e	0	19	1
+#Condition
+%X
+eq-let	0	<Jonathan_Hensleigh>
+%Y
+eq-let	1	<University_of_Massachusetts_Amherst>
+##############
+%GID:22
+%LID#1#22-1-<Horror_comics>#5#5#15
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+e	0	5	1
+#Condition
+%X
+eq-let	0	<Robert_Tinnell>
+%Y
+eq-let	1	<Horror_comics>
+##############
+%GID:39
+%LID#1#39-1-<Singapore>#4#4#14
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+e	0	14	1
+#Condition
+%X
+eq-let	0	<Cheng_Ding_An>
+%Y
+eq-let	1	<Singapore>
+##############
+%GID:44
+%LID#1#44-0-<Satyen_Bose_(director)>#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	14	ANY
+e	0	3	1
+#Condition
+%X
+eq-let	1	<Mumbai>
+%Y
+eq-let	0	<Satyen_Bose_(director)>
+##############
+%GID:45
+%LID#1#45-1-<The_Croods>#9#9#29
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	0	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	1	<Chris_Sanders_(director)>
+%Y
+eq-let	2	<The_Croods>
+##############
+%GID:63
+%LID#0#63-1-<Hong_Kong>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+e	0	14	2
+e	1	25	2
+#Condition
+%X
+%Y
+eq-let	2	<Hong_Kong>
+##############
+%GID:114
+%LID#1#114-1-<The_Croods>#9#9#29
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	7	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	2	<Chris_Sanders_(director)>
+%Y
+eq-let	1	<The_Croods>
+##############
+%GID:127
+%LID#1#127-2-<Quentin_Lee>#0#0#9
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	14	1
+e	2	25	1
+e	3	14	1
+#Condition
+%X
+eq-let	0	<Peter_Pau>
+%Y
+eq-let	3	<Quentin_Lee>

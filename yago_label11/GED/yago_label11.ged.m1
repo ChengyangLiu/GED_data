@@ -1,0 +1,91 @@
+##########
+%GID:1
+%LID#0#1-1-<Socialist_Party_of_Serbia>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+v	2	11	ANY
+e	0	7	1
+e	2	7	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:2
+%LID#0#2-1-<Chivas_USA>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+v	2	11	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:5
+%LID#0#5-1-<Frankfurt>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	6	ANY
+v	2	11	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:6
+%LID#0#6-1-<Nicomedia>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	6	ANY
+v	2	11	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:7
+%LID#0#7-0-<Thomas_Aquinas>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	2	ANY
+v	2	11	ANY
+e	0	11	1
+e	2	11	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:12
+%LID#0#12-1-<Spanish_colonial_real>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	33	1
+e	2	33	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:13
+%LID#0#13-1-<Sedang_language>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	35	1
+e	2	35	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

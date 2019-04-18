@@ -1,0 +1,45 @@
+%GID:58
+%LID#1#58-1-<Grand_Casablanca>#430#430#1715
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<de/Casablanca_(Provinz)>
+%Y
+eq-let	1	<Grand_Casablanca>
+##########
+%GID:60
+%LID#1#60-1-<Eastern_Europe>#196#196#6662
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Principality_of_Kiev>
+%Y
+eq-let	1	<Eastern_Europe>
+##########
+%GID:61
+%LID#0#61-1-<Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	0	0
+e	3	0	0
+#Condition
+%X
+%Y
+eq-let	1	<Germany>
+##########

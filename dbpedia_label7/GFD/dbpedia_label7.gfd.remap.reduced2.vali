@@ -1,0 +1,5878 @@
+##############
+%GID:1194
+%LID#0#1194-2-Robert_Cuffley#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	19	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	39	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	3	Robert_Cuffley
+##############
+%GID:1195
+%LID#1#1195-2-John_Poliquin__1#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	749	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Film_director
+%Y
+eq-let	3	John_Poliquin__1
+##############
+%GID:1196
+%LID#0#1196-2-Professor#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	732	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	20	1
+e	0	21	3
+e	2	21	3
+#Condition
+%X
+%Y
+eq-let	3	Professor
+##############
+%GID:1197
+%LID#0#1197-0-John_Poliquin#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	749	ANY
+v	2	0	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	John_Poliquin
+##############
+%GID:1199
+%LID#0#1199-3-Gustavo_González_Hernández#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	84	ANY
+v	2	7	ANY
+v	3	85	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	2	Gustavo_González_Hernández
+##############
+%GID:1201
+%LID#0#1201-3-Saint_Elizabeth_Parish#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1043	ANY
+v	2	1043	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Saint_Elizabeth_Parish
+##############
+%GID:1202
+%LID#0#1202-0-Edwin_Coubray#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	770	ANY
+v	2	7	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	0	Edwin_Coubray
+##############
+%GID:1203
+%LID#0#1203-3-Boots_Plata#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	583	ANY
+v	2	7	ANY
+v	3	55	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	2	Boots_Plata
+##############
+%GID:1204
+%LID#0#1204-2-Arthur_Hoyt__1#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	261	ANY
+v	2	33	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Arthur_Hoyt__1
+##############
+%GID:1205
+%LID#0#1205-1-Wakuya,_Miyagi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	382	ANY
+v	2	133	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Wakuya,_Miyagi
+##############
+%GID:1206
+%LID#0#1206-1-Roberto_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	77	ANY
+v	3	0	ANY
+e	0	20	1
+e	1	21	3
+e	1	39	2
+#Condition
+%X
+%Y
+eq-let	1	Roberto_Rossellini
+##############
+%GID:1209
+%LID#0#1209-1-Fenyang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	267	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Fenyang
+##############
+%GID:1211
+%LID#0#1211-2-Mahmoud_Shoolizadeh#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	55	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	20	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-let	3	Mahmoud_Shoolizadeh
+##############
+%GID:1212
+%LID#0#1212-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	0	ANY
+v	3	6	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1216
+%LID#0#1216-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	8	ANY
+v	3	6	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1217
+%LID#1#1217-0-Victor_Iliu#6#6#25
+#Pattern
+v	0	7	ANY
+v	1	1135	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	3	Mircea_Mureșan
+%Y
+eq-let	0	Victor_Iliu
+##############
+%GID:1221
+%LID#0#1221-1-Davao_City#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	7	ANY
+v	3	6	ANY
+e	0	16	1
+e	0	21	3
+e	2	21	3
+#Condition
+%X
+%Y
+eq-let	1	Davao_City
+##############
+%GID:1223
+%LID#0#1223-3-Film_producer#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	2	Film_producer
+##############
+%GID:1224
+%LID#0#1224-1-Atar,_Mauritania#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1331	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Atar,_Mauritania
+##############
+%GID:1225
+%LID#1#1225-2-Television_presenter#0#0#15
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	7	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	2	21	3
+#Condition
+%X
+eq-let	2	Yuri_Mamin
+%Y
+eq-let	3	Television_presenter
+##############
+%GID:1226
+%LID#0#1226-0-Dev_Anand#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	19	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Dev_Anand
+##############
+%GID:1227
+%LID#0#1227-1-Victoria_Cross#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	218	ANY
+v	3	7	ANY
+e	0	20	1
+e	0	39	2
+e	3	20	1
+#Condition
+%X
+%Y
+eq-let	1	Victoria_Cross
+##############
+%GID:1230
+%LID#0#1230-1-Fenyang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	267	ANY
+v	2	1	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Fenyang
+##############
+%GID:1231
+%LID#0#1231-2-Professor#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	22	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	21	1
+e	0	21	3
+e	2	21	3
+#Condition
+%X
+%Y
+eq-let	3	Professor
+##############
+%GID:1232
+%LID#1#1232-2-Film_director#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Rithy_Panh__1
+%Y
+eq-let	3	Film_director
+##############
+%GID:1234
+%LID#0#1234-1-Hua'an_County#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	466	ANY
+v	2	262	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Hua'an_County
+##############
+%GID:1236
+%LID#0#1236-0-Michael_Landon#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	384	ANY
+v	2	7	ANY
+v	3	107	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	0	Michael_Landon
+##############
+%GID:1237
+%LID#0#1237-0-Sinn_Sisamouth#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Sinn_Sisamouth
+##############
+%GID:1239
+%LID#0#1239-1-Penang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	494	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Penang
+##############
+%GID:1240
+%LID#0#1240-0-Tariq_Nasheed#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	122	ANY
+v	2	8	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Tariq_Nasheed
+##############
+%GID:1241
+%LID#0#1241-0-John_Paul_Lederach#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	732	ANY
+v	2	7	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	John_Paul_Lederach
+##############
+%GID:1242
+%LID#0#1242-1-Yorkton#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	470	ANY
+v	2	2	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Yorkton
+##############
+%GID:1244
+%LID#0#1244-1-Isfahan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	7	ANY
+e	0	20	1
+e	0	20	2
+e	3	20	1
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##############
+%GID:1245
+%LID#0#1245-0-Mahmoud_Shoolizadeh#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	0	ANY
+v	3	6	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Mahmoud_Shoolizadeh
+##############
+%GID:1246
+%LID#0#1246-1-Isfahan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	6	ANY
+v	3	7	ANY
+e	0	20	1
+e	0	20	2
+e	3	20	1
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##############
+%GID:1248
+%LID#0#1248-2-Noora#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	8	ANY
+v	3	6	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Noora
+##############
+%GID:1251
+%LID#0#1251-1-New_Trenton,_Indiana#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	74	ANY
+v	2	27	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	New_Trenton,_Indiana
+##############
+%GID:1252
+%LID#0#1252-0-Brian_De_Palma#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	69	ANY
+v	2	9	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	0	Brian_De_Palma
+##############
+%GID:1255
+%LID#0#1255-1-Saint_Mary_Parish,_Jamaica#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1043	ANY
+v	2	2	ANY
+v	3	3347	ANY
+e	0	16	1
+e	0	16	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Saint_Mary_Parish,_Jamaica
+##############
+%GID:1256
+%LID#0#1256-2-Estonia#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	185	ANY
+v	2	8	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	3	Estonia
+##############
+%GID:1257
+%LID#0#1257-1-Hollywood_Boulevard#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	19	ANY
+v	2	20	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Hollywood_Boulevard
+##############
+%GID:1258
+%LID#0#1258-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	55	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1261
+%LID#1#1261-2-Brian_De_Palma#2#2#29
+#Pattern
+v	0	7	ANY
+v	1	69	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	0	Jason_Alexander
+%Y
+eq-let	3	Brian_De_Palma
+##############
+%GID:1263
+%LID#0#1263-2-Parviz_Shahbazi#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	15	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	20	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-let	3	Parviz_Shahbazi
+##############
+%GID:1264
+%LID#0#1264-1-Jinzhou#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	291	ANY
+v	2	0	ANY
+v	3	6	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Jinzhou
+##############
+%GID:1265
+%LID#0#1265-2-Cecil_B._DeMille__1#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	79	ANY
+v	2	19	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Cecil_B._DeMille__1
+##############
+%GID:1267
+%LID#0#1267-1-Newark,_New_Jersey#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	69	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	1	Newark,_New_Jersey
+##############
+%GID:1268
+%LID#0#1268-1-São_Paulo_(state)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	242	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+%Y
+eq-let	1	São_Paulo_(state)
+##############
+%GID:1270
+%LID#0#1270-3-Mumbai#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	55	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-let	2	Mumbai
+##############
+%GID:1271
+%LID#0#1271-0-Sinn_Sisamouth#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	623	ANY
+v	3	1108	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Sinn_Sisamouth
+##############
+%GID:1273
+%LID#1#1273-2-Film_director#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	3347	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Perry_Henzell__1
+%Y
+eq-let	3	Film_director
+##############
+%GID:1275
+%LID#1#1275-2-Vladan_Slijepčević#7#7#37
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	2	Vladan_Slijepčević__1
+%Y
+eq-let	3	Vladan_Slijepčević
+##############
+%GID:1276
+%LID#1#1276-2-Donald_Farmer#2#2#6
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+e	0	20	1
+e	2	20	1
+#Condition
+%X
+eq-let	0	Joseph_Maxwell
+%Y
+eq-let	2	Donald_Farmer
+##############
+%GID:1281
+%LID#0#1281-0-Theodor_Luts#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	185	ANY
+v	2	2	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Theodor_Luts
+##############
+%GID:1282
+%LID#0#1282-2-Playwright#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Playwright
+##############
+%GID:1283
+%LID#0#1283-2-Bruneck#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	7	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	3	Bruneck
+##############
+%GID:1285
+%LID#0#1285-1-Denver#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	261	ANY
+v	2	7	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:1286
+%LID#0#1286-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	15	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1287
+%LID#1#1287-2-Actor#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Faruk_Sokolović__1
+%Y
+eq-let	3	Actor
+##############
+%GID:1288
+%LID#0#1288-2-Tokyo#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	591	ANY
+v	2	59	ANY
+v	3	133	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Tokyo
+##############
+%GID:1290
+%LID#1#1290-0-Cecil_B._DeMille#5#5#29
+#Pattern
+v	0	7	ANY
+v	1	79	ANY
+v	2	33	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+eq-let	1	Ashfield,_Massachusetts
+%Y
+eq-let	0	Cecil_B._DeMille
+##############
+%GID:1291
+%LID#0#1291-1-Delhi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	13	ANY
+v	3	456	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Delhi
+##############
+%GID:1292
+%LID#1#1292-2-Film_director#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	964	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Ruhul_Amin__1
+%Y
+eq-let	3	Film_director
+##############
+%GID:1293
+%LID#0#1293-3-Singing#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	494	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	2	Singing
+##############
+%GID:1295
+%LID#0#1295-2-Sudeep#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	862	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	Sudeep
+##############
+%GID:1296
+%LID#0#1296-0-Paul_Hurst_(actor)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	167	ANY
+v	2	33	ANY
+v	3	27	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Paul_Hurst_(actor)
+##############
+%GID:1297
+%LID#0#1297-1-Lahore#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	13	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Lahore
+##############
+%GID:1300
+%LID#0#1300-0-Wim_Umboh#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	207	ANY
+v	2	19	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Wim_Umboh
+##############
+%GID:1303
+%LID#0#1303-0-Ken_Russell#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	91	ANY
+v	2	19	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Ken_Russell
+##############
+%GID:1305
+%LID#0#1305-1-Isfahan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	6	ANY
+v	3	55	ANY
+e	0	20	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##############
+%GID:1306
+%LID#0#1306-0-Lino_Brocka#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	583	ANY
+v	2	7	ANY
+v	3	145	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	0	Lino_Brocka
+##############
+%GID:1307
+%LID#0#1307-1-Seoul#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	562	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Seoul
+##############
+%GID:1308
+%LID#0#1308-1-Isfahan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	55	ANY
+e	0	20	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##############
+%GID:1309
+%LID#0#1309-2-Bill_Hutton#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	3	Bill_Hutton
+##############
+%GID:1310
+%LID#0#1310-0-Dev_Anand#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	Dev_Anand
+##############
+%GID:1311
+%LID#0#1311-3-Iran#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	2	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	16	2
+#Condition
+%X
+%Y
+eq-let	2	Iran
+##############
+%GID:1314
+%LID#0#1314-2-Bahman_Farmanara#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	22	2
+#Condition
+%X
+%Y
+eq-let	3	Bahman_Farmanara
+##############
+%GID:1319
+%LID#0#1319-2-Asghar_Farhadi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	22	2
+#Condition
+%X
+%Y
+eq-let	3	Asghar_Farhadi
+##############
+%GID:1320
+%LID#0#1320-2-Bill_Hutton#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	3	Bill_Hutton
+##############
+%GID:1321
+%LID#0#1321-2-Iran#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	3	Iran
+##############
+%GID:1322
+%LID#0#1322-1-Lahore#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Lahore
+##############
+%GID:1323
+%LID#0#1323-1-Isfahan_Province#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	0	ANY
+v	3	1487	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Isfahan_Province
+##############
+%GID:1325
+%LID#0#1325-1-Penang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	494	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+%Y
+eq-let	1	Penang
+##############
+%GID:1326
+%LID#0#1326-1-Kiev#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	612	ANY
+v	2	2	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Kiev
+##############
+%GID:1327
+%LID#0#1327-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	2	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	39	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1331
+%LID#0#1331-1-Denver#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	261	ANY
+v	2	72	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	39	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:1332
+%LID#0#1332-2-Brian_Haw#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	8	ANY
+v	3	9	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Brian_Haw
+##############
+%GID:1333
+%LID#0#1333-1-Harrison,_New_Jersey#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	481	ANY
+v	2	7	ANY
+v	3	69	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	1	Harrison,_New_Jersey
+##############
+%GID:1336
+%LID#1#1336-2-Servando_González__1#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	1017	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Film_director
+%Y
+eq-let	3	Servando_González__1
+##############
+%GID:1337
+%LID#0#1337-1-Roberto_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	20	1
+e	1	21	3
+e	1	21	2
+#Condition
+%X
+%Y
+eq-let	1	Roberto_Rossellini
+##############
+%GID:1338
+%LID#0#1338-3-Film_producer#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	13	ANY
+v	3	55	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	2	Film_producer
+##############
+%GID:1339
+%LID#0#1339-0-Tony_Jaa#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	13	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	0	Tony_Jaa
+##############
+%GID:1341
+%LID#0#1341-2-Girish_Kasaravalli#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	862	ANY
+v	2	9	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	22	2
+#Condition
+%X
+%Y
+eq-let	3	Girish_Kasaravalli
+##############
+%GID:1344
+%LID#0#1344-1-Delhi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Delhi
+##############
+%GID:1346
+%LID#0#1346-3-Film_producer#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	13	ANY
+v	3	6	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	2	Film_producer
+##############
+%GID:1347
+%LID#0#1347-2-Brian_Haw#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	0	ANY
+v	3	9	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Brian_Haw
+##############
+%GID:1349
+%LID#0#1349-2-Brian_Haw#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	13	ANY
+v	3	9	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Brian_Haw
+##############
+%GID:1351
+%LID#0#1351-2-Lino_Brocka#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	55	ANY
+v	3	7	ANY
+e	0	39	1
+e	3	39	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-let	3	Lino_Brocka
+##############
+%GID:1352
+%LID#0#1352-3-Film_producer#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	23	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	2	Film_producer
+##############
+%GID:1354
+%LID#0#1354-2-Iran#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	3	Iran
+##############
+%GID:1355
+%LID#1#1355-2-Albert_Londres#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	20	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+eq-let	2	Amerigo_Vespucci
+%Y
+eq-let	3	Albert_Londres
+##############
+%GID:1356
+%LID#0#1356-0-Sinn_Sisamouth#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Sinn_Sisamouth
+##############
+%GID:1359
+%LID#0#1359-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1360
+%LID#0#1360-1-Antipolo#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	0	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Antipolo
+##############
+%GID:1361
+%LID#0#1361-1-Salzburg_(state)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	377	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Salzburg_(state)
+##############
+%GID:1362
+%LID#0#1362-2-Iran#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	3	Iran
+##############
+%GID:1373
+%LID#0#1373-1-University_of_Notre_Dame#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	331	ANY
+v	2	7	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	University_of_Notre_Dame
+##############
+%GID:1374
+%LID#0#1374-2-Aksella_Luts#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	185	ANY
+v	2	2	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Aksella_Luts
+##############
+%GID:1375
+%LID#1#1375-1-Isfahan_Province#3#3#33
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+eq-let	0	Asghar_Farhadi
+%Y
+eq-let	1	Isfahan_Province
+##############
+%GID:1376
+%LID#0#1376-1-Yorkton#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	470	ANY
+v	2	2	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Yorkton
+##############
+%GID:1377
+%LID#1#1377-2-Daniel_Bergman#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	260	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	16	1
+e	2	39	1
+e	3	16	1
+#Condition
+%X
+eq-let	0	Simon_Kaijser_da_Silva
+%Y
+eq-let	3	Daniel_Bergman
+##############
+%GID:1378
+%LID#0#1378-2-Bill_Hutton#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	152	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-let	3	Bill_Hutton
+##############
+%GID:1380
+%LID#0#1380-2-Rithy_Panh#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	15	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-let	3	Rithy_Panh
+##############
+%GID:1381
+%LID#0#1381-2-Vijay_Anand_(Hindi_film_maker)#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	15	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-let	3	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1382
+%LID#0#1382-0-Rokurō_Mochizuki#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	59	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	16	1
+e	2	39	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	0	Rokurō_Mochizuki
+##############
+%GID:1383
+%LID#0#1383-2-Mumbai#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	93	ANY
+v	2	7	ANY
+v	3	55	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	3	Mumbai
+##############
+%GID:1385
+%LID#0#1385-1-Jerusalem#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	104	ANY
+v	2	9	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Jerusalem
+##############
+%GID:1387
+%LID#0#1387-1-Hong_Kong#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	21	1
+e	2	39	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	1	Hong_Kong
+##############
+%GID:1388
+%LID#0#1388-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	2	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	16	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1389
+%LID#0#1389-1-Davao_City#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Davao_City
+##############
+%GID:1390
+%LID#0#1390-2-Davison,_Michigan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	122	ANY
+v	2	13	ANY
+v	3	5	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Davison,_Michigan
+##############
+%GID:1391
+%LID#0#1391-0-Brian_De_Palma#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	69	ANY
+v	2	13	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	0	Brian_De_Palma
+##############
+%GID:1393
+%LID#0#1393-1-Saint_Mary_Parish,_Jamaica#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1043	ANY
+v	2	11	ANY
+v	3	1043	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Saint_Mary_Parish,_Jamaica
+##############
+%GID:1398
+%LID#0#1398-1-Bhanga_Upazila#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1730	ANY
+v	2	19	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Bhanga_Upazila
+##############
+%GID:1400
+%LID#0#1400-2-Film_director#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	267	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Film_director
+##############
+%GID:1403
+%LID#0#1403-2-Ken_Russell__1#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	91	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	3	Ken_Russell__1
+##############
+%GID:1405
+%LID#0#1405-3-Iran#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	2	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	16	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	2	Iran
+##############
+%GID:1407
+%LID#0#1407-2-Mahmoud_Shoolizadeh#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	20	1
+e	3	20	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	Mahmoud_Shoolizadeh
+##############
+%GID:1410
+%LID#0#1410-1-Roberto_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	77	ANY
+v	3	9	ANY
+e	0	20	1
+e	1	22	3
+e	1	39	2
+#Condition
+%X
+%Y
+eq-let	1	Roberto_Rossellini
+##############
+%GID:1411
+%LID#0#1411-0-Balu_Mahendra#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	0	Balu_Mahendra
+##############
+%GID:1413
+%LID#0#1413-3-Avraham_Heffner#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	104	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	2	Avraham_Heffner
+##############
+%GID:1415
+%LID#0#1415-2-Brian_Haw#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	13	ANY
+v	3	9	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Brian_Haw
+##############
+%GID:1417
+%LID#0#1417-3-Film_producer#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	13	ANY
+v	3	6	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	2	Film_producer
+##############
+%GID:1422
+%LID#1#1422-2-Faruk_Sokolović#0#0#14
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	2	Actor
+%Y
+eq-let	3	Faruk_Sokolović
+##############
+%GID:1423
+%LID#0#1423-2-Mahmoud_Shoolizadeh#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	6	ANY
+v	3	7	ANY
+e	0	20	1
+e	3	20	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-let	3	Mahmoud_Shoolizadeh
+##############
+%GID:1425
+%LID#0#1425-1-Sarajevo#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	1	Sarajevo
+##############
+%GID:1428
+%LID#0#1428-2-Mahmoud_Shoolizadeh#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	9	ANY
+v	3	7	ANY
+e	0	20	1
+e	3	20	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-let	3	Mahmoud_Shoolizadeh
+##############
+%GID:1429
+%LID#0#1429-1-South_Tyrol#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	8	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	South_Tyrol
+##############
+%GID:1433
+%LID#0#1433-3-Film_producer#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1109	ANY
+v	2	13	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	2	Film_producer
+##############
+%GID:1434
+%LID#0#1434-0-Bahman_Farmanara#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Bahman_Farmanara
+##############
+%GID:1435
+%LID#0#1435-1-Fajr_International_Film_Festival#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	10	ANY
+v	2	0	ANY
+v	3	11	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Fajr_International_Film_Festival
+##############
+%GID:1436
+%LID#0#1436-1-Annotto_Bay#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	3347	ANY
+v	2	1043	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Annotto_Bay
+##############
+%GID:1437
+%LID#0#1437-3-Abraham_Lincoln#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	23	ANY
+v	2	7	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	2	Abraham_Lincoln
+##############
+%GID:1438
+%LID#0#1438-1-Isfahan_Province#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	0	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Isfahan_Province
+##############
+%GID:1440
+%LID#1#1440-0-Apichatpong_Weerasethakul#6#6#14
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Apichatpong_Weerasethakul__1
+%Y
+eq-let	0	Apichatpong_Weerasethakul
+##############
+%GID:1442
+%LID#0#1442-0-Michal_Aviad#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	104	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	Michal_Aviad
+##############
+%GID:1444
+%LID#0#1444-3-Beijing#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	291	ANY
+v	2	262	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Beijing
+##############
+%GID:1449
+%LID#0#1449-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	7	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1450
+%LID#0#1450-0-Michal_Aviad#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	104	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Michal_Aviad
+##############
+%GID:1455
+%LID#1#1455-2-Film_director#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	1043	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Perry_Henzell__1
+%Y
+eq-let	3	Film_director
+##############
+%GID:1458
+%LID#1#1458-3-Dev_Anand__1#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Film_director
+%Y
+eq-let	2	Dev_Anand__1
+##############
+%GID:1460
+%LID#1#1460-2-Qin_Hao#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	295	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	22	3
+e	0	22	2
+#Condition
+%X
+eq-let	2	Harlem_Yu
+%Y
+eq-let	3	Qin_Hao
+##############
+%GID:1461
+%LID#0#1461-0-Bill_Hutton#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	0	Bill_Hutton
+##############
+%GID:1462
+%LID#0#1462-0-John_Stewart_Muller#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	23	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	John_Stewart_Muller
+##############
+%GID:1463
+%LID#0#1463-1-Tehran#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	7	ANY
+v	3	13	ANY
+e	0	20	1
+e	0	21	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	Tehran
+##############
+%GID:1465
+%LID#0#1465-0-Robin_Bain#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	457	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Robin_Bain
+##############
+%GID:1466
+%LID#0#1466-0-Aditya_Assarat#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Aditya_Assarat
+##############
+%GID:1467
+%LID#0#1467-2-Robert_Cuffley#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	Robert_Cuffley
+##############
+%GID:1468
+%LID#1#1468-0-Can_Dündar#4#4#14
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	7	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	2	39	1
+#Condition
+%X
+eq-let	3	Can_Dündar__1
+%Y
+eq-let	0	Can_Dündar
+##############
+%GID:1469
+%LID#0#1469-1-South_Tyrol#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	South_Tyrol
+##############
+%GID:1470
+%LID#0#1470-1-Quezon_City#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	16	1
+e	2	39	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	1	Quezon_City
+##############
+%GID:1473
+%LID#0#1473-0-Roman_Kroitor#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	470	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Roman_Kroitor
+##############
+%GID:1474
+%LID#0#1474-3-Suzanna_Love#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	286	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	2	Suzanna_Love
+##############
+%GID:1475
+%LID#0#1475-1-Bhanga_Upazila#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1730	ANY
+v	2	1730	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Bhanga_Upazila
+##############
+%GID:1476
+%LID#0#1476-3-Raadhika_Sarathkumar#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	22	2
+#Condition
+%X
+%Y
+eq-let	2	Raadhika_Sarathkumar
+##############
+%GID:1477
+%LID#0#1477-0-Albert_Brooks#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	40	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	16	1
+e	2	39	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	0	Albert_Brooks
+##############
+%GID:1478
+%LID#0#1478-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	2	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1480
+%LID#0#1480-2-Estonia#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	185	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	3	Estonia
+##############
+%GID:1481
+%LID#0#1481-1-Sarajevo#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	1	Sarajevo
+##############
+%GID:1482
+%LID#0#1482-1-Zagreb#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	264	ANY
+v	2	7	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	Zagreb
+##############
+%GID:1483
+%LID#1#1483-2-Martin_Kratt#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	306	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	0	Chris_Kratt
+%Y
+eq-let	3	Martin_Kratt
+##############
+%GID:1487
+%LID#0#1487-2-Davison,_Michigan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	122	ANY
+v	2	8	ANY
+v	3	5	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Davison,_Michigan
+##############
+%GID:1488
+%LID#0#1488-2-Miyoko_Akaza#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	591	ANY
+v	2	133	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Miyoko_Akaza
+##############
+%GID:1489
+%LID#0#1489-0-Aditya_Assarat#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Aditya_Assarat
+##############
+%GID:1490
+%LID#0#1490-1-South_Tyrol#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	South_Tyrol
+##############
+%GID:1494
+%LID#1#1494-3-Pablo_Ferro__1#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	910	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Graphic_designer
+%Y
+eq-let	2	Pablo_Ferro__1
+##############
+%GID:1495
+%LID#0#1495-1-Penang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	494	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Penang
+##############
+%GID:1496
+%LID#0#1496-0-Rattana_Pestonji#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	15	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	20	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	Rattana_Pestonji
+##############
+%GID:1497
+%LID#0#1497-3-Raadhika_Sarathkumar#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	2	Raadhika_Sarathkumar
+##############
+%GID:1498
+%LID#0#1498-1-Hollywood_Walk_of_Fame#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1008	ANY
+v	2	20	ANY
+v	3	6	ANY
+e	0	20	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Hollywood_Walk_of_Fame
+##############
+%GID:1500
+%LID#0#1500-1-Atar,_Mauritania#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1331	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Atar,_Mauritania
+##############
+%GID:1501
+%LID#0#1501-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1502
+%LID#0#1502-2-Lester_James_Peries__1#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	471	ANY
+v	2	7	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	3	Lester_James_Peries__1
+##############
+%GID:1503
+%LID#0#1503-3-Nagathihalli_Chandrashekhar__1#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1180	ANY
+v	2	0	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	2	Nagathihalli_Chandrashekhar__1
+##############
+%GID:1506
+%LID#0#1506-0-Nancy_Hower#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	306	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Nancy_Hower
+##############
+%GID:1509
+%LID#0#1509-0-Theodor_Luts#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	185	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	0	Theodor_Luts
+##############
+%GID:1511
+%LID#0#1511-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	2	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	39	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1513
+%LID#0#1513-2-Isabella_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	384	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	22	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	3	Isabella_Rossellini
+##############
+%GID:1514
+%LID#0#1514-3-United_States#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	351	ANY
+v	2	2	ANY
+v	3	107	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:1515
+%LID#0#1515-2-Screenwriter#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	9	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	3	Screenwriter
+##############
+%GID:1517
+%LID#0#1517-0-Tony_Jaa#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	13	ANY
+v	2	2	ANY
+v	3	1476	ANY
+e	0	16	1
+e	0	16	3
+e	0	16	2
+#Condition
+%X
+%Y
+eq-let	0	Tony_Jaa
+##############
+%GID:1518
+%LID#0#1518-2-Rithy_Panh#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	Rithy_Panh
+##############
+%GID:1521
+%LID#0#1521-0-Dev_Anand#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	19	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-let	0	Dev_Anand
+##############
+%GID:1522
+%LID#1#1522-0-Vijay_Anand_(Hindi_film_maker)#0#0#15
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	19	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	39	2
+#Condition
+%X
+eq-let	3	Punjab_region
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1523
+%LID#0#1523-1-Ramat_Gan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	157	ANY
+v	2	7	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Ramat_Gan
+##############
+%GID:1524
+%LID#0#1524-1-Hollywood_Boulevard#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	19	ANY
+v	2	9	ANY
+v	3	6	ANY
+e	0	20	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Hollywood_Boulevard
+##############
+%GID:1525
+%LID#0#1525-1-Yorkton#0#0#9
+#Pattern
+v	0	7	ANY
+v	1	470	ANY
+v	2	2	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Yorkton
+##############
+%GID:1526
+%LID#0#1526-0-Dev_Anand#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	19	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Dev_Anand
+##############
+%GID:1529
+%LID#0#1529-1-Metz#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	276	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	1	Metz
+##############
+%GID:1531
+%LID#0#1531-2-Claude_Santelli#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	276	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	Claude_Santelli
+##############
+%GID:1533
+%LID#0#1533-1-Harrison,_New_Jersey#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	481	ANY
+v	2	0	ANY
+v	3	69	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Harrison,_New_Jersey
+##############
+%GID:1535
+%LID#0#1535-0-Sinn_Sisamouth#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	623	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Sinn_Sisamouth
+##############
+%GID:1536
+%LID#0#1536-0-Dara_Singh#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1472	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Dara_Singh
+##############
+%GID:1538
+%LID#0#1538-2-R._Sarathkumar#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	456	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-let	3	R._Sarathkumar
+##############
+%GID:1539
+%LID#0#1539-0-Nanni_Moretti#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	7	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	0	Nanni_Moretti
+##############
+%GID:1543
+%LID#0#1543-0-Asghar_Farhadi#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	7	ANY
+v	3	1487	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	0	Asghar_Farhadi
+##############
+%GID:1544
+%LID#0#1544-1-Dartmouth_College#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	60	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Dartmouth_College
+##############
+%GID:1545
+%LID#0#1545-0-Mauro_Mueller#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	142	ANY
+v	2	7	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	0	Mauro_Mueller
+##############
+%GID:1546
+%LID#0#1546-1-Lahore#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	7	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	Lahore
+##############
+%GID:1548
+%LID#0#1548-3-Iran#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	2	ANY
+v	3	1487	ANY
+e	0	16	1
+e	0	16	3
+e	0	16	2
+#Condition
+%X
+%Y
+eq-let	2	Iran
+##############
+%GID:1552
+%LID#0#1552-1-Wakuya,_Miyagi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	382	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Wakuya,_Miyagi
+##############
+%GID:1556
+%LID#0#1556-2-Noora#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	7	ANY
+v	3	6	ANY
+e	0	20	1
+e	0	20	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	3	Noora
+##############
+%GID:1558
+%LID#0#1558-3-Marge_Champion#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1008	ANY
+v	2	9	ANY
+v	3	6	ANY
+e	0	20	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	2	Marge_Champion
+##############
+%GID:1561
+%LID#0#1561-3-Jafar_Panahi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	7	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	2	20	3
+#Condition
+%X
+%Y
+eq-let	2	Jafar_Panahi
+##############
+%GID:1563
+%LID#0#1563-1-Bangkok#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	7	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	Bangkok
+##############
+%GID:1564
+%LID#0#1564-1-Umeå_University#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	310	ANY
+v	2	385	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Umeå_University
+##############
+%GID:1565
+%LID#0#1565-1-Dobroteasa#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	288	ANY
+v	2	19	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Dobroteasa
+##############
+%GID:1567
+%LID#1#1567-0-Bahman_Farmanara#6#6#33
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	20	1
+#Condition
+%X
+eq-let	2	Film_director
+%Y
+eq-let	0	Bahman_Farmanara
+##############
+%GID:1568
+%LID#0#1568-0-Boots_Plata#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	55	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	39	2
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	0	Boots_Plata
+##############
+%GID:1570
+%LID#0#1570-3-Film_producer#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	862	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	2	Film_producer
+##############
+%GID:1573
+%LID#0#1573-1-Isfahan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##############
+%GID:1574
+%LID#1#1574-0-Vladan_Slijepčević#1#1#15
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+eq-let	3	Milcho_Manchevski
+%Y
+eq-let	0	Vladan_Slijepčević
+##############
+%GID:1576
+%LID#1#1576-0-Milcho_Manchevski#4#4#13
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Milcho_Manchevski__1
+%Y
+eq-let	0	Milcho_Manchevski
+##############
+%GID:1578
+%LID#0#1578-3-Raadhika_Sarathkumar#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	22	2
+#Condition
+%X
+%Y
+eq-let	2	Raadhika_Sarathkumar
+##############
+%GID:1579
+%LID#1#1579-3-Film_director#6#6#29
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Vladan_Slijepčević__1
+%Y
+eq-let	2	Film_director
+##############
+%GID:1580
+%LID#1#1580-0-Girish_Kasaravalli#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	862	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	2	Sudeep
+%Y
+eq-let	0	Girish_Kasaravalli
+##############
+%GID:1581
+%LID#0#1581-2-David_Furnish__1#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	433	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	3	David_Furnish__1
+##############
+%GID:1583
+%LID#0#1583-0-Sinn_Sisamouth#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Sinn_Sisamouth
+##############
+%GID:1585
+%LID#0#1585-0-Tony_Jaa#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1015	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	0	Tony_Jaa
+##############
+%GID:1586
+%LID#0#1586-0-Peter_Yang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	292	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	Peter_Yang
+##############
+%GID:1587
+%LID#0#1587-1-Tehran#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	55	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Tehran
+##############
+%GID:1588
+%LID#0#1588-3-Mumbai#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	55	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Mumbai
+##############
+%GID:1593
+%LID#0#1593-0-Michal_Aviad#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	104	ANY
+v	2	8	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Michal_Aviad
+##############
+%GID:1597
+%LID#0#1597-1-Roberto_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	77	ANY
+v	3	13	ANY
+e	0	20	1
+e	1	22	3
+e	1	39	2
+#Condition
+%X
+%Y
+eq-let	1	Roberto_Rossellini
+##############
+%GID:1602
+%LID#1#1602-2-Tang_Xiaodan__1#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	466	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Film_director
+%Y
+eq-let	3	Tang_Xiaodan__1
+##############
+%GID:1603
+%LID#0#1603-2-Mexico#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	84	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	3	Mexico
+##############
+%GID:1605
+%LID#1#1605-0-Michal_Aviad#1#1#14
+#Pattern
+v	0	7	ANY
+v	1	104	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Senior_lecturer
+%Y
+eq-let	0	Michal_Aviad
+##############
+%GID:1606
+%LID#0#1606-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1609
+%LID#0#1609-0-Mauro_Mueller#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	142	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Mauro_Mueller
+##############
+%GID:1610
+%LID#1#1610-0-Victor_Iliu#6#6#25
+#Pattern
+v	0	7	ANY
+v	1	1135	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+eq-let	3	Mircea_Mureșan
+%Y
+eq-let	0	Victor_Iliu
+##############
+%GID:1611
+%LID#1#1611-3-Dara_Singh__1#2#2#6
+#Pattern
+v	0	7	ANY
+v	1	1472	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Wrestling
+%Y
+eq-let	2	Dara_Singh__1
+##############
+%GID:1615
+%LID#0#1615-1-Fenyang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	267	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Fenyang
+##############
+%GID:1616
+%LID#0#1616-2-Sudeep#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	862	ANY
+v	2	15	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	20	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	3	Sudeep
+##############
+%GID:1617
+%LID#0#1617-1-Isfahan#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##############
+%GID:1619
+%LID#1#1619-2-Film_director#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	707	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Syllas_Tzoumerkas__1
+%Y
+eq-let	3	Film_director
+##############
+%GID:1621
+%LID#1#1621-2-Alice_Joyce#2#2#6
+#Pattern
+v	0	7	ANY
+v	1	79	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	22	2
+#Condition
+%X
+eq-let	2	Mona_Maris
+%Y
+eq-let	3	Alice_Joyce
+##############
+%GID:1629
+%LID#0#1629-0-Parmeet_Sethi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	Parmeet_Sethi
+##############
+%GID:1630
+%LID#0#1630-1-Lahore#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	19	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Lahore
+##############
+%GID:1631
+%LID#0#1631-2-Hong_Kong#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	385	ANY
+v	3	2	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Hong_Kong
+##############
+%GID:1632
+%LID#0#1632-1-Saint_Mary_Parish,_Jamaica#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1043	ANY
+v	2	2	ANY
+v	3	1043	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Saint_Mary_Parish,_Jamaica
+##############
+%GID:1637
+%LID#1#1637-2-R._Sarathkumar#5#5#14
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+eq-let	2	Parmeet_Sethi__1
+%Y
+eq-let	3	R._Sarathkumar
+##############
+%GID:1639
+%LID#1#1639-2-Saeed_Khan_Rangeela#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	7	ANY
+e	0	39	1
+e	2	39	1
+#Condition
+%X
+eq-let	0	Khwaja_Khurshid_Anwar
+%Y
+eq-let	2	Saeed_Khan_Rangeela
+##############
+%GID:1642
+%LID#0#1642-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	2	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1644
+%LID#1#1644-3-Film_director#5#5#25
+#Pattern
+v	0	7	ANY
+v	1	1135	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Victor_Iliu__1
+%Y
+eq-let	2	Film_director
+##############
+%GID:1645
+%LID#0#1645-0-Lamberto_V._Avellana#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1080	ANY
+v	2	2	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Lamberto_V._Avellana
+##############
+%GID:1647
+%LID#0#1647-1-University_of_Notre_Dame#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	331	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	20	1
+e	0	21	3
+e	2	21	3
+#Condition
+%X
+%Y
+eq-let	1	University_of_Notre_Dame
+##############
+%GID:1650
+%LID#0#1650-0-Roberto_Benigni#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	95	ANY
+v	2	9	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	0	Roberto_Benigni
+##############
+%GID:1652
+%LID#0#1652-3-Iran#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	2	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	16	3
+e	0	16	2
+#Condition
+%X
+%Y
+eq-let	2	Iran
+##############
+%GID:1654
+%LID#0#1654-2-Girish_Kasaravalli#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	862	ANY
+v	2	15	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-let	3	Girish_Kasaravalli
+##############
+%GID:1655
+%LID#0#1655-3-Tamil_Nadu#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	2	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Tamil_Nadu
+##############
+%GID:1656
+%LID#0#1656-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	55	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1657
+%LID#0#1657-0-Banksy#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	81	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	0	Banksy
+##############
+%GID:1661
+%LID#1#1661-0-Chetan_Anand_(director)#4#4#12
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	7	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	1
+#Condition
+%X
+eq-let	3	Maharashtra
+%Y
+eq-let	0	Chetan_Anand_(director)
+##############
+%GID:1662
+%LID#0#1662-1-Annotto_Bay#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	3347	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Annotto_Bay
+##############
+%GID:1663
+%LID#1#1663-0-Boro_Drašković#2#2#15
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Kingdom_of_Yugoslavia
+%Y
+eq-let	0	Boro_Drašković
+##############
+%GID:1664
+%LID#1#1664-2-Boro_Drašković#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	2	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	16	2
+#Condition
+%X
+eq-let	2	Kingdom_of_Yugoslavia
+%Y
+eq-let	3	Boro_Drašković
+##############
+%GID:1665
+%LID#0#1665-0-Nanni_Moretti#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Nanni_Moretti
+##############
+%GID:1666
+%LID#0#1666-2-Kingdom_of_Yugoslavia#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	188	ANY
+v	2	8	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Kingdom_of_Yugoslavia
+##############
+%GID:1668
+%LID#0#1668-3-Rome#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1135	ANY
+v	2	77	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Rome
+##############
+%GID:1671
+%LID#1#1671-3-Mounika_(actress)#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	22	2
+#Condition
+%X
+eq-let	3	Shoba
+%Y
+eq-let	2	Mounika_(actress)
+##############
+%GID:1674
+%LID#0#1674-3-Documentary_film#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	2	Documentary_film
+##############
+%GID:1675
+%LID#0#1675-1-Danderyd_Municipality#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	260	ANY
+v	2	7	ANY
+v	3	371	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	Danderyd_Municipality
+##############
+%GID:1676
+%LID#1#1676-2-Can_Dündar#3#3#25
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	2	Television_presenter
+%Y
+eq-let	3	Can_Dündar
+##############
+%GID:1677
+%LID#0#1677-2-Dy_Saveth#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	15	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	20	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	3	Dy_Saveth
+##############
+%GID:1678
+%LID#0#1678-3-Marge_Champion#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1008	ANY
+v	2	9	ANY
+v	3	19	ANY
+e	0	20	1
+e	0	20	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	2	Marge_Champion
+##############
+%GID:1680
+%LID#0#1680-3-Italy#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1135	ANY
+v	2	2	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Italy
+##############
+%GID:1681
+%LID#0#1681-3-Newark,_New_Jersey#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	481	ANY
+v	2	69	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-let	2	Newark,_New_Jersey
+##############
+%GID:1682
+%LID#0#1682-3-Mumbai#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	93	ANY
+v	2	55	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Mumbai
+##############
+%GID:1685
+%LID#1#1685-2-Parviz_Shahbazi#9#9#37
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	20	1
+e	3	21	2
+#Condition
+%X
+eq-let	2	Parviz_Shahbazi__1
+%Y
+eq-let	3	Parviz_Shahbazi
+##############
+%GID:1686
+%LID#0#1686-0-Roberto_Gavaldón#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	84	ANY
+v	2	71	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Roberto_Gavaldón
+##############
+%GID:1687
+%LID#0#1687-2-Mountain_Province#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1080	ANY
+v	2	2	ANY
+v	3	583	ANY
+e	0	16	1
+e	0	16	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Mountain_Province
+##############
+%GID:1688
+%LID#0#1688-3-Treasure_Beach#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1043	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Treasure_Beach
+##############
+%GID:1689
+%LID#0#1689-3-Screenwriter#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	20	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	2	Screenwriter
+##############
+%GID:1691
+%LID#0#1691-0-Joseph_Maxwell#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	2	ANY
+v	3	7	ANY
+e	0	20	1
+e	3	20	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-let	0	Joseph_Maxwell
+##############
+%GID:1692
+%LID#1#1692-0-Asghar_Farhadi#6#6#12
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Asghar_Farhadi__1
+%Y
+eq-let	0	Asghar_Farhadi
+##############
+%GID:1693
+%LID#0#1693-2-Vancouver#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	19	ANY
+v	3	152	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Vancouver
+##############
+%GID:1694
+%LID#0#1694-3-United_States#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	122	ANY
+v	2	2	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	16	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:1696
+%LID#0#1696-2-Magic_(illusion)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	74	ANY
+v	2	7	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	2	21	3
+#Condition
+%X
+%Y
+eq-let	3	Magic_(illusion)
+##############
+%GID:1698
+%LID#0#1698-3-Film_producer#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	2	Film_producer
+##############
+%GID:1699
+%LID#0#1699-0-Ray_Dennis_Steckler#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	18	ANY
+v	2	5	ANY
+v	3	19	ANY
+e	0	39	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Ray_Dennis_Steckler
+##############
+%GID:1701
+%LID#0#1701-1-Penang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	494	ANY
+v	2	19	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Penang
+##############
+%GID:1702
+%LID#0#1702-2-R._Sarathkumar#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	R._Sarathkumar
+##############
+%GID:1705
+%LID#0#1705-2-Iran#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	8	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Iran
+##############
+%GID:1707
+%LID#0#1707-3-Parisa_Bakhtavar#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	7	ANY
+v	3	1487	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	2	Parisa_Bakhtavar
+##############
+%GID:1708
+%LID#0#1708-1-São_Paulo_(state)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	242	ANY
+v	2	1	ANY
+v	3	97	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	São_Paulo_(state)
+##############
+%GID:1709
+%LID#0#1709-3-Hollywood#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	79	ANY
+v	2	33	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Hollywood
+##############
+%GID:1711
+%LID#0#1711-0-Roman_Kroitor#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	470	ANY
+v	2	11	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Roman_Kroitor
+##############
+%GID:1712
+%LID#0#1712-3-Manikganj_District#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1730	ANY
+v	2	19	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Manikganj_District
+##############
+%GID:1714
+%LID#0#1714-0-Brian_De_Palma#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	69	ANY
+v	2	9	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	22	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	0	Brian_De_Palma
+##############
+%GID:1715
+%LID#0#1715-0-Roman_Kroitor#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	470	ANY
+v	2	11	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Roman_Kroitor
+##############
+%GID:1717
+%LID#0#1717-0-Aditya_Assarat#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	Aditya_Assarat
+##############
+%GID:1719
+%LID#0#1719-2-Bahman_Farmanara#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	Bahman_Farmanara
+##############
+%GID:1721
+%LID#0#1721-0-Parmeet_Sethi#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	8	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Parmeet_Sethi
+##############
+%GID:1722
+%LID#0#1722-1-Roberto_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	20	1
+e	1	21	3
+e	1	22	2
+#Condition
+%X
+%Y
+eq-let	1	Roberto_Rossellini
+##############
+%GID:1726
+%LID#0#1726-2-Shanghai#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	466	ANY
+v	2	7	ANY
+v	3	262	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	3	Shanghai
+##############
+%GID:1731
+%LID#1#1731-2-Angoulême_International_Comics_Festival_Prize_for_First_Comic_Book#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	989	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+eq-let	2	Glyph_Comics_Awards
+%Y
+eq-let	3	Angoulême_International_Comics_Festival_Prize_for_First_Comic_Book
+##############
+%GID:1733
+%LID#0#1733-1-Makassar#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	207	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Makassar
+##############
+%GID:1735
+%LID#0#1735-1-Roberto_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	20	1
+e	1	21	3
+e	1	22	2
+#Condition
+%X
+%Y
+eq-let	1	Roberto_Rossellini
+##############
+%GID:1736
+%LID#0#1736-2-Quezon_City#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1080	ANY
+v	2	55	ANY
+v	3	145	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Quezon_City
+##############
+%GID:1740
+%LID#1#1740-2-Victor_Iliu#2#2#6
+#Pattern
+v	0	7	ANY
+v	1	1135	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	Mircea_Mureșan
+%Y
+eq-let	2	Victor_Iliu
+##############
+%GID:1741
+%LID#0#1741-0-Parviz_Shahbazi#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	20	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	0	Parviz_Shahbazi
+##############
+%GID:1743
+%LID#0#1743-2-Constance_Adams_DeMille#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	79	ANY
+v	2	19	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Constance_Adams_DeMille
+##############
+%GID:1744
+%LID#0#1744-1-Clinton,_Massachusetts#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	79	ANY
+v	2	27	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Clinton,_Massachusetts
+##############
+%GID:1745
+%LID#0#1745-1-Hollywood_Boulevard#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	19	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Hollywood_Boulevard
+##############
+%GID:1747
+%LID#0#1747-1-Danderyd_Municipality#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	260	ANY
+v	2	7	ANY
+v	3	371	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	1	Danderyd_Municipality
+##############
+%GID:1748
+%LID#0#1748-2-John_Stewart_Muller#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	23	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	John_Stewart_Muller
+##############
+%GID:1750
+%LID#0#1750-3-Zhao_Tao#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	267	ANY
+v	2	13	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	2	Zhao_Tao
+##############
+%GID:1751
+%LID#0#1751-1-Fenyang#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	267	ANY
+v	2	11	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Fenyang
+##############
+%GID:1752
+%LID#0#1752-1-Hollywood_Boulevard#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	19	ANY
+v	2	6	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Hollywood_Boulevard
+##############
+%GID:1754
+%LID#0#1754-0-Rattana_Pestonji#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	0	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Rattana_Pestonji
+##############
+%GID:1755
+%LID#0#1755-0-Oktavijan_Miletić#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	264	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	0	Oktavijan_Miletić
+##############
+%GID:1756
+%LID#1#1756-3-Asghar_Farhadi__1#3#3#15
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	0	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+eq-let	0	Asghar_Farhadi
+%Y
+eq-let	2	Asghar_Farhadi__1
+##############
+%GID:1758
+%LID#1#1758-3-Aleksander_Ford__1#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	612	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	3	Film_director
+%Y
+eq-let	2	Aleksander_Ford__1
+##############
+%GID:1760
+%LID#0#1760-0-Balu_Mahendra#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	55	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Balu_Mahendra
+##############
+%GID:1761
+%LID#1#1761-0-Lucélia_Santos#4#4#29
+#Pattern
+v	0	7	ANY
+v	1	242	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	2	Film_director
+%Y
+eq-let	0	Lucélia_Santos
+##############
+%GID:1762
+%LID#0#1762-1-Harrison,_New_Jersey#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	481	ANY
+v	2	107	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-let	1	Harrison,_New_Jersey
+##############
+%GID:1765
+%LID#0#1765-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	6	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1767
+%LID#0#1767-2-Bruneck#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	2	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	16	2
+#Condition
+%X
+%Y
+eq-let	3	Bruneck
+##############
+%GID:1768
+%LID#0#1768-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	2	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1769
+%LID#0#1769-1-Wakuya,_Miyagi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	382	ANY
+v	2	2	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Wakuya,_Miyagi
+##############
+%GID:1770
+%LID#0#1770-3-Punjab,_India#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	93	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-let	2	Punjab,_India
+##############
+%GID:1772
+%LID#0#1772-2-Robert_Cuffley#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	152	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	39	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	3	Robert_Cuffley
+##############
+%GID:1774
+%LID#0#1774-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1775
+%LID#0#1775-2-Sorsogon#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1080	ANY
+v	2	55	ANY
+v	3	583	ANY
+e	0	16	1
+e	0	16	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Sorsogon
+##############
+%GID:1776
+%LID#0#1776-3-Paris#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	83	ANY
+v	2	19	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Paris
+##############
+%GID:1778
+%LID#0#1778-2-Daniel_Thalmann#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	20	1
+e	2	39	1
+e	3	22	0
+#Condition
+%X
+%Y
+eq-let	3	Daniel_Thalmann
+##############
+%GID:1779
+%LID#0#1779-0-Martin_Scorsese#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	384	ANY
+v	2	7	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	22	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	0	Martin_Scorsese
+##############
+%GID:1780
+%LID#0#1780-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	8	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1781
+%LID#0#1781-1-Fenyang#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	267	ANY
+v	2	0	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Fenyang
+##############
+%GID:1782
+%LID#0#1782-0-Roberto_Benigni#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	95	ANY
+v	2	8	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Roberto_Benigni
+##############
+%GID:1783
+%LID#1#1783-2-Un_Certain_Regard#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+eq-let	2	Albert_Londres_Prize
+%Y
+eq-let	3	Un_Certain_Regard
+##############
+%GID:1784
+%LID#0#1784-2-Saint_Elizabeth_Parish#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	3347	ANY
+v	2	11	ANY
+v	3	1043	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Saint_Elizabeth_Parish
+##############
+%GID:1785
+%LID#0#1785-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	0	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Skopje
+##############
+%GID:1787
+%LID#0#1787-1-São_Paulo_(state)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	242	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	1	São_Paulo_(state)
+##############
+%GID:1790
+%LID#0#1790-1-Fenyang#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	267	ANY
+v	2	8	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Fenyang
+##############
+%GID:1791
+%LID#0#1791-0-Roberto_Benigni#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	95	ANY
+v	2	0	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Roberto_Benigni
+##############
+%GID:1792
+%LID#0#1792-0-Balu_Mahendra#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	2	ANY
+v	3	9	ANY
+e	0	16	1
+e	0	22	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Balu_Mahendra
+##############
+%GID:1795
+%LID#0#1795-1-Delhi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	55	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	39	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Delhi
+##############
+%GID:1796
+%LID#1#1796-3-Gary_Entin__1#7#7#25
+#Pattern
+v	0	7	ANY
+v	1	58	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+eq-let	3	Gary_Entin
+%Y
+eq-let	2	Gary_Entin__1
+##############
+%GID:1797
+%LID#0#1797-3-Parisa_Bakhtavar#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	109	ANY
+v	2	7	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	2	Parisa_Bakhtavar
+##############
+%GID:1798
+%LID#0#1798-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	55	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1801
+%LID#0#1801-3-Mumbai#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	55	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	Mumbai
+##############
+%GID:1802
+%LID#0#1802-3-West_Hollywood,_California#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	438	ANY
+v	2	40	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	2	West_Hollywood,_California
+##############
+%GID:1807
+%LID#0#1807-1-Taipei#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	295	ANY
+v	2	7	ANY
+v	3	11	ANY
+e	0	16	1
+e	0	22	3
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	Taipei
+##############
+%GID:1812
+%LID#0#1812-2-Tokyo#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	382	ANY
+v	2	59	ANY
+v	3	133	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Tokyo
+##############
+%GID:1814
+%LID#0#1814-3-Julie_Corman#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	122	ANY
+v	2	13	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	2	Julie_Corman
+##############
+%GID:1816
+%LID#1#1816-3-Tian_Zhuangzhuang#3#3#8
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	7	ANY
+v	3	15	ANY
+e	0	20	1
+e	0	20	3
+e	2	20	3
+#Condition
+%X
+eq-let	3	Tokyo_International_Film_Festival
+%Y
+eq-let	2	Tian_Zhuangzhuang
+##############
+%GID:1817
+%LID#0#1817-1-Bhanga_Upazila#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1730	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Bhanga_Upazila
+##############
+%GID:1818
+%LID#0#1818-0-Balu_Mahendra#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	55	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Balu_Mahendra
+##############
+%GID:1819
+%LID#0#1819-0-Alejandro_Hernández_(director)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1738	ANY
+v	2	0	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Alejandro_Hernández_(director)
+##############
+%GID:1821
+%LID#0#1821-0-Judi_Dench#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	81	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	0	Judi_Dench
+##############
+%GID:1822
+%LID#0#1822-2-Bruneck#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	0	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Bruneck
+##############
+%GID:1826
+%LID#0#1826-2-Bruneck#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	148	ANY
+v	2	8	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	3	Bruneck
+##############
+%GID:1829
+%LID#0#1829-2-Michal_Aviad#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	104	ANY
+v	2	8	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	Michal_Aviad
+##############
+%GID:1830
+%LID#0#1830-0-Mauro_Mueller#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	142	ANY
+v	2	7	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	0	Mauro_Mueller
+##############
+%GID:1831
+%LID#0#1831-0-Sinn_Sisamouth#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	622	ANY
+v	2	1108	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	0	Sinn_Sisamouth
+##############
+%GID:1833
+%LID#0#1833-1-Dobroteasa#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	288	ANY
+v	2	7	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	39	3
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	1	Dobroteasa
+##############
+%GID:1834
+%LID#0#1834-1-Slough#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	412	ANY
+v	2	13	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	22	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Slough
+##############
+%GID:1835
+%LID#0#1835-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:1836
+%LID#0#1836-1-Roberto_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	77	ANY
+v	3	8	ANY
+e	0	20	1
+e	1	21	3
+e	1	39	2
+#Condition
+%X
+%Y
+eq-let	1	Roberto_Rossellini
+##############
+%GID:1837
+%LID#0#1837-1-Biržai_District_Municipality#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	753	ANY
+v	2	386	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Biržai_District_Municipality
+##############
+%GID:1839
+%LID#1#1839-2-Robert_Cuffley#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	556	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	Bill_Hutton
+%Y
+eq-let	2	Robert_Cuffley
+##############
+%GID:1840
+%LID#0#1840-0-Francis_Ford_Coppola#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	122	ANY
+v	2	8	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Francis_Ford_Coppola
+##############
+%GID:1841
+%LID#0#1841-1-Kiev#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	612	ANY
+v	2	19	ANY
+v	3	7	ANY
+e	0	16	1
+e	0	39	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	Kiev
+##############
+%GID:1842
+%LID#1#1842-1-Manado#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	207	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	39	2
+#Condition
+%X
+eq-let	0	Wim_Umboh
+%Y
+eq-let	1	Manado
+##############
+%GID:1843
+%LID#0#1843-2-Peter_Yang#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	292	ANY
+v	2	0	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+#Condition
+%X
+%Y
+eq-let	3	Peter_Yang
+##############
+%GID:1845
+%LID#0#1845-1-Lahore#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	19	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	1	Lahore
+##############
+%GID:1846
+%LID#0#1846-2-Screenwriter#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	470	ANY
+v	2	2	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Screenwriter
+##############
+%GID:1847
+%LID#1#1847-2-R._Sarathkumar#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	456	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	Parmeet_Sethi
+%Y
+eq-let	2	R._Sarathkumar
+##############
+%GID:1848
+%LID#0#1848-1-Santiago_de_Cuba#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	250	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	22	2
+#Condition
+%X
+%Y
+eq-let	1	Santiago_de_Cuba
+##############
+%GID:1849
+%LID#1#1849-0-Roger_Corman#6#6#12
+#Pattern
+v	0	7	ANY
+v	1	122	ANY
+v	2	0	ANY
+v	3	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Roger_Corman__1
+%Y
+eq-let	0	Roger_Corman
+##############
+%GID:1850
+%LID#0#1850-2-Japan#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	591	ANY
+v	2	59	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Japan
+##############
+%GID:1854
+%LID#0#1854-1-Davao_City#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Davao_City
+##############
+%GID:1855
+%LID#0#1855-1-Davao_City#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	6	ANY
+v	3	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Davao_City
+##############
+%GID:1858
+%LID#1#1858-2-Pulitzer_Prize#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	16	1
+e	0	20	3
+e	0	20	2
+#Condition
+%X
+eq-let	2	The_Sidney_Award
+%Y
+eq-let	3	Pulitzer_Prize
+##############
+%GID:1859
+%LID#0#1859-1-Roberto_Rossellini#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	13	ANY
+v	3	0	ANY
+e	0	20	1
+e	0	21	3
+e	1	22	2
+#Condition
+%X
+%Y
+eq-let	1	Roberto_Rossellini
+##############
+%GID:1862
+%LID#0#1862-2-Tokyo#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	591	ANY
+v	2	2	ANY
+v	3	133	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	2
+#Condition
+%X
+%Y
+eq-let	3	Tokyo
+##############
+%GID:1864
+%LID#1#1864-2-Virgil_Calotescu__1#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	288	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+eq-let	2	Film_director
+%Y
+eq-let	3	Virgil_Calotescu__1
+##############
+%GID:1866
+%LID#0#1866-1-Eastern_Province,_Sri_Lanka#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	962	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	1	Eastern_Province,_Sri_Lanka

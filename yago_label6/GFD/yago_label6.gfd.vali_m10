@@ -1,0 +1,160 @@
+##############
+%GID:1
+%LID#1#1-1-<Taluqan_District>#244#244#825
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Taloqan>
+%Y
+eq-let	1	<Taluqan_District>
+##############
+%GID:4
+%LID#1#4-0-<Teresina>#180#180#297
+#Pattern
+v	0	6	ANY
+v	1	10	ANY
+e	0	6	1
+#Condition
+%X
+eq-let	1	<http://www.teresina.pi.gov.br>
+%Y
+eq-let	0	<Teresina>
+##############
+%GID:7
+%LID#1#7-0-<Garissa>#5#5#33
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	1	<Nairobi>
+%Y
+eq-let	0	<Garissa>
+##############
+%GID:12
+%LID#1#12-0-<Pordenone>#2#2#264
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	1	<Cormons>
+%Y
+eq-let	0	<Pordenone>
+##############
+%GID:14
+%LID#1#14-1-<Hokkaido>#294#294#3298
+#Pattern
+v	0	6	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Nemuro>
+%Y
+eq-let	2	<Hokkaido>
+##############
+%GID:18
+%LID#1#18-1-<Province_of_Teruel>#158#158#528
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+v	2	6	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	2	<Monreal_del_Campo>
+%Y
+eq-let	1	<Province_of_Teruel>
+##############
+%GID:20
+%LID#1#20-1-<Tanzania>#389#389#1715
+#Pattern
+v	0	6	ANY
+v	1	1	ANY
+v	2	6	ANY
+v	3	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	0	<Kibaha>
+%Y
+eq-let	1	<Tanzania>
+##############
+%GID:22
+%LID#1#22-1-<Hokkaido>#294#294#3298
+#Pattern
+v	0	6	ANY
+v	1	1	ANY
+v	2	6	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<Nemuro>
+%Y
+eq-let	1	<Hokkaido>
+##############
+%GID:23
+%LID#1#23-1-<Eastern_Anatolia_Region>#48#48#165
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+v	2	6	ANY
+v	3	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Oltu>
+%Y
+eq-let	1	<Eastern_Anatolia_Region>
+##############
+%GID:30
+%LID#1#30-1-<Oceania>#33#33#66
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+v	2	6	ANY
+v	3	6	ANY
+v	4	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	2	<Nuku'alofa>
+%Y
+eq-let	1	<Oceania>
+##############
+%GID:32
+%LID#1#32-1-<Slovakia>#105#105#8179
+#Pattern
+v	0	6	ANY
+v	1	1	ANY
+v	2	6	ANY
+v	3	6	ANY
+v	4	6	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+e	4	0	1
+#Condition
+%X
+eq-let	3	<Gelnica>
+%Y
+eq-let	1	<Slovakia>

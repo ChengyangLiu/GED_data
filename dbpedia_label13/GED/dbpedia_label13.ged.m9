@@ -1,0 +1,54 @@
+##########
+%GID:3469
+%LID#0#3469-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	899	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	5
+e	2	75	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:4357
+%LID#0#4357-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	899	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:5059
+%LID#0#5059-0-Steve_Fox_(musician)#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	1	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3

@@ -1,0 +1,489 @@
+%GID:47
+%LID#1#47-0-<Peter_Pau>#2#2#6
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+e	0	14	2
+e	1	14	2
+#Condition
+%X
+eq-let	1	<Quentin_Lee>
+%Y
+eq-let	0	<Peter_Pau>
+##########
+%GID:48
+%LID#1#48-0-<Desmond_Saunders>#12#12#33
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	8	ANY
+e	0	22	2
+e	1	4	2
+#Condition
+%X
+eq-let	1	<Godfrey_Grayson>
+%Y
+eq-let	0	<Desmond_Saunders>
+##########
+%GID:49
+%LID#0#49-1-<Santa_Monica,_California>#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	0	ANY
+e	0	3	2
+e	1	3	2
+#Condition
+%X
+%Y
+eq-let	2	<Santa_Monica,_California>
+##########
+%GID:50
+%LID#0#50-0-<Robert_Parrish>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	8	ANY
+e	0	22	2
+e	1	5	2
+#Condition
+%X
+%Y
+eq-let	0	<Robert_Parrish>
+##########
+%GID:52
+%LID#1#52-1-<Ken_Kwapis>#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+e	0	10	2
+e	2	5	1
+#Condition
+%X
+eq-let	0	<Marisa_Silver>
+%Y
+eq-let	2	<Ken_Kwapis>
+##########
+%GID:53
+%LID#1#53-0-<Laïla_Marrakchi>#3#3#25
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+e	0	10	2
+e	2	4	1
+#Condition
+%X
+eq-let	1	<Piranha_3D>
+%Y
+eq-let	0	<Laïla_Marrakchi>
+##########
+%GID:55
+%LID#1#55-2-<John_Carpenter>#1#1#33
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	15	ANY
+e	0	19	2
+e	1	19	2
+#Condition
+%X
+eq-let	0	<Leslie_Iwerks>
+%Y
+eq-let	1	<John_Carpenter>
+##########
+%GID:56
+%LID#0#56-1-<Mumbai>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	14	ANY
+e	0	26	2
+e	1	3	2
+#Condition
+%X
+%Y
+eq-let	2	<Mumbai>
+##########
+%GID:57
+%LID#1#57-1-<Mumbai>#3#3#29
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	14	ANY
+e	0	14	2
+e	1	3	2
+#Condition
+%X
+eq-let	0	<Karan_Johar>
+%Y
+eq-let	2	<Mumbai>
+##########
+%GID:59
+%LID#1#59-1-<Mumbai>#46#46#264
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	14	ANY
+e	0	14	2
+e	1	14	2
+#Condition
+%X
+eq-let	0	<Karan_Johar>
+%Y
+eq-let	2	<Mumbai>
+##########
+%GID:60
+%LID#0#60-1-<Mumbai>#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	14	ANY
+e	0	14	2
+e	1	26	2
+#Condition
+%X
+%Y
+eq-let	2	<Mumbai>
+##########
+%GID:61
+%LID#1#61-1-<Louisville,_Kentucky>#10#10#35
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	0	ANY
+e	0	14	2
+e	1	14	2
+#Condition
+%X
+eq-let	1	<William_Girdler>
+%Y
+eq-let	2	<Louisville,_Kentucky>
+##########
+%GID:63
+%LID#0#63-1-<Hong_Kong>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+e	0	14	2
+e	1	25	2
+#Condition
+%X
+%Y
+eq-let	2	<Hong_Kong>
+##########
+%GID:64
+%LID#1#64-0-<Chuck_Menville>#1#1#6
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	9	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	1	<Len_Janson>
+%Y
+eq-let	0	<Chuck_Menville>
+##########
+%GID:65
+%LID#1#65-1-<Los_Angeles>#31#31#132
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	6	ANY
+e	0	26	2
+e	1	3	2
+#Condition
+%X
+eq-let	1	<Richard_Smith_(silent_film_director)>
+%Y
+eq-let	2	<Los_Angeles>
+##########
+%GID:66
+%LID#0#66-2-<Lino_Brocka>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	11	ANY
+e	0	14	2
+e	1	3	2
+#Condition
+%X
+%Y
+eq-let	1	<Lino_Brocka>
+##########
+%GID:67
+%LID#1#67-0-<Steve_Berra>#3#3#6
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	6	ANY
+e	0	26	2
+e	1	26	2
+#Condition
+%X
+eq-let	1	<Patrick_Creadon>
+%Y
+eq-let	0	<Steve_Berra>
+##########
+%GID:68
+%LID#1#68-1-<Andhra_Pradesh>#4#4#29
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+e	0	26	2
+e	1	26	2
+#Condition
+%X
+eq-let	1	<V._V._Vinayak>
+%Y
+eq-let	2	<Andhra_Pradesh>
+##########
+%GID:69
+%LID#0#69-0-<Katsuhiro_Otomo>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+e	0	11	2
+e	2	5	1
+#Condition
+%X
+%Y
+eq-let	0	<Katsuhiro_Otomo>
+##########
+%GID:72
+%LID#1#72-0-<Frank_Hanly>#1#1#33
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+e	0	20	2
+e	1	25	2
+#Condition
+%X
+eq-let	1	<Ruth_Behar>
+%Y
+eq-let	0	<Frank_Hanly>
+##########
+%GID:73
+%LID#0#73-0-<Frank_Hanly>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+e	0	20	2
+e	1	26	2
+#Condition
+%X
+%Y
+eq-let	0	<Frank_Hanly>
+##########
+%GID:74
+%LID#1#74-0-<Mick_Garris>#5#5#29
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	0	ANY
+e	0	14	2
+e	1	3	2
+#Condition
+%X
+eq-let	1	<Franklin_J._Schaffner>
+%Y
+eq-let	0	<Mick_Garris>
+##########
+%GID:76
+%LID#1#76-1-<United_States>#13#13#198
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+e	0	25	2
+e	1	25	2
+#Condition
+%X
+eq-let	1	<Bruce_Conner>
+%Y
+eq-let	2	<United_States>
+##########
+%GID:77
+%LID#1#77-1-<India>#3#3#33
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+e	0	25	2
+e	1	26	2
+#Condition
+%X
+eq-let	0	<Rohan_Sippy>
+%Y
+eq-let	2	<India>
+##########
+%GID:78
+%LID#1#78-1-<Harold_&_Kumar_Escape_from_Guantanamo_Bay>#15#15#58
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	8	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	1	<Hayden_Schlossberg>
+%Y
+eq-let	2	<Harold_&_Kumar_Escape_from_Guantanamo_Bay>
+##########
+%GID:79
+%LID#1#79-0-<Milton_Brown>#23#23#99
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	2	ANY
+e	0	23	2
+e	1	23	2
+#Condition
+%X
+eq-let	1	<John_Flansburgh>
+%Y
+eq-let	0	<Milton_Brown>
+##########
+%GID:80
+%LID#1#80-1-<25_Watts>#6#6#33
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	8	ANY
+e	0	4	2
+e	1	5	2
+#Condition
+%X
+eq-let	0	<Juan_Pablo_Rebella>
+%Y
+eq-let	2	<25_Watts>
+##########
+%GID:81
+%LID#1#81-0-<Hisayuki_Toriumi>#24#24#66
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	8	ANY
+e	0	4	2
+e	1	4	2
+#Condition
+%X
+eq-let	1	<Isamu_Imakake>
+%Y
+eq-let	0	<Hisayuki_Toriumi>
+##########
+%GID:82
+%LID#1#82-1-<Mumbai>#46#46#264
+#Pattern
+v	0	7	ANY
+v	1	14	ANY
+v	2	7	ANY
+e	0	14	1
+e	2	14	1
+#Condition
+%X
+eq-let	0	<Karan_Johar>
+%Y
+eq-let	1	<Mumbai>
+##########
+%GID:83
+%LID#0#83-1-<The_Animatrix>#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	4	1
+e	2	4	1
+e	3	4	1
+#Condition
+%X
+%Y
+eq-let	1	<The_Animatrix>
+##########
+%GID:84
+%LID#1#84-0-<M._K._Asante>#0#0#14
+#Pattern
+v	0	7	ANY
+v	1	15	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	19	1
+e	2	19	1
+e	3	19	1
+#Condition
+%X
+eq-let	3	<Tom_Holland_(director)>
+%Y
+eq-let	0	<M._K._Asante>
+##########
+%GID:86
+%LID#1#86-1-<United_States>#13#13#33
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	20	1
+e	2	25	1
+e	3	25	1
+#Condition
+%X
+eq-let	3	<Bruce_Conner>
+%Y
+eq-let	1	<United_States>
+##########
+%GID:87
+%LID#1#87-2-<Pattabhirami_Reddy_Tikkavarapu>#10#10#33
+#Pattern
+v	0	7	ANY
+v	1	1	ANY
+v	2	7	ANY
+e	0	25	1
+e	2	25	1
+#Condition
+%X
+eq-let	1	<India>
+%Y
+eq-let	2	<Pattabhirami_Reddy_Tikkavarapu>
+##########
+%GID:90
+%LID#1#90-2-<Franklin_J._Schaffner>#1#1#14
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	0	<Richard_C._Sarafian>
+%Y
+eq-let	3	<Franklin_J._Schaffner>
+##########
+%GID:91
+%LID#1#91-1-<New_York_City>#47#47#99
+#Pattern
+v	0	7	ANY
+v	1	6	ANY
+v	2	7	ANY
+e	0	14	1
+e	2	14	1
+#Condition
+%X
+eq-let	0	<Neil_Leifer>
+%Y
+eq-let	1	<New_York_City>
+##########

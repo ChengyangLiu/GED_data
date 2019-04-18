@@ -1,0 +1,305 @@
+##############
+%GID:2
+%LID#1#2-0-Sweet_Sensation_(The_Embassy_album)#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	2	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	1	International
+%Y
+eq-id	0	id	2	id
+##############
+%GID:38
+%LID#1#38-1-Most_Valuable_Player#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	15	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	Pobre_Corazón
+%Y
+eq-id	0	id	2	id
+##############
+%GID:43
+%LID#1#43-1-Warner_Home_Video#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	684	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	Alice_Cooper:_The_Nightmare
+%Y
+eq-id	0	id	2	id
+##############
+%GID:58
+%LID#1#58-1-Hollywood_Fame#1#1#6
+#Pattern
+v	0	62	ANY
+v	1	64	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	Tha_Return
+%Y
+eq-id	0	id	2	id
+##############
+%GID:79
+%LID#1#79-1-Nobel_Prize_in_Literature#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	15	ANY
+v	2	62	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+eq-let	0	Art,_Truth_and_Politics
+%Y
+eq-id	0	id	2	id
+##############
+%GID:83
+%LID#1#83-0-Myths_and_Other_Legends#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	53	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	1	Metro_Music
+%Y
+eq-id	0	id	2	id
+##############
+%GID:127
+%LID#0#127-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	62	ANY
+e	0	109	2
+e	0	65	1
+e	3	109	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:129
+%LID#0#129-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	62	ANY
+e	0	109	2
+e	0	65	1
+e	3	109	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:132
+%LID#1#132-1-Horror_fiction#0#0#6
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	62	ANY
+e	0	65	2
+e	0	75	1
+e	3	65	2
+#Condition
+%X
+eq-let	0	Realm_of_Shadows
+%Y
+eq-id	0	id	3	id
+##############
+%GID:133
+%LID#0#133-0-Sun_Kil_Moon#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	62	ANY
+e	0	110	2
+e	0	65	1
+e	3	110	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:138
+%LID#0#138-0-Sir_Lord_Baltimore#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	62	ANY
+e	0	110	2
+e	0	65	1
+e	3	110	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:140
+%LID#1#140-2-Come_(1_album)#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	19	ANY
+v	3	19	ANY
+e	0	65	2
+e	1	65	3
+#Condition
+%X
+eq-let	0	_Wild_East
+%Y
+eq-id	0	id	2	id
+##############
+%GID:144
+%LID#1#144-2-Aerosmith_Video_Scrapbook#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	62	ANY
+v	2	2678	ANY
+v	3	2678	ANY
+e	0	75	2
+e	1	75	3
+#Condition
+%X
+eq-let	0	CherFitness:_A_New_Attitude
+%Y
+eq-id	0	id	2	id
+##############
+%GID:176
+%LID#1#176-2-Aerosmith_Video_Scrapbook#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	2678	ANY
+v	2	2678	ANY
+v	3	62	ANY
+e	0	75	1
+e	3	75	2
+#Condition
+%X
+eq-let	0	CherFitness:_A_New_Attitude
+%Y
+eq-id	1	id	2	id
+##############
+%GID:200
+%LID#0#200-1-AVM_Productions#0#0#4
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	62	ANY
+v	3	3625	ANY
+v	4	3625	ANY
+e	0	75	1
+e	0	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:244
+%LID#1#244-0-The_Supreme_Genius_of_King_Khan_and_the_Shrines#3#3#6
+#Pattern
+v	0	62	ANY
+v	1	10	ANY
+v	2	10	ANY
+v	3	62	ANY
+e	0	75	1
+e	3	75	2
+#Condition
+%X
+eq-let	2	Only_the_Dead_See_the_End_of_the_War
+%Y
+eq-id	1	id	2	id
+##############
+%GID:247
+%LID#1#247-2-Come_(1_album)#2#2#6
+#Pattern
+v	0	62	ANY
+v	1	19	ANY
+v	2	19	ANY
+v	3	62	ANY
+e	0	65	1
+e	3	65	2
+#Condition
+%X
+eq-let	0	_Wild_East
+%Y
+eq-id	1	id	2	id
+##############
+%GID:282
+%LID#1#282-0-Thanmathra__Thanmathra__1#6#6#14
+#Pattern
+v	0	62	ANY
+v	1	240	ANY
+v	2	39	ANY
+v	3	39	ANY
+v	4	62	ANY
+e	0	65	1
+e	0	75	2
+e	4	65	1
+e	4	75	3
+#Condition
+%X
+eq-let	3	Innathe_Chintha_Vishayam__Innathe_Chinthavishayam__1
+%Y
+eq-id	2	id	3	id
+##############
+%GID:343
+%LID#0#343-0-Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	3625	ANY
+v	3	3625	ANY
+v	4	62	ANY
+v	5	62	ANY
+e	0	75	1
+e	4	75	1
+e	4	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	id	3	id
+##############
+%GID:402
+%LID#0#402-2-Evargal_Indiyargal__Ethanai_Konam_Ethanai_Parvai__1#0#0#0
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	3625	ANY
+v	3	3625	ANY
+v	4	62	ANY
+v	5	62	ANY
+e	0	75	1
+e	0	75	2
+e	4	75	1
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	id	3	id

@@ -1,0 +1,39 @@
+%GID:19
+%LID#0#19-0-<Mělník_District>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	0	<Mělník_District>
+##########
+%GID:20
+%LID#0#20-1-<Europe>#0#0#91
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	14	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+%Y
+eq-let	2	<Europe>
+##########
+%GID:21
+%LID#0#21-0-<Congo_Free_State>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	24	0
+#Condition
+%X
+%Y
+eq-let	0	<Congo_Free_State>
+##########

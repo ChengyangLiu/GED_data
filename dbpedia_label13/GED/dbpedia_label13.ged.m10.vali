@@ -1,0 +1,82 @@
+##############
+%GID:244
+%LID#0#244-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	171	ANY
+v	3	171	ANY
+e	0	74	2
+e	1	74	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:840
+%LID#0#840-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1361
+%LID#0#1361-2-Telex_(band)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3030
+%LID#0#3030-1-Rome#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3087
+%LID#0#3087-2-Jovanotti#0#0#8
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

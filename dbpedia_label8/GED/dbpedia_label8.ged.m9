@@ -1,0 +1,256 @@
+##########
+%GID:225
+%LID#0#225-1-Brussels#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:373
+%LID#0#373-1-Avex_Group#0#0#3
+#Pattern
+v	0	8	ANY
+v	1	666	ANY
+v	2	8	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:1511
+%LID#1#1511-3-Fervent_Records#8#8#33
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	75	3
+#Condition
+%X
+eq-let	3	name	Dara_Maclean
+%Y
+eq-id	1	2
+##########
+%GID:2409
+%LID#1#2409-0-Dara_Maclean#3#3#37
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	75	3
+e	4	39	2
+#Condition
+%X
+eq-let	2	name	Fervent_Records
+%Y
+eq-id	1	2
+##########
+%GID:2534
+%LID#1#2534-3-Pop_music#2#2#33
+#Pattern
+v	0	8	ANY
+v	1	356	ANY
+v	2	356	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	65	3
+e	4	39	2
+#Condition
+%X
+eq-let	0	name	Kashy_Keegan
+%Y
+eq-id	1	2
+##########
+%GID:3279
+%LID#1#3279-0-Jessica_Sutta#6#6#29
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	11	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	75	3
+e	4	16	2
+#Condition
+%X
+eq-let	2	name	A&M_Records
+%Y
+eq-id	1	2
+##########
+%GID:3925
+%LID#0#3925-3-Sarcasm#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1485	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	65	3
+e	0	65	2
+e	5	65	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:5522
+%LID#0#5522-0-Gene_Pitney#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	19	ANY
+v	4	19	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	16	3
+e	0	65	5
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:6925
+%LID#0#6925-1-Harlem#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	128	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	65	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:8266
+%LID#0#8266-1-Jerusalem#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	104	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	16	2
+e	4	16	1
+e	5	16	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:8606
+%LID#0#8606-0-Mickey_Jupp#0#0#1
+#Pattern
+v	0	8	ANY
+v	1	356	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	75	2
+e	4	39	1
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:8638
+%LID#0#8638-3-Coral_Records#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	102	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	65	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:8909
+%LID#0#8909-1-Jerusalem#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	104	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	4	16	1
+e	4	16	2
+e	5	16	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:9314
+%LID#0#9314-1-Dartmouth,_Nova_Scotia#0#0#3
+#Pattern
+v	0	8	ANY
+v	1	1485	ANY
+v	2	8	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	16	3
+e	0	65	5
+e	2	39	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:9789
+%LID#0#9789-1-Narowal_District#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1093	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	2	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	39	4
+e	0	65	2
+e	5	65	3
+#Condition
+%X
+%Y
+eq-id	2	3

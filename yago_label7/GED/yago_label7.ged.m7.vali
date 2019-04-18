@@ -1,0 +1,14 @@
+##############
+%GID:19
+%LID#1#19-0-<Terry_Marcel>#4#4#25
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	7	ANY
+e	0	21	1
+e	2	21	1
+#Condition
+%X
+eq-let	1	<Rosie_Marcel>
+%Y
+eq-id	0	id	2	id

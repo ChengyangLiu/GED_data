@@ -1,0 +1,286 @@
+##############
+%GID:100
+%LID#1#100-1-Port_Angeles,_Washington#3#3#15
+#Pattern
+v	0	13	ANY
+v	1	202	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	0	Ninety_Pound_Wuss
+%Y
+eq-id	0	id	2	id
+##############
+%GID:133
+%LID#1#133-0-Maya_Jane_Coles#2#2#15
+#Pattern
+v	0	13	ANY
+v	1	62	ANY
+v	2	13	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	1	20:20_Vision
+%Y
+eq-id	0	id	2	id
+##############
+%GID:166
+%LID#1#166-0-Extremoduro#1#1#15
+#Pattern
+v	0	13	ANY
+v	1	75	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+eq-let	1	Plasencia
+%Y
+eq-id	0	id	2	id
+##############
+%GID:479
+%LID#1#479-1-East_Harlem#1#1#15
+#Pattern
+v	0	13	ANY
+v	1	2	ANY
+v	2	128	ANY
+v	3	13	ANY
+e	0	74	2
+e	0	74	1
+e	3	74	2
+#Condition
+%X
+eq-let	0	Ambulance_LTD
+%Y
+eq-id	0	id	3	id
+##############
+%GID:555
+%LID#1#555-0-Glay#8#8#33
+#Pattern
+v	0	13	ANY
+v	1	11	ANY
+v	2	376	ANY
+v	3	13	ANY
+e	0	74	2
+e	0	75	1
+e	3	74	2
+#Condition
+%X
+eq-let	2	Hakodate,_Hokkaido
+%Y
+eq-id	0	id	3	id
+##############
+%GID:788
+%LID#0#788-2-Hayden_(musician)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1383
+%LID#0#1383-0-Hayden_(musician)#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2577
+%LID#0#2577-1-Thornhill,_Ontario#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	63	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2659
+%LID#0#2659-1-Thornhill,_Ontario#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2789
+%LID#0#2789-4-Atlantic_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2905
+%LID#0#2905-1-Thornhill,_Ontario#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	1	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3322
+%LID#0#3322-0-Izhar_Ashdot#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	104	ANY
+v	2	104	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3745
+%LID#0#3745-2-Hayden_(musician)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	63	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3769
+%LID#0#3769-0-Moxy_Früvous#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3859
+%LID#0#3859-0-Man_Alive_(band)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	104	ANY
+v	2	104	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3926
+%LID#0#3926-4-Atlantic_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	5
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4373
+%LID#0#4373-3-Warner_Music_Canada#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	699	ANY
+v	2	699	ANY
+v	3	1	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	74	1
+e	0	75	5
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

@@ -1,0 +1,45 @@
+##############
+%GID:41
+%LID#0#41-1-<Central_Bohemian_Region>#0#0#2
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	6	ANY
+e	0	0	1
+e	1	0	3
+e	2	28	3
+#Condition
+%X
+%Y
+eq-let	1	<Central_Bohemian_Region>
+##############
+%GID:42
+%LID#1#42-1-<Dresden>#48#48#396
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	2	28	1
+e	3	28	1
+#Condition
+%X
+eq-let	3	<Dresden_(Bezirk)>
+%Y
+eq-let	1	<Dresden>
+##############
+%GID:43
+%LID#1#43-0-<Cisalpine_Republic>#99#99#528
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	33	1
+e	2	33	1
+#Condition
+%X
+eq-let	2	<Italian_Republic_(Napoleonic)>
+%Y
+eq-let	0	<Cisalpine_Republic>

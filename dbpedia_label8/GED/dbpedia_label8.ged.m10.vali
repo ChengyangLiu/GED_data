@@ -1,0 +1,238 @@
+##############
+%GID:695
+%LID#0#695-1-Jerusalem#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	104	ANY
+v	3	104	ANY
+e	0	16	2
+e	1	16	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:940
+%LID#0#940-1-Zagreb#0#0#7
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	264	ANY
+v	3	264	ANY
+e	0	39	2
+e	1	39	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:1067
+%LID#0#1067-1-Brussels#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	171	ANY
+v	3	171	ANY
+e	0	39	2
+e	1	39	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:2782
+%LID#1#2782-0-Edgar_P._Jacobs#3#3#39
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	8	ANY
+v	4	11	ANY
+e	0	16	1
+e	0	39	4
+e	3	39	2
+#Condition
+%X
+eq-let	3	Lasne
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3536
+%LID#0#3536-2-Jay_McShann#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	438	ANY
+v	2	438	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	39	2
+e	4	65	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3541
+%LID#0#3541-2-Jay_McShann#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	438	ANY
+v	2	438	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	39	2
+e	4	65	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4508
+%LID#0#4508-1-Kiev#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	612	ANY
+v	2	612	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4788
+%LID#0#4788-1-La_Jolla#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	349	ANY
+v	2	349	ANY
+v	3	11	ANY
+v	4	8	ANY
+v	5	11	ANY
+e	0	16	1
+e	0	75	3
+e	0	75	5
+e	4	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5036
+%LID#0#5036-1-Poughkeepsie,_New_York#0#0#9
+#Pattern
+v	0	8	ANY
+v	1	386	ANY
+v	2	386	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	4	39	2
+e	4	65	3
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5229
+%LID#1#5229-3-Bhangra_(music)#5#5#38
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	4	16	1
+e	4	65	2
+e	5	65	3
+#Condition
+%X
+eq-let	4	Panjabi_MC
+%Y
+eq-id	2	id	3	id
+##############
+%GID:5440
+%LID#0#5440-2-James_P._Johnson#0#0#8
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	11	ANY
+e	0	16	1
+e	0	65	3
+e	0	75	5
+e	4	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5852
+%LID#1#5852-3-Drama#9#9#15
+#Pattern
+v	0	8	ANY
+v	1	50	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	65	3
+e	0	65	2
+e	5	65	4
+#Condition
+%X
+eq-let	4	David_Seals
+%Y
+eq-id	3	id	4	id
+##############
+%GID:8362
+%LID#0#8362-1-Kiev#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	612	ANY
+v	2	612	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	4	21	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9873
+%LID#1#9873-3-Bhangra_(music)#3#3#11
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	65	2
+e	4	16	1
+e	5	65	3
+#Condition
+%X
+eq-let	4	Daler_Mehndi
+%Y
+eq-id	2	id	3	id

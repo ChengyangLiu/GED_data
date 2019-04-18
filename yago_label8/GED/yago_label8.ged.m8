@@ -1,0 +1,30 @@
+##########
+%GID:59
+%LID#1#59-1-<Undefeated_(2003_film)>#15#15#66
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	8	2
+e	1	8	3
+#Condition
+%X
+eq-let	0	name	<Bill_Ware>
+%Y
+eq-id	2	0
+##########
+%GID:104
+%LID#1#104-1-<Undefeated_(2003_film)>#15#15#66
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	8	1
+e	3	8	2
+#Condition
+%X
+eq-let	0	name	<Bill_Ware>
+%Y
+eq-id	1	2

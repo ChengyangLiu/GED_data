@@ -1,0 +1,165 @@
+##########
+%GID:150
+%LID#1#150-1-Beijing#4#4#15
+#Pattern
+v	0	8	ANY
+v	1	262	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	name	Zhang_Chengzhi
+%Y
+eq-id	0	id	2	id
+##########
+%GID:532
+%LID#1#532-1-Fairfield,_California#5#5#14
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	40	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+eq-let	0	name	John_Scalzi
+%Y
+eq-id	0	id	3	id
+##########
+%GID:1614
+%LID#0#1614-2-Cuba#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1182	ANY
+v	2	8	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:1835
+%LID#0#1835-2-Brunswick_Records#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	102	ANY
+v	2	8	ANY
+v	3	11	ANY
+v	4	11	ANY
+e	0	39	1
+e	0	75	3
+e	2	75	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:1910
+%LID#1#1910-2-Philippines#9#9#15
+#Pattern
+v	0	8	ANY
+v	1	1080	ANY
+v	2	8	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+#Condition
+%X
+eq-let	2	name	Luis_Eduardo_Aute
+%Y
+eq-id	3	0
+##########
+%GID:2427
+%LID#0#2427-1-Billboard_Hot_100#0#0#8
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	5	ANY
+v	4	5	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:2837
+%LID#0#2837-2-Chanson#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	8	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	16	1
+e	0	65	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:3745
+%LID#0#3745-0-Brad_Linaweaver#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	1148	ANY
+v	2	8	ANY
+v	3	19	ANY
+v	4	19	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:8015
+%LID#1#8015-3-Barclay_Records#9#9#29
+#Pattern
+v	0	8	ANY
+v	1	1489	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	65	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+eq-let	4	name	Charles_Aznavour
+%Y
+eq-id	2	3
+##########
+%GID:9801
+%LID#1#9801-0-Gillian_Flynn#8#8#33
+#Pattern
+v	0	8	ANY
+v	1	438	ANY
+v	2	438	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	3
+e	4	39	2
+e	4	65	5
+#Condition
+%X
+eq-let	2	name	Mystery_fiction
+%Y
+eq-id	1	2

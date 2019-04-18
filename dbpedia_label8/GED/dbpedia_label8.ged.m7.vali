@@ -1,0 +1,54 @@
+##############
+%GID:532
+%LID#1#532-1-Fairfield,_California#5#5#14
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	40	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+eq-let	0	John_Scalzi
+%Y
+eq-id	0	id	3	id
+##############
+%GID:8015
+%LID#1#8015-3-Barclay_Records#9#9#29
+#Pattern
+v	0	8	ANY
+v	1	1489	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	65	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+eq-let	4	Charles_Aznavour
+%Y
+eq-id	2	id	3	id
+##############
+%GID:9801
+%LID#1#9801-0-Gillian_Flynn#8#8#33
+#Pattern
+v	0	8	ANY
+v	1	438	ANY
+v	2	438	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	3
+e	4	39	2
+e	4	65	5
+#Condition
+%X
+eq-let	2	Mystery_fiction
+%Y
+eq-id	1	id	2	id

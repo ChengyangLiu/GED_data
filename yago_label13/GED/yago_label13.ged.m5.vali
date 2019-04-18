@@ -1,0 +1,30 @@
+##############
+%GID:28
+%LID#1#28-1-<Kings_XI_Punjab>#2#2#15
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	13	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+eq-let	0	<Preity_Zinta>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:130
+%LID#1#130-1-<Jaclyn_Smith>#11#11#33
+#Pattern
+v	0	13	ANY
+v	1	6	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	14	1
+e	3	10	2
+#Condition
+%X
+eq-let	1	<Houston>
+%Y
+eq-id	0	id	3	id

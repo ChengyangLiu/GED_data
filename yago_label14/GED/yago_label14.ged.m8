@@ -1,0 +1,149 @@
+##########
+%GID:80
+%LID#0#80-1-<Karmøy>#0#0#6
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	1	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	18	2
+e	3	18	4
+e	4	18	0
+e	5	18	1
+#Condition
+%X
+%Y
+eq-id	0	1
+##########
+%GID:98
+%LID#0#98-2-<Narsarsuaq_Airport>#0#0#4
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	1	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	18	2
+e	3	18	0
+e	4	18	1
+e	5	18	4
+#Condition
+%X
+%Y
+eq-id	0	1
+##########
+%GID:107
+%LID#1#107-1-<Russia>#24#24#66
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	0	1
+e	3	18	4
+e	4	0	2
+e	5	18	0
+#Condition
+%X
+eq-let	3	name	<Podkamennaya_Tunguska_Airport>
+%Y
+eq-id	1	2
+##########
+%GID:113
+%LID#1#113-4-<Islay_Airport>#7#7#33
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	0	2
+e	3	18	0
+e	4	18	1
+e	5	18	3
+#Condition
+%X
+eq-let	4	name	<Coll_Airport>
+%Y
+eq-id	0	1
+##########
+%GID:138
+%LID#1#138-4-<Sasereme_Airport>#22#22#33
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	0	1
+e	3	18	0
+e	4	0	2
+e	5	18	4
+#Condition
+%X
+eq-let	4	name	<Awaba_Airport>
+%Y
+eq-id	1	2
+##########
+%GID:180
+%LID#1#180-2-<Colonsay_Airport>#1#1#33
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	0	2
+e	3	18	0
+e	4	18	1
+e	5	18	4
+#Condition
+%X
+eq-let	5	name	<Islay_Airport>
+%Y
+eq-id	0	1
+##########
+%GID:222
+%LID#1#222-0-<Oban_Airport>#7#7#33
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	0	2
+e	3	18	4
+e	4	18	0
+e	5	18	1
+#Condition
+%X
+eq-let	4	name	<Colonsay_Airport>
+%Y
+eq-id	0	1
+##########
+%GID:226
+%LID#0#226-0-<Copenhagen_Airport>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	1	ANY
+v	3	14	ANY
+v	4	14	ANY
+v	5	14	ANY
+e	0	18	2
+e	3	18	0
+e	4	18	1
+e	5	18	3
+#Condition
+%X
+%Y
+eq-id	0	1

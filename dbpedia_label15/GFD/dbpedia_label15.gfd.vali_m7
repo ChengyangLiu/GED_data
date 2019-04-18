@@ -1,0 +1,11 @@
+##############
+%GID:30
+%LID#0#30-1-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	United_States

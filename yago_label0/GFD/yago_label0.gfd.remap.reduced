@@ -1,0 +1,2589 @@
+##########
+%GID:0
+%LID#1#0-1-<Coca#3#3#33
+#Pattern
+v	0	0	ANY
+v	1	2	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<National_Buffalo_Wing_Festival>
+%Y
+eq-let	1	<Coca
+##########
+%GID:1
+%LID#1#1-0-<Chestnut_Street_Bridge>#6#6#15
+#Pattern
+v	0	0	ANY
+v	1	12	ANY
+e	0	52	1
+#Condition
+%X
+eq-let	1	"113.1"
+%Y
+eq-let	0	<Chestnut_Street_Bridge>
+##########
+%GID:8
+%LID#1#8-1-"0"#5#5#15
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+e	0	49	1
+#Condition
+%X
+eq-let	0	<Little_Leaper>
+%Y
+eq-let	1	"0"
+##########
+%GID:9
+%LID#0#9-1-<Kingdom_of_Navarre>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+e	0	24	1
+#Condition
+%X
+%Y
+eq-let	1	<Kingdom_of_Navarre>
+##########
+%GID:10
+%LID#0#10-0-<Principality_of_Hutt_River>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+e	0	24	1
+#Condition
+%X
+%Y
+eq-let	0	<Principality_of_Hutt_River>
+##########
+%GID:11
+%LID#1#11-1-"27.5"#16#16#33
+#Pattern
+v	0	0	ANY
+v	1	12	ANY
+e	0	42	1
+#Condition
+%X
+eq-let	0	<Mir>
+%Y
+eq-let	1	"27.5"
+##########
+%GID:14
+%LID#1#14-1-<San_Jose,_California>#4#4#14
+#Pattern
+v	0	0	ANY
+v	1	11	ANY
+e	0	16	1
+#Condition
+%X
+eq-let	0	<1994_CONCACAF_Champions'_Cup>
+%Y
+eq-let	1	<San_Jose,_California>
+##########
+%GID:16
+%LID#0#16-1-<Hugues_Felicité_Robert_de_Lamennais>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	4	ANY
+e	0	17	1
+#Condition
+%X
+%Y
+eq-let	1	<Hugues_Felicité_Robert_de_Lamennais>
+##########
+%GID:19
+%LID#0#19-1-<wordnet_sugar_107859284>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+e	0	36	1
+#Condition
+%X
+%Y
+eq-let	1	<wordnet_sugar_107859284>
+##########
+%GID:20
+%LID#0#20-0-<London_Company>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+e	0	5	1
+#Condition
+%X
+%Y
+eq-let	0	<London_Company>
+##########
+%GID:21
+%LID#1#21-0-<Collectivity_of_Saint_Martin>#2#2#6
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+e	0	34	1
+#Condition
+%X
+eq-let	1	<Monaco>
+%Y
+eq-let	0	<Collectivity_of_Saint_Martin>
+##########
+%GID:22
+%LID#1#22-1-<Bonobono>#2#2#15
+#Pattern
+v	0	0	ANY
+v	1	8	ANY
+e	0	5	1
+#Condition
+%X
+eq-let	0	<Bandai_Visual>
+%Y
+eq-let	1	<Bonobono>
+##########
+%GID:24
+%LID#0#24-1-<Zamboanga_(province)>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+e	0	17	1
+#Condition
+%X
+%Y
+eq-let	1	<Zamboanga_(province)>
+##########
+%GID:27
+%LID#1#27-1-<Eerie_Publications>#2#2#6
+#Pattern
+v	0	0	ANY
+v	1	2	ANY
+e	0	5	1
+#Condition
+%X
+eq-let	0	<Harris_Publications>
+%Y
+eq-let	1	<Eerie_Publications>
+##########
+%GID:28
+%LID#0#28-1-<Gunma_Prefecture>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+e	0	5	1
+#Condition
+%X
+%Y
+eq-let	1	<Gunma_Prefecture>
+##########
+%GID:29
+%LID#1#29-0-<Shire_of_Greenough>#34#34#66
+#Pattern
+v	0	0	ANY
+v	1	14	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<Kalbarri_Airport>
+%Y
+eq-let	0	<Shire_of_Greenough>
+##########
+%GID:30
+%LID#0#30-0-<Tehrik#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	11	ANY
+e	0	5	1
+#Condition
+%X
+%Y
+eq-let	0	<Tehrik
+##########
+%GID:31
+%LID#1#31-0-<Korea_Hydro_&_Nuclear_Power>#11#11#66
+#Pattern
+v	0	0	ANY
+v	1	11	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<Gyeongju_Korea_Hydro_&_Nuclear_Power_FC>
+%Y
+eq-let	0	<Korea_Hydro_&_Nuclear_Power>
+##########
+%GID:33
+%LID#1#33-0-<Pecatonica_High_School_(Wisconsin)>#2#2#6
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+e	0	48	1
+#Condition
+%X
+eq-let	1	"1400000"
+%Y
+eq-let	0	<Pecatonica_High_School_(Wisconsin)>
+##########
+%GID:36
+%LID#1#36-1-<Rotuman_language>#23#23#103
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	0	<Dominion_of_Melchizedek>
+%Y
+eq-let	1	<Rotuman_language>
+##########
+%GID:39
+%LID#1#39-1-<Renminbi>#21#21#66
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+e	0	33	1
+#Condition
+%X
+eq-let	0	<Wa_State>
+%Y
+eq-let	1	<Renminbi>
+##########
+%GID:40
+%LID#1#40-0-<Touo_language>#7#7#15
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+e	0	54	1
+#Condition
+%X
+eq-let	1	"tqu"
+%Y
+eq-let	0	<Touo_language>
+##########
+%GID:41
+%LID#1#41-1-"3577"#40#40#66
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+e	0	39	1
+#Condition
+%X
+eq-let	0	<Cathedral_Range_State_Park>
+%Y
+eq-let	1	"3577"
+##########
+%GID:43
+%LID#1#43-0-<Paninternational_Flight_112>#12#12#66
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+e	0	16	1
+#Condition
+%X
+eq-let	1	<Hasloh>
+%Y
+eq-let	0	<Paninternational_Flight_112>
+##########
+%GID:45
+%LID#0#45-1-<Saterland_Frisian_language>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	1	<Saterland_Frisian_language>
+##########
+%GID:46
+%LID#1#46-1-<Marcus_Aemilius_Lepidus_(consul_78_BC)>#1#1#15
+#Pattern
+v	0	0	ANY
+v	1	2	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	0	<British_Satellite_Broadcasting>
+%Y
+eq-let	1	<Marcus_Aemilius_Lepidus_(consul_78_BC)>
+##########
+%GID:49
+%LID#0#49-0-<Union_Stock_Yards>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	4	ANY
+e	0	12	1
+#Condition
+%X
+%Y
+eq-let	0	<Union_Stock_Yards>
+##########
+%GID:52
+%LID#1#52-1-<Bangkok_United_F.C.>#26#26#33
+#Pattern
+v	0	0	ANY
+v	1	5	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	0	<True_Corporation>
+%Y
+eq-let	1	<Bangkok_United_F.C.>
+##########
+%GID:55
+%LID#1#55-1-"3.8"#22#22#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	12	ANY
+e	0	39	2
+e	1	41	2
+#Condition
+%X
+eq-let	0	<Woorree,_Western_Australia>
+%Y
+eq-let	2	"3.8"
+##########
+%GID:56
+%LID#1#56-0-<Sands_of_Samar>#7#7#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	12	ANY
+e	0	37	2
+e	1	39	2
+#Condition
+%X
+eq-let	1	<Arreton_Down>
+%Y
+eq-let	0	<Sands_of_Samar>
+##########
+%GID:57
+%LID#0#57-1-"60"#0#0#7
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	49	2
+e	1	49	2
+#Condition
+%X
+%Y
+eq-let	2	"60"
+##########
+%GID:59
+%LID#1#59-1-"1.3"#3#3#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	12	ANY
+e	0	39	2
+e	1	39	2
+#Condition
+%X
+eq-let	0	<Jamboree_Heights,_Queensland>
+%Y
+eq-let	2	"1.3"
+##########
+%GID:60
+%LID#0#60-1-<San_Jose,_California>#0#0#3
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	11	ANY
+e	0	16	2
+e	1	16	2
+#Condition
+%X
+%Y
+eq-let	2	<San_Jose,_California>
+##########
+%GID:64
+%LID#1#64-0-<First_Battle_of_Tabasco>#14#14#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	16	2
+e	1	17	0
+#Condition
+%X
+eq-let	2	<Villahermosa>
+%Y
+eq-let	0	<First_Battle_of_Tabasco>
+##########
+%GID:66
+%LID#0#66-2-<Little_Leaper>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	49	2
+#Condition
+%X
+%Y
+eq-let	1	<Little_Leaper>
+##########
+%GID:67
+%LID#1#67-1-<Phoenix_(German_TV_station)>#31#31#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	12	2
+e	1	12	2
+#Condition
+%X
+eq-let	0	<ZDF>
+%Y
+eq-let	2	<Phoenix_(German_TV_station)>
+##########
+%GID:68
+%LID#1#68-0-<SMG_(property_management)>#0#0#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	12	2
+e	1	12	0
+#Condition
+%X
+eq-let	1	<American_Capital>
+%Y
+eq-let	0	<SMG_(property_management)>
+##########
+%GID:69
+%LID#0#69-0-<Ramstein_Air_Base>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	16	0
+#Condition
+%X
+%Y
+eq-let	0	<Ramstein_Air_Base>
+##########
+%GID:70
+%LID#0#70-1-<Australia>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	24	2
+#Condition
+%X
+%Y
+eq-let	2	<Australia>
+##########
+%GID:71
+%LID#0#71-2-<Balfour_Beatty>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	14	ANY
+e	0	0	2
+e	1	12	2
+#Condition
+%X
+%Y
+eq-let	1	<Balfour_Beatty>
+##########
+%GID:72
+%LID#1#72-0-<Eighth_Sister_(Moscow)>#7#7#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	42	2
+e	1	52	2
+#Condition
+%X
+eq-let	1	<Circle_Drive_Bridge>
+%Y
+eq-let	0	<Eighth_Sister_(Moscow)>
+##########
+%GID:74
+%LID#0#74-1-<Cyclorama_Building_at_Gettysburg>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	12	2
+e	1	16	0
+#Condition
+%X
+%Y
+eq-let	2	<Cyclorama_Building_at_Gettysburg>
+##########
+%GID:75
+%LID#1#75-2-<Alma,_Limpopo>#24#24#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	0
+#Condition
+%X
+eq-let	2	<Modimolle>
+%Y
+eq-let	1	<Alma,_Limpopo>
+##########
+%GID:76
+%LID#1#76-0-<Vanguard_Health_Systems>#11#11#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	1	<Applied_Materials>
+%Y
+eq-let	0	<Vanguard_Health_Systems>
+##########
+%GID:77
+%LID#1#77-1-<Imperial_College_Press>#4#4#25
+#Pattern
+v	0	0	ANY
+v	1	10	ANY
+v	2	0	ANY
+e	0	5	2
+e	2	6	1
+#Condition
+%X
+eq-let	1	<http://www.icpress.co.uk>
+%Y
+eq-let	2	<Imperial_College_Press>
+##########
+%GID:78
+%LID#1#78-2-<Taito_Legends>#8#8#33
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	12	2
+e	2	5	1
+#Condition
+%X
+eq-let	2	<Taito_Corporation>
+%Y
+eq-let	1	<Taito_Legends>
+##########
+%GID:81
+%LID#1#81-2-<http://www.avenches.ch>#13#13#33
+#Pattern
+v	0	0	ANY
+v	1	10	ANY
+v	2	0	ANY
+e	0	16	2
+e	2	6	1
+#Condition
+%X
+eq-let	2	<Avenches>
+%Y
+eq-let	1	<http://www.avenches.ch>
+##########
+%GID:82
+%LID#0#82-0-<Deruluft>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	12	2
+#Condition
+%X
+%Y
+eq-let	0	<Deruluft>
+##########
+%GID:84
+%LID#1#84-1-<Monaco>#4#4#29
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	16	2
+e	1	34	2
+#Condition
+%X
+eq-let	0	<1995_Monte_Carlo_Open>
+%Y
+eq-let	2	<Monaco>
+##########
+%GID:85
+%LID#0#85-0-<Piper_Islands_National_Park>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	49	2
+#Condition
+%X
+%Y
+eq-let	0	<Piper_Islands_National_Park>
+##########
+%GID:86
+%LID#1#86-2-<http://www.buedelsdorf.de/>#6#6#33
+#Pattern
+v	0	0	ANY
+v	1	10	ANY
+v	2	0	ANY
+e	0	0	2
+e	2	6	1
+#Condition
+%X
+eq-let	0	<de/Mecalac_Baumaschinen>
+%Y
+eq-let	1	<http://www.buedelsdorf.de/>
+##########
+%GID:87
+%LID#1#87-0-<Westinghouse_Broadcasting>#2#2#6
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	2	ANY
+e	0	12	2
+e	1	12	2
+#Condition
+%X
+eq-let	1	<Ryman_Hospitality_Properties>
+%Y
+eq-let	0	<Westinghouse_Broadcasting>
+##########
+%GID:89
+%LID#1#89-1-<San_Diego>#1#1#6
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	14	ANY
+e	0	0	2
+e	1	12	0
+#Condition
+%X
+eq-let	0	<Manchester_Grand_Hyatt_Hotel>
+%Y
+eq-let	2	<San_Diego>
+##########
+%GID:90
+%LID#1#90-1-"37"#2#2#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	39	2
+#Condition
+%X
+eq-let	1	<Fort_Neoheroka>
+%Y
+eq-let	2	"37"
+##########
+%GID:92
+%LID#1#92-0-<Trinity_Area_School_District>#4#4#99
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	10	ANY
+e	0	6	2
+e	1	6	2
+#Condition
+%X
+eq-let	2	<http://www.trinitypride.k12.pa.us/>
+%Y
+eq-let	0	<Trinity_Area_School_District>
+##########
+%GID:94
+%LID#0#94-0-<Battle_of_Turnhout_(1789)>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	16	2
+e	2	33	1
+#Condition
+%X
+%Y
+eq-let	0	<Battle_of_Turnhout_(1789)>
+##########
+%GID:95
+%LID#1#95-2-<Flint_television_relay_station>#10#10#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	42	2
+e	1	42	2
+#Condition
+%X
+eq-let	0	<Chesterfield_transmitting_station>
+%Y
+eq-let	1	<Flint_television_relay_station>
+##########
+%GID:96
+%LID#1#96-1-"451"#10#10#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	52	2
+#Condition
+%X
+eq-let	0	<Chapel_Arm>
+%Y
+eq-let	2	"451"
+##########
+%GID:97
+%LID#0#97-0-<Orne_(river)>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	14	ANY
+e	0	0	2
+e	1	16	0
+#Condition
+%X
+%Y
+eq-let	0	<Orne_(river)>
+##########
+%GID:98
+%LID#1#98-1-<German_language>#33#33#58
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	35	2
+e	1	35	2
+#Condition
+%X
+eq-let	1	<Vulgaria>
+%Y
+eq-let	2	<German_language>
+##########
+%GID:99
+%LID#1#99-1-"1600"#11#11#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	52	2
+e	1	52	2
+#Condition
+%X
+eq-let	1	<Severn_Bridge>
+%Y
+eq-let	2	"1600"
+##########
+%GID:101
+%LID#0#101-0-<Siege_of_Dubrovnik>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	6	ANY
+e	0	16	2
+e	1	17	0
+#Condition
+%X
+%Y
+eq-let	0	<Siege_of_Dubrovnik>
+##########
+%GID:104
+%LID#0#104-2-<Principality_of_Hutt_River>#0#0#4
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	16	2
+e	1	24	2
+#Condition
+%X
+%Y
+eq-let	1	<Principality_of_Hutt_River>
+##########
+%GID:105
+%LID#0#105-1-<Susquehanna_Steam_Electric_Station>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	12	2
+e	1	5	2
+#Condition
+%X
+%Y
+eq-let	2	<Susquehanna_Steam_Electric_Station>
+##########
+%GID:106
+%LID#1#106-2-<4th_Cavalry_Regiment>#36#36#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	16	2
+e	1	17	0
+#Condition
+%X
+eq-let	2	<Texas>
+%Y
+eq-let	1	<4th_Cavalry_Regiment>
+##########
+%GID:107
+%LID#1#107-0-<Siege_of_Takatenjin_(1574)>#2#2#6
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	16	2
+e	1	16	2
+#Condition
+%X
+eq-let	1	<Siege_of_Takatenjin_(1581)>
+%Y
+eq-let	0	<Siege_of_Takatenjin_(1574)>
+##########
+%GID:108
+%LID#1#108-0-<Waalhaven_district>#4#4#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	42	2
+#Condition
+%X
+eq-let	1	<Ffrwd_Fawr_Waterfall>
+%Y
+eq-let	0	<Waalhaven_district>
+##########
+%GID:109
+%LID#1#109-2-<Viacom_International>#3#3#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	12	2
+e	1	12	2
+#Condition
+%X
+eq-let	0	<Viacom_18>
+%Y
+eq-let	1	<Viacom_International>
+##########
+%GID:111
+%LID#1#111-1-<Swansea,_Tasmania>#1#1#25
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+e	0	0	1
+#Condition
+%X
+eq-let	0	<Bicheno,_Tasmania>
+%Y
+eq-let	1	<Swansea,_Tasmania>
+##########
+%GID:112
+%LID#1#112-2-<Municipal_Borough_of_Ilford>#9#9#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	43	2
+e	1	43	2
+#Condition
+%X
+eq-let	0	<Marist_College_Emerald>
+%Y
+eq-let	1	<Municipal_Borough_of_Ilford>
+##########
+%GID:113
+%LID#1#113-1-<Nadbrzeże>#3#3#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	0	2
+e	2	0	1
+#Condition
+%X
+eq-let	0	<nl/Station_Nadbrzeże>
+%Y
+eq-let	2	<Nadbrzeże>
+##########
+%GID:114
+%LID#1#114-2-<United_Nations_Transitional_Administration_in_East_Timor>#22#22#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	33	2
+e	1	33	2
+#Condition
+%X
+eq-let	0	<Spanish_Virgin_Islands>
+%Y
+eq-let	1	<United_Nations_Transitional_Administration_in_East_Timor>
+##########
+%GID:115
+%LID#1#115-1-<Redvers>#48#48#66
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	0	2
+e	2	0	1
+#Condition
+%X
+eq-let	0	<Redvers_Airport>
+%Y
+eq-let	2	<Redvers>
+##########
+%GID:117
+%LID#0#117-2-<SavaCentre>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	12	2
+e	2	12	1
+#Condition
+%X
+%Y
+eq-let	1	<SavaCentre>
+##########
+%GID:118
+%LID#1#118-2-<Barcelona>#4#4#25
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+v	2	0	ANY
+e	0	0	2
+e	2	0	1
+#Condition
+%X
+eq-let	2	<Passeig_de_Gràcia,_Barcelona>
+%Y
+eq-let	1	<Barcelona>
+##########
+%GID:119
+%LID#1#119-1-<Vlaamse_Radio#4#4#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	12	2
+e	2	12	1
+#Condition
+%X
+eq-let	1	<Ketnet>
+%Y
+eq-let	2	<Vlaamse_Radio
+##########
+%GID:120
+%LID#0#120-1-<Japan>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	5	0
+#Condition
+%X
+%Y
+eq-let	2	<Japan>
+##########
+%GID:121
+%LID#0#121-0-<Wari_Warini>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	34	2
+#Condition
+%X
+%Y
+eq-let	0	<Wari_Warini>
+##########
+%GID:122
+%LID#1#122-2-<The_Flintstone_House>#5#5#29
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	42	2
+#Condition
+%X
+eq-let	2	"6"
+%Y
+eq-let	1	<The_Flintstone_House>
+##########
+%GID:124
+%LID#1#124-1-<Halo_4>#46#46#128
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	0	<343_Industries>
+%Y
+eq-let	2	<Halo_4>
+##########
+%GID:125
+%LID#0#125-1-<Gmina_Igołomia#0#0#11
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	2	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+%Y
+eq-let	2	<Gmina_Igołomia
+##########
+%GID:126
+%LID#0#126-0-<Magoffin_County,_Kentucky>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	16	0
+#Condition
+%X
+%Y
+eq-let	0	<Magoffin_County,_Kentucky>
+##########
+%GID:127
+%LID#1#127-1-<Democratic_Republic_of_Armenia>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	16	2
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Turkish–Armenian_War>
+%Y
+eq-let	2	<Democratic_Republic_of_Armenia>
+##########
+%GID:129
+%LID#1#129-1-<Logan's_Roadhouse>#18#18#66
+#Pattern
+v	0	0	ANY
+v	1	10	ANY
+v	2	0	ANY
+e	0	12	2
+e	2	6	1
+#Condition
+%X
+eq-let	0	<Kelso_&_Company>
+%Y
+eq-let	2	<Logan's_Roadhouse>
+##########
+%GID:130
+%LID#0#130-2-<Polish–Teutonic_War_(1326–32)>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	16	2
+e	2	17	1
+#Condition
+%X
+%Y
+eq-let	1	<Polish–Teutonic_War_(1326–32)>
+##########
+%GID:131
+%LID#1#131-1-<Oslo>#0#0#66
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Den_norske_Creditbank>
+%Y
+eq-let	1	<Oslo>
+##########
+%GID:133
+%LID#1#133-1-<Redvers>#48#48#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	0	1
+e	1	0	3
+e	2	0	3
+#Condition
+%X
+eq-let	0	<Redvers_Airport>
+%Y
+eq-let	1	<Redvers>
+##########
+%GID:134
+%LID#1#134-1-<Worldvision_Enterprises>#7#7#29
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	12	1
+e	2	12	1
+e	3	12	0
+#Condition
+%X
+eq-let	2	<American_Broadcasting_Company>
+%Y
+eq-let	1	<Worldvision_Enterprises>
+##########
+%GID:135
+%LID#1#135-3-<British_Legions>#4#4#33
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	17	3
+e	3	16	1
+#Condition
+%X
+eq-let	0	<Quebrada_Magunchal_River>
+%Y
+eq-let	2	<British_Legions>
+##########
+%GID:137
+%LID#1#137-2-<Taishō#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	38	1
+e	2	49	1
+e	3	38	1
+#Condition
+%X
+eq-let	0	<Carasso>
+%Y
+eq-let	3	<Taishō
+##########
+%GID:139
+%LID#1#139-2-<Netherlands>#38#38#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	0	1
+e	1	0	3
+e	2	16	3
+#Condition
+%X
+eq-let	1	<Rhine–Meuse–Scheldt_delta>
+%Y
+eq-let	3	<Netherlands>
+##########
+%GID:140
+%LID#1#140-0-<Trinity_Area_School_District>#4#4#99
+#Pattern
+v	0	0	ANY
+v	1	10	ANY
+v	2	0	ANY
+e	0	6	1
+e	2	6	1
+#Condition
+%X
+eq-let	1	<http://www.trinitypride.k12.pa.us/>
+%Y
+eq-let	0	<Trinity_Area_School_District>
+##########
+%GID:142
+%LID#1#142-1-<London>#31#31#58
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+eq-let	0	<Chelsea_Barracks>
+%Y
+eq-let	1	<London>
+##########
+%GID:143
+%LID#1#143-1-<San_Francisco>#24#24#66
+#Pattern
+v	0	0	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Eppleton_Hall_(1914)>
+%Y
+eq-let	1	<San_Francisco>
+##########
+%GID:144
+%LID#1#144-1-<Halo_4>#46#46#128
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	0	<343_Industries>
+%Y
+eq-let	1	<Halo_4>
+##########
+%GID:145
+%LID#0#145-0-<Casa_Amatller>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	6	ANY
+v	3	0	ANY
+e	0	0	1
+e	1	0	2
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	0	<Casa_Amatller>
+##########
+%GID:147
+%LID#0#147-3-<Institute_for_Federal_Real_Estate_(Germany)>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	1	ANY
+e	0	0	1
+e	1	0	3
+e	2	12	1
+#Condition
+%X
+%Y
+eq-let	2	<Institute_for_Federal_Real_Estate_(Germany)>
+##########
+%GID:148
+%LID#0#148-2-<Barcelona>#0#0#2
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	6	ANY
+e	0	0	1
+e	1	0	3
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	3	<Barcelona>
+##########
+%GID:150
+%LID#1#150-0-<Paddock_Farm>#29#29#66
+#Pattern
+v	0	0	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	1	<Holden,_Massachusetts>
+%Y
+eq-let	0	<Paddock_Farm>
+##########
+%GID:151
+%LID#1#151-1-<Balochi_language>#11#11#239
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	35	1
+e	2	35	1
+e	3	35	1
+#Condition
+%X
+eq-let	3	<Las_Bela_(princely_state)>
+%Y
+eq-let	1	<Balochi_language>
+##########
+%GID:152
+%LID#1#152-0-<Lembevere>#21#21#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	1	0	3
+e	2	0	1
+#Condition
+%X
+eq-let	1	<Konguta_Parish>
+%Y
+eq-let	0	<Lembevere>
+##########
+%GID:153
+%LID#1#153-2-<Guan_Yin_of_the_South_Sea_of_Sanya>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	39	1
+e	2	42	1
+e	3	42	1
+#Condition
+%X
+eq-let	2	<Heathfield_transmitting_station>
+%Y
+eq-let	3	<Guan_Yin_of_the_South_Sea_of_Sanya>
+##########
+%GID:155
+%LID#1#155-0-<Stręgoborzyce>#2#2#93
+#Pattern
+v	0	0	ANY
+v	1	2	ANY
+v	2	0	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	-1	<Rudno_Górne>
+%Y
+eq-let	0	<Stręgoborzyce>
+##########
+%GID:157
+%LID#0#157-0-<nl/Tunnel_van_La_Bête_Refaite>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	1	0	3
+e	3	0	2
+#Condition
+%X
+%Y
+eq-let	0	<nl/Tunnel_van_La_Bête_Refaite>
+##########
+%GID:158
+%LID#1#158-0-<Siege_of_Takatenjin_(1574)>#2#2#6
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	2	<Siege_of_Takatenjin_(1581)>
+%Y
+eq-let	0	<Siege_of_Takatenjin_(1574)>
+##########
+%GID:159
+%LID#1#159-0-<People's_Liberation_Army_Navy>#10#10#66
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	3	<United_States_Seventh_Fleet>
+%Y
+eq-let	0	<People's_Liberation_Army_Navy>
+##########
+%GID:160
+%LID#0#160-0-<Yasnaya_Polyana,_Kaliningrad_Oblast>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	38	1
+e	2	52	1
+e	3	38	1
+#Condition
+%X
+%Y
+eq-let	0	<Yasnaya_Polyana,_Kaliningrad_Oblast>
+##########
+%GID:161
+%LID#1#161-1-<Vancouver>#49#49#143
+#Pattern
+v	0	0	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+eq-let	0	<Figure_skating_at_the_2010_Winter_Olympics>
+%Y
+eq-let	1	<Vancouver>
+##########
+%GID:162
+%LID#1#162-0-<Geographical_Association>#13#13#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	3
+e	3	0	1
+#Condition
+%X
+eq-let	2	<Hillsborough_disaster>
+%Y
+eq-let	0	<Geographical_Association>
+##########
+%GID:163
+%LID#0#163-0-<fr/Río_Arabopó>#0#0#48
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	0	<fr/Río_Arabopó>
+##########
+%GID:164
+%LID#0#164-0-<Nigger_Head>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	24	1
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	<Nigger_Head>
+##########
+%GID:165
+%LID#1#165-2-<Chesterfield_transmitting_station>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	38	1
+e	2	42	1
+e	3	42	1
+#Condition
+%X
+eq-let	2	<Flint_television_relay_station>
+%Y
+eq-let	3	<Chesterfield_transmitting_station>
+##########
+%GID:167
+%LID#0#167-3-<Little_Leaper>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	38	1
+e	2	49	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	2	<Little_Leaper>
+##########
+%GID:168
+%LID#1#168-3-<Moulton_Rural_District>#1#1#33
+#Pattern
+v	0	0	ANY
+v	1	12	ANY
+v	2	0	ANY
+e	0	39	1
+e	2	39	1
+#Condition
+%X
+eq-let	2	<Kensington,_South_Australia>
+%Y
+eq-let	-1	<Moulton_Rural_District>
+##########
+%GID:169
+%LID#1#169-1-<Sarajevo_Region>#27#27#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	0
+e	3	0	0
+#Condition
+%X
+eq-let	3	<Klek_(Novo_Sarajevo_–_Sarajevo)>
+%Y
+eq-let	1	<Sarajevo_Region>
+##########
+%GID:171
+%LID#1#171-2-<Viacom_International>#3#3#33
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+eq-let	0	<Viacom_18>
+%Y
+eq-let	2	<Viacom_International>
+##########
+%GID:172
+%LID#0#172-1-<Mazovia>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	16	1
+e	1	17	2
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	<Mazovia>
+##########
+%GID:173
+%LID#1#173-0-<Kyocera>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	0	ANY
+e	0	12	1
+e	1	5	2
+e	3	12	1
+#Condition
+%X
+eq-let	3	<Square_Enix>
+%Y
+eq-let	0	<Kyocera>
+##########
+%GID:174
+%LID#1#174-1-<Govisümber_Province>#2#2#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	0	1
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Bayantal,_Govisümber>
+%Y
+eq-let	1	<Govisümber_Province>
+##########
+%GID:175
+%LID#1#175-2-<United_Nations_Transitional_Administration_in_East_Timor>#22#22#33
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	33	1
+e	2	33	1
+#Condition
+%X
+eq-let	0	<Spanish_Virgin_Islands>
+%Y
+eq-let	2	<United_Nations_Transitional_Administration_in_East_Timor>
+##########
+%GID:176
+%LID#1#176-3-<Saint#3#3#99
+#Pattern
+v	0	0	ANY
+v	1	12	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	39	1
+e	2	41	1
+e	3	39	1
+#Condition
+%X
+eq-let	3	<Bluff_Point,_Western_Australia>
+%Y
+eq-let	2	<Saint
+##########
+%GID:177
+%LID#1#177-1-<Korea_Gas_Corporation>#5#5#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	12	1
+e	1	12	3
+e	2	12	3
+#Condition
+%X
+eq-let	0	<Korea_Electric_Power_Corporation>
+%Y
+eq-let	1	<Korea_Gas_Corporation>
+##########
+%GID:178
+%LID#0#178-2-<First_Crusade>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	2	17	3
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	3	<First_Crusade>
+##########
+%GID:179
+%LID#1#179-2-<Taishō#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+#Condition
+%X
+eq-let	0	<Carasso>
+%Y
+eq-let	3	<Taishō
+##########
+%GID:180
+%LID#1#180-0-<Anarhar>#42#42#99
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Mazraeh
+%Y
+eq-let	0	<Anarhar>
+##########
+%GID:181
+%LID#1#181-1-<London>#33#33#66
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+eq-let	3	<2012_ATP_World_Tour_Finals>
+%Y
+eq-let	1	<London>
+##########
+%GID:183
+%LID#1#183-1-<Oslo>#0#0#66
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Den_norske_Creditbank>
+%Y
+eq-let	1	<Oslo>
+##########
+%GID:184
+%LID#0#184-2-<Kassandra_(TV_series)>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	5	3
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	3	<Kassandra_(TV_series)>
+##########
+%GID:185
+%LID#1#185-1-"1.3"#3#3#66
+#Pattern
+v	0	0	ANY
+v	1	12	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	39	1
+e	2	41	1
+e	3	41	1
+#Condition
+%X
+eq-let	3	<Storegga_Slide>
+%Y
+eq-let	1	"1.3"
+##########
+%GID:186
+%LID#1#186-0-<Sands_of_Samar>#7#7#33
+#Pattern
+v	0	0	ANY
+v	1	12	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	37	1
+e	2	41	1
+e	3	39	1
+#Condition
+%X
+eq-let	3	<Arreton_Down>
+%Y
+eq-let	0	<Sands_of_Samar>
+##########
+%GID:187
+%LID#1#187-3-<Walden_Veterans'_Memorial_Bridge>#7#7#33
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	38	1
+e	2	38	1
+#Condition
+%X
+eq-let	2	<Chapelle,_Broye>
+%Y
+eq-let	-1	<Walden_Veterans'_Memorial_Bridge>
+##########
+%GID:188
+%LID#1#188-1-"705974"#17#17#239
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	38	1
+e	2	38	1
+e	3	38	1
+#Condition
+%X
+eq-let	0	<Michigan's_11th_congressional_district>
+%Y
+eq-let	1	"705974"
+##########
+%GID:189
+%LID#1#189-0-<Jugów>#29#29#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	0
+#Condition
+%X
+eq-let	1	<Lower_Silesian_Voivodeship>
+%Y
+eq-let	0	<Jugów>
+##########
+%GID:190
+%LID#0#190-2-<Taito_Legends>#0#0#2
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	9	ANY
+e	0	12	1
+e	1	5	3
+e	2	5	3
+#Condition
+%X
+%Y
+eq-let	3	<Taito_Legends>
+##########
+%GID:191
+%LID#1#191-1-<Vlaamse_Radio#4#4#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	12	1
+e	1	12	2
+#Condition
+%X
+eq-let	2	<Ketnet>
+%Y
+eq-let	1	<Vlaamse_Radio
+##########
+%GID:193
+%LID#1#193-1-<Worldvision_Enterprises>#5#5#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	12	1
+e	2	12	3
+e	3	12	1
+#Condition
+%X
+eq-let	2	<Blockbuster_LLC>
+%Y
+eq-let	1	<Worldvision_Enterprises>
+##########
+%GID:194
+%LID#1#194-0-<Westinghouse_Broadcasting>#2#2#6
+#Pattern
+v	0	0	ANY
+v	1	2	ANY
+v	2	0	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+eq-let	2	<Ryman_Hospitality_Properties>
+%Y
+eq-let	0	<Westinghouse_Broadcasting>
+##########
+%GID:195
+%LID#0#195-0-<Gluhovići>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	38	1
+e	2	42	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	0	<Gluhovići>
+##########
+%GID:196
+%LID#1#196-2-<1st_Armored_Division_(United_States)>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	2	17	0
+e	3	17	0
+#Condition
+%X
+eq-let	2	<3rd_Infantry_Division_(United_States)>
+%Y
+eq-let	3	<1st_Armored_Division_(United_States)>
+##########
+%GID:197
+%LID#0#197-2-<Battle_of_Salyersville>#0#0#4
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	16	0
+#Condition
+%X
+%Y
+eq-let	3	<Battle_of_Salyersville>
+##########
+%GID:198
+%LID#0#198-0-<Nanmapwe>#0#0#32
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	0	<Nanmapwe>
+##########
+%GID:200
+%LID#1#200-1-<Phoenix_(German_TV_station)>#31#31#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+eq-let	0	<ZDF>
+%Y
+eq-let	1	<Phoenix_(German_TV_station)>
+##########
+%GID:201
+%LID#0#201-0-<Athletics_at_the_2012_Summer_Olympics_–_Men's_shot_put>#0#0#29
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+v	2	0	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	0	<Athletics_at_the_2012_Summer_Olympics_–_Men's_shot_put>
+##########
+%GID:202
+%LID#0#202-3-<Rowridge_Valley>#0#0#2
+#Pattern
+v	0	0	ANY
+v	1	12	ANY
+v	2	0	ANY
+e	0	37	1
+e	2	37	1
+#Condition
+%X
+%Y
+eq-let	-1	<Rowridge_Valley>
+##########
+%GID:203
+%LID#1#203-1-<Arabic_language>#44#44#99
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	35	1
+e	2	35	1
+#Condition
+%X
+eq-let	0	<Abyei>
+%Y
+eq-let	1	<Arabic_language>
+##########
+%GID:204
+%LID#1#204-2-<Triabunna>#11#11#58
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	1	<Swansea,_Tasmania>
+%Y
+eq-let	2	<Triabunna>
+##########
+%GID:205
+%LID#1#205-0-<Amiens_3rd_(Nord#8#8#66
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	37	1
+e	2	37	1
+e	3	37	1
+#Condition
+%X
+eq-let	1	"49.89222222222222"
+%Y
+eq-let	0	<Amiens_3rd_(Nord
+##########
+%GID:207
+%LID#1#207-1-<Venezuela>#44#44#66
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Movimiento_Nacional_de_Trabajadores_Para_La_Liberación>
+%Y
+eq-let	1	<Venezuela>
+##########
+%GID:208
+%LID#1#208-2-<Kuwait_Investment_Authority>#10#10#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	12	1
+e	2	12	0
+#Condition
+%X
+eq-let	1	<Freightliner_Trucks>
+%Y
+eq-let	2	<Kuwait_Investment_Authority>
+##########
+%GID:209
+%LID#1#209-1-<Negev>#35#35#99
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+eq-let	0	<Yakhini>
+%Y
+eq-let	1	<Negev>
+##########
+%GID:210
+%LID#1#210-1-<San_Francisco>#24#24#66
+#Pattern
+v	0	0	ANY
+v	1	14	ANY
+v	2	0	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	2	<Eppleton_Hall_(1914)>
+%Y
+eq-let	1	<San_Francisco>
+##########
+%GID:211
+%LID#1#211-0-<Flint_television_relay_station>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	42	1
+e	2	52	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<Chesterfield_transmitting_station>
+%Y
+eq-let	0	<Flint_television_relay_station>
+##########
+%GID:212
+%LID#1#212-2-<Flint_television_relay_station>#10#10#33
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	42	1
+e	2	42	1
+#Condition
+%X
+eq-let	0	<Chesterfield_transmitting_station>
+%Y
+eq-let	2	<Flint_television_relay_station>
+##########
+%GID:213
+%LID#1#213-0-<2011_SAP_Open>#1#1#11
+#Pattern
+v	0	0	ANY
+v	1	11	ANY
+v	2	0	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	-1	<2009_SAP_Open>
+%Y
+eq-let	0	<2011_SAP_Open>
+##########
+%GID:217
+%LID#1#217-0-<Vanguard_Health_Systems>#11#11#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	2	<Applied_Materials>
+%Y
+eq-let	0	<Vanguard_Health_Systems>
+##########
+%GID:218
+%LID#1#218-1-"50"#7#7#33
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	38	1
+e	2	52	1
+e	3	42	1
+#Condition
+%X
+eq-let	2	<Liang_Bua>
+%Y
+eq-let	1	"50"
+##########
+%GID:219
+%LID#1#219-1-<Quezon_City>#43#43#132
+#Pattern
+v	0	0	ANY
+v	1	11	ANY
+v	2	0	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	2	<Alliance_of_Concerned_Teachers>
+%Y
+eq-let	1	<Quezon_City>
+##########
+%GID:220
+%LID#0#220-0-<Orne_(river)>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	16	0
+#Condition
+%X
+%Y
+eq-let	0	<Orne_(river)>
+##########
+%GID:221
+%LID#1#221-1-"1600"#11#11#33
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	52	1
+e	2	52	1
+#Condition
+%X
+eq-let	2	<Severn_Bridge>
+%Y
+eq-let	1	"1600"
+##########
+%GID:222
+%LID#0#222-0-<KISQ>#0#0#32
+#Pattern
+v	0	0	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	0	<KISQ>
+##########
+%GID:223
+%LID#0#223-1-<Japan>#0#0#2
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	5	0
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	<Japan>
+##########
+%GID:224
+%LID#0#224-3-<BBC_Yorkshire>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	12	3
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	2	<BBC_Yorkshire>
+##########
+%GID:225
+%LID#1#225-3-<Gazprom_Neft>#21#21#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	12	1
+e	2	12	1
+e	3	12	1
+#Condition
+%X
+eq-let	3	<Novatek>
+%Y
+eq-let	2	<Gazprom_Neft>
+##########
+%GID:226
+%LID#1#226-1-<Brentwood,_Los_Angeles>#7#7#66
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	1	0	3
+e	2	0	3
+#Condition
+%X
+eq-let	0	<Paul_Revere_Charter_Middle_School>
+%Y
+eq-let	1	<Brentwood,_Los_Angeles>
+##########
+%GID:229
+%LID#1#229-3-<Creative_Artists_Agency>#0#0#6
+#Pattern
+v	0	0	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	12	3
+e	3	0	1
+#Condition
+%X
+eq-let	3	<Tele
+%Y
+eq-let	2	<Creative_Artists_Agency>
+##########
+%GID:230
+%LID#1#230-0-<West_County_Center>#6#6#29
+#Pattern
+v	0	0	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	12	0
+#Condition
+%X
+eq-let	2	<Battle_of_St._Louis>
+%Y
+eq-let	0	<West_County_Center>
+##########
+%GID:231
+%LID#1#231-1-<Russian_Civil_War>#36#36#206
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	3	<Democratic_Republic_of_Armenia>
+%Y
+eq-let	1	<Russian_Civil_War>
+##########
+%GID:233
+%LID#1#233-1-<London>#32#32#99
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+v	2	0	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	<Diving_at_the_2012_Summer_Olympics_–_Women's_3_metre_springboard>
+%Y
+eq-let	1	<London>
+##########
+%GID:235
+%LID#0#235-0-<Modimolle_Local_Municipality>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+e	0	0	1
+e	2	0	0
+#Condition
+%X
+%Y
+eq-let	0	<Modimolle_Local_Municipality>
+##########
+%GID:236
+%LID#1#236-0-<Boomerang_(Worlds_of_Fun)>#6#6#54
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	49	1
+e	2	49	1
+#Condition
+%X
+eq-let	-1	<Ednör_–_L'Attaque>
+%Y
+eq-let	0	<Boomerang_(Worlds_of_Fun)>
+##########
+%GID:239
+%LID#0#239-0-<Ramstein_Air_Base>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	6	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	16	0
+#Condition
+%X
+%Y
+eq-let	0	<Ramstein_Air_Base>
+##########
+%GID:241
+%LID#1#241-0-<1994_CONCACAF_Champions'_Cup>#6#6#25
+#Pattern
+v	0	0	ANY
+v	1	11	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+eq-let	3	<2011_SAP_Open>
+%Y
+eq-let	0	<1994_CONCACAF_Champions'_Cup>
+##########
+%GID:242
+%LID#1#242-3-<Boomerang_(Worlds_of_Fun)>#9#9#50
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	49	1
+e	2	49	1
+e	3	49	1
+#Condition
+%X
+eq-let	0	<Ednör_–_L'Attaque>
+%Y
+eq-let	2	<Boomerang_(Worlds_of_Fun)>
+##########
+%GID:243
+%LID#1#243-2-<Municipal_Borough_of_Ilford>#9#9#33
+#Pattern
+v	0	0	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	43	1
+e	2	43	1
+#Condition
+%X
+eq-let	0	<Marist_College_Emerald>
+%Y
+eq-let	2	<Municipal_Borough_of_Ilford>
+##########
+%GID:244
+%LID#1#244-3-<Sturmabteilung>#3#3#33
+#Pattern
+v	0	0	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	2	17	3
+e	3	16	1
+#Condition
+%X
+eq-let	1	<Bavaria>
+%Y
+eq-let	2	<Sturmabteilung>
+##########
+%GID:245
+%LID#1#245-3-<Battle_of_Roundway_Down>#1#1#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	1	0	3
+e	2	16	3
+#Condition
+%X
+eq-let	1	<Chilton_Foliat>
+%Y
+eq-let	2	<Battle_of_Roundway_Down>
+##########
+%GID:246
+%LID#1#246-1-<Passeig_de_Gràcia,_Barcelona>#3#3#99
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	6	ANY
+e	0	0	1
+e	1	0	3
+e	2	0	3
+#Condition
+%X
+eq-let	2	<es/Hemp_Museum_Gallery>
+%Y
+eq-let	1	<Passeig_de_Gràcia,_Barcelona>
+##########
+%GID:250
+%LID#0#250-0-<Geographical_Association>#0#0#27
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	16	1
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	0	<Geographical_Association>
+##########
+%GID:251
+%LID#0#251-1-<Democratic_Republic_of_Armenia>#0#0#0
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	16	1
+e	1	17	3
+e	2	17	3
+#Condition
+%X
+%Y
+eq-let	1	<Democratic_Republic_of_Armenia>
+##########
+%GID:252
+%LID#1#252-1-<Worldvision_Enterprises>#5#5#33
+#Pattern
+v	0	0	ANY
+v	1	0	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	12	1
+e	2	12	0
+e	3	12	1
+#Condition
+%X
+eq-let	3	<American_Broadcasting_Company>
+%Y
+eq-let	1	<Worldvision_Enterprises>
+##########
+%GID:253
+%LID#1#253-1-<http://stlouis#3#3#99
+#Pattern
+v	0	0	ANY
+v	1	10	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	6	1
+e	2	6	1
+e	3	6	1
+#Condition
+%X
+eq-let	3	<DeBaliviere_Place,_St._Louis>
+%Y
+eq-let	1	<http://stlouis
+##########
+%GID:254
+%LID#1#254-1-"1.6"#25#25#66
+#Pattern
+v	0	0	ANY
+v	1	12	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+#Condition
+%X
+eq-let	3	<Dynnyrne,_Tasmania>
+%Y
+eq-let	1	"1.6"
+##########
+%GID:255
+%LID#1#255-3-<Stręgoborzyce>#6#6#55
+#Pattern
+v	0	0	ANY
+v	1	2	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	0	1
+e	2	0	1
+e	3	0	1
+#Condition
+%X
+eq-let	0	<Rudno_Górne>
+%Y
+eq-let	2	<Stręgoborzyce>

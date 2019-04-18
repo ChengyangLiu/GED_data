@@ -1,0 +1,92 @@
+##############
+%GID:25
+%LID#1#25-1-<Gautam_Chattopadhyay>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+v	2	13	ANY
+e	0	21	1
+e	2	21	1
+#Condition
+%X
+eq-let	0	<Uttam_Kumar>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:74
+%LID#1#74-2-<Sydney>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	14	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	14	1
+e	3	10	2
+#Condition
+%X
+eq-let	0	<Fay_Ripley>
+%Y
+eq-id	0	id	3	id
+##############
+%GID:95
+%LID#1#95-2-<California>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	26	1
+e	3	10	2
+#Condition
+%X
+eq-let	0	<Poppy_Montgomery>
+%Y
+eq-id	0	id	3	id
+##############
+%GID:112
+%LID#1#112-0-<Polly_Ann_Young>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	5	2
+e	1	5	3
+#Condition
+%X
+eq-let	1	<Paul_Stanton_(actor)>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:131
+%LID#1#131-1-<Roma_Downey>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	15	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	10	2
+e	2	19	1
+e	3	10	2
+#Condition
+%X
+eq-let	1	<University_of_Santa_Monica>
+%Y
+eq-id	0	id	3	id
+##############
+%GID:185
+%LID#1#185-0-<Polly_Ann_Young>#2#2#6
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	5	1
+e	3	5	2
+#Condition
+%X
+eq-let	3	<Paul_Stanton_(actor)>
+%Y
+eq-id	1	id	2	id

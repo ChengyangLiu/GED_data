@@ -1,0 +1,8853 @@
+##############
+%GID:0
+%LID#1#0-1-William_Reed_Business_Media#3#3#15
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Restaurant_(magazine)
+%Y
+eq-let	1	William_Reed_Business_Media
+##############
+%GID:0
+%LID#1#0-0-AfroBasket#1#1#14
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Sakya
+%Y
+eq-let	0	AfroBasket
+##############
+%GID:0
+%LID#1#0-1-East_Lothian#0#0#12
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	FIBA_Europe_Under
+%Y
+eq-let	1	East_Lothian
+##############
+%GID:0
+%LID#1#0-0-FIBA_Europe_Under#5#5#13
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	East_Lothian
+%Y
+eq-let	0	FIBA_Europe_Under
+##############
+%GID:0
+%LID#1#0-0-USA_Today#9#9#11
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Sports_Weekly
+%Y
+eq-let	0	USA_Today
+##############
+%GID:0
+%LID#1#0-1-Sports_Weekly#7#7#10
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	USA_Today
+%Y
+eq-let	1	Sports_Weekly
+##############
+%GID:0
+%LID#1#0-0-Restaurant_(magazine)#4#4#16
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	William_Reed_Business_Media
+%Y
+eq-let	0	Restaurant_(magazine)
+##############
+%GID:0
+%LID#1#0-1-Sakya#6#6#17
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	AfroBasket
+%Y
+eq-let	1	Sakya
+##############
+%GID:0
+%LID#1#0-1-Caythorpe,_Lincolnshire#8#8#19
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Mensa_International
+%Y
+eq-let	1	Caythorpe,_Lincolnshire
+##############
+%GID:0
+%LID#1#0-0-Mensa_International#2#2#18
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Caythorpe,_Lincolnshire
+%Y
+eq-let	0	Mensa_International
+##############
+%GID:1
+%LID#0#1-1-Mumbai#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Mumbai
+##############
+%GID:1
+%LID#0#1-0-Indian_Institute_of_Architects#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Indian_Institute_of_Architects
+##############
+%GID:2
+%LID#0#2-1-Alfredo_Alcala#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	1	Alfredo_Alcala
+##############
+%GID:2
+%LID#0#2-0-Larry_Alcala#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	0	Larry_Alcala
+##############
+%GID:3
+%LID#0#3-0-League_of_Nations#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	0	League_of_Nations
+##############
+%GID:3
+%LID#0#3-1-Commonwealth_of_Nations#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	1	Commonwealth_of_Nations
+##############
+%GID:4
+%LID#1#4-0-National_Kidney_Foundation#1#1#6
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	1	National_Kidney_Foundation_Singapore
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:4
+%LID#1#4-0-Gandhi_Peace_Award#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	1	Gandhi_Memorial_International_Foundation
+%Y
+eq-let	0	Gandhi_Peace_Award
+##############
+%GID:4
+%LID#1#4-1-National_Kidney_Foundation_Singapore#3#3#7
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	0	National_Kidney_Foundation
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:4
+%LID#1#4-1-Gandhi_Memorial_International_Foundation#2#2#5
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	0	Gandhi_Peace_Award
+%Y
+eq-let	1	Gandhi_Memorial_International_Foundation
+##############
+%GID:5
+%LID#1#5-0-Health_Physics_Society#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	default.aspx
+%Y
+eq-let	0	Health_Physics_Society
+##############
+%GID:5
+%LID#1#5-0-Water_Resources_Research#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	American_Geophysical_Union
+%Y
+eq-let	0	Water_Resources_Research
+##############
+%GID:5
+%LID#1#5-1-American_Geophysical_Union#3#3#7
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Water_Resources_Research
+%Y
+eq-let	1	American_Geophysical_Union
+##############
+%GID:5
+%LID#1#5-1-default.aspx#1#1#5
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Health_Physics_Society
+%Y
+eq-let	1	default.aspx
+##############
+%GID:6
+%LID#1#6-1-Mathematics#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	13	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	International_Congress_of_Mathematicians
+%Y
+eq-let	1	Mathematics
+##############
+%GID:6
+%LID#1#6-0-Challenge_Tour#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	13	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	index.html
+%Y
+eq-let	0	Challenge_Tour
+##############
+%GID:6
+%LID#1#6-0-International_Congress_of_Mathematicians#3#3#7
+#Pattern
+v	0	15	ANY
+v	1	13	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Mathematics
+%Y
+eq-let	0	International_Congress_of_Mathematicians
+##############
+%GID:6
+%LID#1#6-1-index.html#1#1#5
+#Pattern
+v	0	15	ANY
+v	1	13	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Challenge_Tour
+%Y
+eq-let	1	index.html
+##############
+%GID:7
+%LID#0#7-0-People's_Choice_Awards#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	184	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	People's_Choice_Awards
+##############
+%GID:7
+%LID#0#7-1-CBS#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	184	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	CBS
+##############
+%GID:8
+%LID#1#8-1-Sydney#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Visual_Effects_Society
+%Y
+eq-let	1	Sydney
+##############
+%GID:8
+%LID#1#8-1-Ontario#2#2#8
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	SIGSOFT
+%Y
+eq-let	1	Ontario
+##############
+%GID:8
+%LID#1#8-0-SIGSOFT#3#3#9
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Ontario
+%Y
+eq-let	0	SIGSOFT
+##############
+%GID:8
+%LID#1#8-0-Rocky_Mountain_News#5#5#11
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Colorado
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:8
+%LID#1#8-1-Colorado#4#4#10
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Rocky_Mountain_News
+%Y
+eq-let	1	Colorado
+##############
+%GID:8
+%LID#1#8-0-Visual_Effects_Society#1#1#7
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Sydney
+%Y
+eq-let	0	Visual_Effects_Society
+##############
+%GID:9
+%LID#0#9-1-The_Hague#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	49	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	The_Hague
+##############
+%GID:9
+%LID#0#9-0-Europa_Nostra#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	49	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Europa_Nostra
+##############
+%GID:10
+%LID#0#10-1-New_Delhi#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_Delhi
+##############
+%GID:12
+%LID#0#12-0-Special_Libraries_Association#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	210	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Special_Libraries_Association
+##############
+%GID:12
+%LID#0#12-1-Alexandria,_Virginia#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	210	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Alexandria,_Virginia
+##############
+%GID:13
+%LID#0#13-1-University_of_Colorado_Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	22	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	University_of_Colorado_Denver
+##############
+%GID:13
+%LID#0#13-0-University_of_Colorado_School_of_Medicine#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	22	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	University_of_Colorado_School_of_Medicine
+##############
+%GID:14
+%LID#0#14-0-Women's_Sports_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	656	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	Women's_Sports_Foundation
+##############
+%GID:14
+%LID#0#14-1-Women's_Basketball_Hall_of_Fame#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	656	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	Women's_Basketball_Hall_of_Fame
+##############
+%GID:15
+%LID#0#15-0-GlobalPost#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	425	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	GlobalPost
+##############
+%GID:15
+%LID#0#15-1-Metro#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	425	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Metro
+##############
+%GID:16
+%LID#0#16-0-Europa_Nostra#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	171	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Europa_Nostra
+##############
+%GID:16
+%LID#0#16-1-Brussels#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	171	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Brussels
+##############
+%GID:18
+%LID#0#18-1-Norwich#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	94	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Norwich
+##############
+%GID:18
+%LID#0#18-0-John_Innes_Centre#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	94	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	John_Innes_Centre
+##############
+%GID:19
+%LID#1#19-0-Long_Island_Business_News#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Ronkonkoma,_New_York
+%Y
+eq-let	0	Long_Island_Business_News
+##############
+%GID:19
+%LID#1#19-1-Bethesda,_Maryland#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	EuroBasket
+%Y
+eq-let	1	Bethesda,_Maryland
+##############
+%GID:19
+%LID#1#19-1-Ronkonkoma,_New_York#3#3#7
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Long_Island_Business_News
+%Y
+eq-let	1	Ronkonkoma,_New_York
+##############
+%GID:19
+%LID#1#19-0-EuroBasket#1#1#5
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Bethesda,_Maryland
+%Y
+eq-let	0	EuroBasket
+##############
+%GID:20
+%LID#0#20-0-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:20
+%LID#0#20-1-New_York_City#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:21
+%LID#0#21-1-Miami#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	58	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Miami
+##############
+%GID:21
+%LID#0#21-0-Inter_American_Press_Association#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	58	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Inter_American_Press_Association
+##############
+%GID:22
+%LID#1#22-1-Irving,_Texas#6#6#15
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Mothers_Against_Drunk_Driving
+%Y
+eq-let	1	Irving,_Texas
+##############
+%GID:22
+%LID#1#22-0-Mothers_Against_Drunk_Driving#5#5#14
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Irving,_Texas
+%Y
+eq-let	0	Mothers_Against_Drunk_Driving
+##############
+%GID:22
+%LID#1#22-1-Providence,_Rhode_Island#1#1#12
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	American_Mathematical_Society
+%Y
+eq-let	1	Providence,_Rhode_Island
+##############
+%GID:22
+%LID#1#22-0-American_Mathematical_Society#7#7#13
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Providence,_Rhode_Island
+%Y
+eq-let	0	American_Mathematical_Society
+##############
+%GID:22
+%LID#1#22-0-Society_for_Ethnomusicology#0#0#8
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Bloomington,_Indiana
+%Y
+eq-let	0	Society_for_Ethnomusicology
+##############
+%GID:22
+%LID#1#22-1-Bloomington,_Indiana#3#3#9
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Society_for_Ethnomusicology
+%Y
+eq-let	1	Bloomington,_Indiana
+##############
+%GID:22
+%LID#1#22-1-Chicago#4#4#11
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Healthcare_Information_and_Management_Systems_Society
+%Y
+eq-let	1	Chicago
+##############
+%GID:22
+%LID#1#22-0-Healthcare_Information_and_Management_Systems_Society#2#2#10
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Chicago
+%Y
+eq-let	0	Healthcare_Information_and_Management_Systems_Society
+##############
+%GID:23
+%LID#0#23-1-Philadelphia#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Philadelphia
+##############
+%GID:23
+%LID#0#23-0-American_College_of_Physicians#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	American_College_of_Physicians
+##############
+%GID:24
+%LID#0#24-0-American_Historical_Association#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	American_Historical_Association
+##############
+%GID:24
+%LID#0#24-1-Washington,_D.C.#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:26
+%LID#1#26-1-Mumbai#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Indian_Institute_of_Architects
+%Y
+eq-let	1	Mumbai
+##############
+%GID:26
+%LID#1#26-1-Kolkata#1#1#8
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Institution_of_Engineers_(India)
+%Y
+eq-let	1	Kolkata
+##############
+%GID:26
+%LID#1#26-0-Institution_of_Engineers_(India)#5#5#9
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Kolkata
+%Y
+eq-let	0	Institution_of_Engineers_(India)
+##############
+%GID:26
+%LID#1#26-0-Indian_Mathematical_Society#4#4#11
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Pune
+%Y
+eq-let	0	Indian_Mathematical_Society
+##############
+%GID:26
+%LID#1#26-1-Pune#3#3#10
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Indian_Mathematical_Society
+%Y
+eq-let	1	Pune
+##############
+%GID:26
+%LID#1#26-0-Indian_Institute_of_Architects#2#2#7
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Mumbai
+%Y
+eq-let	0	Indian_Institute_of_Architects
+##############
+%GID:27
+%LID#0#27-0-Royal_Canadian_Academy_of_Arts#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	16	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Royal_Canadian_Academy_of_Arts
+##############
+%GID:27
+%LID#0#27-1-Toronto#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	16	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Toronto
+##############
+%GID:28
+%LID#0#28-1-Nawaz_Sharif#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	9	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	Nawaz_Sharif
+##############
+%GID:28
+%LID#0#28-0-Chagai#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	9	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	Chagai
+##############
+%GID:30
+%LID#0#30-1-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	United_States
+##############
+%GID:31
+%LID#0#31-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:34
+%LID#0#34-0-Illuminating_Engineering_Society_of_North_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:34
+%LID#0#34-1-Wall_Street#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:35
+%LID#0#35-0-Mathematical_Association_of_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:35
+%LID#0#35-1-18th_Street_NW_(Washington,_D.C.)#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:37
+%LID#0#37-0-National_Council_for_Scientific_and_Technological_Development#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	182	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	National_Council_for_Scientific_and_Technological_Development
+##############
+%GID:37
+%LID#0#37-1-Brasília#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	182	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Brasília
+##############
+%GID:38
+%LID#0#38-1-Southbridge,_Massachusetts#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	72	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Southbridge,_Massachusetts
+##############
+%GID:38
+%LID#0#38-0-Automatic_Musical_Instruments_Collector's_Association#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	72	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Automatic_Musical_Instruments_Collector's_Association
+##############
+%GID:39
+%LID#1#39-0-Long_Island_Business_News#1#1#6
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Ronkonkoma,_New_York
+%Y
+eq-let	0	Long_Island_Business_News
+##############
+%GID:39
+%LID#1#39-1-Tysons_Corner,_Virginia#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	USA_Today
+%Y
+eq-let	1	Tysons_Corner,_Virginia
+##############
+%GID:39
+%LID#1#39-1-Ronkonkoma,_New_York#3#3#7
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Long_Island_Business_News
+%Y
+eq-let	1	Ronkonkoma,_New_York
+##############
+%GID:39
+%LID#1#39-0-USA_Today#2#2#5
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Tysons_Corner,_Virginia
+%Y
+eq-let	0	USA_Today
+##############
+%GID:40
+%LID#0#40-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:41
+%LID#0#41-1-Newark,_New_Jersey#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	69	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Newark,_New_Jersey
+##############
+%GID:41
+%LID#0#41-0-The_Star#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	69	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	The_Star
+##############
+%GID:42
+%LID#1#42-0-American_College_of_Physicians#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Philadelphia
+%Y
+eq-let	0	American_College_of_Physicians
+##############
+%GID:42
+%LID#1#42-0-Country_Music_Association#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Nashville,_Tennessee
+%Y
+eq-let	0	Country_Music_Association
+##############
+%GID:42
+%LID#1#42-1-Nashville,_Tennessee#3#3#7
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Country_Music_Association
+%Y
+eq-let	1	Nashville,_Tennessee
+##############
+%GID:42
+%LID#1#42-1-Philadelphia#1#1#5
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	American_College_of_Physicians
+%Y
+eq-let	1	Philadelphia
+##############
+%GID:43
+%LID#0#43-1-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:44
+%LID#0#44-0-USENIX#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	27	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	USENIX
+##############
+%GID:44
+%LID#0#44-1-Berkeley,_California#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	27	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Berkeley,_California
+##############
+%GID:45
+%LID#0#45-0-LAN_Airlines#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	475	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	LAN_Airlines
+##############
+%GID:45
+%LID#0#45-1-Las_Condes#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	475	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Las_Condes
+##############
+%GID:46
+%LID#0#46-1-Dhaka#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	153	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Dhaka
+##############
+%GID:46
+%LID#0#46-0-Institute_of_Architects_Bangladesh#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	153	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Institute_of_Architects_Bangladesh
+##############
+%GID:47
+%LID#0#47-1-Academy_of_Korean_Studies#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	22	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	1	Academy_of_Korean_Studies
+##############
+%GID:47
+%LID#0#47-0-National_Research_Foundation_of_Korea#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	22	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	0	National_Research_Foundation_of_Korea
+##############
+%GID:48
+%LID#0#48-0-Institute_of_Architects_Bangladesh#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1730	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Institute_of_Architects_Bangladesh
+##############
+%GID:48
+%LID#0#48-1-Dhanmondi_Thana#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1730	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Dhanmondi_Thana
+##############
+%GID:49
+%LID#0#49-0-Academia_Mexicana_de_la_Lengua#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	71	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Academia_Mexicana_de_la_Lengua
+##############
+%GID:49
+%LID#0#49-1-Mexico_City#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	71	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Mexico_City
+##############
+%GID:50
+%LID#0#50-1-Reston,_Virginia#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1294	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Reston,_Virginia
+##############
+%GID:50
+%LID#0#50-0-American_Society_of_Civil_Engineers#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1294	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	American_Society_of_Civil_Engineers
+##############
+%GID:51
+%LID#0#51-0-National_Health_and_Medical_Research_Council#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	271	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	National_Health_and_Medical_Research_Council
+##############
+%GID:51
+%LID#0#51-1-Department_of_Health_(Australia)#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	271	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Department_of_Health_(Australia)
+##############
+%GID:52
+%LID#1#52-1-Irving,_Texas#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Mothers_Against_Drunk_Driving
+%Y
+eq-let	1	Irving,_Texas
+##############
+%GID:52
+%LID#1#52-1-Chicago#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Irish_Film_&_Television_Academy
+%Y
+eq-let	1	Chicago
+##############
+%GID:52
+%LID#1#52-0-Irish_Film_&_Television_Academy#3#3#7
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Chicago
+%Y
+eq-let	0	Irish_Film_&_Television_Academy
+##############
+%GID:52
+%LID#1#52-0-Mothers_Against_Drunk_Driving#1#1#5
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Irving,_Texas
+%Y
+eq-let	0	Mothers_Against_Drunk_Driving
+##############
+%GID:54
+%LID#0#54-1-Wellington#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	365	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Wellington
+##############
+%GID:54
+%LID#0#54-0-Royal_Society_of_New_Zealand#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	365	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Royal_Society_of_New_Zealand
+##############
+%GID:55
+%LID#0#55-0-Imperial_examination#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	Imperial_examination
+##############
+%GID:55
+%LID#0#55-1-History_of_the_Republic_of_China#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	History_of_the_Republic_of_China
+##############
+%GID:58
+%LID#1#58-1-Textile#5#5#15
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Marzotto
+%Y
+eq-let	1	Textile
+##############
+%GID:58
+%LID#1#58-0-Marzotto#3#3#14
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Textile
+%Y
+eq-let	0	Marzotto
+##############
+%GID:58
+%LID#1#58-0-Republican_National_Committee#1#1#12
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Secretary
+%Y
+eq-let	0	Republican_National_Committee
+##############
+%GID:58
+%LID#1#58-1-Secretary#4#4#13
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Republican_National_Committee
+%Y
+eq-let	1	Secretary
+##############
+%GID:58
+%LID#1#58-0-Toastmasters_International#6#6#8
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Board_of_directors
+%Y
+eq-let	0	Toastmasters_International
+##############
+%GID:58
+%LID#1#58-1-Board_of_directors#7#7#9
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Toastmasters_International
+%Y
+eq-let	1	Board_of_directors
+##############
+%GID:58
+%LID#1#58-1-Women's_rights#2#2#11
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	International_Women's_Media_Foundation
+%Y
+eq-let	1	Women's_rights
+##############
+%GID:58
+%LID#1#58-0-International_Women's_Media_Foundation#0#0#10
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Women's_rights
+%Y
+eq-let	0	International_Women's_Media_Foundation
+##############
+%GID:60
+%LID#1#60-1-Australia#5#5#15
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	The_Age
+%Y
+eq-let	1	Australia
+##############
+%GID:60
+%LID#1#60-0-The_Age#2#2#14
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Australia
+%Y
+eq-let	0	The_Age
+##############
+%GID:60
+%LID#1#60-1-United_States#0#0#12
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	LNB_Pro_A
+%Y
+eq-let	1	United_States
+##############
+%GID:60
+%LID#1#60-1-United_States#0#0#8
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	1	United_States
+##############
+%GID:60
+%LID#1#60-1-United_States#0#0#10
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	1	United_States
+##############
+%GID:60
+%LID#1#60-1-Bangladesh#3#3#16
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Institute_of_Architects_Bangladesh
+%Y
+eq-let	1	Bangladesh
+##############
+%GID:60
+%LID#1#60-0-Institute_of_Architects_Bangladesh#7#7#17
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Bangladesh
+%Y
+eq-let	0	Institute_of_Architects_Bangladesh
+##############
+%GID:61
+%LID#0#61-0-Broadcast_(magazine)#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	234	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Broadcast_(magazine)
+##############
+%GID:61
+%LID#0#61-1-Emap#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	234	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Emap
+##############
+%GID:62
+%LID#0#62-1-Sydney#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	Sydney
+##############
+%GID:62
+%LID#0#62-0-Art_Deco#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	Art_Deco
+##############
+%GID:63
+%LID#0#63-0-FIBA_Europe_Under#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	356	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	FIBA_Europe_Under
+##############
+%GID:63
+%LID#0#63-1-Bournemouth#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	356	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Bournemouth
+##############
+%GID:64
+%LID#0#64-0-Apollo_11#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	17	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	Apollo_11
+##############
+%GID:64
+%LID#0#64-1-Neil_Armstrong#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	17	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	Neil_Armstrong
+##############
+%GID:65
+%LID#0#65-1-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	23	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:65
+%LID#0#65-2-American_Historical_Association#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	23	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	1	American_Historical_Association
+##############
+%GID:66
+%LID#0#66-1-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	2	ANY
+e	0	45	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:67
+%LID#0#67-1-Dhaka#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1730	ANY
+v	2	153	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	Dhaka
+##############
+%GID:67
+%LID#0#67-2-Dhanmondi_Thana#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1730	ANY
+v	2	153	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Dhanmondi_Thana
+##############
+%GID:67
+%LID#0#67-0-Institute_of_Architects_Bangladesh#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1730	ANY
+v	2	153	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Institute_of_Architects_Bangladesh
+##############
+%GID:69
+%LID#0#69-0-Healthcare_Information_and_Management_Systems_Society#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	5	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	0	Healthcare_Information_and_Management_Systems_Society
+##############
+%GID:69
+%LID#0#69-2-Irish_Film_&_Television_Academy#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	5	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	1	Irish_Film_&_Television_Academy
+##############
+%GID:69
+%LID#0#69-1-Chicago#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	5	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	Chicago
+##############
+%GID:70
+%LID#0#70-2-www.sipiapa.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	58	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.sipiapa.com
+##############
+%GID:70
+%LID#0#70-0-Inter_American_Press_Association#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	58	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Inter_American_Press_Association
+##############
+%GID:70
+%LID#0#70-1-Miami#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	58	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Miami
+##############
+%GID:71
+%LID#0#71-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+v	2	1	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Northwest,_Washington,_D.C.
+##############
+%GID:71
+%LID#0#71-1-18th_Street_NW_(Washington,_D.C.)#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+v	2	1	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:71
+%LID#0#71-0-Mathematical_Association_of_America#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+v	2	1	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:72
+%LID#0#72-0-National_Council_for_Scientific_and_Technological_Development#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	182	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	National_Council_for_Scientific_and_Technological_Development
+##############
+%GID:72
+%LID#0#72-2-Brazil#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	182	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Brazil
+##############
+%GID:72
+%LID#0#72-1-Brasília#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	182	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	Brasília
+##############
+%GID:73
+%LID#0#73-1-Sydney#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	19	ANY
+e	0	0	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	Sydney
+##############
+%GID:73
+%LID#0#73-0-Art_Deco#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	19	ANY
+e	0	0	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	0	Art_Deco
+##############
+%GID:73
+%LID#0#73-2-Visual_Effects_Society#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	19	ANY
+e	0	0	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	1	Visual_Effects_Society
+##############
+%GID:74
+%LID#0#74-0-Mathematical_Association_of_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	1	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:74
+%LID#0#74-2-Washington,_D.C.#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	1	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:74
+%LID#0#74-1-18th_Street_NW_(Washington,_D.C.)#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	1	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:75
+%LID#0#75-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	261	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Denver
+##############
+%GID:75
+%LID#0#75-0-Outdoor_Channel#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	261	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:75
+%LID#0#75-2-www.outdoorchannel.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	261	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.outdoorchannel.com
+##############
+%GID:76
+%LID#0#76-0-Illuminating_Engineering_Society_of_North_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	0	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:76
+%LID#0#76-2-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	0	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	United_States
+##############
+%GID:76
+%LID#0#76-1-Wall_Street#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	0	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Wall_Street
+##############
+%GID:77
+%LID#0#77-2-www.dqindia.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	456	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.dqindia.com
+##############
+%GID:77
+%LID#0#77-1-New_Delhi#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	456	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	New_Delhi
+##############
+%GID:77
+%LID#0#77-0-Dataquest#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	456	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Dataquest
+##############
+%GID:80
+%LID#0#80-2-www.sla.org#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	210	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.sla.org
+##############
+%GID:80
+%LID#0#80-1-Alexandria,_Virginia#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	210	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Alexandria,_Virginia
+##############
+%GID:80
+%LID#0#80-0-Special_Libraries_Association#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	210	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Special_Libraries_Association
+##############
+%GID:81
+%LID#0#81-0-National_Council_for_Scientific_and_Technological_Development#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	182	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	National_Council_for_Scientific_and_Technological_Development
+##############
+%GID:81
+%LID#0#81-2-www.cnpq.br#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	182	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.cnpq.br
+##############
+%GID:81
+%LID#0#81-1-Brasília#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	182	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Brasília
+##############
+%GID:82
+%LID#0#82-1-Norwich#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	94	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Norwich
+##############
+%GID:82
+%LID#0#82-0-John_Innes_Centre#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	94	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	John_Innes_Centre
+##############
+%GID:82
+%LID#0#82-2-www.jic.ac.uk#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	94	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.jic.ac.uk
+##############
+%GID:83
+%LID#0#83-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+v	2	261	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Denver
+##############
+%GID:83
+%LID#0#83-0-Rocky_Mountain_News#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+v	2	261	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:83
+%LID#0#83-2-Colorado#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+v	2	261	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Colorado
+##############
+%GID:84
+%LID#1#84-2-Dataquest#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	456	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	0	Indian_Council_of_Medical_Research
+%Y
+eq-let	1	Dataquest
+##############
+%GID:84
+%LID#1#84-0-Dataquest#3#3#8
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	456	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	1	Indian_Council_of_Medical_Research
+%Y
+eq-let	0	Dataquest
+##############
+%GID:84
+%LID#1#84-2-Indian_Council_of_Medical_Research#1#1#7
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	456	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	0	Dataquest
+%Y
+eq-let	1	Indian_Council_of_Medical_Research
+##############
+%GID:84
+%LID#1#84-0-Indian_Council_of_Medical_Research#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	456	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	1	Dataquest
+%Y
+eq-let	0	Indian_Council_of_Medical_Research
+##############
+%GID:85
+%LID#0#85-1-Tysons_Corner,_Virginia#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+v	2	21	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Tysons_Corner,_Virginia
+##############
+%GID:85
+%LID#0#85-0-USA_Today#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+v	2	21	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	USA_Today
+##############
+%GID:85
+%LID#0#85-2-Sports_Weekly#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+v	2	21	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Sports_Weekly
+##############
+%GID:86
+%LID#0#86-1-Newark,_New_Jersey#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	69	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Newark,_New_Jersey
+##############
+%GID:86
+%LID#0#86-2-Richard_Vezza#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	69	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Richard_Vezza
+##############
+%GID:86
+%LID#0#86-0-The_Star#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	69	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	The_Star
+##############
+%GID:87
+%LID#0#87-2-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	20	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.dramatistsguild.com
+##############
+%GID:87
+%LID#0#87-0-Dramatists_Guild_of_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	20	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Dramatists_Guild_of_America
+##############
+%GID:87
+%LID#0#87-1-New_York_City#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	20	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	New_York_City
+##############
+%GID:88
+%LID#0#88-0-Illuminating_Engineering_Society_of_North_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	20	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:88
+%LID#0#88-1-New_York_City#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	20	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	New_York_City
+##############
+%GID:88
+%LID#0#88-2-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	20	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	United_States
+##############
+%GID:89
+%LID#0#89-1-Dhaka#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	153	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Dhaka
+##############
+%GID:89
+%LID#0#89-0-Institute_of_Architects_Bangladesh#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	153	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Institute_of_Architects_Bangladesh
+##############
+%GID:89
+%LID#0#89-2-Bangladesh#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	153	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Bangladesh
+##############
+%GID:90
+%LID#0#90-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	0	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:90
+%LID#0#90-1-Wall_Street#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	0	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	Wall_Street
+##############
+%GID:90
+%LID#0#90-0-Illuminating_Engineering_Society_of_North_America#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	0	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:91
+%LID#0#91-0-International_Committee_for_Information_Technology_Standards#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	23	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:91
+%LID#0#91-1-Washington,_D.C.#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	23	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:91
+%LID#0#91-2-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	23	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	United_States
+##############
+%GID:92
+%LID#0#92-0-Europa_Nostra#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	49	ANY
+v	2	171	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Europa_Nostra
+##############
+%GID:92
+%LID#0#92-2-The_Hague#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	49	ANY
+v	2	171	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	The_Hague
+##############
+%GID:92
+%LID#0#92-1-Brussels#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	49	ANY
+v	2	171	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	Brussels
+##############
+%GID:93
+%LID#0#93-1-New_York_City#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	20	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+%Y
+eq-let	2	New_York_City
+##############
+%GID:95
+%LID#0#95-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	137	ANY
+e	0	35	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:95
+%LID#0#95-2-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	137	ANY
+e	0	35	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	United_States
+##############
+%GID:95
+%LID#0#95-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	137	ANY
+e	0	35	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	National_Kidney_Foundation_Singapore
+##############
+%GID:96
+%LID#0#96-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	20	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	New_York_City
+##############
+%GID:96
+%LID#0#96-2-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	20	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	1	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:97
+%LID#0#97-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	137	ANY
+e	0	35	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:97
+%LID#0#97-2-Washington,_D.C.#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	137	ANY
+e	0	35	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:97
+%LID#0#97-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	137	ANY
+e	0	35	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	National_Kidney_Foundation_Singapore
+##############
+%GID:98
+%LID#1#98-0-Rocky_Mountain_News#3#3#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	261	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	1	Outdoor_Channel
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:98
+%LID#1#98-0-Outdoor_Channel#4#4#8
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	261	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	1	Rocky_Mountain_News
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:98
+%LID#1#98-2-Rocky_Mountain_News#2#2#7
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	261	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	0	Outdoor_Channel
+%Y
+eq-let	1	Rocky_Mountain_News
+##############
+%GID:98
+%LID#1#98-2-Outdoor_Channel#1#1#5
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	261	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	0	Rocky_Mountain_News
+%Y
+eq-let	1	Outdoor_Channel
+##############
+%GID:99
+%LID#0#99-2-Bangladesh#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	1730	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Bangladesh
+##############
+%GID:99
+%LID#0#99-1-Dhanmondi_Thana#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	1730	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Dhanmondi_Thana
+##############
+%GID:99
+%LID#0#99-0-Institute_of_Architects_Bangladesh#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	1730	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Institute_of_Architects_Bangladesh
+##############
+%GID:100
+%LID#0#100-2-ieindia.org#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	55	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	ieindia.org
+##############
+%GID:100
+%LID#0#100-0-Institution_of_Engineers_(India)#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	55	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Institution_of_Engineers_(India)
+##############
+%GID:100
+%LID#0#100-1-Kolkata#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	55	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Kolkata
+##############
+%GID:101
+%LID#0#101-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:101
+%LID#0#101-0-Illuminating_Engineering_Society_of_North_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:101
+%LID#0#101-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:101
+%LID#0#101-1-Wall_Street#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:102
+%LID#0#102-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:102
+%LID#0#102-0-Rocky_Mountain_News#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:102
+%LID#0#102-2-Outdoor_Channel#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	Outdoor_Channel
+##############
+%GID:102
+%LID#0#102-3-Colorado#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	Colorado
+##############
+%GID:103
+%LID#0#103-0-National_Council_for_Scientific_and_Technological_Development#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	182	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	0	National_Council_for_Scientific_and_Technological_Development
+##############
+%GID:103
+%LID#0#103-2-Brazil#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	182	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	3	Brazil
+##############
+%GID:103
+%LID#0#103-1-Brasília#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	182	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	1	Brasília
+##############
+%GID:103
+%LID#0#103-3-www.cnpq.br#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	182	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.cnpq.br
+##############
+%GID:104
+%LID#0#104-3-www.dramatistsguild.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:104
+%LID#0#104-1-New_York_City#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:104
+%LID#0#104-0-Dramatists_Guild_of_America#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Dramatists_Guild_of_America
+##############
+%GID:105
+%LID#0#105-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:105
+%LID#0#105-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:105
+%LID#0#105-0-Illuminating_Engineering_Society_of_North_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:106
+%LID#0#106-0-Illuminating_Engineering_Society_of_North_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:106
+%LID#0#106-1-New_York_City#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:106
+%LID#0#106-2-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:107
+%LID#0#107-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:107
+%LID#0#107-3-American_Historical_Association#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	2	American_Historical_Association
+##############
+%GID:107
+%LID#0#107-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:107
+%LID#0#107-2-Washington,_D.C.#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:108
+%LID#0#108-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:108
+%LID#0#108-2-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:108
+%LID#0#108-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:108
+%LID#0#108-3-Washington,_D.C.#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:109
+%LID#0#109-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:109
+%LID#0#109-0-Outdoor_Channel#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:109
+%LID#0#109-2-Rocky_Mountain_News#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	Rocky_Mountain_News
+##############
+%GID:109
+%LID#0#109-3-www.outdoorchannel.com#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	www.outdoorchannel.com
+##############
+%GID:110
+%LID#0#110-0-Indian_Council_of_Medical_Research#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Indian_Council_of_Medical_Research
+##############
+%GID:110
+%LID#0#110-3-www.dqindia.com#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.dqindia.com
+##############
+%GID:110
+%LID#0#110-2-Dataquest#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Dataquest
+##############
+%GID:110
+%LID#0#110-1-New_Delhi#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_Delhi
+##############
+%GID:111
+%LID#0#111-0-Mathematical_Association_of_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:111
+%LID#0#111-3-American_Historical_Association#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	2	American_Historical_Association
+##############
+%GID:111
+%LID#0#111-1-18th_Street_NW_(Washington,_D.C.)#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:111
+%LID#0#111-2-Washington,_D.C.#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:112
+%LID#0#112-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	3	Northwest,_Washington,_D.C.
+##############
+%GID:112
+%LID#0#112-1-18th_Street_NW_(Washington,_D.C.)#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:112
+%LID#0#112-0-Mathematical_Association_of_America#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:112
+%LID#0#112-3-Washington,_D.C.#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:113
+%LID#0#113-0-International_Committee_for_Information_Technology_Standards#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:113
+%LID#0#113-1-Washington,_D.C.#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:113
+%LID#0#113-2-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:113
+%LID#0#113-3-American_Historical_Association#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	2	American_Historical_Association
+##############
+%GID:114
+%LID#0#114-3-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	44	1
+e	2	45	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:114
+%LID#0#114-1-New_York_City#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	44	1
+e	2	45	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:115
+%LID#0#115-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:115
+%LID#0#115-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:115
+%LID#0#115-2-Washington,_D.C.#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:116
+%LID#0#116-0-International_Committee_for_Information_Technology_Standards#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:116
+%LID#0#116-1-Washington,_D.C.#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:116
+%LID#0#116-2-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:117
+%LID#0#117-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:117
+%LID#0#117-2-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:117
+%LID#0#117-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:118
+%LID#0#118-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:118
+%LID#0#118-3-Colorado#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	Colorado
+##############
+%GID:118
+%LID#0#118-2-Rocky_Mountain_News#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Rocky_Mountain_News
+##############
+%GID:118
+%LID#0#118-0-Outdoor_Channel#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:119
+%LID#0#119-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:119
+%LID#0#119-0-Illuminating_Engineering_Society_of_North_America#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:119
+%LID#0#119-1-Wall_Street#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:121
+%LID#1#121-2-Dataquest#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Indian_Council_of_Medical_Research
+%Y
+eq-let	2	Dataquest
+##############
+%GID:121
+%LID#1#121-0-Dataquest#3#3#8
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Indian_Council_of_Medical_Research
+%Y
+eq-let	0	Dataquest
+##############
+%GID:121
+%LID#1#121-2-Indian_Council_of_Medical_Research#1#1#7
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Dataquest
+%Y
+eq-let	2	Indian_Council_of_Medical_Research
+##############
+%GID:121
+%LID#1#121-0-Indian_Council_of_Medical_Research#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Dataquest
+%Y
+eq-let	0	Indian_Council_of_Medical_Research
+##############
+%GID:123
+%LID#1#123-0-Rocky_Mountain_News#3#3#6
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Outdoor_Channel
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:123
+%LID#1#123-0-Outdoor_Channel#4#4#8
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Rocky_Mountain_News
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:123
+%LID#1#123-2-Rocky_Mountain_News#2#2#7
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Outdoor_Channel
+%Y
+eq-let	2	Rocky_Mountain_News
+##############
+%GID:123
+%LID#1#123-2-Outdoor_Channel#1#1#5
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Rocky_Mountain_News
+%Y
+eq-let	2	Outdoor_Channel
+##############
+%GID:124
+%LID#1#124-3-International_Committee_for_Information_Technology_Standards#7#7#25
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	2	International_Committee_for_Information_Technology_Standards
+##############
+%GID:124
+%LID#1#124-3-Illuminating_Engineering_Society_of_North_America#4#4#13
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	0	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:124
+%LID#1#124-2-LNB_Pro_A#0#0#8
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	0	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	3	LNB_Pro_A
+##############
+%GID:124
+%LID#1#124-0-International_Committee_for_Information_Technology_Standards#2#2#9
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	LNB_Pro_A
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:124
+%LID#1#124-3-Illuminating_Engineering_Society_of_North_America#4#4#11
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	LNB_Pro_A
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:124
+%LID#1#124-2-Illuminating_Engineering_Society_of_North_America#5#5#24
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:124
+%LID#1#124-0-LNB_Pro_A#3#3#16
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:124
+%LID#1#124-0-LNB_Pro_A#3#3#18
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:124
+%LID#1#124-3-Illuminating_Engineering_Society_of_North_America#4#4#21
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:124
+%LID#1#124-0-LNB_Pro_A#3#3#20
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:125
+%LID#0#125-0-Illuminating_Engineering_Society_of_North_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:125
+%LID#0#125-2-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:125
+%LID#0#125-1-Wall_Street#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:126
+%LID#0#126-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:126
+%LID#0#126-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:126
+%LID#0#126-2-Illuminating_Engineering_Society_of_North_America#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:127
+%LID#0#127-1-Dhaka#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	153	ANY
+v	2	2	ANY
+v	3	1730	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	1	Dhaka
+##############
+%GID:127
+%LID#0#127-0-Institute_of_Architects_Bangladesh#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	153	ANY
+v	2	2	ANY
+v	3	1730	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	0	Institute_of_Architects_Bangladesh
+##############
+%GID:127
+%LID#0#127-3-Bangladesh#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	153	ANY
+v	2	2	ANY
+v	3	1730	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	2	Bangladesh
+##############
+%GID:127
+%LID#0#127-2-Dhanmondi_Thana#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	153	ANY
+v	2	2	ANY
+v	3	1730	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	3	Dhanmondi_Thana
+##############
+%GID:128
+%LID#0#128-2-Dramatists_Guild_of_America#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Dramatists_Guild_of_America
+##############
+%GID:128
+%LID#0#128-3-www.dramatistsguild.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:128
+%LID#0#128-1-New_York_City#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:129
+%LID#0#129-2-Indian_Council_of_Medical_Research#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	Indian_Council_of_Medical_Research
+##############
+%GID:129
+%LID#0#129-0-Dataquest#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Dataquest
+##############
+%GID:129
+%LID#0#129-3-www.dqindia.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	www.dqindia.com
+##############
+%GID:129
+%LID#0#129-1-New_Delhi#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_Delhi
+##############
+%GID:130
+%LID#1#130-0-Illuminating_Engineering_Society_of_North_America#3#3#27
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+e	0	45	1
+e	2	45	1
+#Condition
+%X
+eq-let	-1	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:130
+%LID#1#130-2-LNB_Pro_A#0#0#17
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+e	0	45	1
+e	2	45	1
+#Condition
+%X
+eq-let	-1	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	LNB_Pro_A
+##############
+%GID:131
+%LID#0#131-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:131
+%LID#0#131-1-Wall_Street#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:131
+%LID#0#131-0-Illuminating_Engineering_Society_of_North_America#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:131
+%LID#0#131-3-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	2	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:132
+%LID#1#132-3-International_Gay_and_Lesbian_Human_Rights_Commission#4#4#24
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	-1	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:132
+%LID#1#132-0-Illuminating_Engineering_Society_of_North_America#3#3#23
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	-1	International_Gay_and_Lesbian_Human_Rights_Commission
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:132
+%LID#1#132-0-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#18
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	0	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:133
+%LID#0#133-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:133
+%LID#0#133-0-Rocky_Mountain_News#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:133
+%LID#0#133-2-Outdoor_Channel#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Outdoor_Channel
+##############
+%GID:133
+%LID#0#133-3-www.outdoorchannel.com#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.outdoorchannel.com
+##############
+%GID:134
+%LID#0#134-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:134
+%LID#0#134-2-United_States#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:134
+%LID#0#134-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:135
+%LID#0#135-0-Mathematical_Association_of_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:135
+%LID#0#135-2-Washington,_D.C.#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:135
+%LID#0#135-1-18th_Street_NW_(Washington,_D.C.)#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:136
+%LID#0#136-0-Illuminating_Engineering_Society_of_North_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:136
+%LID#0#136-3-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	2	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:136
+%LID#0#136-2-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:136
+%LID#0#136-1-New_York_City#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:137
+%LID#0#137-2-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	1	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	3	www.dramatistsguild.com
+##############
+%GID:137
+%LID#0#137-1-New_York_City#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	1	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:137
+%LID#0#137-3-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	1	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	2	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:137
+%LID#0#137-0-Dramatists_Guild_of_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	1	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	0	Dramatists_Guild_of_America
+##############
+%GID:138
+%LID#0#138-0-Illuminating_Engineering_Society_of_North_America#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:138
+%LID#0#138-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:138
+%LID#0#138-4-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	4	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:138
+%LID#0#138-1-New_York_City#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:139
+%LID#0#139-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	3	Northwest,_Washington,_D.C.
+##############
+%GID:139
+%LID#0#139-0-Mathematical_Association_of_America#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:139
+%LID#0#139-3-Washington,_D.C.#0#0#8
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:139
+%LID#0#139-1-18th_Street_NW_(Washington,_D.C.)#0#0#7
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:140
+%LID#0#140-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:140
+%LID#0#140-3-The_Star#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	2	The_Star
+##############
+%GID:140
+%LID#0#140-4-New_Jersey#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	4	New_Jersey
+##############
+%GID:140
+%LID#0#140-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:140
+%LID#0#140-2-United_States#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:141
+%LID#0#141-0-Mathematical_Association_of_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:141
+%LID#0#141-2-Washington,_D.C.#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:141
+%LID#0#141-1-18th_Street_NW_(Washington,_D.C.)#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:142
+%LID#1#142-2-International_Committee_for_Information_Technology_Standards#8#8#32
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	0	LNB_Pro_A
+%Y
+eq-let	3	International_Committee_for_Information_Technology_Standards
+##############
+%GID:142
+%LID#1#142-0-Illuminating_Engineering_Society_of_North_America#3#3#30
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:142
+%LID#1#142-3-LNB_Pro_A#7#7#36
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	2	LNB_Pro_A
+##############
+%GID:142
+%LID#1#142-3-Illuminating_Engineering_Society_of_North_America#5#5#23
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	0	LNB_Pro_A
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:142
+%LID#1#142-0-International_Committee_for_Information_Technology_Standards#2#2#18
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:142
+%LID#1#142-2-LNB_Pro_A#0#0#20
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	3	LNB_Pro_A
+##############
+%GID:143
+%LID#0#143-1-18th_Street_NW_(Washington,_D.C.)#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:143
+%LID#0#143-4-American_Historical_Association#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	4	American_Historical_Association
+##############
+%GID:143
+%LID#0#143-0-Mathematical_Association_of_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:143
+%LID#0#143-2-Washington,_D.C.#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:144
+%LID#0#144-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:144
+%LID#0#144-3-Colorado#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	Colorado
+##############
+%GID:144
+%LID#0#144-2-Rocky_Mountain_News#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Rocky_Mountain_News
+##############
+%GID:144
+%LID#0#144-0-Outdoor_Channel#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:145
+%LID#0#145-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:145
+%LID#0#145-2-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:145
+%LID#0#145-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:145
+%LID#0#145-4-American_Historical_Association#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	-1	American_Historical_Association
+##############
+%GID:146
+%LID#0#146-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:146
+%LID#0#146-4-American_Historical_Association#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	4	American_Historical_Association
+##############
+%GID:146
+%LID#0#146-3-Washington,_D.C.#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:146
+%LID#0#146-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:146
+%LID#0#146-2-United_States#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:147
+%LID#1#147-3-International_Committee_for_Information_Technology_Standards#7#7#25
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	2	International_Committee_for_Information_Technology_Standards
+##############
+%GID:147
+%LID#1#147-3-Illuminating_Engineering_Society_of_North_America#4#4#13
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	0	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:147
+%LID#1#147-2-LNB_Pro_A#0#0#8
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	0	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	3	LNB_Pro_A
+##############
+%GID:147
+%LID#1#147-0-International_Committee_for_Information_Technology_Standards#2#2#9
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	LNB_Pro_A
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:147
+%LID#1#147-3-Illuminating_Engineering_Society_of_North_America#4#4#11
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	LNB_Pro_A
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:147
+%LID#1#147-2-Illuminating_Engineering_Society_of_North_America#5#5#24
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:147
+%LID#1#147-0-LNB_Pro_A#3#3#16
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:147
+%LID#1#147-0-LNB_Pro_A#3#3#18
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:147
+%LID#1#147-3-Illuminating_Engineering_Society_of_North_America#4#4#21
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:147
+%LID#1#147-0-LNB_Pro_A#3#3#20
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:148
+%LID#0#148-0-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:148
+%LID#0#148-1-New_York_City#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:148
+%LID#0#148-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:148
+%LID#0#148-2-Illuminating_Engineering_Society_of_North_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:149
+%LID#0#149-0-Indian_Council_of_Medical_Research#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Indian_Council_of_Medical_Research
+##############
+%GID:149
+%LID#0#149-3-www.dqindia.com#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.dqindia.com
+##############
+%GID:149
+%LID#0#149-2-Dataquest#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Dataquest
+##############
+%GID:149
+%LID#0#149-1-New_Delhi#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_Delhi
+##############
+%GID:150
+%LID#1#150-3-International_Committee_for_Information_Technology_Standards#6#6#8
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+eq-let	-1	LNB_Pro_A
+%Y
+eq-let	2	International_Committee_for_Information_Technology_Standards
+##############
+%GID:150
+%LID#1#150-3-LNB_Pro_A#5#5#10
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+eq-let	-1	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	LNB_Pro_A
+##############
+%GID:151
+%LID#0#151-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:151
+%LID#0#151-4-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	4	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:151
+%LID#0#151-1-Wall_Street#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:151
+%LID#0#151-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:151
+%LID#0#151-0-Illuminating_Engineering_Society_of_North_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:152
+%LID#0#152-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:152
+%LID#0#152-2-Rocky_Mountain_News#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	3	Rocky_Mountain_News
+##############
+%GID:152
+%LID#0#152-3-www.outdoorchannel.com#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	2	www.outdoorchannel.com
+##############
+%GID:152
+%LID#0#152-4-Colorado#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	4	Colorado
+##############
+%GID:152
+%LID#0#152-0-Outdoor_Channel#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:153
+%LID#0#153-1-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+e	0	45	1
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	1	United_States
+##############
+%GID:154
+%LID#0#154-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:154
+%LID#0#154-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:154
+%LID#0#154-2-United_States#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:155
+%LID#0#155-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	3	Northwest,_Washington,_D.C.
+##############
+%GID:155
+%LID#0#155-0-Mathematical_Association_of_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:155
+%LID#0#155-3-Washington,_D.C.#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:155
+%LID#0#155-4-American_Historical_Association#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	4	American_Historical_Association
+##############
+%GID:155
+%LID#0#155-1-18th_Street_NW_(Washington,_D.C.)#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:156
+%LID#0#156-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:156
+%LID#0#156-0-Illuminating_Engineering_Society_of_North_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:156
+%LID#0#156-1-Wall_Street#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:156
+%LID#0#156-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	2	ANY
+v	3	20	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:158
+%LID#0#158-3-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:158
+%LID#0#158-1-New_York_City#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:158
+%LID#0#158-0-Dramatists_Guild_of_America#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	0	Dramatists_Guild_of_America
+##############
+%GID:158
+%LID#0#158-4-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	4	United_States
+##############
+%GID:158
+%LID#0#158-2-Illuminating_Engineering_Society_of_North_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	3	45	4
+#Condition
+%X
+%Y
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:159
+%LID#0#159-1-New_York_City#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:159
+%LID#0#159-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:159
+%LID#0#159-2-Illuminating_Engineering_Society_of_North_America#0#0#7
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:161
+%LID#0#161-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:161
+%LID#0#161-3-Washington,_D.C.#0#0#8
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:161
+%LID#0#161-1-National_Kidney_Foundation_Singapore#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:161
+%LID#0#161-2-United_States#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:162
+%LID#0#162-1-New_York_City#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:162
+%LID#0#162-3-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:162
+%LID#0#162-0-Illuminating_Engineering_Society_of_North_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:163
+%LID#0#163-0-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:163
+%LID#0#163-1-New_York_City#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:163
+%LID#0#163-3-www.dramatistsguild.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:163
+%LID#0#163-2-Dramatists_Guild_of_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Dramatists_Guild_of_America
+##############
+%GID:164
+%LID#0#164-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:164
+%LID#0#164-2-United_States#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:164
+%LID#0#164-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:164
+%LID#0#164-4-Washington,_D.C.#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	-1	Washington,_D.C.
+##############
+%GID:165
+%LID#1#165-0-Rocky_Mountain_News#3#3#6
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Outdoor_Channel
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:165
+%LID#1#165-0-Outdoor_Channel#4#4#8
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Rocky_Mountain_News
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:165
+%LID#1#165-2-Rocky_Mountain_News#2#2#7
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Outdoor_Channel
+%Y
+eq-let	2	Rocky_Mountain_News
+##############
+%GID:165
+%LID#1#165-2-Outdoor_Channel#1#1#5
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Rocky_Mountain_News
+%Y
+eq-let	2	Outdoor_Channel
+##############
+%GID:166
+%LID#0#166-0-Dramatists_Guild_of_America#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	0	Dramatists_Guild_of_America
+##############
+%GID:166
+%LID#0#166-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:166
+%LID#0#166-3-www.dramatistsguild.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:166
+%LID#0#166-4-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	4	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:167
+%LID#1#167-3-The_Star#3#3#8
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+eq-let	4	Richard_Vezza
+%Y
+eq-let	2	The_Star
+##############
+%GID:167
+%LID#1#167-4-www.sipiapa.com#5#5#9
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+eq-let	2	Inter_American_Press_Association
+%Y
+eq-let	4	www.sipiapa.com
+##############
+%GID:167
+%LID#1#167-3-Inter_American_Press_Association#6#6#10
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+eq-let	4	www.sipiapa.com
+%Y
+eq-let	2	Inter_American_Press_Association
+##############
+%GID:167
+%LID#1#167-4-Richard_Vezza#2#2#7
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+eq-let	2	The_Star
+%Y
+eq-let	4	Richard_Vezza
+##############
+%GID:168
+%LID#0#168-4-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	4	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:168
+%LID#0#168-2-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:168
+%LID#0#168-0-Illuminating_Engineering_Society_of_North_America#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:168
+%LID#0#168-1-New_York_City#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:169
+%LID#0#169-0-International_Committee_for_Information_Technology_Standards#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:169
+%LID#0#169-2-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:169
+%LID#0#169-4-American_Historical_Association#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	4	American_Historical_Association
+##############
+%GID:169
+%LID#0#169-1-Washington,_D.C.#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:170
+%LID#0#170-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:170
+%LID#0#170-4-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	4	United_States
+##############
+%GID:170
+%LID#0#170-3-International_Committee_for_Information_Technology_Standards#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	2	International_Committee_for_Information_Technology_Standards
+##############
+%GID:170
+%LID#0#170-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:170
+%LID#0#170-2-Washington,_D.C.#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:171
+%LID#0#171-4-United_States#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	4	United_States
+##############
+%GID:171
+%LID#0#171-1-18th_Street_NW_(Washington,_D.C.)#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:171
+%LID#0#171-3-International_Committee_for_Information_Technology_Standards#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	2	International_Committee_for_Information_Technology_Standards
+##############
+%GID:171
+%LID#0#171-0-Mathematical_Association_of_America#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:171
+%LID#0#171-2-Washington,_D.C.#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	3	Washington,_D.C.
+##############
+%GID:172
+%LID#0#172-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:172
+%LID#0#172-2-United_States#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	44	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:172
+%LID#0#172-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	44	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:172
+%LID#0#172-4-Inter_American_Press_Association#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	44	3
+#Condition
+%X
+%Y
+eq-let	4	Inter_American_Press_Association
+##############
+%GID:173
+%LID#0#173-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	58	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:173
+%LID#0#173-4-Miami#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	58	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	4	Miami
+##############
+%GID:173
+%LID#0#173-3-Inter_American_Press_Association#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	58	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	2	Inter_American_Press_Association
+##############
+%GID:173
+%LID#0#173-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	58	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:173
+%LID#0#173-2-United_States#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	58	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:174
+%LID#0#174-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:174
+%LID#0#174-1-Wall_Street#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:174
+%LID#0#174-0-Illuminating_Engineering_Society_of_North_America#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:175
+%LID#0#175-0-Illuminating_Engineering_Society_of_North_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	44	1
+e	2	45	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:175
+%LID#0#175-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	44	1
+e	2	45	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:175
+%LID#0#175-3-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	44	1
+e	2	45	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:176
+%LID#0#176-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:176
+%LID#0#176-0-Rocky_Mountain_News#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:176
+%LID#0#176-2-Outdoor_Channel#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Outdoor_Channel
+##############
+%GID:176
+%LID#0#176-3-www.outdoorchannel.com#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.outdoorchannel.com
+##############
+%GID:177
+%LID#1#177-3-Illuminating_Engineering_Society_of_North_America#3#3#7
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+eq-let	-1	LNB_Pro_A
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:178
+%LID#1#178-3-International_Committee_for_Information_Technology_Standards#6#6#8
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+eq-let	-1	LNB_Pro_A
+%Y
+eq-let	2	International_Committee_for_Information_Technology_Standards
+##############
+%GID:178
+%LID#1#178-3-LNB_Pro_A#5#5#10
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+#Condition
+%X
+eq-let	-1	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	LNB_Pro_A
+##############
+%GID:179
+%LID#0#179-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	1	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:179
+%LID#0#179-3-Dramatists_Guild_of_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	1	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	2	Dramatists_Guild_of_America
+##############
+%GID:179
+%LID#0#179-1-Wall_Street#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	1	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:179
+%LID#0#179-4-www.dramatistsguild.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	1	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	4	www.dramatistsguild.com
+##############
+%GID:179
+%LID#0#179-0-Illuminating_Engineering_Society_of_North_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	1	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	2	45	4
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:180
+%LID#1#180-2-Dataquest#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Indian_Council_of_Medical_Research
+%Y
+eq-let	2	Dataquest
+##############
+%GID:180
+%LID#1#180-0-Dataquest#3#3#8
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Indian_Council_of_Medical_Research
+%Y
+eq-let	0	Dataquest
+##############
+%GID:180
+%LID#1#180-2-Indian_Council_of_Medical_Research#1#1#7
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Dataquest
+%Y
+eq-let	2	Indian_Council_of_Medical_Research
+##############
+%GID:180
+%LID#1#180-0-Indian_Council_of_Medical_Research#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	2	Dataquest
+%Y
+eq-let	0	Indian_Council_of_Medical_Research
+##############
+%GID:181
+%LID#0#181-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:181
+%LID#0#181-0-Outdoor_Channel#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Outdoor_Channel
+##############
+%GID:181
+%LID#0#181-2-Rocky_Mountain_News#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	Rocky_Mountain_News
+##############
+%GID:181
+%LID#0#181-3-www.outdoorchannel.com#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	www.outdoorchannel.com
+##############
+%GID:182
+%LID#1#182-3-International_Committee_for_Information_Technology_Standards#7#7#25
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	2	International_Committee_for_Information_Technology_Standards
+##############
+%GID:182
+%LID#1#182-3-Illuminating_Engineering_Society_of_North_America#4#4#13
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	0	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:182
+%LID#1#182-2-LNB_Pro_A#0#0#8
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	0	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	3	LNB_Pro_A
+##############
+%GID:182
+%LID#1#182-0-International_Committee_for_Information_Technology_Standards#2#2#9
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	LNB_Pro_A
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:182
+%LID#1#182-3-Illuminating_Engineering_Society_of_North_America#4#4#11
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	LNB_Pro_A
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:182
+%LID#1#182-2-Illuminating_Engineering_Society_of_North_America#5#5#24
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:182
+%LID#1#182-0-LNB_Pro_A#3#3#16
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:182
+%LID#1#182-0-LNB_Pro_A#3#3#18
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:182
+%LID#1#182-3-Illuminating_Engineering_Society_of_North_America#4#4#21
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	3	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	2	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:182
+%LID#1#182-0-LNB_Pro_A#3#3#20
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	International_Committee_for_Information_Technology_Standards
+%Y
+eq-let	0	LNB_Pro_A
+##############
+%GID:183
+%LID#0#183-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:183
+%LID#0#183-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:183
+%LID#0#183-4-Illuminating_Engineering_Society_of_North_America#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	4	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:183
+%LID#0#183-2-United_States#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:184
+%LID#0#184-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:184
+%LID#0#184-2-Outdoor_Channel#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Outdoor_Channel
+##############
+%GID:184
+%LID#0#184-3-www.outdoorchannel.com#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.outdoorchannel.com
+##############
+%GID:184
+%LID#0#184-4-Colorado#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	4	Colorado
+##############
+%GID:184
+%LID#0#184-0-Rocky_Mountain_News#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	19	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:185
+%LID#0#185-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:185
+%LID#0#185-1-National_Kidney_Foundation_Singapore#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:185
+%LID#0#185-2-United_States#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:186
+%LID#0#186-3-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:186
+%LID#0#186-0-Illuminating_Engineering_Society_of_North_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:186
+%LID#0#186-2-Dramatists_Guild_of_America#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Dramatists_Guild_of_America
+##############
+%GID:186
+%LID#0#186-4-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	4	United_States
+##############
+%GID:186
+%LID#0#186-1-New_York_City#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	45	4
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:187
+%LID#0#187-2-Indian_Council_of_Medical_Research#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	Indian_Council_of_Medical_Research
+##############
+%GID:187
+%LID#0#187-0-Dataquest#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Dataquest
+##############
+%GID:187
+%LID#0#187-3-www.dqindia.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	www.dqindia.com
+##############
+%GID:187
+%LID#0#187-1-New_Delhi#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_Delhi
+##############
+%GID:188
+%LID#0#188-0-International_Committee_for_Information_Technology_Standards#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	International_Committee_for_Information_Technology_Standards
+##############
+%GID:188
+%LID#0#188-2-United_States#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:188
+%LID#0#188-1-Washington,_D.C.#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:188
+%LID#0#188-4-Illuminating_Engineering_Society_of_North_America#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	4	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:188
+%LID#0#188-3-LNB_Pro_A#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	2	LNB_Pro_A
+##############
+%GID:189
+%LID#0#189-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	4
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:189
+%LID#0#189-1-Wall_Street#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	4
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:189
+%LID#0#189-4-United_States#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	4
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	4	United_States
+##############
+%GID:189
+%LID#0#189-0-Illuminating_Engineering_Society_of_North_America#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+v	4	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	4
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:190
+%LID#0#190-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:190
+%LID#0#190-0-Rocky_Mountain_News#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	Rocky_Mountain_News
+##############
+%GID:190
+%LID#0#190-2-Outdoor_Channel#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	Outdoor_Channel
+##############
+%GID:190
+%LID#0#190-3-Colorado#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+v	2	19	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	Colorado
+##############
+%GID:191
+%LID#0#191-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:191
+%LID#0#191-2-United_States#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:191
+%LID#0#191-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:192
+%LID#0#192-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	27	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:192
+%LID#0#192-3-USENIX#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	27	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	2	USENIX
+##############
+%GID:192
+%LID#0#192-2-United_States#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	27	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:192
+%LID#0#192-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	27	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:192
+%LID#0#192-4-Berkeley,_California#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	27	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	4	Berkeley,_California
+##############
+%GID:193
+%LID#0#193-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	69	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:193
+%LID#0#193-1-National_Kidney_Foundation_Singapore#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	69	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore
+##############
+%GID:193
+%LID#0#193-2-United_States#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	69	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:193
+%LID#0#193-4-Newark,_New_Jersey#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	69	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	4	Newark,_New_Jersey
+##############
+%GID:193
+%LID#0#193-3-The_Star#0#0#3
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	69	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	2	The_Star
+##############
+%GID:194
+%LID#0#194-2-New_York_City#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	3	New_York_City
+##############
+%GID:194
+%LID#0#194-1-Wall_Street#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	1	Wall_Street
+##############
+%GID:194
+%LID#0#194-4-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	-1	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:194
+%LID#0#194-0-Illuminating_Engineering_Society_of_North_America#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+v	2	15	ANY
+v	3	20	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:195
+%LID#0#195-3-United_States#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	2	United_States
+##############
+%GID:195
+%LID#0#195-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:195
+%LID#0#195-4-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	4	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:195
+%LID#0#195-2-Illuminating_Engineering_Society_of_North_America#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	2	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	3	Illuminating_Engineering_Society_of_North_America
+##############
+%GID:196
+%LID#1#196-4-Design_Futures_Council#1#1#14
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	44	3
+#Condition
+%X
+eq-let	2	American_Public_Health_Association
+%Y
+eq-let	4	Design_Futures_Council
+##############
+%GID:196
+%LID#1#196-4-American_Public_Health_Association#4#4#16
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	44	3
+#Condition
+%X
+eq-let	2	Design_Futures_Council
+%Y
+eq-let	4	American_Public_Health_Association
+##############
+%GID:197
+%LID#0#197-3-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:197
+%LID#0#197-2-Dramatists_Guild_of_America#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	3	Dramatists_Guild_of_America
+##############
+%GID:197
+%LID#0#197-4-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	4	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:197
+%LID#0#197-1-New_York_City#0#0#5
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:198
+%LID#0#198-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:198
+%LID#0#198-3-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:198
+%LID#0#198-2-United_States#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	3	United_States
+##############
+%GID:198
+%LID#0#198-1-National_Kidney_Foundation_Singapore#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	1	National_Kidney_Foundation_Singapore

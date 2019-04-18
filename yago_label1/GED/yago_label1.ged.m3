@@ -1,0 +1,14 @@
+##########
+%GID:3
+%LID#1#3-0-<Grenada>#0#0#6
+#Pattern
+v	0	1	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	36	1
+e	2	36	1
+#Condition
+%X
+eq-let	1	name	<wordnet_nutmeg_111714382>
+%Y
+eq-id	0	id	2	id

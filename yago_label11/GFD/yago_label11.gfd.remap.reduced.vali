@@ -1,0 +1,209 @@
+##############
+%GID:1
+%LID#0#1-1-<Socialist_Party_of_Serbia>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+e	0	7	1
+#Condition
+%X
+%Y
+eq-let	1	<Socialist_Party_of_Serbia>
+##############
+%GID:2
+%LID#0#2-1-<Chivas_USA>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+e	0	12	1
+#Condition
+%X
+%Y
+eq-let	1	<Chivas_USA>
+##############
+%GID:4
+%LID#1#4-1-<Headquarters_of_the_United_Nations>#3#3#33
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	0	<United_Nations>
+%Y
+eq-let	1	<Headquarters_of_the_United_Nations>
+##############
+%GID:5
+%LID#0#5-1-<Frankfurt>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	6	ANY
+e	0	12	1
+#Condition
+%X
+%Y
+eq-let	1	<Frankfurt>
+##############
+%GID:6
+%LID#0#6-1-<Nicomedia>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	6	ANY
+e	0	3	1
+#Condition
+%X
+%Y
+eq-let	1	<Nicomedia>
+##############
+%GID:7
+%LID#0#7-0-<Thomas_Aquinas>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	2	ANY
+e	0	11	1
+#Condition
+%X
+%Y
+eq-let	0	<Thomas_Aquinas>
+##############
+%GID:8
+%LID#1#8-0-<Turriff_United_F.C.>#5#5#99
+#Pattern
+v	0	11	ANY
+v	1	0	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<The_Haughs>
+%Y
+eq-let	0	<Turriff_United_F.C.>
+##############
+%GID:10
+%LID#1#10-1-<CapExBio>#18#18#66
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+e	0	5	1
+#Condition
+%X
+eq-let	0	<Station_biologique_de_Roscoff>
+%Y
+eq-let	1	<CapExBio>
+##############
+%GID:11
+%LID#1#11-1-<Battle_of_Cuito_Cuanavale>#29#29#66
+#Pattern
+v	0	11	ANY
+v	1	0	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	0	<MPLA>
+%Y
+eq-let	1	<Battle_of_Cuito_Cuanavale>
+##############
+%GID:12
+%LID#0#12-1-<Spanish_colonial_real>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+e	0	33	1
+#Condition
+%X
+%Y
+eq-let	1	<Spanish_colonial_real>
+##############
+%GID:13
+%LID#0#13-1-<Sedang_language>#0#0#0
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	1	<Sedang_language>
+##############
+%GID:14
+%LID#1#14-0-<Botswana_Defence_Force>#2#2#6
+#Pattern
+v	0	11	ANY
+v	1	14	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<Francistown_Airport>
+%Y
+eq-let	0	<Botswana_Defence_Force>
+##############
+%GID:16
+%LID#1#16-0-<Institute_of_Problems_of_Chemical_Physics>#2#2#6
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+v	2	10	ANY
+e	0	6	2
+e	1	6	2
+#Condition
+%X
+eq-let	1	<Russian_Academy_of_Sciences>
+%Y
+eq-let	0	<Institute_of_Problems_of_Chemical_Physics>
+##############
+%GID:17
+%LID#1#17-1-<Platine_War>#33#33#70
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+v	2	9	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	1	<Brazilian_Army>
+%Y
+eq-let	2	<Platine_War>
+##############
+%GID:18
+%LID#1#18-1-<Operation_Mountain_Thrust>#11#11#132
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Canadian_Army>
+%Y
+eq-let	1	<Operation_Mountain_Thrust>
+##############
+%GID:19
+%LID#1#19-1-<Operation_Mountain_Thrust>#9#9#33
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	3	<Canadian_Army>
+%Y
+eq-let	1	<Operation_Mountain_Thrust>
+##############
+%GID:20
+%LID#1#20-0-<Institute_of_Problems_of_Chemical_Physics>#2#2#6
+#Pattern
+v	0	11	ANY
+v	1	10	ANY
+v	2	11	ANY
+e	0	6	1
+e	2	6	1
+#Condition
+%X
+eq-let	2	<Russian_Academy_of_Sciences>
+%Y
+eq-let	0	<Institute_of_Problems_of_Chemical_Physics>

@@ -1,0 +1,13 @@
+##########
+%GID:43
+%LID#0#43-1-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

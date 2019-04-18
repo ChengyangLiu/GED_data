@@ -1,0 +1,216 @@
+##############
+%GID:1131
+%LID#0#1131-0-Parviz_Shahbazi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	0	ANY
+v	3	15	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+#Condition
+%X
+%Y
+eq-let	0	Parviz_Shahbazi
+##############
+%GID:1263
+%LID#0#1263-2-Parviz_Shahbazi#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	15	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	20	1
+e	3	20	2
+#Condition
+%X
+%Y
+eq-let	3	Parviz_Shahbazi
+##############
+%GID:1835
+%LID#0#1835-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	20	2
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:3226
+%LID#0#3226-0-Parviz_Shahbazi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	0	ANY
+v	3	15	ANY
+v	4	8	ANY
+e	0	20	1
+e	0	20	3
+e	0	21	2
+e	0	21	4
+#Condition
+%X
+%Y
+eq-let	0	Parviz_Shahbazi
+##############
+%GID:3281
+%LID#0#3281-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	19	ANY
+e	0	16	1
+e	0	16	3
+e	0	20	2
+e	0	39	4
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:3315
+%LID#0#3315-2-Mahmoud_Shoolizadeh#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	7	ANY
+v	3	7	ANY
+v	4	15	ANY
+e	0	16	1
+e	2	20	1
+e	2	20	4
+e	3	20	1
+#Condition
+%X
+%Y
+eq-let	3	Mahmoud_Shoolizadeh
+##############
+%GID:3359
+%LID#0#3359-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	55	ANY
+e	0	16	1
+e	0	16	3
+e	0	20	2
+e	0	39	4
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:3580
+%LID#0#3580-0-Lars_Nittve#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	2	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+e	4	39	2
+#Condition
+%X
+%Y
+eq-let	0	Lars_Nittve
+##############
+%GID:3629
+%LID#1#3629-3-Tokyo_International_Film_Festival#9#9#37
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	15	ANY
+v	3	7	ANY
+v	4	7	ANY
+e	0	16	1
+e	3	20	1
+e	3	20	2
+e	4	20	2
+#Condition
+%X
+eq-let	4	Tian_Zhuangzhuang
+%Y
+eq-let	2	Tokyo_International_Film_Festival
+##############
+%GID:3658
+%LID#0#3658-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	2	ANY
+v	3	19	ANY
+v	4	15	ANY
+e	0	16	1
+e	0	16	3
+e	0	16	2
+e	0	20	4
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:3672
+%LID#0#3672-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	16	3
+e	0	20	2
+e	0	39	4
+#Condition
+%X
+%Y
+eq-let	0	Vijay_Anand_(Hindi_film_maker)
+##############
+%GID:3914
+%LID#0#3914-1-Isfahan#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	15	ANY
+v	3	7	ANY
+v	4	0	ANY
+e	0	20	1
+e	3	20	1
+e	3	20	2
+e	3	21	4
+#Condition
+%X
+%Y
+eq-let	1	Isfahan
+##############
+%GID:4655
+%LID#0#4655-3-Hong_Kong#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	310	ANY
+v	2	2	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	20	1
+e	0	21	3
+e	0	21	2
+e	4	39	2
+#Condition
+%X
+%Y
+eq-let	2	Hong_Kong

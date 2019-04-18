@@ -1,0 +1,28 @@
+##############
+%GID:8
+%LID#1#8-0-<Craig_Morgan>#6#6#15
+#Pattern
+v	0	8	ANY
+v	1	11	ANY
+v	2	8	ANY
+e	0	27	1
+e	2	27	1
+#Condition
+%X
+eq-let	1	<Round_Rock,_Texas>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:41
+%LID#1#41-0-<Donald_Harrison>#8#8#15
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	8	ANY
+e	0	27	1
+e	2	27	1
+#Condition
+%X
+eq-let	1	<Onoway>
+%Y
+eq-id	0	id	2	id

@@ -1,0 +1,1391 @@
+##############
+%GID:0
+%LID#1#0-1-William_Reed_Business_Media#3#3#15
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Restaurant_(magazine)
+%Y
+eq-let	1	William_Reed_Business_Media
+##############
+%GID:1
+%LID#0#1-1-Mumbai#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Mumbai
+##############
+%GID:2
+%LID#0#2-1-Alfredo_Alcala#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	1	Alfredo_Alcala
+##############
+%GID:3
+%LID#0#3-0-League_of_Nations#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	0	League_of_Nations
+##############
+%GID:4
+%LID#1#4-0-National_Kidney_Foundation#1#1#6
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	1	National_Kidney_Foundation_Singapore
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:5
+%LID#1#5-0-Health_Physics_Society#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	default.aspx
+%Y
+eq-let	0	Health_Physics_Society
+##############
+%GID:6
+%LID#1#6-1-Mathematics#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	13	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	International_Congress_of_Mathematicians
+%Y
+eq-let	1	Mathematics
+##############
+%GID:7
+%LID#0#7-0-People's_Choice_Awards#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	184	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	People's_Choice_Awards
+##############
+%GID:8
+%LID#1#8-1-Sydney#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Visual_Effects_Society
+%Y
+eq-let	1	Sydney
+##############
+%GID:9
+%LID#0#9-1-The_Hague#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	49	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	The_Hague
+##############
+%GID:10
+%LID#0#10-1-New_Delhi#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_Delhi
+##############
+%GID:12
+%LID#0#12-0-Special_Libraries_Association#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	210	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Special_Libraries_Association
+##############
+%GID:13
+%LID#0#13-1-University_of_Colorado_Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	22	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	University_of_Colorado_Denver
+##############
+%GID:14
+%LID#0#14-0-Women's_Sports_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	656	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	Women's_Sports_Foundation
+##############
+%GID:15
+%LID#0#15-0-GlobalPost#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	425	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	GlobalPost
+##############
+%GID:16
+%LID#0#16-0-Europa_Nostra#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	171	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Europa_Nostra
+##############
+%GID:18
+%LID#0#18-1-Norwich#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	94	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Norwich
+##############
+%GID:19
+%LID#1#19-0-Long_Island_Business_News#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Ronkonkoma,_New_York
+%Y
+eq-let	0	Long_Island_Business_News
+##############
+%GID:20
+%LID#0#20-0-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:21
+%LID#0#21-1-Miami#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	58	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Miami
+##############
+%GID:22
+%LID#1#22-1-Irving,_Texas#6#6#15
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Mothers_Against_Drunk_Driving
+%Y
+eq-let	1	Irving,_Texas
+##############
+%GID:23
+%LID#0#23-1-Philadelphia#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Philadelphia
+##############
+%GID:24
+%LID#0#24-0-American_Historical_Association#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	American_Historical_Association
+##############
+%GID:26
+%LID#1#26-1-Mumbai#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	55	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	Indian_Institute_of_Architects
+%Y
+eq-let	1	Mumbai
+##############
+%GID:27
+%LID#0#27-0-Royal_Canadian_Academy_of_Arts#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	16	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Royal_Canadian_Academy_of_Arts
+##############
+%GID:28
+%LID#0#28-1-Nawaz_Sharif#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	9	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	Nawaz_Sharif
+##############
+%GID:30
+%LID#0#30-1-United_States#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	United_States
+##############
+%GID:31
+%LID#0#31-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	261	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Denver
+##############
+%GID:35
+%LID#0#35-0-Mathematical_Association_of_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:37
+%LID#0#37-0-National_Council_for_Scientific_and_Technological_Development#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	182	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	National_Council_for_Scientific_and_Technological_Development
+##############
+%GID:38
+%LID#0#38-1-Southbridge,_Massachusetts#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	72	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Southbridge,_Massachusetts
+##############
+%GID:39
+%LID#1#39-0-Long_Island_Business_News#1#1#6
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Ronkonkoma,_New_York
+%Y
+eq-let	0	Long_Island_Business_News
+##############
+%GID:40
+%LID#0#40-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_York_City
+##############
+%GID:41
+%LID#0#41-1-Newark,_New_Jersey#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	69	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Newark,_New_Jersey
+##############
+%GID:42
+%LID#1#42-0-American_College_of_Physicians#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Philadelphia
+%Y
+eq-let	0	American_College_of_Physicians
+##############
+%GID:43
+%LID#0#43-1-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Washington,_D.C.
+##############
+%GID:44
+%LID#0#44-0-USENIX#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	27	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	USENIX
+##############
+%GID:45
+%LID#0#45-0-LAN_Airlines#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	475	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	LAN_Airlines
+##############
+%GID:46
+%LID#0#46-1-Dhaka#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	153	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Dhaka
+##############
+%GID:47
+%LID#0#47-1-Academy_of_Korean_Studies#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	22	ANY
+e	0	35	1
+#Condition
+%X
+%Y
+eq-let	1	Academy_of_Korean_Studies
+##############
+%GID:48
+%LID#0#48-0-Institute_of_Architects_Bangladesh#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1730	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Institute_of_Architects_Bangladesh
+##############
+%GID:49
+%LID#0#49-0-Academia_Mexicana_de_la_Lengua#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	71	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Academia_Mexicana_de_la_Lengua
+##############
+%GID:50
+%LID#0#50-1-Reston,_Virginia#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1294	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Reston,_Virginia
+##############
+%GID:51
+%LID#0#51-0-National_Health_and_Medical_Research_Council#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	271	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	National_Health_and_Medical_Research_Council
+##############
+%GID:52
+%LID#1#52-1-Irving,_Texas#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Mothers_Against_Drunk_Driving
+%Y
+eq-let	1	Irving,_Texas
+##############
+%GID:54
+%LID#0#54-1-Wellington#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	365	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Wellington
+##############
+%GID:55
+%LID#0#55-0-Imperial_examination#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	Imperial_examination
+##############
+%GID:58
+%LID#1#58-1-Textile#5#5#15
+#Pattern
+v	0	15	ANY
+v	1	0	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Marzotto
+%Y
+eq-let	1	Textile
+##############
+%GID:61
+%LID#0#61-0-Broadcast_(magazine)#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	234	ANY
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	Broadcast_(magazine)
+##############
+%GID:62
+%LID#0#62-1-Sydney#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	1	Sydney
+##############
+%GID:64
+%LID#0#64-0-Apollo_11#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	17	ANY
+e	0	0	1
+#Condition
+%X
+%Y
+eq-let	0	Apollo_11
+##############
+%GID:65
+%LID#0#65-1-Washington,_D.C.#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	23	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	Washington,_D.C.
+##############
+%GID:67
+%LID#0#67-1-Dhaka#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1730	ANY
+v	2	153	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	2	Dhaka
+##############
+%GID:69
+%LID#0#69-0-Healthcare_Information_and_Management_Systems_Society#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	5	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	0	Healthcare_Information_and_Management_Systems_Society
+##############
+%GID:70
+%LID#0#70-2-www.sipiapa.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	58	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.sipiapa.com
+##############
+%GID:71
+%LID#0#71-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+v	2	1	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	Northwest,_Washington,_D.C.
+##############
+%GID:72
+%LID#0#72-0-National_Council_for_Scientific_and_Technological_Development#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	182	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	National_Council_for_Scientific_and_Technological_Development
+##############
+%GID:73
+%LID#0#73-1-Sydney#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	19	ANY
+e	0	0	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	Sydney
+##############
+%GID:74
+%LID#0#74-0-Mathematical_Association_of_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	1	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:75
+%LID#0#75-1-Denver#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	261	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Denver
+##############
+%GID:77
+%LID#0#77-2-www.dqindia.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	456	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.dqindia.com
+##############
+%GID:80
+%LID#0#80-2-www.sla.org#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	210	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.sla.org
+##############
+%GID:81
+%LID#0#81-0-National_Council_for_Scientific_and_Technological_Development#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	182	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	0	National_Council_for_Scientific_and_Technological_Development
+##############
+%GID:82
+%LID#0#82-1-Norwich#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	94	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Norwich
+##############
+%GID:84
+%LID#1#84-2-Dataquest#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	456	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	0	Indian_Council_of_Medical_Research
+%Y
+eq-let	1	Dataquest
+##############
+%GID:85
+%LID#0#85-1-Tysons_Corner,_Virginia#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	11	ANY
+v	2	21	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Tysons_Corner,_Virginia
+##############
+%GID:86
+%LID#0#86-1-Newark,_New_Jersey#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	69	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Newark,_New_Jersey
+##############
+%GID:87
+%LID#0#87-2-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	20	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	www.dramatistsguild.com
+##############
+%GID:89
+%LID#0#89-1-Dhaka#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	153	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	2	Dhaka
+##############
+%GID:92
+%LID#0#92-0-Europa_Nostra#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	49	ANY
+v	2	171	ANY
+e	0	44	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	Europa_Nostra
+##############
+%GID:93
+%LID#0#93-1-New_York_City#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	20	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+%Y
+eq-let	2	New_York_City
+##############
+%GID:95
+%LID#0#95-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	137	ANY
+e	0	35	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:96
+%LID#0#96-1-New_York_City#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	20	ANY
+e	0	44	2
+e	1	45	2
+#Condition
+%X
+%Y
+eq-let	2	New_York_City
+##############
+%GID:97
+%LID#0#97-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	23	ANY
+v	2	137	ANY
+e	0	35	2
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:99
+%LID#0#99-2-Bangladesh#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	2	ANY
+v	2	1730	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	Bangladesh
+##############
+%GID:100
+%LID#0#100-2-ieindia.org#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	55	ANY
+e	0	44	2
+e	0	45	1
+#Condition
+%X
+%Y
+eq-let	1	ieindia.org
+##############
+%GID:103
+%LID#0#103-0-National_Council_for_Scientific_and_Technological_Development#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	182	ANY
+v	2	1	ANY
+v	3	2	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	0	National_Council_for_Scientific_and_Technological_Development
+##############
+%GID:104
+%LID#0#104-3-www.dramatistsguild.com#0#0#1
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:107
+%LID#0#107-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:108
+%LID#0#108-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:110
+%LID#0#110-0-Indian_Council_of_Medical_Research#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	0	Indian_Council_of_Medical_Research
+##############
+%GID:111
+%LID#0#111-0-Mathematical_Association_of_America#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:112
+%LID#0#112-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+#Condition
+%X
+%Y
+eq-let	3	Northwest,_Washington,_D.C.
+##############
+%GID:114
+%LID#0#114-3-International_Gay_and_Lesbian_Human_Rights_Commission#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	15	ANY
+e	0	44	1
+e	2	45	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	International_Gay_and_Lesbian_Human_Rights_Commission
+##############
+%GID:115
+%LID#0#115-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:117
+%LID#0#117-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:121
+%LID#1#121-2-Dataquest#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Indian_Council_of_Medical_Research
+%Y
+eq-let	2	Dataquest
+##############
+%GID:127
+%LID#0#127-1-Dhaka#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	153	ANY
+v	2	2	ANY
+v	3	1730	ANY
+e	0	44	1
+e	0	44	3
+e	0	45	2
+#Condition
+%X
+%Y
+eq-let	1	Dhaka
+##############
+%GID:128
+%LID#0#128-2-Dramatists_Guild_of_America#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+#Condition
+%X
+%Y
+eq-let	3	Dramatists_Guild_of_America
+##############
+%GID:129
+%LID#0#129-2-Indian_Council_of_Medical_Research#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	1	ANY
+v	3	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	Indian_Council_of_Medical_Research
+##############
+%GID:134
+%LID#0#134-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:135
+%LID#0#135-0-Mathematical_Association_of_America#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+#Condition
+%X
+%Y
+eq-let	0	Mathematical_Association_of_America
+##############
+%GID:137
+%LID#0#137-2-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	15	ANY
+v	3	1	ANY
+e	0	44	1
+e	0	45	3
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	3	www.dramatistsguild.com
+##############
+%GID:139
+%LID#0#139-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	3	Northwest,_Washington,_D.C.
+##############
+%GID:140
+%LID#0#140-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:143
+%LID#0#143-1-18th_Street_NW_(Washington,_D.C.)#0#0#4
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	15	ANY
+v	3	23	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	1	18th_Street_NW_(Washington,_D.C.)
+##############
+%GID:146
+%LID#0#146-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:155
+%LID#0#155-2-Northwest,_Washington,_D.C.#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	1	ANY
+v	2	23	ANY
+v	3	11	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	44	3
+e	0	44	2
+e	4	45	2
+#Condition
+%X
+%Y
+eq-let	3	Northwest,_Washington,_D.C.
+##############
+%GID:161
+%LID#0#161-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	44	2
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:166
+%LID#0#166-0-Dramatists_Guild_of_America#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	0	45	2
+e	3	44	1
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	0	Dramatists_Guild_of_America
+##############
+%GID:172
+%LID#0#172-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	44	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:173
+%LID#0#173-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	58	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:183
+%LID#0#183-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:192
+%LID#0#192-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	27	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:193
+%LID#0#193-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	15	ANY
+v	3	2	ANY
+v	4	69	ANY
+e	0	35	1
+e	0	44	3
+e	2	44	3
+e	2	44	4
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:197
+%LID#0#197-3-www.dramatistsguild.com#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	20	ANY
+v	2	1	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	44	1
+e	3	44	1
+e	3	45	2
+e	4	45	1
+#Condition
+%X
+%Y
+eq-let	2	www.dramatistsguild.com
+##############
+%GID:198
+%LID#0#198-0-National_Kidney_Foundation#0#0#0
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+v	2	23	ANY
+v	3	2	ANY
+v	4	15	ANY
+e	0	35	1
+e	0	44	3
+e	0	44	2
+e	4	45	3
+#Condition
+%X
+%Y
+eq-let	0	National_Kidney_Foundation

@@ -1,0 +1,92 @@
+##############
+%GID:4
+%LID#1#4-1-<Headquarters_of_the_United_Nations>#3#3#33
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	0	<United_Nations>
+%Y
+eq-let	1	<Headquarters_of_the_United_Nations>
+##############
+%GID:8
+%LID#1#8-0-<Turriff_United_F.C.>#5#5#99
+#Pattern
+v	0	11	ANY
+v	1	0	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<The_Haughs>
+%Y
+eq-let	0	<Turriff_United_F.C.>
+##############
+%GID:10
+%LID#1#10-1-<CapExBio>#18#18#66
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+e	0	5	1
+#Condition
+%X
+eq-let	0	<Station_biologique_de_Roscoff>
+%Y
+eq-let	1	<CapExBio>
+##############
+%GID:11
+%LID#1#11-1-<Battle_of_Cuito_Cuanavale>#29#29#66
+#Pattern
+v	0	11	ANY
+v	1	0	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	0	<MPLA>
+%Y
+eq-let	1	<Battle_of_Cuito_Cuanavale>
+##############
+%GID:17
+%LID#1#17-1-<Platine_War>#33#33#70
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+v	2	9	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	1	<Brazilian_Army>
+%Y
+eq-let	2	<Platine_War>
+##############
+%GID:18
+%LID#1#18-1-<Operation_Mountain_Thrust>#11#11#132
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Canadian_Army>
+%Y
+eq-let	1	<Operation_Mountain_Thrust>
+##############
+%GID:19
+%LID#1#19-1-<Operation_Mountain_Thrust>#9#9#33
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	3	<Canadian_Army>
+%Y
+eq-let	1	<Operation_Mountain_Thrust>

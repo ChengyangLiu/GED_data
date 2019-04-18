@@ -1,0 +1,52 @@
+##############
+%GID:62
+%LID#1#62-0-3_Compositions_of_New_Jazz#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+e	0	188	1
+e	2	188	1
+#Condition
+%X
+eq-let	1	For_Alto
+%Y
+eq-id	0	id	2	id
+##############
+%GID:918
+%LID#1#918-4-Soul_music#2#2#15
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	4
+e	2	65	5
+#Condition
+%X
+eq-let	2	She_Works_Hard_for_the_Money_(album)
+%Y
+eq-id	3	id	4	id
+##############
+%GID:1302
+%LID#1#1302-3-American_Made_(Wakefield_album)#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	13	ANY
+v	5	11	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	4
+e	2	75	5
+#Condition
+%X
+eq-let	4	Arista_Records
+%Y
+eq-id	3	id	4	id

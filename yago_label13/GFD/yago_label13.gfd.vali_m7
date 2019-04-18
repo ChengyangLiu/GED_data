@@ -1,0 +1,78 @@
+##############
+%GID:8
+%LID#1#8-1-<Quezon_City>#3#3#25
+#Pattern
+v	0	13	ANY
+v	1	11	ANY
+e	0	27	1
+#Condition
+%X
+eq-let	0	<Anjo_Yllana>
+%Y
+eq-let	1	<Quezon_City>
+##############
+%GID:17
+%LID#1#17-0-<Clive_Dunn>#2#2#25
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+e	0	19	1
+#Condition
+%X
+eq-let	1	<Italia_Conti_Academy_of_Theatre_Arts>
+%Y
+eq-let	0	<Clive_Dunn>
+##############
+%GID:42
+%LID#1#42-0-<Thea_Gill>#13#13#25
+#Pattern
+v	0	13	ANY
+v	1	11	ANY
+e	0	19	1
+#Condition
+%X
+eq-let	1	<York_University>
+%Y
+eq-let	0	<Thea_Gill>
+##############
+%GID:46
+%LID#1#46-0-<Julie_Fulton>#3#3#25
+#Pattern
+v	0	13	ANY
+v	1	4	ANY
+e	0	10	1
+#Condition
+%X
+eq-let	1	<Henry_McLeish>
+%Y
+eq-let	0	<Julie_Fulton>
+##############
+%GID:82
+%LID#1#82-0-<Ronald_Reagan>#10#10#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	1	ANY
+e	0	20	2
+e	1	26	2
+#Condition
+%X
+eq-let	1	<Mary_Mouser>
+%Y
+eq-let	0	<Ronald_Reagan>
+##############
+%GID:145
+%LID#1#145-1-<Amanda_Holden>#9#9#29
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	10	1
+e	1	26	3
+e	2	26	3
+#Condition
+%X
+eq-let	2	<Kerry_Shale>
+%Y
+eq-let	1	<Amanda_Holden>

@@ -1,0 +1,235 @@
+##########
+%GID:230
+%LID#1#230-1-Zagreb#9#9#25
+#Pattern
+v	0	7	ANY
+v	1	264	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	name	Oktavijan_Miletić
+%Y
+eq-id	0	id	2	id
+##########
+%GID:647
+%LID#0#647-1-Halifax,_Nova_Scotia#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	266	ANY
+v	3	7	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##########
+%GID:1339
+%LID#0#1339-0-Tony_Jaa#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	13	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:1911
+%LID#0#1911-1-Sibiu#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	1135	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	39	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:1969
+%LID#0#1969-0-Tony_Jaa#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1015	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:2060
+%LID#0#2060-0-Natasha_Arthy#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	1109	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:2726
+%LID#0#2726-1-Isfahan#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	1487	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:3171
+%LID#0#3171-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	19	ANY
+v	4	7	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	39	3
+e	4	16	2
+e	5	39	3
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:3482
+%LID#0#3482-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	19	ANY
+v	4	7	ANY
+v	5	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	39	3
+e	5	39	3
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:3735
+%LID#1#3735-2-Aditya_Assarat#2#2#14
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	15	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	20	3
+e	4	16	2
+e	4	21	5
+#Condition
+%X
+eq-let	4	name	Aditya_Assarat__1
+%Y
+eq-id	1	2
+##########
+%GID:4018
+%LID#0#4018-1-Davao_City#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	145	ANY
+v	2	7	ANY
+v	3	6	ANY
+v	4	6	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	2	21	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:4190
+%LID#1#4190-2-Bahman_Farmanara#1#1#14
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	1487	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	2	name	Film_director
+%Y
+eq-id	1	2
+##########
+%GID:5172
+%LID#0#5172-0-Mauro_Mueller#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	142	ANY
+v	2	0	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	16	3
+e	0	21	2
+e	5	39	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:5190
+%LID#0#5190-1-Bangkok#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	15	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	20	3
+e	0	21	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	2

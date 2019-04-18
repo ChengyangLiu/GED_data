@@ -1,0 +1,41 @@
+##############
+%GID:22
+%LID#1#22-0-<Roman_Catholic_Diocese_of_Sion>#56#56#99
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	28	2
+#Condition
+%X
+eq-let	2	<Sion>
+%Y
+eq-let	0	<Roman_Catholic_Diocese_of_Sion>
+##############
+%GID:23
+%LID#0#23-1-<Buenos_Aires>#0#0#3
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+%Y
+eq-let	2	<Buenos_Aires>
+##############
+%GID:24
+%LID#1#24-2-<Düsseldorf_(region)>#135#135#1583
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+eq-let	0	<Magdeburg_(region)>
+%Y
+eq-let	1	<Düsseldorf_(region)>

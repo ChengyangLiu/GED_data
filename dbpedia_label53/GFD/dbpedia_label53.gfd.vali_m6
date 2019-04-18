@@ -1,0 +1,301 @@
+##############
+%GID:143
+%LID#0#143-1-Taiwanese_pop#0#0#5
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	15	ANY
+e	0	65	2
+e	1	65	2
+#Condition
+%X
+%Y
+eq-let	2	Taiwanese_pop
+##############
+%GID:151
+%LID#0#151-1-Two_Steps_from_Hell#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	39	ANY
+e	0	264	2
+e	1	264	2
+#Condition
+%X
+%Y
+eq-let	2	Two_Steps_from_Hell
+##############
+%GID:174
+%LID#0#174-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	709	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+%Y
+eq-let	2	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##############
+%GID:189
+%LID#0#189-1-Queens_of_Noise#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	Queens_of_Noise
+##############
+%GID:260
+%LID#1#260-1-Shut_Up_and_Dance:_Mixes#8#8#35
+#Pattern
+v	0	53	ANY
+v	1	13	ANY
+v	2	1509	ANY
+e	0	188	2
+e	0	6	1
+#Condition
+%X
+eq-let	1	Jesse_Johnson_(musician)
+%Y
+eq-let	2	Shut_Up_and_Dance:_Mixes
+##############
+%GID:357
+%LID#0#357-0-Unwant#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	161	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	6	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Unwant
+##############
+%GID:377
+%LID#0#377-1-Shut_Up_and_Dance:_Mixes#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Shut_Up_and_Dance:_Mixes
+##############
+%GID:484
+%LID#0#484-3-Capitol_Records#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	8	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Capitol_Records
+##############
+%GID:500
+%LID#0#500-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##############
+%GID:675
+%LID#0#675-1-Two_Steps_from_Hell#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+v	2	53	ANY
+e	0	264	1
+e	2	264	1
+#Condition
+%X
+%Y
+eq-let	1	Two_Steps_from_Hell
+##############
+%GID:831
+%LID#0#831-2-Paula_Abdul#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	8	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	3	Paula_Abdul
+##############
+%GID:859
+%LID#0#859-0-Private_Dancer#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer
+##############
+%GID:864
+%LID#0#864-1-Strangers_in_the_Night_(UFO_album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1368	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+%Y
+eq-let	1	Strangers_in_the_Night_(UFO_album)
+##############
+%GID:901
+%LID#0#901-1-Taiwanese_pop#0#0#7
+#Pattern
+v	0	53	ANY
+v	1	15	ANY
+v	2	53	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+%Y
+eq-let	1	Taiwanese_pop
+##############
+%GID:933
+%LID#0#933-1-Queens_of_Noise#0#0#8
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	53	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-let	1	Queens_of_Noise
+##############
+%GID:974
+%LID#0#974-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##############
+%GID:990
+%LID#0#990-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	264	3
+e	0	6	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##############
+%GID:1022
+%LID#0#1022-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	53	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	4	264	3
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##############
+%GID:1211
+%LID#0#1211-1-Rock#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	64	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	53	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	1	Rock
+##############
+%GID:1287
+%LID#0#1287-0-Forever_Your_Girl#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Forever_Your_Girl

@@ -1,0 +1,219 @@
+##############
+%GID:415
+%LID#0#415-1-Phnom_Penh#0#0#7
+#Pattern
+v	0	39	ANY
+v	1	622	ANY
+v	2	622	ANY
+v	3	39	ANY
+e	0	100	1
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:594
+%LID#0#594-0-United_Biscuits#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	563	ANY
+v	2	563	ANY
+v	3	39	ANY
+e	0	82	1
+e	0	82	2
+e	3	82	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:664
+%LID#0#664-1-Bangkok#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	712	ANY
+v	3	39	ANY
+e	0	100	1
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1912
+%LID#0#1912-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	1	ANY
+e	0	100	1
+e	0	82	4
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2185
+%LID#0#2185-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	1	ANY
+e	0	100	1
+e	3	100	2
+e	3	82	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3400
+%LID#0#3400-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	82	5
+e	3	100	2
+e	3	81	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4006
+%LID#0#4006-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	80	4
+e	0	82	5
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4280
+%LID#0#4280-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	9	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	80	4
+e	0	82	5
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4828
+%LID#0#4828-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	0	ANY
+v	5	1	ANY
+e	0	100	1
+e	3	100	2
+e	3	81	4
+e	3	82	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4925
+%LID#0#4925-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	0	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	81	4
+e	0	82	5
+e	3	100	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:6375
+%LID#0#6375-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	100	1
+e	0	81	4
+e	3	100	2
+e	3	82	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7188
+%LID#0#7188-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	100	1
+e	3	100	2
+e	3	80	4
+e	3	82	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8120
+%LID#0#8120-1-Quebec_City#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	524	ANY
+v	2	524	ANY
+v	3	39	ANY
+v	4	9	ANY
+v	5	1	ANY
+e	0	100	1
+e	3	100	2
+e	3	80	4
+e	3	82	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

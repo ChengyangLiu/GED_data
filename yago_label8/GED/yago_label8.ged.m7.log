@@ -1,0 +1,37 @@
+nohup: ignoring input
+[CORE]~ Start Loading Graph
+[INFO]- loading vertex: 10000
+[INFO]- loading vertex: 20000
+[INFO]- loading vertex: 30000
+[INFO]- loading vertex: 40000
+[INFO]- loading vertex: 50000
+[INFO]- loading vertex total: 59303
+[INFO]- loading edge: 10000
+[INFO]- loading edge total: 19770
+[CORE]~ Completed
+[CORE]~ Start Loading GED
+[INFO]- loading GED total: 0
+[CORE]~ Completed
+[CORE]~ Start Classifying GED
+[INFO]- connected: 0
+[INFO]- disconnected: 0
+[CORE]~ Completed
+[CORE]~ Start Converting To Boost Graph
+[CORE]~ Completed
+[CORE]~ Start Filtering Unexpected GED
+[INFO]- independent node: 0
+[INFO]- wrong literal: 0
+[INFO]- same label (used for big graph with little label type): 0
+[INFO]- unexpected disconnection: 0
+[CORE]~ Completed
+[CORE]~ Running VF2
+[CORE]~ Completed
+[CORE]~ Start Writing Mapping
+[CORE]~ Completed
+[CORE]~ Start Validating GED
+[TEST]* 
+The results:
+
+[CORE]~ Completed
+[CORE]~ Start Writing Results
+[CORE]~ Completed

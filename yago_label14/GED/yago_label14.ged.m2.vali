@@ -1,0 +1,62 @@
+##############
+%GID:6
+%LID#1#6-1-<San_Jose,_California>#2#2#6
+#Pattern
+v	0	14	ANY
+v	1	11	ANY
+v	2	14	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+eq-let	0	<San_Jose_International_Airport>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:11
+%LID#1#11-2-<Tennant_Creek_Airport>#1#1#6
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	0	ANY
+v	3	14	ANY
+e	0	0	2
+e	1	0	0
+e	3	0	2
+#Condition
+%X
+eq-let	2	<Adelaide>
+%Y
+eq-id	0	id	3	id
+##############
+%GID:22
+%LID#0#22-1-<Saint_John's>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	2
+e	1	18	0
+e	3	0	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:59
+%LID#1#59-3-<Barbuda_Codrington_Airport>#0#0#6
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+v	3	14	ANY
+v	4	14	ANY
+e	0	0	2
+e	3	18	0
+e	4	18	1
+#Condition
+%X
+eq-let	4	<Clayton_J._Lloyd_International_Airport>
+%Y
+eq-id	0	id	1	id

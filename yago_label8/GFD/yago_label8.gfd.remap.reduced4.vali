@@ -1,0 +1,121 @@
+##############
+%GID:175
+%LID#0#175-1-<New_York_City>#0#0#64
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	14	1
+e	2	3	1
+e	3	26	1
+e	4	3	1
+#Condition
+%X
+%Y
+eq-let	1	<New_York_City>
+##############
+%GID:208
+%LID#0#208-0-<Lead_Belly>#0#0#47
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	8	ANY
+v	3	2	ANY
+v	4	8	ANY
+e	0	11	1
+e	1	23	3
+e	2	23	3
+e	4	23	3
+#Condition
+%X
+%Y
+eq-let	0	<Lead_Belly>
+##############
+%GID:220
+%LID#0#220-3-<Nicole_Lai>#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	14	1
+e	2	3	1
+e	3	14	1
+#Condition
+%X
+%Y
+eq-let	2	<Nicole_Lai>
+##############
+%GID:238
+%LID#1#238-1-<Hong_Kong>#6#6#470
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	8	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	0	1
+e	2	14	1
+e	3	14	1
+e	4	14	1
+#Condition
+%X
+eq-let	3	<Dave_Wong>
+%Y
+eq-let	1	<Hong_Kong>
+##############
+%GID:252
+%LID#1#252-1-<New_Orleans>#45#45#1649
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	14	1
+e	2	3	1
+e	3	14	1
+e	4	3	1
+#Condition
+%X
+eq-let	3	<Rabbit_Brown>
+%Y
+eq-let	1	<New_Orleans>
+##############
+%GID:262
+%LID#1#262-4-<Francis_Johnson_(composer)>#87#87#1286
+#Pattern
+v	0	8	ANY
+v	1	14	ANY
+v	2	8	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	14	1
+e	2	14	1
+e	3	14	1
+e	4	3	1
+#Condition
+%X
+eq-let	3	<Jobriath>
+%Y
+eq-let	4	<Francis_Johnson_(composer)>
+##############
+%GID:269
+%LID#1#269-3-<Ed_Cassidy>#5#5#8
+#Pattern
+v	0	8	ANY
+v	1	11	ANY
+v	2	8	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	14	1
+e	2	3	1
+e	3	14	1
+e	4	3	1
+#Condition
+%X
+eq-let	4	<Trummy_Young>
+%Y
+eq-let	2	<Ed_Cassidy>

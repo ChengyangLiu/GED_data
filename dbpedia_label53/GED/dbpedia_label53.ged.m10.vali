@@ -1,0 +1,30 @@
+##############
+%GID:0
+%LID#1#0-1-Inhale_Exhale#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+v	2	53	ANY
+e	0	264	1
+e	2	264	1
+#Condition
+%X
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+%Y
+eq-id	0	id	2	id
+##############
+%GID:187
+%LID#1#187-1-Inhale_Exhale#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	0	ANY
+v	3	53	ANY
+e	0	264	2
+e	0	65	1
+e	3	264	2
+#Condition
+%X
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+%Y
+eq-id	0	id	3	id

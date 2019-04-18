@@ -1,0 +1,84 @@
+##############
+%GID:0
+%LID#1#0-1-Inhale_Exhale#2#2#6
+#Pattern
+v	0	53	ANY
+v	1	0	ANY
+e	0	264	1
+#Condition
+%X
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+%Y
+eq-let	1	Inhale_Exhale
+##############
+%GID:187
+%LID#1#187-1-Inhale_Exhale#3#3#15
+#Pattern
+v	0	53	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	264	2
+e	0	65	1
+#Condition
+%X
+eq-let	0	The_Lost._The_Sick._The_Sacred.
+%Y
+eq-let	2	Inhale_Exhale
+##############
+%GID:228
+%LID#0#228-1-GMM_Grammy#0#0#4
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	141	ANY
+e	0	75	2
+e	1	75	2
+#Condition
+%X
+%Y
+eq-let	2	GMM_Grammy
+##############
+%GID:445
+%LID#0#445-1-Shut_Up_and_Dance:_Mixes#0#0#8
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Shut_Up_and_Dance:_Mixes
+##############
+%GID:544
+%LID#0#544-0-Private_Dancer#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer
+##############
+%GID:545
+%LID#0#545-0-Private_Dancer#0#0#9
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	188	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer

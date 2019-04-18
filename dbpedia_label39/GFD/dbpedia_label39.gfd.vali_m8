@@ -1,0 +1,266 @@
+##############
+%GID:161
+%LID#0#161-1-Reston,_Virginia#0#0#1
+#Pattern
+v	0	39	ANY
+v	1	1294	ANY
+e	0	100	1
+#Condition
+%X
+%Y
+eq-let	1	Reston,_Virginia
+##############
+%GID:722
+%LID#1#722-0-OnePlus#5#5#14
+#Pattern
+v	0	39	ANY
+v	1	292	ANY
+v	2	1	ANY
+e	0	100	1
+e	0	82	2
+#Condition
+%X
+eq-let	2	OnePlus_2
+%Y
+eq-let	0	OnePlus
+##############
+%GID:840
+%LID#0#840-1-Milkshake#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	1723	ANY
+v	2	39	ANY
+e	0	45	1
+e	2	82	1
+#Condition
+%X
+%Y
+eq-let	1	Milkshake
+##############
+%GID:875
+%LID#0#875-2-HPTi#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	1294	ANY
+v	2	39	ANY
+e	0	100	1
+e	2	45	1
+#Condition
+%X
+%Y
+eq-let	2	HPTi
+##############
+%GID:1520
+%LID#0#1520-0-Zetor#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	426	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+e	3	81	2
+#Condition
+%X
+%Y
+eq-let	0	Zetor
+##############
+%GID:1757
+%LID#1#1757-0-OnePlus#6#6#17
+#Pattern
+v	0	39	ANY
+v	1	292	ANY
+v	2	39	ANY
+v	3	1	ANY
+e	0	100	1
+e	0	82	3
+e	2	45	1
+#Condition
+%X
+eq-let	3	OnePlus_One
+%Y
+eq-let	0	OnePlus
+##############
+%GID:3189
+%LID#1#3189-0-MORESCO_1#2#2#35
+#Pattern
+v	0	39	ANY
+v	1	1080	ANY
+v	2	2	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	100	2
+e	3	45	2
+#Condition
+%X
+eq-let	1	Laguindingan,_Misamis_Oriental
+%Y
+eq-let	0	MORESCO_1
+##############
+%GID:3373
+%LID#0#3373-1-Madison,_Wisconsin#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+e	3	81	2
+#Condition
+%X
+%Y
+eq-let	1	Madison,_Wisconsin
+##############
+%GID:3541
+%LID#0#3541-1-Lone_Star_Funds#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	925	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	39	ANY
+e	0	45	1
+e	0	82	2
+e	0	82	3
+e	4	82	2
+#Condition
+%X
+%Y
+eq-let	1	Lone_Star_Funds
+##############
+%GID:3764
+%LID#0#3764-1-Bangkok#0#0#4
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	39	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	2	100	1
+e	2	81	3
+e	4	82	3
+#Condition
+%X
+%Y
+eq-let	1	Bangkok
+##############
+%GID:4605
+%LID#0#4605-1-Suzhou#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	291	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	80	2
+e	0	81	3
+e	4	82	3
+#Condition
+%X
+%Y
+eq-let	1	Suzhou
+##############
+%GID:4636
+%LID#0#4636-3-Payment_system#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	712	ANY
+v	2	39	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	81	3
+e	2	100	1
+e	4	82	3
+#Condition
+%X
+%Y
+eq-let	3	Payment_system
+##############
+%GID:4727
+%LID#0#4727-1-San_Francisco_del_Rincón#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	84	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	100	1
+e	0	81	2
+e	0	82	3
+e	0	82	4
+#Condition
+%X
+%Y
+eq-let	1	San_Francisco_del_Rincón
+##############
+%GID:5184
+%LID#0#5184-1-Madison,_Wisconsin#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	2	100	1
+e	2	81	3
+e	4	81	3
+#Condition
+%X
+%Y
+eq-let	1	Madison,_Wisconsin
+##############
+%GID:6132
+%LID#0#6132-3-Embrace_Home_Loans#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	438	ANY
+v	2	1	ANY
+v	3	39	ANY
+v	4	37	ANY
+e	0	100	1
+e	0	82	2
+e	3	82	2
+e	3	82	4
+#Condition
+%X
+%Y
+eq-let	3	Embrace_Home_Loans
+##############
+%GID:7056
+%LID#0#7056-1-Lone_Star_Funds#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	925	ANY
+v	2	0	ANY
+v	3	39	ANY
+v	4	0	ANY
+e	0	45	1
+e	0	82	2
+e	0	82	4
+e	3	82	2
+#Condition
+%X
+%Y
+eq-let	1	Lone_Star_Funds
+##############
+%GID:8457
+%LID#0#8457-1-Madison,_Wisconsin#0#0#2
+#Pattern
+v	0	39	ANY
+v	1	391	ANY
+v	2	39	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	100	1
+e	0	81	3
+e	2	100	1
+e	4	81	3
+#Condition
+%X
+%Y
+eq-let	1	Madison,_Wisconsin

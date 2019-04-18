@@ -1,0 +1,7599 @@
+##########
+%GID:0
+%LID#1#0-0-<Adolf_Piltz>#58#58#99
+#Pattern
+v	0	9	ANY
+v	1	2	ANY
+e	0	30	1
+#Condition
+%X
+eq-let	1	<Karl_Weierstrass>
+%Y
+eq-let	0	<Adolf_Piltz>
+##########
+%GID:1
+%LID#0#1-1-<St._Olaf_College>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	15	ANY
+e	0	5	1
+#Condition
+%X
+%Y
+eq-let	1	<St._Olaf_College>
+##########
+%GID:3
+%LID#1#3-1-<Sufism>#2#2#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	32	1
+#Condition
+%X
+eq-let	0	<Syed_Murtaza_Amin_Shah>
+%Y
+eq-let	1	<Sufism>
+##########
+%GID:4
+%LID#1#4-1-"200000000"#1#1#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	53	1
+#Condition
+%X
+eq-let	0	<CPT_Word_Processors>
+%Y
+eq-let	1	"200000000"
+##########
+%GID:5
+%LID#1#5-0-<Tat_Ming_Pair>#2#2#6
+#Pattern
+v	0	9	ANY
+v	1	8	ANY
+e	0	11	1
+#Condition
+%X
+eq-let	1	<At17>
+%Y
+eq-let	0	<Tat_Ming_Pair>
+##########
+%GID:6
+%LID#0#6-0-<nl/Anthonie_Wattel>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	30	1
+#Condition
+%X
+%Y
+eq-let	0	<nl/Anthonie_Wattel>
+##########
+%GID:7
+%LID#0#7-1-<South_Yemen>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+e	0	17	1
+#Condition
+%X
+%Y
+eq-let	1	<South_Yemen>
+##########
+%GID:8
+%LID#1#8-0-<Alberto_y_Lost_Trios_Paranoias>#1#1#6
+#Pattern
+v	0	9	ANY
+v	1	7	ANY
+e	0	11	1
+#Condition
+%X
+eq-let	1	<Peter_Richardson_(British_director)>
+%Y
+eq-let	0	<Alberto_y_Lost_Trios_Paranoias>
+##########
+%GID:9
+%LID#1#9-0-<fr/Michel_Freitag>#9#9#33
+#Pattern
+v	0	9	ANY
+v	1	2	ANY
+e	0	11	1
+#Condition
+%X
+eq-let	1	<Georges_Bataille>
+%Y
+eq-let	0	<fr/Michel_Freitag>
+##########
+%GID:10
+%LID#0#10-1-<Thomas_Aquinas>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+e	0	11	1
+#Condition
+%X
+%Y
+eq-let	1	<Thomas_Aquinas>
+##########
+%GID:11
+%LID#1#11-1-"30000000"#13#13#25
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	48	1
+#Condition
+%X
+eq-let	0	<Minority_Business_Development_Agency>
+%Y
+eq-let	1	"30000000"
+##########
+%GID:14
+%LID#1#14-0-<Sheryl_Handler>#1#1#25
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+e	0	5	1
+#Condition
+%X
+eq-let	1	<Thinking_Machines_Corporation>
+%Y
+eq-let	0	<Sheryl_Handler>
+##########
+%GID:16
+%LID#0#16-0-<Job_ter_Burg>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+e	0	22	1
+#Condition
+%X
+%Y
+eq-let	0	<Job_ter_Burg>
+##########
+%GID:18
+%LID#1#18-0-<Aubrey_Scotto>#91#91#132
+#Pattern
+v	0	9	ANY
+v	1	8	ANY
+e	0	22	1
+#Condition
+%X
+eq-let	1	<The_Viking_(1928_film)>
+%Y
+eq-let	0	<Aubrey_Scotto>
+##########
+%GID:19
+%LID#1#19-1-<Spain>#1#1#6
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+e	0	24	1
+#Condition
+%X
+eq-let	0	<Palombia>
+%Y
+eq-let	1	<Spain>
+##########
+%GID:21
+%LID#1#21-1-<Boulogne#8#8#25
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+e	0	5	1
+#Condition
+%X
+eq-let	0	<fr/Émile_Lavezzari>
+%Y
+eq-let	1	<Boulogne
+##########
+%GID:22
+%LID#1#22-1-"152.6"#7#7#15
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+e	0	52	1
+#Condition
+%X
+eq-let	0	<Seri_Bestari_Bridge>
+%Y
+eq-let	1	"152.6"
+##########
+%GID:25
+%LID#0#25-0-<pl/Mykoła_Cerelski>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	3	1
+#Condition
+%X
+%Y
+eq-let	0	<pl/Mykoła_Cerelski>
+##########
+%GID:28
+%LID#1#28-1-<fr/Denis_Lacorne>#5#5#15
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	11	1
+#Condition
+%X
+eq-let	0	<fr/Vincent_Michelot>
+%Y
+eq-let	1	<fr/Denis_Lacorne>
+##########
+%GID:29
+%LID#1#29-1-"9781781080665"#67#67#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	55	1
+#Condition
+%X
+eq-let	0	<The_Ten
+%Y
+eq-let	1	"9781781080665"
+##########
+%GID:31
+%LID#1#31-1-<Strasbourg>#13#13#99
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+e	0	3	1
+#Condition
+%X
+eq-let	0	<de/Henri_Loux>
+%Y
+eq-let	1	<Strasbourg>
+##########
+%GID:34
+%LID#1#34-1-<Walter_Farley>#10#10#66
+#Pattern
+v	0	9	ANY
+v	1	2	ANY
+e	0	5	1
+#Condition
+%X
+eq-let	0	<fr/Raoul_Auger>
+%Y
+eq-let	1	<Walter_Farley>
+##########
+%GID:35
+%LID#1#35-1-<San_Francisco>#34#34#99
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+e	0	3	1
+#Condition
+%X
+eq-let	0	<Cornelius_Becker_Philip>
+%Y
+eq-let	1	<San_Francisco>
+##########
+%GID:38
+%LID#1#38-0-<King_Power>#26#26#66
+#Pattern
+v	0	9	ANY
+v	1	5	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<Leicester_City_F.C.>
+%Y
+eq-let	0	<King_Power>
+##########
+%GID:40
+%LID#1#40-1-"305.4"#172#172#200
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	52	1
+#Condition
+%X
+eq-let	0	<Hutsonville_Bridge>
+%Y
+eq-let	1	"305.4"
+##########
+%GID:41
+%LID#0#41-1-<Yuuzhan_Vong>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+e	0	17	1
+#Condition
+%X
+%Y
+eq-let	1	<Yuuzhan_Vong>
+##########
+%GID:42
+%LID#0#42-0-<Foolad_Mobarakeh_Sepahan_(handball)>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+e	0	12	1
+#Condition
+%X
+%Y
+eq-let	0	<Foolad_Mobarakeh_Sepahan_(handball)>
+##########
+%GID:43
+%LID#0#43-1-<Fatimid_Caliphate>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+e	0	12	1
+#Condition
+%X
+%Y
+eq-let	1	<Fatimid_Caliphate>
+##########
+%GID:45
+%LID#1#45-1-<Yuki_Saito_(pitcher,_born_1988)>#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	2	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	0	<The_Cannon_Group>
+%Y
+eq-let	1	<Yuki_Saito_(pitcher,_born_1988)>
+##########
+%GID:47
+%LID#1#47-1-"US09253U1088"#21#21#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	47	1
+#Condition
+%X
+eq-let	0	<Blackstone_Group>
+%Y
+eq-let	1	"US09253U1088"
+##########
+%GID:49
+%LID#1#49-1-<Outremont,_Quebec>#5#5#15
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+e	0	3	1
+#Condition
+%X
+eq-let	0	<fr/Michèle_Mailhot>
+%Y
+eq-let	1	<Outremont,_Quebec>
+##########
+%GID:51
+%LID#1#51-1-"ml"#41#41#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	63	1
+#Condition
+%X
+eq-let	0	<Malayalam>
+%Y
+eq-let	1	"ml"
+##########
+%GID:52
+%LID#1#52-0-<Pool's_Cove>#7#7#15
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	40	1
+#Condition
+%X
+eq-let	1	"69"
+%Y
+eq-let	0	<Pool's_Cove>
+##########
+%GID:53
+%LID#1#53-0-<Global_Infrastructure_Partners>#5#5#33
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<Edinburgh_Airport>
+%Y
+eq-let	0	<Global_Infrastructure_Partners>
+##########
+%GID:54
+%LID#1#54-1-<Cleveland>#5#5#29
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+e	0	16	1
+#Condition
+%X
+eq-let	0	<1948_World_Series>
+%Y
+eq-let	1	<Cleveland>
+##########
+%GID:56
+%LID#1#56-0-<Nippon_Paper_Industries>#32#32#66
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<Nippon_Paper_Cranes>
+%Y
+eq-let	0	<Nippon_Paper_Industries>
+##########
+%GID:58
+%LID#1#58-1-<Vilnius_Region>#15#15#239
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	16	1
+#Condition
+%X
+eq-let	0	<Żeligowski's_Mutiny>
+%Y
+eq-let	1	<Vilnius_Region>
+##########
+%GID:60
+%LID#1#60-0-<Single_Euro_Payments_Area>#22#22#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	1	<Lithuanian_language>
+%Y
+eq-let	0	<Single_Euro_Payments_Area>
+##########
+%GID:61
+%LID#0#61-1-<Hana#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	8	ANY
+e	0	12	1
+#Condition
+%X
+%Y
+eq-let	1	<Hana
+##########
+%GID:62
+%LID#1#62-1-<Pakistani_rupee>#18#18#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+e	0	33	1
+#Condition
+%X
+eq-let	0	<Karachi_Stock_Exchange>
+%Y
+eq-let	1	<Pakistani_rupee>
+##########
+%GID:64
+%LID#1#64-1-"108.6"#22#22#33
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	0	<nl/Samsung_Galaxy_TxT>
+%Y
+eq-let	1	"108.6"
+##########
+%GID:66
+%LID#1#66-1-"174.1"#10#10#25
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+e	0	40	1
+#Condition
+%X
+eq-let	0	<Bishop's_Cove>
+%Y
+eq-let	1	"174.1"
+##########
+%GID:68
+%LID#1#68-1-<English_language>#1#1#169
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	35	2
+e	1	35	2
+#Condition
+%X
+eq-let	1	<New_Utopia>
+%Y
+eq-let	2	<English_language>
+##########
+%GID:69
+%LID#1#69-1-<Warsaw_Ghetto_Uprising>#136#136#676
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	0	<Gwardia_Ludowa>
+%Y
+eq-let	2	<Warsaw_Ghetto_Uprising>
+##########
+%GID:70
+%LID#1#70-1-<Strasbourg>#12#12#602
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	3	2
+e	1	3	2
+#Condition
+%X
+eq-let	1	<fr/Robert_Heitz>
+%Y
+eq-let	2	<Strasbourg>
+##########
+%GID:71
+%LID#0#71-0-<The_Great_Romance>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	46	2
+e	1	48	2
+#Condition
+%X
+%Y
+eq-let	0	<The_Great_Romance>
+##########
+%GID:74
+%LID#0#74-1-"192"#0#0#4
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	40	2
+e	1	46	2
+#Condition
+%X
+%Y
+eq-let	2	"192"
+##########
+%GID:76
+%LID#1#76-1-<Two_By_Three_(EP)>#17#17#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	1	<The_Ghost_of_a_Thousand>
+%Y
+eq-let	2	<Two_By_Three_(EP)>
+##########
+%GID:77
+%LID#1#77-1-"50000"#100#100#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	44	2
+e	1	52	2
+#Condition
+%X
+eq-let	1	<Lelystad–Zwolle_railway>
+%Y
+eq-let	2	"50000"
+##########
+%GID:78
+%LID#1#78-1-"1.4"#89#89#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	12	ANY
+e	0	39	2
+e	1	42	2
+#Condition
+%X
+eq-let	0	<Wonhyoro
+%Y
+eq-let	2	"1.4"
+##########
+%GID:79
+%LID#1#79-0-<Oxford_Cave,_Jamaica>#42#42#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	52	2
+e	1	52	2
+#Condition
+%X
+eq-let	1	<Vermillion–Newcastle_Bridge>
+%Y
+eq-let	0	<Oxford_Cave,_Jamaica>
+##########
+%GID:80
+%LID#1#80-2-<Richard_I._Bong_Memorial_Bridge>#56#56#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	49	2
+e	1	52	2
+#Condition
+%X
+eq-let	0	<Texas_Ranch_House>
+%Y
+eq-let	1	<Richard_I._Bong_Memorial_Bridge>
+##########
+%GID:81
+%LID#1#81-2-<Oakachoy_Covered_Bridge>#6#6#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	42	2
+e	1	52	2
+#Condition
+%X
+eq-let	2	"17"
+%Y
+eq-let	1	<Oakachoy_Covered_Bridge>
+##########
+%GID:83
+%LID#1#83-1-<Musashi_Province>#195#195#1550
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	16	2
+e	1	16	2
+#Condition
+%X
+eq-let	0	<Battle_of_Kanagawa>
+%Y
+eq-let	2	<Musashi_Province>
+##########
+%GID:84
+%LID#1#84-1-"10800"#124#124#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	44	2
+e	1	49	2
+#Condition
+%X
+eq-let	1	<Jak_oni_śpiewają>
+%Y
+eq-let	2	"10800"
+##########
+%GID:88
+%LID#0#88-0-<2012_NBA_draft>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	16	2
+e	1	5	2
+#Condition
+%X
+%Y
+eq-let	0	<2012_NBA_draft>
+##########
+%GID:89
+%LID#1#89-1-<La_Rochelle>#163#163#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	16	2
+e	1	3	2
+#Condition
+%X
+eq-let	0	<Siege_of_La_Rochelle_(1572–73)>
+%Y
+eq-let	2	<La_Rochelle>
+##########
+%GID:91
+%LID#1#91-1-"3000"#11#11#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	49	2
+#Condition
+%X
+eq-let	1	<The_Baby_Borrowers>
+%Y
+eq-let	2	"3000"
+##########
+%GID:92
+%LID#1#92-2-<http://www.warchild.org/>#3#3#25
+#Pattern
+v	0	9	ANY
+v	1	10	ANY
+v	2	9	ANY
+e	0	5	2
+e	2	6	1
+#Condition
+%X
+eq-let	2	<War_Child_(charity)>
+%Y
+eq-let	1	<http://www.warchild.org/>
+##########
+%GID:93
+%LID#1#93-1-<Snakes_&_Ladders_Records>#8#8#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	1	<My_Tiger_My_Timing>
+%Y
+eq-let	2	<Snakes_&_Ladders_Records>
+##########
+%GID:94
+%LID#1#94-0-<Green_Spring_Valley_Historic_District>#40#40#239
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	49	2
+#Condition
+%X
+eq-let	1	<Subway_Stories>
+%Y
+eq-let	0	<Green_Spring_Valley_Historic_District>
+##########
+%GID:95
+%LID#1#95-2-<fr/Esprit#2#2#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	6	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	0	<fr/François_Bouché>
+%Y
+eq-let	1	<fr/Esprit
+##########
+%GID:96
+%LID#1#96-0-<Battle_of_Peregonovka_(1919)>#29#29#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	16	2
+e	1	17	0
+#Condition
+%X
+eq-let	1	<Volunteer_Army>
+%Y
+eq-let	0	<Battle_of_Peregonovka_(1919)>
+##########
+%GID:97
+%LID#0#97-0-<fr/Central_Bank_of_Kuwait_(gratte#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	42	2
+e	1	49	2
+#Condition
+%X
+%Y
+eq-let	0	<fr/Central_Bank_of_Kuwait_(gratte
+##########
+%GID:98
+%LID#1#98-1-<http://www.amt#88#88#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	10	ANY
+e	0	6	2
+e	1	6	2
+#Condition
+%X
+eq-let	0	<Steesow>
+%Y
+eq-let	2	<http://www.amt
+##########
+%GID:99
+%LID#1#99-2-<Jamiat_Ulema#2#2#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	0	<Jamiat_Ahle_Hadith>
+%Y
+eq-let	1	<Jamiat_Ulema
+##########
+%GID:100
+%LID#1#100-0-<Estonian_War_of_Independence>#6#6#12
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	14	ANY
+e	0	16	2
+e	1	17	0
+#Condition
+%X
+eq-let	1	<Baltische_Landeswehr>
+%Y
+eq-let	0	<Estonian_War_of_Independence>
+##########
+%GID:101
+%LID#1#101-1-"1.55"#181#181#396
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	12	ANY
+e	0	39	2
+e	1	39	2
+#Condition
+%X
+eq-let	0	<Far_Southwest,_Portland,_Oregon>
+%Y
+eq-let	2	"1.55"
+##########
+%GID:102
+%LID#1#102-2-<de/Flugplatz_Tabiteuea_Süd>#3#3#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	45	2
+e	1	45	2
+#Condition
+%X
+eq-let	0	<pl/Port_lotniczy_Tabiteuea_Południowa>
+%Y
+eq-let	1	<de/Flugplatz_Tabiteuea_Süd>
+##########
+%GID:103
+%LID#1#103-1-<Marseille>#73#73#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	6	ANY
+e	0	16	2
+e	1	5	2
+#Condition
+%X
+eq-let	0	<fr/Bataille_de_Marseille_(49_av._J.
+%Y
+eq-let	2	<Marseille>
+##########
+%GID:105
+%LID#1#105-2-<Nyali_Bridge_(1931)>#39#39#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	52	2
+#Condition
+%X
+eq-let	0	<Pierre's_Hole>
+%Y
+eq-let	1	<Nyali_Bridge_(1931)>
+##########
+%GID:106
+%LID#1#106-0-<Philadelphia_Theatre_Company>#3#3#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	12	2
+e	1	5	2
+#Condition
+%X
+eq-let	2	<Suzanne_Roberts_Theatre>
+%Y
+eq-let	0	<Philadelphia_Theatre_Company>
+##########
+%GID:107
+%LID#1#107-0-<New_Republic_(Star_Wars)>#1#1#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	17	2
+e	1	17	2
+#Condition
+%X
+eq-let	1	<Hutt_(Star_Wars)>
+%Y
+eq-let	0	<New_Republic_(Star_Wars)>
+##########
+%GID:108
+%LID#0#108-1-<Wachtendonk>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	10	ANY
+v	2	9	ANY
+e	0	16	2
+e	2	6	1
+#Condition
+%X
+%Y
+eq-let	2	<Wachtendonk>
+##########
+%GID:110
+%LID#1#110-1-"tup"#27#27#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	54	2
+e	1	54	2
+#Condition
+%X
+eq-let	1	<Tupi_languages>
+%Y
+eq-let	2	"tup"
+##########
+%GID:111
+%LID#1#111-0-<REN21>#13#13#33
+#Pattern
+v	0	9	ANY
+v	1	10	ANY
+v	2	9	ANY
+e	0	12	2
+e	2	6	1
+#Condition
+%X
+eq-let	1	<http://www.reegle.info>
+%Y
+eq-let	0	<REN21>
+##########
+%GID:112
+%LID#1#112-1-"2400"#78#78#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	46	2
+e	1	49	2
+#Condition
+%X
+eq-let	0	<The_YIVO_Encyclopedia_of_Jews_in_Eastern_Europe>
+%Y
+eq-let	2	"2400"
+##########
+%GID:113
+%LID#0#113-0-<Granat>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	42	2
+e	1	53	2
+#Condition
+%X
+%Y
+eq-let	0	<Granat>
+##########
+%GID:114
+%LID#1#114-1-<Maaten_al#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	12	2
+e	1	16	2
+#Condition
+%X
+eq-let	1	<Battle_of_Maaten_al
+%Y
+eq-let	2	<Maaten_al
+##########
+%GID:115
+%LID#1#115-1-"0.2"#1#1#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	12	ANY
+e	0	39	2
+e	1	40	2
+#Condition
+%X
+eq-let	0	<Maes_Down>
+%Y
+eq-let	2	"0.2"
+##########
+%GID:116
+%LID#1#116-1-"34"#36#36#528
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	39	2
+#Condition
+%X
+eq-let	0	<Arikok_National_Park>
+%Y
+eq-let	2	"34"
+##########
+%GID:117
+%LID#1#117-2-<Army_of_Africa_(Spain)>#11#11#29
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	6	ANY
+e	0	16	2
+e	1	17	0
+#Condition
+%X
+eq-let	2	<Tétouan>
+%Y
+eq-let	1	<Army_of_Africa_(Spain)>
+##########
+%GID:118
+%LID#0#118-0-<International_Organization_of_Legal_Metrology>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	48	2
+e	1	52	2
+#Condition
+%X
+%Y
+eq-let	0	<International_Organization_of_Legal_Metrology>
+##########
+%GID:119
+%LID#1#119-0-<Ricoh_GR_Digital>#51#51#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	44	2
+e	1	46	2
+#Condition
+%X
+eq-let	1	<The_Individuated_Hobbit>
+%Y
+eq-let	0	<Ricoh_GR_Digital>
+##########
+%GID:120
+%LID#0#120-0-<de/Lužec_u_Nejdku>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	48	2
+#Condition
+%X
+%Y
+eq-let	0	<de/Lužec_u_Nejdku>
+##########
+%GID:121
+%LID#0#121-0-<Grand_le_Pierre>#0#0#1
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	12	ANY
+e	0	40	2
+e	1	42	2
+#Condition
+%X
+%Y
+eq-let	0	<Grand_le_Pierre>
+##########
+%GID:122
+%LID#0#122-1-"2000000"#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	44	2
+e	1	48	2
+#Condition
+%X
+%Y
+eq-let	2	"2000000"
+##########
+%GID:124
+%LID#1#124-1-<San_Jose,_California>#16#16#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	16	2
+e	1	16	2
+#Condition
+%X
+eq-let	1	<2005_Rink_Hockey_World_Championship>
+%Y
+eq-let	2	<San_Jose,_California>
+##########
+%GID:125
+%LID#1#125-2-<Marcos_Caruso>#1#1#29
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	8	ANY
+e	0	5	2
+e	1	5	2
+#Condition
+%X
+eq-let	0	<Jandira_Martini>
+%Y
+eq-let	1	<Marcos_Caruso>
+##########
+%GID:128
+%LID#1#128-1-"150"#66#66#594
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	42	2
+#Condition
+%X
+eq-let	0	<de/Gahlen_(Vetschau)>
+%Y
+eq-let	2	"150"
+##########
+%GID:130
+%LID#0#130-2-<Bir_Tawil>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	40	2
+#Condition
+%X
+%Y
+eq-let	1	<Bir_Tawil>
+##########
+%GID:131
+%LID#0#131-2-<Fernand_Renault>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	12	2
+e	1	5	2
+#Condition
+%X
+%Y
+eq-let	1	<Fernand_Renault>
+##########
+%GID:132
+%LID#1#132-2-<Punjab_Police_(India)>#5#5#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	16	2
+e	1	17	0
+#Condition
+%X
+eq-let	2	<Harmandir_Sahib>
+%Y
+eq-let	1	<Punjab_Police_(India)>
+##########
+%GID:133
+%LID#1#133-2-<Here_My_Home_Once_Stood>#41#41#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	42	2
+e	1	46	2
+#Condition
+%X
+eq-let	2	"151"
+%Y
+eq-let	1	<Here_My_Home_Once_Stood>
+##########
+%GID:134
+%LID#1#134-1-"1"#8#8#35
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	48	2
+#Condition
+%X
+eq-let	0	<Benham_Mound>
+%Y
+eq-let	2	"1"
+##########
+%GID:135
+%LID#1#135-2-<Lucan_Bridge>#135#135#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	46	2
+e	1	52	2
+#Condition
+%X
+eq-let	0	<Citizen's_Briefing_Book>
+%Y
+eq-let	1	<Lucan_Bridge>
+##########
+%GID:136
+%LID#1#136-0-<fr/Austin_Hilton_Convention_Center>#163#163#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	42	2
+e	1	44	2
+#Condition
+%X
+eq-let	1	<LG_VX9400>
+%Y
+eq-let	0	<fr/Austin_Hilton_Convention_Center>
+##########
+%GID:137
+%LID#1#137-1-"240"#14#14#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	46	2
+#Condition
+%X
+eq-let	1	<The_Psychology_of_The_Simpsons>
+%Y
+eq-let	2	"240"
+##########
+%GID:138
+%LID#1#138-1-<St._Johnsville,_New_York>#6#6#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	16	2
+e	1	17	0
+#Condition
+%X
+eq-let	1	<Brant's_Volunteers>
+%Y
+eq-let	2	<St._Johnsville,_New_York>
+##########
+%GID:139
+%LID#1#139-1-"9000"#188#188#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	44	2
+#Condition
+%X
+eq-let	0	<Edmund_Kennedy_National_Park>
+%Y
+eq-let	2	"9000"
+##########
+%GID:140
+%LID#1#140-0-<Camp_Evans_Historic_District>#25#25#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	2
+e	1	42	2
+#Condition
+%X
+eq-let	2	"55"
+%Y
+eq-let	0	<Camp_Evans_Historic_District>
+##########
+%GID:142
+%LID#1#142-1-"0"#7#7#25
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	40	2
+#Condition
+%X
+eq-let	1	<Bir_Tawil>
+%Y
+eq-let	2	"0"
+##########
+%GID:143
+%LID#1#143-2-<pl/Paweł_Szczęśliwy>#5#5#25
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	3	2
+e	1	5	2
+#Condition
+%X
+eq-let	0	<pl/Zygmunt_Bobrowski>
+%Y
+eq-let	1	<pl/Paweł_Szczęśliwy>
+##########
+%GID:144
+%LID#0#144-2-<The_Ruin_(Ukrainian_history)>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	16	2
+e	2	17	1
+#Condition
+%X
+%Y
+eq-let	1	<The_Ruin_(Ukrainian_history)>
+##########
+%GID:145
+%LID#1#145-1-<Shamrock_V>#19#19#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	12	2
+e	1	12	2
+#Condition
+%X
+eq-let	1	<International_Yacht_Restoration_School>
+%Y
+eq-let	2	<Shamrock_V>
+##########
+%GID:146
+%LID#0#146-2-<ObsCure_II>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	12	2
+e	2	5	1
+#Condition
+%X
+%Y
+eq-let	1	<ObsCure_II>
+##########
+%GID:149
+%LID#1#149-1-<Sydney>#48#48#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	14	ANY
+e	0	3	2
+e	1	3	2
+#Condition
+%X
+eq-let	1	<pl/Robert_Waley>
+%Y
+eq-let	2	<Sydney>
+##########
+%GID:150
+%LID#1#150-2-<London_Regional_Transport>#16#16#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	0	ANY
+e	0	12	2
+e	1	12	2
+#Condition
+%X
+eq-let	0	<London_Transport_Board>
+%Y
+eq-let	1	<London_Regional_Transport>
+##########
+%GID:151
+%LID#1#151-1-<Strasbourg>#5#5#437
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	16	2
+e	1	3	2
+#Condition
+%X
+eq-let	0	<de/Internationaux_de_Strasbourg_2006>
+%Y
+eq-let	2	<Strasbourg>
+##########
+%GID:153
+%LID#1#153-2-<Palombia>#14#14#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	16	2
+e	1	24	2
+#Condition
+%X
+eq-let	0	<pl/Szturm_Kordoby>
+%Y
+eq-let	1	<Palombia>
+##########
+%GID:154
+%LID#1#154-0-<nl/Alue_Blang>#107#107#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	52	2
+#Condition
+%X
+eq-let	1	<Northam_Bridge>
+%Y
+eq-let	0	<nl/Alue_Blang>
+##########
+%GID:155
+%LID#1#155-1-"mn"#5#5#29
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	63	2
+e	1	63	2
+#Condition
+%X
+eq-let	1	<Mongolic_languages>
+%Y
+eq-let	2	"mn"
+##########
+%GID:156
+%LID#1#156-1-<Gold_dinar>#5#5#668
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	33	2
+e	1	33	2
+#Condition
+%X
+eq-let	0	<Taifa_of_Niebla>
+%Y
+eq-let	2	<Gold_dinar>
+##########
+%GID:157
+%LID#1#157-1-"200"#96#96#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	38	2
+e	1	39	2
+#Condition
+%X
+eq-let	0	<nl/Blang_Preh_(Simpang_Tiga)>
+%Y
+eq-let	2	"200"
+##########
+%GID:158
+%LID#1#158-0-<New_Republic_(Star_Wars)>#1#1#6
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+v	2	9	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	2	<Hutt_(Star_Wars)>
+%Y
+eq-let	0	<New_Republic_(Star_Wars)>
+##########
+%GID:159
+%LID#1#159-2-<Escape_from_Raven_Castle>#93#93#363
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	46	1
+e	3	46	1
+#Condition
+%X
+eq-let	2	<Evil_in_Paradise>
+%Y
+eq-let	3	<Escape_from_Raven_Castle>
+##########
+%GID:161
+%LID#1#161-1-"170"#105#105#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	46	1
+#Condition
+%X
+eq-let	0	<de/Estavayer
+%Y
+eq-let	1	"170"
+##########
+%GID:162
+%LID#1#162-3-<Wylam_Railway_Bridge>#7#7#29
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	52	1
+e	3	52	1
+#Condition
+%X
+eq-let	3	<Jama_Masjid,_Delhi>
+%Y
+eq-let	2	<Wylam_Railway_Bridge>
+##########
+%GID:163
+%LID#1#163-1-"2700"#17#17#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	49	1
+e	3	44	1
+#Condition
+%X
+eq-let	0	<pl/Karabin_Colt_Canada_C8>
+%Y
+eq-let	1	"2700"
+##########
+%GID:164
+%LID#1#164-3-<Branford_Steam_Railroad>#10#10#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	39	1
+#Condition
+%X
+eq-let	3	<Cross_Mountain_Mine_disaster>
+%Y
+eq-let	2	<Branford_Steam_Railroad>
+##########
+%GID:165
+%LID#1#165-1-"240"#8#8#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	46	1
+#Condition
+%X
+eq-let	3	<Killing_Aurora>
+%Y
+eq-let	1	"240"
+##########
+%GID:166
+%LID#1#166-0-<East_Polden_Grasslands>#89#89#1451
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	44	1
+#Condition
+%X
+eq-let	2	<The_Secret_of_the_Third_Watch>
+%Y
+eq-let	0	<East_Polden_Grasslands>
+##########
+%GID:167
+%LID#1#167-1-"3"#79#79#957
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	39	1
+#Condition
+%X
+eq-let	0	<Kahanu_Garden>
+%Y
+eq-let	1	"3"
+##########
+%GID:168
+%LID#1#168-0-<nl/Al#33#33#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	45	1
+e	2	45	1
+#Condition
+%X
+eq-let	2	<pl/Port_lotniczy_Batin>
+%Y
+eq-let	0	<nl/Al
+##########
+%GID:169
+%LID#0#169-0-<Battle_of_Klock's_Field>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	17	0
+e	3	17	0
+#Condition
+%X
+%Y
+eq-let	0	<Battle_of_Klock's_Field>
+##########
+%GID:170
+%LID#1#170-1-"1500"#10#10#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	49	1
+#Condition
+%X
+eq-let	3	<Popular_Mechanics_for_Kids>
+%Y
+eq-let	1	"1500"
+##########
+%GID:172
+%LID#1#172-1-"1.7"#10#10#1451
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	39	1
+#Condition
+%X
+eq-let	0	<Crace,_Australian_Capital_Territory>
+%Y
+eq-let	1	"1.7"
+##########
+%GID:173
+%LID#0#173-2-<Antonov_An#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	53	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	<Antonov_An
+##########
+%GID:175
+%LID#1#175-0-<fr/Charles_van_Melckebeke>#52#52#907
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+eq-let	2	<nl/Tan_Eng_Yoon>
+%Y
+eq-let	0	<fr/Charles_van_Melckebeke>
+##########
+%GID:176
+%LID#0#176-1-"200"#0#0#1
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	39	1
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	"200"
+##########
+%GID:177
+%LID#1#177-2-<fr/Esprit#2#2#6
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	0	<fr/François_Bouché>
+%Y
+eq-let	2	<fr/Esprit
+##########
+%GID:178
+%LID#0#178-1-"0"#0#0#4
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	40	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	1	"0"
+##########
+%GID:179
+%LID#1#179-1-"2.68"#132#132#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	42	1
+#Condition
+%X
+eq-let	0	<Seongbuk
+%Y
+eq-let	1	"2.68"
+##########
+%GID:180
+%LID#1#180-3-<Baltische_Landeswehr>#3#3#15
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	17	3
+e	3	16	1
+#Condition
+%X
+eq-let	3	<Estonian_War_of_Independence>
+%Y
+eq-let	2	<Baltische_Landeswehr>
+##########
+%GID:181
+%LID#1#181-2-<Dunn's_Hole>#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	52	1
+e	3	52	1
+#Condition
+%X
+eq-let	2	<Lotru_Bridge>
+%Y
+eq-let	3	<Dunn's_Hole>
+##########
+%GID:182
+%LID#1#182-1-"215"#103#103#726
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	46	1
+e	3	46	1
+#Condition
+%X
+eq-let	2	<Denise_Vega>
+%Y
+eq-let	1	"215"
+##########
+%GID:183
+%LID#0#183-1-"1"#0#0#4
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	48	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	1	"1"
+##########
+%GID:184
+%LID#0#184-1-"1.7"#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	40	1
+#Condition
+%X
+%Y
+eq-let	1	"1.7"
+##########
+%GID:186
+%LID#1#186-0-<Büttel>#188#188#264
+#Pattern
+v	0	9	ANY
+v	1	10	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	6	1
+e	2	6	1
+e	3	6	1
+#Condition
+%X
+eq-let	1	<http://www.wilstermarsch.de>
+%Y
+eq-let	0	<Büttel>
+##########
+%GID:187
+%LID#1#187-0-<Jimmy's_Stars>#196#196#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	46	1
+e	2	46	1
+#Condition
+%X
+eq-let	1	"257"
+%Y
+eq-let	0	<Jimmy's_Stars>
+##########
+%GID:188
+%LID#1#188-2-<Beretta_950_Jetfire>#8#8#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	<PlayStation_Portable>
+%Y
+eq-let	2	<Beretta_950_Jetfire>
+##########
+%GID:189
+%LID#1#189-1-<English_language>#1#1#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	35	1
+e	2	35	1
+#Condition
+%X
+eq-let	0	<Kingdom_of_Redonda>
+%Y
+eq-let	1	<English_language>
+##########
+%GID:191
+%LID#1#191-1-"2"#7#7#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<Valuk>
+%Y
+eq-let	1	"2"
+##########
+%GID:194
+%LID#1#194-1-<Warsaw_Ghetto_Uprising>#136#136#676
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Gwardia_Ludowa>
+%Y
+eq-let	1	<Warsaw_Ghetto_Uprising>
+##########
+%GID:195
+%LID#1#195-1-<Snakes_&_Ladders_Records>#8#8#99
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	2	<My_Tiger_My_Timing>
+%Y
+eq-let	1	<Snakes_&_Ladders_Records>
+##########
+%GID:199
+%LID#1#199-0-<fr/Robert_Heitz>#42#42#2177
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	2	<fr/Alexis_Méhaignerie>
+%Y
+eq-let	0	<fr/Robert_Heitz>
+##########
+%GID:200
+%LID#0#200-1-<Beirut>#0#0#4
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	17	0
+e	3	17	0
+#Condition
+%X
+%Y
+eq-let	1	<Beirut>
+##########
+%GID:201
+%LID#1#201-1-<Sydney>#48#48#165
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	2	<1970_Australian_Open_
+%Y
+eq-let	1	<Sydney>
+##########
+%GID:202
+%LID#1#202-1-"2640"#79#79#775
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	46	1
+e	2	49	1
+e	3	49	1
+#Condition
+%X
+eq-let	2	<The_Biggest_Loser_(season_3)>
+%Y
+eq-let	1	"2640"
+##########
+%GID:205
+%LID#0#205-1-"1.7"#0#0#7
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+e	0	39	1
+e	2	39	1
+#Condition
+%X
+%Y
+eq-let	1	"1.7"
+##########
+%GID:207
+%LID#1#207-1-"220"#152#152#1006
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	46	1
+e	2	46	1
+e	3	46	1
+#Condition
+%X
+eq-let	3	<Four_Major_Plays_of_Chikamatsu>
+%Y
+eq-let	1	"220"
+##########
+%GID:209
+%LID#1#209-0-<Germanna>#5#5#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<fr/Four_Seasons_Residences_Austin>
+%Y
+eq-let	0	<Germanna>
+##########
+%GID:210
+%LID#0#210-0-<Battle_of_Walaja>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	17	0
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	<Battle_of_Walaja>
+##########
+%GID:211
+%LID#0#211-2-<The_Great_Romance>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	48	1
+e	3	46	1
+#Condition
+%X
+%Y
+eq-let	3	<The_Great_Romance>
+##########
+%GID:212
+%LID#1#212-1-"1.65"#163#163#1022
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	42	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<Renata_Pliś>
+%Y
+eq-let	1	"1.65"
+##########
+%GID:213
+%LID#1#213-1-"95"#66#66#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	44	1
+#Condition
+%X
+eq-let	0	<de/Kauppa>
+%Y
+eq-let	1	"95"
+##########
+%GID:217
+%LID#1#217-2-<Jamiat_Ulema#2#2#6
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+v	2	9	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	0	<Jamiat_Ahle_Hadith>
+%Y
+eq-let	2	<Jamiat_Ulema
+##########
+%GID:221
+%LID#1#221-1-<Newport_(Rhode_Island)>#16#16#99
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	2	<1891_U.S._National_Championships_(tennis)>
+%Y
+eq-let	1	<Newport_(Rhode_Island)>
+##########
+%GID:222
+%LID#1#222-1-"250"#97#97#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	38	1
+#Condition
+%X
+eq-let	3	<fr/Eden_Park_(marque)>
+%Y
+eq-let	1	"250"
+##########
+%GID:223
+%LID#1#223-1-"163"#54#54#1055
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<fr/Tokyo_City_Hall_Tower_II>
+%Y
+eq-let	1	"163"
+##########
+%GID:224
+%LID#1#224-1-<Musashi_Province>#195#195#1550
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	<Battle_of_Kanagawa>
+%Y
+eq-let	1	<Musashi_Province>
+##########
+%GID:225
+%LID#1#225-0-<Fox_Soccer_Report>#34#34#181
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	49	1
+e	2	52	1
+e	3	49	1
+#Condition
+%X
+eq-let	3	<Stir_Crazy_(TV_series)>
+%Y
+eq-let	0	<Fox_Soccer_Report>
+##########
+%GID:226
+%LID#1#226-3-<Society_for_the_Rise_of_Kurdistan>#1#1#6
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	17	0
+e	3	17	0
+#Condition
+%X
+eq-let	3	<Central_Army_(Turkey)>
+%Y
+eq-let	2	<Society_for_the_Rise_of_Kurdistan>
+##########
+%GID:227
+%LID#0#227-0-<Aunis>#0#0#16
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	40	1
+e	2	46	1
+e	3	46	1
+#Condition
+%X
+%Y
+eq-let	0	<Aunis>
+##########
+%GID:228
+%LID#1#228-1-"1.76"#161#161#956
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	42	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<pl/Esfandiar_Lari>
+%Y
+eq-let	1	"1.76"
+##########
+%GID:229
+%LID#0#229-0-<Grand_le_Pierre>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	40	1
+e	2	42	1
+e	3	42	1
+#Condition
+%X
+%Y
+eq-let	0	<Grand_le_Pierre>
+##########
+%GID:230
+%LID#1#230-3-<Berry_Town>#93#93#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	39	1
+#Condition
+%X
+eq-let	0	<fr/Prestigium>
+%Y
+eq-let	2	<Berry_Town>
+##########
+%GID:231
+%LID#1#231-0-<Brook_Green>#3#3#165
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	40	1
+e	3	38	1
+#Condition
+%X
+eq-let	3	<de/Březová_Lada>
+%Y
+eq-let	0	<Brook_Green>
+##########
+%GID:232
+%LID#1#232-1-"5"#27#27#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	42	1
+#Condition
+%X
+eq-let	0	<Conrad_Mound_Archeological_Site>
+%Y
+eq-let	1	"5"
+##########
+%GID:235
+%LID#1#235-0-<de/Prostřední_Žleb>#83#83#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	46	1
+#Condition
+%X
+eq-let	3	<Duel_in_the_Sun_(book)>
+%Y
+eq-let	0	<de/Prostřední_Žleb>
+##########
+%GID:236
+%LID#1#236-0-<1948_World_Series>#7#7#25
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+eq-let	3	<1920_World_Series>
+%Y
+eq-let	0	<1948_World_Series>
+##########
+%GID:237
+%LID#0#237-1-<Paris>#0#0#118
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+%Y
+eq-let	1	<Paris>
+##########
+%GID:238
+%LID#1#238-1-"10800"#112#112#1682
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	49	1
+e	2	49	1
+#Condition
+%X
+eq-let	2	<American_Music_Awards_of_1991>
+%Y
+eq-let	1	"10800"
+##########
+%GID:239
+%LID#1#239-0-<Society_of_St._Paul>#1#1#15
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	12	1
+e	2	12	1
+e	3	12	1
+#Condition
+%X
+eq-let	3	<Central_Union_of_Agricultural_Cooperatives>
+%Y
+eq-let	0	<Society_of_St._Paul>
+##########
+%GID:240
+%LID#1#240-1-<Exchangeable_image_file_format>#17#17#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+eq-let	0	<Japan_Electronic_Industries_Development_Association>
+%Y
+eq-let	1	<Exchangeable_image_file_format>
+##########
+%GID:242
+%LID#1#242-1-<La_Rochelle>#21#21#99
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	16	1
+#Condition
+%X
+eq-let	2	<fr/Gustave_Perreau>
+%Y
+eq-let	1	<La_Rochelle>
+##########
+%GID:243
+%LID#1#243-1-"3600"#17#17#1814
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	49	1
+e	2	49	1
+e	3	49	1
+#Condition
+%X
+eq-let	3	<The_American_Revolution_(miniseries)>
+%Y
+eq-let	1	"3600"
+##########
+%GID:244
+%LID#1#244-3-<fr/François_Bouché>#10#10#25
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	3	1
+e	2	5	1
+e	3	5	1
+#Condition
+%X
+eq-let	3	<fr/Esprit
+%Y
+eq-let	2	<fr/François_Bouché>
+##########
+%GID:246
+%LID#0#246-0-<fr/Central_Bank_of_Kuwait_(gratte#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	49	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	<fr/Central_Bank_of_Kuwait_(gratte
+##########
+%GID:247
+%LID#1#247-1-<Aomori_FM_Broadcasting>#10#10#99
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+eq-let	0	<Aomori_Broadcasting_Corporation>
+%Y
+eq-let	1	<Aomori_FM_Broadcasting>
+##########
+%GID:248
+%LID#1#248-0-<Giesdorf>#149#149#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	38	1
+e	3	38	1
+#Condition
+%X
+eq-let	1	"145"
+%Y
+eq-let	0	<Giesdorf>
+##########
+%GID:249
+%LID#1#249-1-"12600"#12#12#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	52	1
+#Condition
+%X
+eq-let	2	<Melbourne_tram_route_24>
+%Y
+eq-let	1	"12600"
+##########
+%GID:250
+%LID#1#250-1-"80"#14#14#29
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	52	1
+e	3	44	1
+#Condition
+%X
+eq-let	2	<Wylam_Railway_Bridge>
+%Y
+eq-let	1	"80"
+##########
+%GID:251
+%LID#1#251-1-"1800"#7#7#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	49	1
+e	3	49	1
+#Condition
+%X
+eq-let	3	<Oi_Aparadektoi>
+%Y
+eq-let	1	"1800"
+##########
+%GID:252
+%LID#0#252-1-"2"#0#0#8
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	1	"2"
+##########
+%GID:256
+%LID#1#256-2-<Marcos_Caruso>#1#1#29
+#Pattern
+v	0	9	ANY
+v	1	8	ANY
+v	2	9	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	0	<Jandira_Martini>
+%Y
+eq-let	2	<Marcos_Caruso>
+##########
+%GID:257
+%LID#1#257-3-<Richard_I._Bong_Memorial_Bridge>#36#36#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	52	1
+e	3	49	1
+#Condition
+%X
+eq-let	3	<Unwanted_Cinema>
+%Y
+eq-let	2	<Richard_I._Bong_Memorial_Bridge>
+##########
+%GID:258
+%LID#0#258-0-<Akshinsky_District>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	49	1
+#Condition
+%X
+%Y
+eq-let	0	<Akshinsky_District>
+##########
+%GID:259
+%LID#1#259-3-<Euclid's_Elements>#57#57#396
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	39	1
+#Condition
+%X
+eq-let	3	<Whitevine_Meadows>
+%Y
+eq-let	2	<Euclid's_Elements>
+##########
+%GID:260
+%LID#1#260-1-<Internal_conflict_in_Burma>#90#90#1006
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	0	<Democratic_Karen_Buddhist_Army>
+%Y
+eq-let	1	<Internal_conflict_in_Burma>
+##########
+%GID:263
+%LID#0#263-0-<de/Internationaux_de_Strasbourg_2005>#0#0#27
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	<de/Internationaux_de_Strasbourg_2005>
+##########
+%GID:264
+%LID#1#264-3-<Druid_Hills_Historic_District_(Atlanta,_Georgia)>#148#148#1451
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+#Condition
+%X
+eq-let	0	<fr/L'Appel_Médical>
+%Y
+eq-let	2	<Druid_Hills_Historic_District_(Atlanta,_Georgia)>
+##########
+%GID:266
+%LID#1#266-1-"423"#88#88#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	44	1
+#Condition
+%X
+eq-let	0	<de/Döllingen>
+%Y
+eq-let	1	"423"
+##########
+%GID:267
+%LID#1#267-0-<Oxford_Cave,_Jamaica>#42#42#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	52	1
+e	2	52	1
+#Condition
+%X
+eq-let	2	<Vermillion–Newcastle_Bridge>
+%Y
+eq-let	0	<Oxford_Cave,_Jamaica>
+##########
+%GID:268
+%LID#1#268-1-"3"#54#54#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	46	1
+e	3	44	1
+#Condition
+%X
+eq-let	2	<Heart_of_Fire>
+%Y
+eq-let	1	"3"
+##########
+%GID:269
+%LID#1#269-3-<fr/Esprit#10#10#48
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	5	1
+e	3	5	1
+#Condition
+%X
+eq-let	3	<fr/François_Bouché>
+%Y
+eq-let	2	<fr/Esprit
+##########
+%GID:270
+%LID#1#270-2-<Battle_of_Ghaghra>#4#4#33
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	17	3
+e	3	16	1
+#Condition
+%X
+eq-let	2	<Bengal_Sultanate>
+%Y
+eq-let	3	<Battle_of_Ghaghra>
+##########
+%GID:271
+%LID#1#271-1-"9000"#44#44#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	52	1
+#Condition
+%X
+eq-let	2	<Levanger–Hokstad_Ferry>
+%Y
+eq-let	1	"9000"
+##########
+%GID:272
+%LID#1#272-0-<Sabalan,_Safad>#97#97#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<Flamenco_Residences>
+%Y
+eq-let	0	<Sabalan,_Safad>
+##########
+%GID:273
+%LID#1#273-1-<Gold_dinar>#60#60#841
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	33	1
+e	2	33	1
+#Condition
+%X
+eq-let	-1	<Taifa_of_Arjona>
+%Y
+eq-let	1	<Gold_dinar>
+##########
+%GID:275
+%LID#1#275-1-"1.75"#130#130#396
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+e	0	42	1
+e	2	42	1
+#Condition
+%X
+eq-let	0	<pl/Andrzej_Karcz>
+%Y
+eq-let	1	"1.75"
+##########
+%GID:276
+%LID#0#276-3-<Zulu_Djævleræs>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	38	1
+e	2	38	1
+#Condition
+%X
+%Y
+eq-let	-1	<Zulu_Djævleræs>
+##########
+%GID:277
+%LID#1#277-1-"0.12"#89#89#742
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	42	1
+#Condition
+%X
+eq-let	0	<Lower_Dicker>
+%Y
+eq-let	1	"0.12"
+##########
+%GID:278
+%LID#1#278-0-<de/Albert_Houssiau>#180#180#396
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	43	1
+e	2	43	1
+#Condition
+%X
+eq-let	2	<de/Stefan_Cichy>
+%Y
+eq-let	0	<de/Albert_Houssiau>
+##########
+%GID:280
+%LID#1#280-1-"400"#70#70#792
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	39	1
+#Condition
+%X
+eq-let	2	<M67_grenade>
+%Y
+eq-let	1	"400"
+##########
+%GID:281
+%LID#1#281-3-<Heart_of_Fire>#6#6#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<Skink_anti
+%Y
+eq-let	2	<Heart_of_Fire>
+##########
+%GID:282
+%LID#0#282-3-<Helpline_(film)>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	49	1
+e	3	46	1
+#Condition
+%X
+%Y
+eq-let	2	<Helpline_(film)>
+##########
+%GID:284
+%LID#1#284-1-"120"#7#7#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	46	1
+#Condition
+%X
+eq-let	2	<Rock_n'_Roller_Coaster_(Opryland)>
+%Y
+eq-let	1	"120"
+##########
+%GID:285
+%LID#1#285-1-"0.73"#87#87#297
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+#Condition
+%X
+eq-let	0	<Gongdeok
+%Y
+eq-let	1	"0.73"
+##########
+%GID:287
+%LID#1#287-0-<Pierre's_Hole>#166#166#1583
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	46	1
+#Condition
+%X
+eq-let	2	<Six
+%Y
+eq-let	0	<Pierre's_Hole>
+##########
+%GID:288
+%LID#1#288-0-<Swiss_Super_League>#4#4#15
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	12	1
+e	2	12	1
+e	3	12	1
+#Condition
+%X
+eq-let	3	<Scottish_Premiership>
+%Y
+eq-let	0	<Swiss_Super_League>
+##########
+%GID:289
+%LID#1#289-1-"400"#2#2#107
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	46	1
+e	3	44	1
+#Condition
+%X
+eq-let	3	<Minolta_AF_16mm_f/2.8_Fisheye_lens>
+%Y
+eq-let	1	"400"
+##########
+%GID:290
+%LID#1#290-1-<Eindhoven>#180#180#338
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+eq-let	0	<nl/Kees_Koning>
+%Y
+eq-let	1	<Eindhoven>
+##########
+%GID:291
+%LID#1#291-1-<Sierra_Leone_Civil_War>#89#89#1451
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+#Condition
+%X
+eq-let	0	<Economic_Community_of_West_African_States_Monitoring_Group>
+%Y
+eq-let	1	<Sierra_Leone_Civil_War>
+##########
+%GID:292
+%LID#1#292-0-<Arlington_Municipal_Airport_(Oregon)>#9#9#54
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+#Condition
+%X
+eq-let	2	<Jembrana_City_International_Airport>
+%Y
+eq-let	0	<Arlington_Municipal_Airport_(Oregon)>
+##########
+%GID:293
+%LID#1#293-1-<London>#30#30#297
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	3	<pl/Mieczysław_Wałęga>
+%Y
+eq-let	1	<London>
+##########
+%GID:295
+%LID#1#295-1-"1.77"#152#152#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	42	1
+e	2	42	1
+#Condition
+%X
+eq-let	2	<Haruka_Ueda>
+%Y
+eq-let	1	"1.77"
+##########
+%GID:296
+%LID#0#296-3-<Palombia>#0#0#64
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	24	1
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	2	<Palombia>
+##########
+%GID:297
+%LID#1#297-3-<fr/Mariano_Bertuchi>#21#21#66
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	17	0
+#Condition
+%X
+eq-let	1	<Tétouan>
+%Y
+eq-let	2	<fr/Mariano_Bertuchi>
+##########
+%GID:299
+%LID#1#299-0-<fr/Bataille_de_Courbevoie>#129#129#396
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	3	<de/Franz_Suter>
+%Y
+eq-let	0	<fr/Bataille_de_Courbevoie>
+##########
+%GID:300
+%LID#1#300-3-<pl/Bitwa_pod_Daszowem>#18#18#1682
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+eq-let	3	<Battle_of_Piatka>
+%Y
+eq-let	2	<pl/Bitwa_pod_Daszowem>
+##########
+%GID:301
+%LID#1#301-1-"118"#81#81#1550
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	44	1
+e	3	44	1
+#Condition
+%X
+eq-let	3	<LG_Shine_(KE970)>
+%Y
+eq-let	1	"118"
+##########
+%GID:303
+%LID#1#303-1-"200"#1#1#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	39	1
+#Condition
+%X
+eq-let	0	<Colerain_Works_Archeological_District>
+%Y
+eq-let	1	"200"
+##########
+%GID:305
+%LID#1#305-1-<Sneek>#59#59#643
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	0	<nl/Johann_Frederik_Mauritz_Herbell>
+%Y
+eq-let	1	<Sneek>
+##########
+%GID:306
+%LID#0#306-1-"1"#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	48	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	"1"
+##########
+%GID:308
+%LID#0#308-1-"1"#0#0#4
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	48	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	1	"1"
+##########
+%GID:309
+%LID#1#309-2-<The_Salmon_Fly>#10#10#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	52	1
+e	3	46	1
+#Condition
+%X
+eq-let	0	<Nikon_D5100>
+%Y
+eq-let	3	<The_Salmon_Fly>
+##########
+%GID:310
+%LID#1#310-1-"3"#85#85#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	42	1
+#Condition
+%X
+eq-let	3	<TOG1>
+%Y
+eq-let	1	"3"
+##########
+%GID:311
+%LID#1#311-1-"400"#52#52#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	44	1
+#Condition
+%X
+eq-let	3	<M67_grenade>
+%Y
+eq-let	1	"400"
+##########
+%GID:312
+%LID#1#312-1-<Two_By_Three_(EP)>#17#17#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	2	<The_Ghost_of_a_Thousand>
+%Y
+eq-let	1	<Two_By_Three_(EP)>
+##########
+%GID:313
+%LID#1#313-0-<2006_Acura_Classic>#12#12#165
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	16	1
+#Condition
+%X
+eq-let	1	<San_Diego>
+%Y
+eq-let	0	<2006_Acura_Classic>
+##########
+%GID:314
+%LID#1#314-2-<Harding#94#94#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	39	1
+#Condition
+%X
+eq-let	2	<Mamaia_North_Complex>
+%Y
+eq-let	3	<Harding
+##########
+%GID:315
+%LID#0#315-1-"2000000"#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	52	1
+e	3	48	1
+#Condition
+%X
+%Y
+eq-let	1	"2000000"
+##########
+%GID:316
+%LID#0#316-3-<Italian_city#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	17	3
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	2	<Italian_city
+##########
+%GID:317
+%LID#1#317-2-<The_YIVO_Encyclopedia_of_Jews_in_Eastern_Europe>#3#3#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	46	1
+e	2	49	1
+e	3	46	1
+#Condition
+%X
+eq-let	1	"2400"
+%Y
+eq-let	3	<The_YIVO_Encyclopedia_of_Jews_in_Eastern_Europe>
+##########
+%GID:319
+%LID#1#319-1-"33"#22#22#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	42	1
+e	2	52	1
+e	3	46	1
+#Condition
+%X
+eq-let	3	<Citizen's_Briefing_Book>
+%Y
+eq-let	1	"33"
+##########
+%GID:320
+%LID#1#320-0-<nl/Alur_Baru>#68#68#396
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	38	1
+#Condition
+%X
+eq-let	1	"164"
+%Y
+eq-let	0	<nl/Alur_Baru>
+##########
+%GID:322
+%LID#1#322-0-<Grammentin>#112#112#412
+#Pattern
+v	0	9	ANY
+v	1	10	ANY
+v	2	9	ANY
+e	0	6	1
+e	2	6	1
+#Condition
+%X
+eq-let	1	<http://www.stavenhagen.de>
+%Y
+eq-let	0	<Grammentin>
+##########
+%GID:323
+%LID#1#323-1-"100"#51#51#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	42	1
+#Condition
+%X
+eq-let	0	<fr/HollyStar>
+%Y
+eq-let	1	"100"
+##########
+%GID:324
+%LID#1#324-3-<Independent_State_of_Rainbow_Creek>#25#25#345
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	35	1
+e	2	35	1
+e	3	35	1
+#Condition
+%X
+eq-let	0	<Grand_Duchy_of_Avram>
+%Y
+eq-let	2	<Independent_State_of_Rainbow_Creek>
+##########
+%GID:326
+%LID#0#326-2-<The_Great_Romance>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	48	1
+e	3	46	1
+#Condition
+%X
+%Y
+eq-let	3	<The_Great_Romance>
+##########
+%GID:327
+%LID#1#327-1-"2700"#24#24#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	44	1
+#Condition
+%X
+eq-let	2	<Plechová_kavalérie_(TV_series)>
+%Y
+eq-let	1	"2700"
+##########
+%GID:328
+%LID#1#328-1-"tup"#27#27#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	54	1
+e	2	54	1
+#Condition
+%X
+eq-let	2	<Tupi_languages>
+%Y
+eq-let	1	"tup"
+##########
+%GID:329
+%LID#1#329-1-"200"#0#0#103
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	46	1
+e	2	52	1
+e	3	52	1
+#Condition
+%X
+eq-let	0	<The_Orphan_of_the_Rhine>
+%Y
+eq-let	1	"200"
+##########
+%GID:330
+%LID#1#330-1-"mn"#5#5#29
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	63	1
+e	2	63	1
+#Condition
+%X
+eq-let	2	<Mongolic_languages>
+%Y
+eq-let	1	"mn"
+##########
+%GID:332
+%LID#1#332-1-<Strasbourg>#10#10#470
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	3	<fr/Alexis_Méhaignerie>
+%Y
+eq-let	1	<Strasbourg>
+##########
+%GID:333
+%LID#1#333-0-<Tampico_Affair>#13#13#70
+#Pattern
+v	0	9	ANY
+v	1	11	ANY
+v	2	9	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	2	<Mier_Expedition>
+%Y
+eq-let	0	<Tampico_Affair>
+##########
+%GID:334
+%LID#1#334-0-<Suez_Steel>#16#16#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	44	1
+#Condition
+%X
+eq-let	3	<Kbk_wz._1996_Mini
+%Y
+eq-let	0	<Suez_Steel>
+##########
+%GID:335
+%LID#1#335-0-<Combat_Rock_(novel)>#52#52#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	46	1
+e	2	52	1
+e	3	46	1
+#Condition
+%X
+eq-let	1	"284"
+%Y
+eq-let	0	<Combat_Rock_(novel)>
+##########
+%GID:336
+%LID#0#336-2-<The_Ruin_(Ukrainian_history)>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	1	17	3
+e	2	17	3
+#Condition
+%X
+%Y
+eq-let	3	<The_Ruin_(Ukrainian_history)>
+##########
+%GID:337
+%LID#1#337-0-<Ramón_López>#45#45#775
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	2	<it/John_Brown_Gordon>
+%Y
+eq-let	0	<Ramón_López>
+##########
+%GID:338
+%LID#1#338-1-<Soviet_ruble>#46#46#214
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	33	1
+e	2	33	1
+e	3	33	1
+#Condition
+%X
+eq-let	3	<Adjar_Autonomous_Soviet_Socialist_Republic>
+%Y
+eq-let	1	<Soviet_ruble>
+##########
+%GID:339
+%LID#1#339-1-<Rotterdam>#92#92#1682
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+eq-let	0	<1987_World_Artistic_Gymnastics_Championships>
+%Y
+eq-let	1	<Rotterdam>
+##########
+%GID:340
+%LID#0#340-0-<de/Internationaux_de_Strasbourg_2005>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+%Y
+eq-let	0	<de/Internationaux_de_Strasbourg_2005>
+##########
+%GID:341
+%LID#1#341-1-"Per#105#105#725
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	43	1
+e	2	43	1
+e	3	43	1
+#Condition
+%X
+eq-let	3	<de/Tomáš_Galis>
+%Y
+eq-let	1	"Per
+##########
+%GID:342
+%LID#1#342-1-"650"#142#142#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	44	1
+#Condition
+%X
+eq-let	3	<fr/Browning_BDA380>
+%Y
+eq-let	1	"650"
+##########
+%GID:344
+%LID#1#344-1-<San_Francisco>#38#38#132
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+eq-let	0	<pl/Teofil_(Paszkowski)>
+%Y
+eq-let	1	<San_Francisco>
+##########
+%GID:345
+%LID#1#345-1-"2700"#21#21#478
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	49	1
+#Condition
+%X
+eq-let	3	<Overhaulin'>
+%Y
+eq-let	1	"2700"
+##########
+%GID:347
+%LID#1#347-0-<Pierre's_Hole>#34#34#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	46	1
+#Condition
+%X
+eq-let	1	"400"
+%Y
+eq-let	0	<Pierre's_Hole>
+##########
+%GID:348
+%LID#1#348-1-"240"#5#5#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	49	1
+e	3	46	1
+#Condition
+%X
+eq-let	3	<The_Last_Dog_on_Earth>
+%Y
+eq-let	1	"240"
+##########
+%GID:349
+%LID#1#349-1-"2700"#17#17#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	39	1
+#Condition
+%X
+eq-let	3	<Volosovsky_District>
+%Y
+eq-let	1	"2700"
+##########
+%GID:351
+%LID#0#351-2-<fr/Four_Seasons_Residences_Austin>#0#0#4
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	42	1
+#Condition
+%X
+%Y
+eq-let	3	<fr/Four_Seasons_Residences_Austin>
+##########
+%GID:352
+%LID#0#352-3-<Rashidun>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	17	3
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	2	<Rashidun>
+##########
+%GID:353
+%LID#0#353-1-"1.7"#0#0#9
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	40	1
+e	4	42	1
+#Condition
+%X
+%Y
+eq-let	1	"1.7"
+##########
+%GID:354
+%LID#1#354-0-<fr/Arnaud_Novel>#7#7#1686
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+e	4	3	1
+#Condition
+%X
+eq-let	3	<fr/Pierre_d'Aigrefeuille>
+%Y
+eq-let	0	<fr/Arnaud_Novel>
+##########
+%GID:355
+%LID#0#355-0-<Germanna>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	0	<Germanna>
+##########
+%GID:356
+%LID#1#356-4-<Table_tennis_at_the_2012_Summer_Paralympics>#166#166#1978
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+e	4	16	1
+#Condition
+%X
+eq-let	3	<Fencing_at_the_2012_Summer_Olympics_–_Women's_sabre>
+%Y
+eq-let	4	<Table_tennis_at_the_2012_Summer_Paralympics>
+##########
+%GID:358
+%LID#1#358-3-<Altitude_Montréal>#15#15#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	39	1
+e	4	46	1
+#Condition
+%X
+eq-let	1	"124"
+%Y
+eq-let	2	<Altitude_Montréal>
+##########
+%GID:360
+%LID#0#360-0-<Germanna>#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	42	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	0	<Germanna>
+##########
+%GID:361
+%LID#1#361-1-"80"#61#61#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<de/Calvor>
+%Y
+eq-let	1	"80"
+##########
+%GID:362
+%LID#1#362-1-"80"#38#38#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	38	1
+e	3	38	1
+e	4	42	1
+#Condition
+%X
+eq-let	4	<fr/Place_de_la_Capitale>
+%Y
+eq-let	1	"80"
+##########
+%GID:364
+%LID#1#364-1-"33"#38#38#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	42	1
+e	4	52	1
+#Condition
+%X
+eq-let	3	<California_Aqueduct>
+%Y
+eq-let	1	"33"
+##########
+%GID:365
+%LID#1#365-0-<de/Ag2r_La_Mondiale/Saison_2009>#27#27#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	39	1
+e	4	39	1
+#Condition
+%X
+eq-let	1	"2"
+%Y
+eq-let	0	<de/Ag2r_La_Mondiale/Saison_2009>
+##########
+%GID:367
+%LID#1#367-1-"1.77"#96#96#3397
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	42	1
+e	3	42	1
+e	4	42	1
+#Condition
+%X
+eq-let	2	<pl/Justin_Dorey>
+%Y
+eq-let	1	"1.77"
+##########
+%GID:370
+%LID#1#370-4-<Independent_State_of_Rainbow_Creek>#4#4#400
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	35	1
+e	2	35	1
+e	3	35	1
+e	4	35	1
+#Condition
+%X
+eq-let	3	<Grand_Duchy_of_Avram>
+%Y
+eq-let	4	<Independent_State_of_Rainbow_Creek>
+##########
+%GID:373
+%LID#1#373-1-<Pacific_War>#138#138#2407
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+e	4	17	1
+#Condition
+%X
+eq-let	0	<Free_French_Naval_Forces>
+%Y
+eq-let	1	<Pacific_War>
+##########
+%GID:383
+%LID#0#383-1-"1.7"#0#0#7
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	40	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	1	"1.7"
+##########
+%GID:384
+%LID#1#384-0-<fr/Jean_Reynouard>#3#3#12
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	3	1
+e	2	5	1
+e	3	3	1
+#Condition
+%X
+eq-let	3	<fr/Jean_Grenier_(homme_politique)>
+%Y
+eq-let	0	<fr/Jean_Reynouard>
+##########
+%GID:386
+%LID#1#386-2-<Maplewood,_Portland,_Oregon>#188#188#297
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	39	1
+e	4	42	1
+#Condition
+%X
+eq-let	2	<de/Julie_Pomagalski>
+%Y
+eq-let	3	<Maplewood,_Portland,_Oregon>
+##########
+%GID:387
+%LID#1#387-0-<pl/Bitwa_pod_Powiewiórką>#110#110#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+e	4	16	1
+#Condition
+%X
+eq-let	3	<pl/Bitwa_pod_Dziawołtowem>
+%Y
+eq-let	0	<pl/Bitwa_pod_Powiewiórką>
+##########
+%GID:388
+%LID#1#388-1-"Per#115#115#1253
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	43	1
+e	2	43	1
+e	3	43	1
+e	4	43	1
+#Condition
+%X
+eq-let	4	<No._9_Squadron_RAF>
+%Y
+eq-let	1	"Per
+##########
+%GID:389
+%LID#1#389-1-"200"#0#0#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<Focal
+%Y
+eq-let	1	"200"
+##########
+%GID:392
+%LID#0#392-3-<Dupont_Circle>#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	38	1
+#Condition
+%X
+%Y
+eq-let	2	<Dupont_Circle>
+##########
+%GID:395
+%LID#0#395-3-<Great_Mound_(Middletown,_Ohio)>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	2	<Great_Mound_(Middletown,_Ohio)>
+##########
+%GID:397
+%LID#1#397-1-"640"#9#9#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	44	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<Canon_EF_16–35mm_lens>
+%Y
+eq-let	1	"640"
+##########
+%GID:398
+%LID#0#398-1-"240"#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	46	1
+e	3	46	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	1	"240"
+##########
+%GID:399
+%LID#0#399-1-"120"#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	42	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	1	"120"
+##########
+%GID:401
+%LID#1#401-4-<Berry_Town>#23#23#528
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<Wall_Doxey_State_Park>
+%Y
+eq-let	4	<Berry_Town>
+##########
+%GID:403
+%LID#1#403-0-<fr/Solmer>#24#24#396
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<La_Ghriba>
+%Y
+eq-let	0	<fr/Solmer>
+##########
+%GID:406
+%LID#1#406-2-<MK3_grenade>#151#151#1319
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	44	1
+e	4	46	1
+#Condition
+%X
+eq-let	0	<de/Hausen_im_Tal>
+%Y
+eq-let	3	<MK3_grenade>
+##########
+%GID:409
+%LID#1#409-1-"480"#96#96#775
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	46	1
+e	2	49	1
+e	3	49	1
+e	4	49	1
+#Condition
+%X
+eq-let	0	<55_Short_Stories_from_the_New_Yorker>
+%Y
+eq-let	1	"480"
+##########
+%GID:411
+%LID#0#411-4-<Permas_Jaya_Bridge>#0#0#24
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	49	1
+#Condition
+%X
+%Y
+eq-let	-1	<Permas_Jaya_Bridge>
+##########
+%GID:412
+%LID#0#412-0-<fr/Solmer>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	38	1
+#Condition
+%X
+%Y
+eq-let	0	<fr/Solmer>
+##########
+%GID:414
+%LID#1#414-1-"120"#10#10#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	42	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Nokia_6255i>
+%Y
+eq-let	1	"120"
+##########
+%GID:416
+%LID#1#416-1-"300"#16#16#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	46	1
+e	4	49	1
+#Condition
+%X
+eq-let	0	<Repetto>
+%Y
+eq-let	1	"300"
+##########
+%GID:417
+%LID#1#417-0-<pl/Eveline_Bhend>#76#76#1319
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	44	1
+e	3	44	1
+e	4	44	1
+#Condition
+%X
+eq-let	2	<pl/Sodnomcerengijn_Nacagdordż>
+%Y
+eq-let	0	<pl/Eveline_Bhend>
+##########
+%GID:418
+%LID#0#418-0-<fr/Solmer>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	0	<fr/Solmer>
+##########
+%GID:422
+%LID#0#422-0-<Great_Mound_(Middletown,_Ohio)>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	48	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	0	<Great_Mound_(Middletown,_Ohio)>
+##########
+%GID:427
+%LID#1#427-1-"400"#3#3#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	46	1
+e	3	44	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<La_Bible_amusante>
+%Y
+eq-let	1	"400"
+##########
+%GID:429
+%LID#1#429-0-<Mexican_Armed_Forces>#170#170#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	2	<La_Barredora>
+%Y
+eq-let	0	<Mexican_Armed_Forces>
+##########
+%GID:431
+%LID#1#431-1-"60"#56#56#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+eq-let	4	<1952_Kern_County_earthquake>
+%Y
+eq-let	1	"60"
+##########
+%GID:434
+%LID#1#434-1-<Strasbourg>#14#14#2622
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	3	1
+e	4	3	1
+#Condition
+%X
+eq-let	2	<fr/Marguerite_Thiébold>
+%Y
+eq-let	1	<Strasbourg>
+##########
+%GID:435
+%LID#1#435-1-"300"#3#3#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Cherokee_State_Park_(Kentucky)>
+%Y
+eq-let	1	"300"
+##########
+%GID:437
+%LID#1#437-0-<nl/Merandeh_Paya>#138#138#1583
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	46	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<The_Bugis>
+%Y
+eq-let	0	<nl/Merandeh_Paya>
+##########
+%GID:439
+%LID#0#439-0-<nl/Ujung_Padang_(Manggeng)>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	38	1
+e	4	52	1
+#Condition
+%X
+%Y
+eq-let	0	<nl/Ujung_Padang_(Manggeng)>
+##########
+%GID:441
+%LID#1#441-1-"80"#38#38#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<Marus>
+%Y
+eq-let	1	"80"
+##########
+%GID:443
+%LID#1#443-4-<Sixth_of_February_Movement>#3#3#25
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	17	0
+e	3	17	0
+e	4	17	0
+#Condition
+%X
+eq-let	2	<Communist_Action_Organization_in_Lebanon>
+%Y
+eq-let	4	<Sixth_of_February_Movement>
+##########
+%GID:444
+%LID#1#444-4-<La_Vicaria_Arch_Bridge>#7#7#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	46	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	1	"260"
+%Y
+eq-let	4	<La_Vicaria_Arch_Bridge>
+##########
+%GID:445
+%LID#1#445-2-<Saturn_I>#23#23#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	42	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<de/Altlewin>
+%Y
+eq-let	3	<Saturn_I>
+##########
+%GID:446
+%LID#0#446-0-<de/Haupeltshofen>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	0	<de/Haupeltshofen>
+##########
+%GID:447
+%LID#1#447-3-<Church_of_Mariahilf>#3#3#8
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	42	1
+e	4	52	1
+#Condition
+%X
+eq-let	4	<Schottenkirche,_Vienna>
+%Y
+eq-let	2	<Church_of_Mariahilf>
+##########
+%GID:448
+%LID#0#448-1-"200"#0#0#1
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+%Y
+eq-let	1	"200"
+##########
+%GID:449
+%LID#1#449-0-<fr/Solmer>#128#128#1550
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<La_Ghriba>
+%Y
+eq-let	0	<fr/Solmer>
+##########
+%GID:450
+%LID#1#450-4-<fr/Jean_Radlica>#66#66#2242
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+e	4	3	1
+#Condition
+%X
+eq-let	3	<pl/Maria_Plewa>
+%Y
+eq-let	4	<fr/Jean_Radlica>
+##########
+%GID:453
+%LID#1#453-2-<1001_Albums_You_Must_Hear_Before_You_Die>#2#2#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	46	1
+e	3	46	1
+e	4	49	1
+#Condition
+%X
+eq-let	1	"960"
+%Y
+eq-let	3	<1001_Albums_You_Must_Hear_Before_You_Die>
+##########
+%GID:454
+%LID#1#454-2-<Norwood_Mound>#1#1#8
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	48	1
+#Condition
+%X
+eq-let	0	<Benham_Mound>
+%Y
+eq-let	3	<Norwood_Mound>
+##########
+%GID:455
+%LID#1#455-0-<Roman_Catholic_Diocese_of_Mpika>#97#97#1649
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	44	1
+e	4	44	1
+#Condition
+%X
+eq-let	1	"44000"
+%Y
+eq-let	0	<Roman_Catholic_Diocese_of_Mpika>
+##########
+%GID:457
+%LID#0#457-0-<de/Lužec_u_Nejdku>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	44	1
+e	4	48	1
+#Condition
+%X
+%Y
+eq-let	0	<de/Lužec_u_Nejdku>
+##########
+%GID:458
+%LID#1#458-0-<fr/Internationaux_de_Sydney_1993>#126#126#2671
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	16	1
+e	4	3	1
+#Condition
+%X
+eq-let	3	<Judo_at_the_2000_Summer_Olympics>
+%Y
+eq-let	0	<fr/Internationaux_de_Sydney_1993>
+##########
+%GID:463
+%LID#1#463-4-<Ha'penny_Bridge>#15#15#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	38	1
+e	3	38	1
+e	4	52	1
+#Condition
+%X
+eq-let	1	"43"
+%Y
+eq-let	4	<Ha'penny_Bridge>
+##########
+%GID:464
+%LID#1#464-1-"1.7"#19#19#511
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	39	1
+#Condition
+%X
+eq-let	2	<Buckover_Road_Cutting>
+%Y
+eq-let	1	"1.7"
+##########
+%GID:466
+%LID#1#466-4-<La_Vicaria_Arch_Bridge>#7#7#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	44	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	1	"260"
+%Y
+eq-let	4	<La_Vicaria_Arch_Bridge>
+##########
+%GID:468
+%LID#1#468-0-<Miami#3#3#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Your_Spaceflight_Manual>
+%Y
+eq-let	0	<Miami
+##########
+%GID:472
+%LID#0#472-4-<Ontario_Northland_Railway>#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	39	1
+e	4	48	1
+#Condition
+%X
+%Y
+eq-let	4	<Ontario_Northland_Railway>
+##########
+%GID:475
+%LID#0#475-1-<Mesopotamia_(Argentina)>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+e	4	17	3
+#Condition
+%X
+%Y
+eq-let	1	<Mesopotamia_(Argentina)>
+##########
+%GID:476
+%LID#1#476-4-<La_Bible_amusante>#7#7#196
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	44	1
+e	3	44	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<Peleng_lens>
+%Y
+eq-let	4	<La_Bible_amusante>
+##########
+%GID:477
+%LID#1#477-0-<Fort_Harrison_National_Cemetery>#10#10#38
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<Mount_Magnificent_Conservation_Park>
+%Y
+eq-let	0	<Fort_Harrison_National_Cemetery>
+##########
+%GID:479
+%LID#1#479-1-"128"#74#74#775
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	46	1
+e	3	44	1
+e	4	46	1
+#Condition
+%X
+eq-let	4	<I_Never_Saw_Another_Butterfly>
+%Y
+eq-let	1	"128"
+##########
+%GID:485
+%LID#0#485-0-<de/Lužec_u_Nejdku>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	39	1
+e	4	48	1
+#Condition
+%X
+%Y
+eq-let	0	<de/Lužec_u_Nejdku>
+##########
+%GID:489
+%LID#1#489-2-<Murphy_(novella)>#119#119#1781
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	46	1
+e	3	46	1
+e	4	46	1
+#Condition
+%X
+eq-let	4	<Radio_tekee_muron>
+%Y
+eq-let	3	<Murphy_(novella)>
+##########
+%GID:492
+%LID#1#492-2-<MK3_grenade>#22#22#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Aunt_Phillis's_Cabin>
+%Y
+eq-let	3	<MK3_grenade>
+##########
+%GID:498
+%LID#0#498-0-<Canoeing_at_the_1948_Summer_Olympics>#0#0#156
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	<Canoeing_at_the_1948_Summer_Olympics>
+##########
+%GID:501
+%LID#1#501-0-<Volosovsky_District>#27#27#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+eq-let	4	<La_Ghriba>
+%Y
+eq-let	0	<Volosovsky_District>
+##########
+%GID:503
+%LID#1#503-0-<fr/Central_Bank_of_Kuwait_(gratte#82#82#1682
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	46	1
+e	3	46	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<fr/Diamond_Dogs_(cycle_des_Inhibiteurs)>
+%Y
+eq-let	0	<fr/Central_Bank_of_Kuwait_(gratte
+##########
+%GID:504
+%LID#1#504-1-"3"#49#49#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	39	1
+e	4	44	1
+#Condition
+%X
+eq-let	0	<John_F._Kennedy_Eternal_Flame>
+%Y
+eq-let	1	"3"
+##########
+%GID:506
+%LID#1#506-0-<fr/Solmer>#21#21#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Pistol_Mitralieră_model_1996_RATMIL>
+%Y
+eq-let	0	<fr/Solmer>
+##########
+%GID:507
+%LID#1#507-1-"240"#8#8#891
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	46	1
+e	4	46	1
+#Condition
+%X
+eq-let	4	<fr/Turquoise_Days>
+%Y
+eq-let	1	"240"
+##########
+%GID:508
+%LID#0#508-1-"145"#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+e	4	42	1
+#Condition
+%X
+%Y
+eq-let	1	"145"
+##########
+%GID:509
+%LID#1#509-1-"200"#0#0#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<The_Orphan_of_the_Rhine>
+%Y
+eq-let	1	"200"
+##########
+%GID:511
+%LID#1#511-3-<Your_Spaceflight_Manual>#20#20#78
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+eq-let	3	<Miami
+%Y
+eq-let	2	<Your_Spaceflight_Manual>
+##########
+%GID:515
+%LID#0#515-0-<de/Estavayer#0#0#4
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	38	1
+#Condition
+%X
+%Y
+eq-let	0	<de/Estavayer
+##########
+%GID:518
+%LID#1#518-2-<John_F._Kennedy_Eternal_Flame>#60#60#412
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	42	1
+#Condition
+%X
+eq-let	2	<Ross_Trails_Adena_Circle>
+%Y
+eq-let	3	<John_F._Kennedy_Eternal_Flame>
+##########
+%GID:520
+%LID#1#520-0-<Arlington_Municipal_Airport_(Oregon)>#8#8#60
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	45	1
+e	2	45	1
+e	3	45	1
+e	4	45	1
+#Condition
+%X
+eq-let	2	<Jembrana_City_International_Airport>
+%Y
+eq-let	0	<Arlington_Municipal_Airport_(Oregon)>
+##########
+%GID:522
+%LID#1#522-0-<Home_Is_the_Hunter>#172#172#1451
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	46	1
+e	2	46	1
+e	3	46	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<Big_Apple_Take_Down>
+%Y
+eq-let	0	<Home_Is_the_Hunter>
+##########
+%GID:523
+%LID#1#523-2-<Norwood_Mound>#0#0#13
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	39	1
+e	4	48	1
+#Condition
+%X
+eq-let	2	<Benham_Mound>
+%Y
+eq-let	3	<Norwood_Mound>
+##########
+%GID:524
+%LID#1#524-1-<http://www.amtboizenburgland.de/>#131#131#890
+#Pattern
+v	0	9	ANY
+v	1	10	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	6	1
+e	2	6	1
+e	3	6	1
+e	4	6	1
+#Condition
+%X
+eq-let	3	<Gresse>
+%Y
+eq-let	1	<http://www.amtboizenburgland.de/>
+##########
+%GID:525
+%LID#1#525-1-<Gold_dinar>#5#5#841
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	33	1
+e	2	33	1
+e	3	33	1
+e	4	33	1
+#Condition
+%X
+eq-let	3	<Taifa_of_Arcos>
+%Y
+eq-let	1	<Gold_dinar>
+##########
+%GID:526
+%LID#1#526-3-<Valuk>#10#10#14
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<Maesbury_Railway_Cutting>
+%Y
+eq-let	2	<Valuk>
+##########
+%GID:527
+%LID#1#527-4-<Jama_Masjid,_Delhi>#1#1#8
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	52	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<Wylam_Railway_Bridge>
+%Y
+eq-let	4	<Jama_Masjid,_Delhi>
+##########
+%GID:528
+%LID#1#528-1-<Sydney>#55#55#668
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	3	1
+e	4	3	1
+#Condition
+%X
+eq-let	2	<pl/Maksymilian_Feuerring>
+%Y
+eq-let	1	<Sydney>
+##########
+%GID:529
+%LID#1#529-4-<Traungold_Cave>#57#57#1550
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	38	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<de/Wulkow_(Lebus)>
+%Y
+eq-let	4	<Traungold_Cave>
+##########
+%GID:530
+%LID#1#530-1-"240"#5#5#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	46	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Speaking_of_Jane_Roberts>
+%Y
+eq-let	1	"240"
+##########
+%GID:538
+%LID#0#538-1-<Paris>#0#0#118
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	3	1
+e	2	5	1
+e	3	3	1
+#Condition
+%X
+%Y
+eq-let	1	<Paris>
+##########
+%GID:546
+%LID#1#546-1-"200"#0#0#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	39	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<Sudbrook_Park>
+%Y
+eq-let	1	"200"
+##########
+%GID:547
+%LID#1#547-1-"2.82"#1#1#3397
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	39	1
+e	4	42	1
+#Condition
+%X
+eq-let	4	<T
+%Y
+eq-let	1	"2.82"
+##########
+%GID:548
+%LID#0#548-1-"2"#0#0#9
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	42	1
+e	4	52	1
+#Condition
+%X
+%Y
+eq-let	1	"2"
+##########
+%GID:551
+%LID#1#551-1-"40"#70#70#775
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	39	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<Fabian_Escapes>
+%Y
+eq-let	1	"40"
+##########
+%GID:552
+%LID#0#552-0-<pl/Odo_Bujwid>#0#0#64
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+#Condition
+%X
+%Y
+eq-let	0	<pl/Odo_Bujwid>
+##########
+%GID:554
+%LID#1#554-3-<Climb_Dance>#14#14#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	46	1
+e	2	49	1
+e	3	46	1
+e	4	49	1
+#Condition
+%X
+eq-let	1	"300"
+%Y
+eq-let	2	<Climb_Dance>
+##########
+%GID:558
+%LID#1#558-0-<Smoketown,_Louisville>#29#29#437
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	46	1
+e	4	49	1
+#Condition
+%X
+eq-let	4	<Hareport>
+%Y
+eq-let	0	<Smoketown,_Louisville>
+##########
+%GID:561
+%LID#1#561-1-"3"#65#65#528
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	39	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<John_F._Kennedy_Eternal_Flame>
+%Y
+eq-let	1	"3"
+##########
+%GID:563
+%LID#1#563-2-<de/Christlob_Mylius>#64#64#663
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	3	1
+e	4	3	1
+#Condition
+%X
+eq-let	4	<Arthur_Young_(writer)>
+%Y
+eq-let	3	<de/Christlob_Mylius>
+##########
+%GID:565
+%LID#1#565-2-<Fort_O'Brien>#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	40	1
+e	3	39	1
+#Condition
+%X
+eq-let	0	<Stoneleigh_Historic_District>
+%Y
+eq-let	3	<Fort_O'Brien>
+##########
+%GID:570
+%LID#1#570-4-<Quirks_&_Quarks>#47#47#1913
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	49	1
+e	4	49	1
+#Condition
+%X
+eq-let	3	<Marion's_Triumph>
+%Y
+eq-let	4	<Quirks_&_Quarks>
+##########
+%GID:573
+%LID#1#573-0-<nl/Blang_Preh_(Simpang_Tiga)>#102#102#1649
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+e	4	44	1
+#Condition
+%X
+eq-let	3	<de/Laasow_(Vetschau/Spreewald)>
+%Y
+eq-let	0	<nl/Blang_Preh_(Simpang_Tiga)>
+##########
+%GID:578
+%LID#0#578-3-<Nyali_Bridge_(1931)>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	52	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	2	<Nyali_Bridge_(1931)>
+##########
+%GID:579
+%LID#1#579-3-<Great_Mound_(Middletown,_Ohio)>#13#13#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	44	1
+#Condition
+%X
+eq-let	0	<Emborough_Quarries>
+%Y
+eq-let	2	<Great_Mound_(Middletown,_Ohio)>
+##########
+%GID:581
+%LID#0#581-3-<nl/Amsterdamse_gelede_trams_1G_t/m_7G>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	44	1
+e	4	48	1
+#Condition
+%X
+%Y
+eq-let	2	<nl/Amsterdamse_gelede_trams_1G_t/m_7G>
+##########
+%GID:583
+%LID#1#583-0-<nl/Ujung_Padang_(Manggeng)>#125#125#1715
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	38	1
+e	4	52	1
+#Condition
+%X
+eq-let	3	<Abu_Shusha>
+%Y
+eq-let	0	<nl/Ujung_Padang_(Manggeng)>
+##########
+%GID:584
+%LID#1#584-0-<Hampton_Rocks_Cutting>#31#31#264
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	42	1
+#Condition
+%X
+eq-let	3	<Laycock_Railway_Cutting>
+%Y
+eq-let	0	<Hampton_Rocks_Cutting>
+##########
+%GID:585
+%LID#1#585-0-<de/Ag2r_La_Mondiale/Saison_2009>#19#19#478
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	39	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<Mount_Magnificent_Conservation_Park>
+%Y
+eq-let	0	<de/Ag2r_La_Mondiale/Saison_2009>
+##########
+%GID:587
+%LID#1#587-2-<The_Second_Great_Depression_(book)>#4#4#13
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	46	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Silencing_Dissent>
+%Y
+eq-let	3	<The_Second_Great_Depression_(book)>
+##########
+%GID:588
+%LID#1#588-2-<Agat_computer>#9#9#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	4	<Vangshylla–Kjerringvik_Ferry>
+%Y
+eq-let	3	<Agat_computer>
+##########
+%GID:589
+%LID#1#589-0-<Miami#6#6#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	39	1
+e	4	44	1
+#Condition
+%X
+eq-let	4	<Nokia_6255i>
+%Y
+eq-let	0	<Miami
+##########
+%GID:590
+%LID#1#590-1-"2500"#81#81#594
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	39	1
+e	4	44	1
+#Condition
+%X
+eq-let	2	<RMB
+%Y
+eq-let	1	"2500"
+##########
+%GID:592
+%LID#1#592-1-"2500"#51#51#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	4	<Pasarel_Reservoir>
+%Y
+eq-let	1	"2500"
+##########
+%GID:593
+%LID#1#593-1-"2"#22#22#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<Making_of_a_Godol>
+%Y
+eq-let	1	"2"
+##########
+%GID:594
+%LID#1#594-1-"780"#13#13#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	49	1
+e	3	46	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<10+2_(TV_series)>
+%Y
+eq-let	1	"780"
+##########
+%GID:595
+%LID#0#595-0-<Canoeing_at_the_1948_Summer_Olympics>#0#0#156
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	<Canoeing_at_the_1948_Summer_Olympics>
+##########
+%GID:597
+%LID#0#597-1-<Europe>#0#0#77
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	1	<Europe>
+##########
+%GID:598
+%LID#1#598-1-"6000"#22#22#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	49	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+eq-let	4	<Al_final_del_espectro>
+%Y
+eq-let	1	"6000"
+##########
+%GID:607
+%LID#0#607-0-<Sigma_8mm_f/3.5_EX_DG_lens>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	46	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+%Y
+eq-let	0	<Sigma_8mm_f/3.5_EX_DG_lens>
+##########
+%GID:611
+%LID#1#611-3-<Ariane_1>#14#14#396
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	38	1
+e	4	52	1
+#Condition
+%X
+eq-let	4	<Daly's_bridge>
+%Y
+eq-let	2	<Ariane_1>
+##########
+%GID:614
+%LID#0#614-3-<nl/Amsterdamse_gelede_trams_1G_t/m_7G>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	39	1
+e	4	48	1
+#Condition
+%X
+%Y
+eq-let	2	<nl/Amsterdamse_gelede_trams_1G_t/m_7G>
+##########
+%GID:616
+%LID#1#616-0-<fr/L'Appel_Médical>#37#37#1979
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	38	1
+e	3	38	1
+e	4	38	1
+#Condition
+%X
+eq-let	3	<pl/Kielecka_Spółdzielnia_Mieszkaniowa>
+%Y
+eq-let	0	<fr/L'Appel_Médical>
+##########
+%GID:618
+%LID#1#618-2-<Santee_State_Park>#12#12#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+eq-let	1	"2500"
+%Y
+eq-let	3	<Santee_State_Park>
+##########
+%GID:622
+%LID#1#622-1-"1.84"#12#12#3430
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	42	1
+e	4	42	1
+#Condition
+%X
+eq-let	2	<Trent_Nelson
+%Y
+eq-let	1	"1.84"
+##########
+%GID:625
+%LID#1#625-4-<Jama_Masjid,_Delhi>#2#2#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	52	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<Wylam_Railway_Bridge>
+%Y
+eq-let	4	<Jama_Masjid,_Delhi>
+##########
+%GID:626
+%LID#1#626-0-<Mann_Mountain_Settlement,_New_Brunswick>#12#12#264
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	52	1
+e	3	38	1
+e	4	52	1
+#Condition
+%X
+eq-let	3	<de/Bärwinkel_(Neuhardenberg)>
+%Y
+eq-let	0	<Mann_Mountain_Settlement,_New_Brunswick>
+##########
+%GID:629
+%LID#1#629-2-<fr/NTT_Credo_Motomachi_Building>#10#10#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	42	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<Sony_Ericsson_P910>
+%Y
+eq-let	3	<fr/NTT_Credo_Motomachi_Building>
+##########
+%GID:630
+%LID#1#630-0-<de/Saur#16#16#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	42	1
+e	4	42	1
+#Condition
+%X
+eq-let	2	<Skink_anti
+%Y
+eq-let	0	<de/Saur
+##########
+%GID:631
+%LID#0#631-0-<1930–31_French_Rugby_Union_Championship>#0#0#29
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	<1930–31_French_Rugby_Union_Championship>
+##########
+%GID:635
+%LID#1#635-1-"1800"#2#2#1880
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	49	1
+e	2	49	1
+e	3	49	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Groundling_Marsh>
+%Y
+eq-let	1	"1800"
+##########
+%GID:636
+%LID#1#636-4-<Lucan_Bridge>#16#16#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	46	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<Europa_(rocket)>
+%Y
+eq-let	4	<Lucan_Bridge>
+##########
+%GID:638
+%LID#1#638-4-<pl/André_Zoltan>#82#82#1936
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	42	1
+e	3	42	1
+e	4	42	1
+#Condition
+%X
+eq-let	3	<de/Marion_Blondeau>
+%Y
+eq-let	4	<pl/André_Zoltan>
+##########
+%GID:639
+%LID#0#639-0-<de/Internationaux_de_Strasbourg_2005>#0#0#37
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	16	1
+e	4	3	1
+#Condition
+%X
+%Y
+eq-let	0	<de/Internationaux_de_Strasbourg_2005>
+##########
+%GID:640
+%LID#0#640-0-<Akshinsky_District>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+%Y
+eq-let	0	<Akshinsky_District>
+##########
+%GID:642
+%LID#1#642-1-"720"#16#16#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Maroilles_cheese>
+%Y
+eq-let	1	"720"
+##########
+%GID:643
+%LID#1#643-4-<Druid_Hills_Historic_District_(Atlanta,_Georgia)>#30#30#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	38	1
+e	3	38	1
+e	4	39	1
+#Condition
+%X
+eq-let	3	<nl/Kebon_Baru_(Simpang_Keramat)>
+%Y
+eq-let	4	<Druid_Hills_Historic_District_(Atlanta,_Georgia)>
+##########
+%GID:645
+%LID#0#645-0-<de/Haupeltshofen>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	42	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	0	<de/Haupeltshofen>
+##########
+%GID:646
+%LID#1#646-4-<Lotru_Bridge>#3#3#39
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	52	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<Dunn's_Hole>
+%Y
+eq-let	4	<Lotru_Bridge>
+##########
+%GID:647
+%LID#1#647-1-"5"#26#26#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	39	1
+e	4	44	1
+#Condition
+%X
+eq-let	2	<Kukaniloko_Birth_Site>
+%Y
+eq-let	1	"5"
+##########
+%GID:649
+%LID#1#649-4-<Helpline_(film)>#23#23#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	42	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Killing_Aurora>
+%Y
+eq-let	4	<Helpline_(film)>
+##########
+%GID:651
+%LID#1#651-0-<Steyr_AUG>#115#115#1715
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	49	1
+e	3	49	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Ego_trip's_Miss_Rap_Supreme>
+%Y
+eq-let	0	<Steyr_AUG>
+##########
+%GID:652
+%LID#1#652-4-<Lotru_Bridge>#2#2#25
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	52	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<Dunn's_Hole>
+%Y
+eq-let	4	<Lotru_Bridge>
+##########
+%GID:654
+%LID#1#654-2-<Germanna>#43#43#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	39	1
+e	4	46	1
+#Condition
+%X
+eq-let	0	<Miami
+%Y
+eq-let	3	<Germanna>
+##########
+%GID:655
+%LID#1#655-4-<The_Great_Romance>#71#71#957
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	39	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<Emborough_Quarries>
+%Y
+eq-let	4	<The_Great_Romance>
+##########
+%GID:657
+%LID#1#657-2-<Butler's_Rangers>#4#4#25
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	17	0
+e	3	17	0
+e	4	17	0
+#Condition
+%X
+eq-let	2	<Brant's_Volunteers>
+%Y
+eq-let	3	<Butler's_Rangers>
+##########
+%GID:660
+%LID#1#660-1-"400"#3#3#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	46	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<La_Bible_amusante>
+%Y
+eq-let	1	"400"
+##########
+%GID:661
+%LID#0#661-2-<nl/Amsterdamse_gelede_trams_1G_t/m_7G>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	3	<nl/Amsterdamse_gelede_trams_1G_t/m_7G>
+##########
+%GID:664
+%LID#1#664-0-<fr/Robert_Heitz>#30#30#470
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+e	4	3	1
+#Condition
+%X
+eq-let	4	<fr/Bertrand_Pierre_Castex>
+%Y
+eq-let	0	<fr/Robert_Heitz>
+##########
+%GID:665
+%LID#0#665-1-<London>#0#0#48
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+e	4	3	1
+#Condition
+%X
+%Y
+eq-let	1	<London>
+##########
+%GID:668
+%LID#0#668-4-<Branford_Steam_Railroad>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+%Y
+eq-let	4	<Branford_Steam_Railroad>
+##########
+%GID:669
+%LID#1#669-3-<Titan_IIIB>#25#25#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<de/Groß_Linde>
+%Y
+eq-let	2	<Titan_IIIB>
+##########
+%GID:670
+%LID#1#670-4-<1955_Uruguayan_Primera_División>#95#95#363
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+e	4	16	1
+#Condition
+%X
+eq-let	3	<1903_Uruguayan_Primera_División>
+%Y
+eq-let	4	<1955_Uruguayan_Primera_División>
+##########
+%GID:672
+%LID#1#672-1-"1500"#21#21#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	3	<de/HK79>
+%Y
+eq-let	1	"1500"
+##########
+%GID:674
+%LID#1#674-1-"800"#43#43#775
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	44	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<CZ_82>
+%Y
+eq-let	1	"800"
+##########
+%GID:677
+%LID#1#677-0-<Drogen>#82#82#1682
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	42	1
+e	4	44	1
+#Condition
+%X
+eq-let	3	<Tour_KPMG>
+%Y
+eq-let	0	<Drogen>
+##########
+%GID:681
+%LID#1#681-4-<Smokey_Hole_Cave>#7#7#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+e	4	52	1
+#Condition
+%X
+eq-let	3	<pl/Runotex>
+%Y
+eq-let	4	<Smokey_Hole_Cave>
+##########
+%GID:683
+%LID#1#683-4-<Saturn_INT#10#10#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	38	1
+e	4	42	1
+#Condition
+%X
+eq-let	3	<de/Horní_Luby>
+%Y
+eq-let	4	<Saturn_INT
+##########
+%GID:685
+%LID#1#685-1-"3"#83#83#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	42	1
+e	4	44	1
+#Condition
+%X
+eq-let	0	<Ross_Trails_Adena_Circle>
+%Y
+eq-let	1	"3"
+##########
+%GID:692
+%LID#0#692-1-<Beirut>#0#0#7
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	17	0
+e	3	17	0
+e	4	3	1
+#Condition
+%X
+%Y
+eq-let	1	<Beirut>
+##########
+%GID:696
+%LID#0#696-1-"240"#0#0#4
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	46	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	1	"240"
+##########
+%GID:698
+%LID#0#698-0-<1900_Uruguayan_Primera_División>#0#0#86
+#Pattern
+v	0	9	ANY
+v	1	1	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+#Condition
+%X
+%Y
+eq-let	0	<1900_Uruguayan_Primera_División>
+##########
+%GID:699
+%LID#1#699-0-<nl/Blang_Preh_(Simpang_Tiga)>#78#78#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	38	1
+e	4	44	1
+#Condition
+%X
+eq-let	3	<pl/KDSH_w_Rypinie>
+%Y
+eq-let	0	<nl/Blang_Preh_(Simpang_Tiga)>
+##########
+%GID:702
+%LID#0#702-4-<Bir_Tawil>#0#0#33
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+e	4	40	1
+#Condition
+%X
+%Y
+eq-let	4	<Bir_Tawil>
+##########
+%GID:705
+%LID#1#705-3-<it/SRCM_Mod._35>#2#2#8
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	44	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+eq-let	3	<Nikon_Coolpix_P6000>
+%Y
+eq-let	2	<it/SRCM_Mod._35>
+##########
+%GID:707
+%LID#1#707-1-"120"#26#26#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+eq-let	4	<Rock_n'_Roller_Coaster_(Opryland)>
+%Y
+eq-let	1	"120"
+##########
+%GID:708
+%LID#1#708-1-"256"#156#156#330
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	38	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<nl/Gampong_Baroh_(Setia_Bakti)>
+%Y
+eq-let	1	"256"
+##########
+%GID:711
+%LID#1#711-4-<1899–1900_French_Rugby_Union_Championship>#87#87#1329
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+e	4	16	1
+#Condition
+%X
+eq-let	3	<1912–13_French_Rugby_Union_Championship>
+%Y
+eq-let	4	<1899–1900_French_Rugby_Union_Championship>
+##########
+%GID:713
+%LID#1#713-2-<Leichter_Panzerspähwagen>#1#1#15
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	40	1
+e	2	42	1
+e	3	42	1
+e	4	42	1
+#Condition
+%X
+eq-let	2	<ELVO_Leonidas
+%Y
+eq-let	3	<Leichter_Panzerspähwagen>
+##########
+%GID:714
+%LID#1#714-0-<de/Ag2r_La_Mondiale/Saison_2009>#27#27#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	42	1
+e	4	52	1
+#Condition
+%X
+eq-let	1	"2"
+%Y
+eq-let	0	<de/Ag2r_La_Mondiale/Saison_2009>
+##########
+%GID:717
+%LID#1#717-1-"34"#38#38#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	39	1
+e	4	42	1
+#Condition
+%X
+eq-let	3	<Garston_Wood>
+%Y
+eq-let	1	"34"
+##########
+%GID:719
+%LID#1#719-1-"500"#40#40#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<pl/Pistolet_Bernardelli_P8>
+%Y
+eq-let	1	"500"
+##########
+%GID:720
+%LID#1#720-1-"3"#62#62#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	39	1
+e	4	42	1
+#Condition
+%X
+eq-let	2	<Tortoise_heavy_assault_tank>
+%Y
+eq-let	1	"3"
+##########
+%GID:723
+%LID#1#723-3-<The_Pharmer's_Almanac>#21#21#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+eq-let	3	<Gubbeen_Farmhouse_Cheese>
+%Y
+eq-let	2	<The_Pharmer's_Almanac>
+##########
+%GID:728
+%LID#1#728-3-<nl/Ceumpeudak_(Matangkuli)>#104#104#1517
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	38	1
+e	3	38	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<Hant's_Harbour>
+%Y
+eq-let	2	<nl/Ceumpeudak_(Matangkuli)>
+##########
+%GID:733
+%LID#1#733-1-"80"#96#96#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	44	1
+e	3	44	1
+e	4	46	1
+#Condition
+%X
+eq-let	4	<Arqtiq>
+%Y
+eq-let	1	"80"
+##########
+%GID:734
+%LID#1#734-0-<Brook_Green>#7#7#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	38	1
+e	4	39	1
+#Condition
+%X
+eq-let	3	<fr/Île_Whitehorse>
+%Y
+eq-let	0	<Brook_Green>
+##########
+%GID:738
+%LID#1#738-3-<Harsimus>#12#12#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+eq-let	4	<Snipets>
+%Y
+eq-let	2	<Harsimus>
+##########
+%GID:740
+%LID#1#740-1-"780"#18#18#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	44	1
+e	4	49	1
+#Condition
+%X
+eq-let	0	<Smoketown,_Louisville>
+%Y
+eq-let	1	"780"
+##########
+%GID:741
+%LID#1#741-1-<Tbilisi>#1#1#66
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	17	0
+e	4	3	1
+#Condition
+%X
+eq-let	2	<pl/Andronik_(Łukasz)>
+%Y
+eq-let	1	<Tbilisi>
+##########
+%GID:745
+%LID#1#745-4-<The_First_Journey_(Alternamorphs)>#166#166#1319
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	42	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<fr/Tokyo_Dome_Hotel>
+%Y
+eq-let	4	<The_First_Journey_(Alternamorphs)>
+##########
+%GID:746
+%LID#1#746-1-"120"#33#33#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+eq-let	4	<Tasty_Time_with_ZeFronk>
+%Y
+eq-let	1	"120"
+##########
+%GID:747
+%LID#1#747-1-"4800"#88#88#841
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	49	1
+e	3	49	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Los_Serrano>
+%Y
+eq-let	1	"4800"
+##########
+%GID:748
+%LID#1#748-0-<fr/Solmer>#21#21#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	38	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<Legend_of_Lemnear>
+%Y
+eq-let	0	<fr/Solmer>
+##########
+%GID:750
+%LID#1#750-4-<Teddy_Dressing>#69#69#512
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	42	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<The_Queen's_Amulet>
+%Y
+eq-let	4	<Teddy_Dressing>
+##########
+%GID:752
+%LID#1#752-0-<fr/Armée_catholique_et_royale_de_Normandie>#122#122#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	44	1
+e	4	44	1
+#Condition
+%X
+eq-let	3	<pl/Karabin_maszynowy_Bergmann_M1902>
+%Y
+eq-let	0	<fr/Armée_catholique_et_royale_de_Normandie>
+##########
+%GID:755
+%LID#1#755-0-<de/Carzig>#80#80#890
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	38	1
+e	4	44	1
+#Condition
+%X
+eq-let	3	<Bezen_Perrot>
+%Y
+eq-let	0	<de/Carzig>
+##########
+%GID:759
+%LID#1#759-1-"120"#71#71#528
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	44	1
+e	3	42	1
+e	4	46	1
+#Condition
+%X
+eq-let	0	<Germanna>
+%Y
+eq-let	1	"120"
+##########
+%GID:760
+%LID#1#760-4-<nl/Kees_Koning>#34#34#396
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	16	1
+e	4	3	1
+#Condition
+%X
+eq-let	0	<2012_Women's_European_Water_Polo_Championship>
+%Y
+eq-let	4	<nl/Kees_Koning>
+##########
+%GID:761
+%LID#0#761-1-"200"#0#0#1
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	38	1
+e	2	39	1
+e	3	39	1
+#Condition
+%X
+%Y
+eq-let	1	"200"
+##########
+%GID:763
+%LID#0#763-0-<Miami#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	39	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	0	<Miami
+##########
+%GID:764
+%LID#1#764-1-<London>#33#33#264
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	16	1
+e	4	3	1
+#Condition
+%X
+eq-let	3	<2009–10_English_Premiership_(rugby_union)>
+%Y
+eq-let	1	<London>
+##########
+%GID:770
+%LID#0#770-0-<Canoeing_at_the_1948_Summer_Olympics>#0#0#153
+#Pattern
+v	0	9	ANY
+v	1	6	ANY
+v	2	9	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+%Y
+eq-let	0	<Canoeing_at_the_1948_Summer_Olympics>
+##########
+%GID:771
+%LID#1#771-4-<Bart_Simpson's_Guide_to_Life>#25#25#590
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	40	1
+e	2	46	1
+e	3	46	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<In_Search_of_The_La's>
+%Y
+eq-let	4	<Bart_Simpson's_Guide_to_Life>
+##########
+%GID:773
+%LID#1#773-1-"128"#39#39#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	42	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<fr/Residencial_del_Bosque_1>
+%Y
+eq-let	1	"128"
+##########
+%GID:774
+%LID#1#774-1-"175"#107#107#198
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	38	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<Lord's_Cove>
+%Y
+eq-let	1	"175"
+##########
+%GID:777
+%LID#1#777-1-<San_Francisco>#35#35#470
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	3	1
+e	2	3	1
+e	3	3	1
+e	4	3	1
+#Condition
+%X
+eq-let	3	<Jim_Britt_(baseball)>
+%Y
+eq-let	1	<San_Francisco>
+##########
+%GID:778
+%LID#1#778-1-"2.95"#19#19#3265
+#Pattern
+v	0	9	ANY
+v	1	12	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	42	1
+e	3	42	1
+e	4	42	1
+#Condition
+%X
+eq-let	2	<Buffel>
+%Y
+eq-let	1	"2.95"
+##########
+%GID:780
+%LID#0#780-1-"1"#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	44	1
+e	4	48	1
+#Condition
+%X
+%Y
+eq-let	1	"1"
+##########
+%GID:781
+%LID#1#781-4-<William_Jolly_Bridge>#62#62#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<de/Blönsdorf>
+%Y
+eq-let	4	<William_Jolly_Bridge>
+##########
+%GID:784
+%LID#1#784-2-<Bethania_Historic_District>#51#51#66
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	39	1
+e	4	52	1
+#Condition
+%X
+eq-let	0	<de/Blönsdorf>
+%Y
+eq-let	3	<Bethania_Historic_District>
+##########
+%GID:789
+%LID#1#789-0-<fr/Austin_Hilton_Convention_Center>#190#190#1550
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	42	1
+e	2	44	1
+e	3	44	1
+e	4	44	1
+#Condition
+%X
+eq-let	3	<Sony_Ericsson_K800i>
+%Y
+eq-let	0	<fr/Austin_Hilton_Convention_Center>
+##########
+%GID:792
+%LID#1#792-2-<Hiva#61#61#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	39	1
+e	4	44	1
+#Condition
+%X
+eq-let	2	<The_Skyscraper_(Dubai)>
+%Y
+eq-let	3	<Hiva
+##########
+%GID:793
+%LID#1#793-0-<nl/Ujung_Padang_(Manggeng)>#10#10#297
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	44	1
+e	3	38	1
+e	4	49	1
+#Condition
+%X
+eq-let	2	<es/Browning_125>
+%Y
+eq-let	0	<nl/Ujung_Padang_(Manggeng)>
+##########
+%GID:796
+%LID#1#796-0-<de/Carzig>#51#51#132
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	38	1
+e	3	38	1
+e	4	44	1
+#Condition
+%X
+eq-let	3	<de/Putz_GR>
+%Y
+eq-let	0	<de/Carzig>
+##########
+%GID:797
+%LID#1#797-2-<2015_Rugby_World_Cup_–_Europe_qualification>#52#52#3617
+#Pattern
+v	0	9	ANY
+v	1	14	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	16	1
+e	3	16	1
+e	4	16	1
+#Condition
+%X
+eq-let	4	<1981–82_UEFA_Cup>
+%Y
+eq-let	3	<2015_Rugby_World_Cup_–_Europe_qualification>
+##########
+%GID:799
+%LID#1#799-0-<Fort_Harrison_National_Cemetery>#49#49#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	39	1
+e	3	39	1
+e	4	39	1
+#Condition
+%X
+eq-let	2	<Mount_Magnificent_Conservation_Park>
+%Y
+eq-let	0	<Fort_Harrison_National_Cemetery>
+##########
+%GID:800
+%LID#1#800-0-<fr/Challenge_des_champions_1965>#28#28#3199
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	16	1
+e	2	3	1
+e	3	3	1
+e	4	3	1
+#Condition
+%X
+eq-let	4	<fr/Guillaume_Michel>
+%Y
+eq-let	0	<fr/Challenge_des_champions_1965>
+##########
+%GID:801
+%LID#1#801-0-<de/Carzig>#43#43#99
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	38	1
+e	4	46	1
+#Condition
+%X
+eq-let	3	<WeShow>
+%Y
+eq-let	0	<de/Carzig>
+##########
+%GID:803
+%LID#1#803-1-"198"#65#65#1913
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	42	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<House_Work_(novel)>
+%Y
+eq-let	1	"198"
+##########
+%GID:815
+%LID#0#815-1-"120"#0#0#8
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	49	1
+e	3	42	1
+e	4	49	1
+#Condition
+%X
+%Y
+eq-let	1	"120"
+##########
+%GID:822
+%LID#0#822-0-<Sigma_8mm_f/3.5_EX_DG_lens>#0#0#2
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	44	1
+e	2	44	1
+e	3	44	1
+#Condition
+%X
+%Y
+eq-let	0	<Sigma_8mm_f/3.5_EX_DG_lens>
+##########
+%GID:824
+%LID#1#824-3-<Torre_Insignia>#22#22#396
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	42	1
+e	3	42	1
+e	4	44	1
+#Condition
+%X
+eq-let	4	<Nokia_E70>
+%Y
+eq-let	2	<Torre_Insignia>
+##########
+%GID:827
+%LID#1#827-0-<fr/Hussards_de_la_Liberté>#61#61#396
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	38	1
+e	2	46	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<La_Bible_amusante>
+%Y
+eq-let	0	<fr/Hussards_de_la_Liberté>
+##########
+%GID:828
+%LID#0#828-3-<Trapped_in_the_USSR>#0#0#0
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	46	1
+e	2	46	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+%Y
+eq-let	2	<Trapped_in_the_USSR>
+##########
+%GID:830
+%LID#1#830-0-<Jewish_resistance_under_Nazi_rule>#56#56#1682
+#Pattern
+v	0	9	ANY
+v	1	0	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	17	1
+e	2	17	1
+e	3	17	1
+e	4	17	1
+#Condition
+%X
+eq-let	3	<Polish_resistance_movement_in_World_War_II>
+%Y
+eq-let	0	<Jewish_resistance_under_Nazi_rule>
+##########
+%GID:834
+%LID#1#834-1-"240"#6#6#1649
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	44	1
+e	4	46	1
+#Condition
+%X
+eq-let	2	<The_Last_Dog_on_Earth>
+%Y
+eq-let	1	"240"
+##########
+%GID:837
+%LID#0#837-1-"400"#0#0#6
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	44	1
+e	2	44	1
+e	3	44	1
+e	4	52	1
+#Condition
+%X
+%Y
+eq-let	1	"400"
+##########
+%GID:838
+%LID#1#838-1-"200"#1#1#239
+#Pattern
+v	0	9	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	9	ANY
+v	4	9	ANY
+e	0	39	1
+e	2	46	1
+e	3	46	1
+e	4	52	1
+#Condition
+%X
+eq-let	2	<The_Orphan_of_the_Rhine>
+%Y
+eq-let	1	"200"

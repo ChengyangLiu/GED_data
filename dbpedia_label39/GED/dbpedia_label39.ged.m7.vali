@@ -1,0 +1,65 @@
+##############
+%GID:865
+%LID#1#865-2-Finance#2#2#14
+#Pattern
+v	0	39	ANY
+v	1	622	ANY
+v	2	0	ANY
+v	3	39	ANY
+e	0	100	1
+e	0	81	2
+e	3	100	1
+#Condition
+%X
+eq-let	0	Cambodia_Securities_Exchange
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1070
+%LID#0#1070-0-Marotta#0#0#6
+#Pattern
+v	0	39	ANY
+v	1	39	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	81	1
+e	0	82	2
+e	3	81	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1089
+%LID#0#1089-1-Lone_Star_Funds#0#0#0
+#Pattern
+v	0	39	ANY
+v	1	925	ANY
+v	2	1	ANY
+v	3	39	ANY
+e	0	45	1
+e	0	82	2
+e	3	45	1
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:7546
+%LID#1#7546-3-Salarpuria_Sattva#5#5#15
+#Pattern
+v	0	39	ANY
+v	1	18	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	39	ANY
+v	5	0	ANY
+e	0	100	1
+e	0	45	2
+e	4	80	3
+e	4	81	5
+#Condition
+%X
+eq-let	4	Real_estate_development
+%Y
+eq-id	2	id	3	id

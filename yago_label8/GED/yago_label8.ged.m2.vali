@@ -1,0 +1,56 @@
+##############
+%GID:0
+%LID#1#0-0-<Ingrid_Jensen>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+e	0	26	1
+e	2	26	1
+#Condition
+%X
+eq-let	1	<New_York_City>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:12
+%LID#1#12-1-<Jon_Kleinberg>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	2	ANY
+v	2	8	ANY
+e	0	30	1
+e	2	30	1
+#Condition
+%X
+eq-let	0	<Amit_Kumar>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:21
+%LID#1#21-0-<Lead_Belly>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	8	ANY
+e	0	11	1
+e	2	11	1
+#Condition
+%X
+eq-let	1	<Woody_Guthrie>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:43
+%LID#1#43-0-<Dorce_Gamalama>#2#2#6
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	8	ANY
+e	0	25	1
+e	2	25	1
+#Condition
+%X
+eq-let	1	<Indonesia>
+%Y
+eq-id	0	id	2	id

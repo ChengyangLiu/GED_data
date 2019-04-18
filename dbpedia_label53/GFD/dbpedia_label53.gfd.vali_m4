@@ -1,0 +1,307 @@
+##############
+%GID:8
+%LID#1#8-1-Two_Steps_from_Hell#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	39	ANY
+e	0	264	1
+#Condition
+%X
+eq-let	0	Legend_(Two_Steps_from_Hell_album)
+%Y
+eq-let	1	Two_Steps_from_Hell
+##############
+%GID:62
+%LID#1#62-0-3_Compositions_of_New_Jazz#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+e	0	188	1
+#Condition
+%X
+eq-let	1	For_Alto
+%Y
+eq-let	0	3_Compositions_of_New_Jazz
+##############
+%GID:338
+%LID#0#338-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##############
+%GID:372
+%LID#0#372-0-Zebra_(Yello_album)#0#0#1
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	11	ANY
+e	0	188	1
+e	0	75	3
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##############
+%GID:426
+%LID#0#426-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##############
+%GID:479
+%LID#0#479-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	0	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##############
+%GID:494
+%LID#0#494-3-Epic_Records#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	594	ANY
+v	2	8	ANY
+v	3	1	ANY
+e	0	264	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	2	Epic_Records
+##############
+%GID:645
+%LID#0#645-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	13	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##############
+%GID:670
+%LID#1#670-3-Contemporary_R&B#1#1#8
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	4	New_wave_music
+%Y
+eq-let	2	Contemporary_R&B
+##############
+%GID:850
+%LID#0#850-0-Zebra_(Yello_album)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	1509	ANY
+v	2	53	ANY
+v	3	11	ANY
+v	4	9	ANY
+e	0	188	1
+e	0	75	3
+e	0	75	4
+e	2	75	3
+#Condition
+%X
+%Y
+eq-let	0	Zebra_(Yello_album)
+##############
+%GID:877
+%LID#0#877-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	264	1
+e	0	6	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##############
+%GID:918
+%LID#1#918-4-Soul_music#2#2#15
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	0	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+eq-let	2	She_Works_Hard_for_the_Money_(album)
+%Y
+eq-let	4	Soul_music
+##############
+%GID:920
+%LID#0#920-0-The_Wanderer_(Donna_Summer_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	441	ANY
+v	2	53	ANY
+v	3	8	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	2	264	3
+e	2	65	4
+#Condition
+%X
+%Y
+eq-let	0	The_Wanderer_(Donna_Summer_album)
+##############
+%GID:946
+%LID#1#946-2-Pop_music#6#6#27
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+eq-let	2	Rock_music
+%Y
+eq-let	3	Pop_music
+##############
+%GID:970
+%LID#0#970-2-Archive_(band)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	11	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	4
+e	2	264	3
+#Condition
+%X
+%Y
+eq-let	3	Archive_(band)
+##############
+%GID:1073
+%LID#0#1073-0-Private_Dancer#0#0#6
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	0	ANY
+v	3	13	ANY
+v	4	1	ANY
+e	0	188	1
+e	0	264	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	0	Private_Dancer
+##############
+%GID:1216
+%LID#0#1216-0-Kite_(Kirsty_MacColl_album)#0#0#0
+#Pattern
+v	0	53	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	264	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Kite_(Kirsty_MacColl_album)
+##############
+%GID:1242
+%LID#0#1242-1-Mad_Max_Beyond_Thunderdome_(soundtrack)#0#0#2
+#Pattern
+v	0	53	ANY
+v	1	709	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	188	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Mad_Max_Beyond_Thunderdome_(soundtrack)
+##############
+%GID:1302
+%LID#1#1302-3-American_Made_(Wakefield_album)#7#7#15
+#Pattern
+v	0	53	ANY
+v	1	3294	ANY
+v	2	53	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	188	1
+e	0	6	3
+e	2	6	3
+e	2	75	4
+#Condition
+%X
+eq-let	4	Arista_Records
+%Y
+eq-let	2	American_Made_(Wakefield_album)

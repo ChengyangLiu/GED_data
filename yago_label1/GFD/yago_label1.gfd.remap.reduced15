@@ -1,0 +1,41 @@
+%GID:48
+%LID#0#48-1-<Somalia>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	24	1
+e	1	24	2
+#Condition
+%X
+%Y
+eq-let	1	<Somalia>
+##########
+%GID:49
+%LID#0#49-1-<Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	0
+#Condition
+%X
+%Y
+eq-let	1	<Germany>
+##########
+%GID:50
+%LID#0#50-3-<Germany>#0#0#8
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	0	1
+e	1	0	2
+e	3	0	1
+#Condition
+%X
+%Y
+eq-let	2	<Germany>
+##########

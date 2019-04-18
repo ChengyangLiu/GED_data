@@ -1,0 +1,2212 @@
+##############
+%GID:16
+%LID#1#16-0-Basharat_Peer#4#4#12
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Jammu_and_Kashmir
+%Y
+eq-id	0	id	2	id
+##############
+%GID:64
+%LID#1#64-0-George_Balzer#6#6#15
+#Pattern
+v	0	8	ANY
+v	1	521	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Erie,_Pennsylvania
+%Y
+eq-id	0	id	2	id
+##############
+%GID:68
+%LID#1#68-1-Matheran#5#5#14
+#Pattern
+v	0	8	ANY
+v	1	891	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	Girish_Karnad
+%Y
+eq-id	0	id	2	id
+##############
+%GID:146
+%LID#1#146-0-Adolfo_Alix,_Jr.#1#1#6
+#Pattern
+v	0	8	ANY
+v	1	145	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Makati
+%Y
+eq-id	0	id	2	id
+##############
+%GID:151
+%LID#1#151-1-Aizubange,_Fukushima#6#6#15
+#Pattern
+v	0	8	ANY
+v	1	382	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	0	Hiroshi_Takahashi_(artist)
+%Y
+eq-id	0	id	2	id
+##############
+%GID:156
+%LID#1#156-0-Donnie_Iris#7#7#15
+#Pattern
+v	0	8	ANY
+v	1	248	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Ellwood_City,_Pennsylvania
+%Y
+eq-id	0	id	2	id
+##############
+%GID:201
+%LID#1#201-0-Bruce_Hutchison#6#6#15
+#Pattern
+v	0	8	ANY
+v	1	351	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Prescott,_Ontario
+%Y
+eq-id	0	id	2	id
+##############
+%GID:214
+%LID#1#214-0-Meša_Selimović#5#5#13
+#Pattern
+v	0	8	ANY
+v	1	188	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Tuzla
+%Y
+eq-id	0	id	2	id
+##############
+%GID:255
+%LID#1#255-0-José_Guadalupe_Cruz_(writer)#7#7#15
+#Pattern
+v	0	8	ANY
+v	1	151	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Teocaltiche
+%Y
+eq-id	0	id	2	id
+##############
+%GID:380
+%LID#1#380-0-Guillermo_Cabrera_Infante#7#7#15
+#Pattern
+v	0	8	ANY
+v	1	910	ANY
+v	2	8	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	Gibara
+%Y
+eq-id	0	id	2	id
+##############
+%GID:464
+%LID#0#464-1-Yokohama#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	11	ANY
+v	2	132	ANY
+v	3	8	ANY
+e	0	39	2
+e	0	75	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:486
+%LID#0#486-0-Mihail_Sadoveanu#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	288	ANY
+v	3	8	ANY
+e	0	39	2
+e	0	65	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:498
+%LID#1#498-1-Narowal_District#3#3#15
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	1093	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+eq-let	1	Journalist
+%Y
+eq-id	0	id	3	id
+##############
+%GID:544
+%LID#1#544-1-Concord,_California#7#7#25
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	40	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+eq-let	1	Third_stream
+%Y
+eq-id	0	id	3	id
+##############
+%GID:593
+%LID#0#593-0-Joe_Cocker#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	261	ANY
+v	3	8	ANY
+e	0	39	2
+e	0	65	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:596
+%LID#1#596-1-Pinckney,_Michigan#3#3#25
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	65	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+eq-let	0	Glendon_Swarthout
+%Y
+eq-id	0	id	3	id
+##############
+%GID:691
+%LID#0#691-1-Harlem#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	128	ANY
+v	3	8	ANY
+e	0	39	2
+e	0	65	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:703
+%LID#1#703-1-West_Philadelphia#5#5#29
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	736	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+eq-let	1	Pop_music
+%Y
+eq-id	0	id	3	id
+##############
+%GID:705
+%LID#0#705-0-Brian_Connolly#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	412	ANY
+v	3	8	ANY
+e	0	39	2
+e	0	65	1
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:711
+%LID#0#711-1-La_Jolla#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	349	ANY
+v	3	349	ANY
+e	0	16	2
+e	1	39	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:717
+%LID#1#717-1-Quezon_City#5#5#15
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	145	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+eq-let	1	Rhythm_and_blues
+%Y
+eq-id	0	id	3	id
+##############
+%GID:774
+%LID#0#774-1-Parácuaro#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	2032	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:811
+%LID#0#811-1-Bogalusa,_Louisiana#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	1	ANY
+v	2	165	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:952
+%LID#1#952-2-Salsa_music#4#4#25
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	54	ANY
+v	3	8	ANY
+e	0	39	2
+e	0	65	1
+e	3	39	2
+#Condition
+%X
+eq-let	2	Fort_Lee,_New_Jersey
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1002
+%LID#1#1002-1-Newhall,_Santa_Clarita,_California#6#6#25
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	699	ANY
+v	3	8	ANY
+e	0	39	2
+e	0	65	1
+e	3	39	2
+#Condition
+%X
+eq-let	0	Gene_Vincent
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1046
+%LID#1#1046-2-Basharat_Peer__1#8#8#35
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	93	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+eq-let	0	Basharat_Peer
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1050
+%LID#0#1050-1-Delhi#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	445	ANY
+v	3	445	ANY
+e	0	16	2
+e	1	39	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:1092
+%LID#0#1092-0-Jose_Dalisay,_Jr.#0#0#3
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	583	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1112
+%LID#0#1112-1-Film#0#0#3
+#Pattern
+v	0	8	ANY
+v	1	8	ANY
+v	2	240	ANY
+v	3	240	ANY
+e	0	21	2
+e	1	65	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:1161
+%LID#0#1161-1-Čačak#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	11	ANY
+v	2	1027	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	75	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1169
+%LID#1#1169-1-Crawley#3#3#25
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	356	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+eq-let	0	Ms._Dynamite
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1189
+%LID#1#1189-2-Country_music#4#4#25
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	374	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	65	1
+e	3	16	2
+#Condition
+%X
+eq-let	0	Vanessa_Olivarez
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1198
+%LID#1#1198-2-Activism#3#3#29
+#Pattern
+v	0	8	ANY
+v	1	0	ANY
+v	2	387	ANY
+v	3	8	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+eq-let	2	Sighetu_Marmației
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1302
+%LID#0#1302-1-Kiev#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	612	ANY
+v	2	612	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	65	3
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1380
+%LID#1#1380-2-Rafael_Hernández_Marín#7#7#27
+#Pattern
+v	0	8	ANY
+v	1	614	ANY
+v	2	614	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	39	1
+e	4	39	2
+e	4	65	3
+#Condition
+%X
+eq-let	0	Noel_Estrada
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1465
+%LID#1#1465-0-Miljenko_Jergović#7#7#27
+#Pattern
+v	0	8	ANY
+v	1	188	ANY
+v	2	188	ANY
+v	3	2	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	16	3
+e	4	16	2
+#Condition
+%X
+eq-let	2	Socialist_Federal_Republic_of_Yugoslavia
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1674
+%LID#0#1674-1-La_Jolla#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	349	ANY
+v	2	349	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	65	3
+e	4	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1691
+%LID#1#1691-0-Roger_Whittaker#1#1#10
+#Pattern
+v	0	8	ANY
+v	1	595	ANY
+v	2	595	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	65	3
+e	4	16	2
+#Condition
+%X
+eq-let	3	Stella_Mwangi
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1710
+%LID#1#1710-2-Premendra_Mitra#4#4#25
+#Pattern
+v	0	8	ANY
+v	1	18	ANY
+v	2	18	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+eq-let	0	Kabir
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1804
+%LID#0#1804-2-Carole_Fredericks#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	65	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1995
+%LID#1#1995-0-Jim_Corbett#3#3#25
+#Pattern
+v	0	8	ANY
+v	1	891	ANY
+v	2	891	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+eq-let	3	Neelesh_Misra
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2035
+%LID#1#2035-0-David_S._Dorfman#2#2#27
+#Pattern
+v	0	8	ANY
+v	1	235	ANY
+v	2	235	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	2	Author
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2037
+%LID#0#2037-0-Jacques_Brel#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	8	ANY
+v	4	19	ANY
+e	0	16	1
+e	0	16	4
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2115
+%LID#1#2115-0-Rafael_Hernández_Marín#4#4#15
+#Pattern
+v	0	8	ANY
+v	1	614	ANY
+v	2	614	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	39	1
+e	0	65	3
+e	4	39	2
+#Condition
+%X
+eq-let	2	Music_of_Puerto_Rico
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2151
+%LID#1#2151-3-Pop_music#5#5#33
+#Pattern
+v	0	8	ANY
+v	1	595	ANY
+v	2	595	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	65	3
+#Condition
+%X
+eq-let	3	Roger_Whittaker
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2177
+%LID#1#2177-3-Sony_Music_Entertainment#7#7#27
+#Pattern
+v	0	8	ANY
+v	1	3	ANY
+v	2	3	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	65	1
+e	4	65	2
+e	4	75	3
+#Condition
+%X
+eq-let	3	Depapepe
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2213
+%LID#1#2213-3-MCA_Records#2#2#13
+#Pattern
+v	0	8	ANY
+v	1	3	ANY
+v	2	3	ANY
+v	3	13	ANY
+v	4	8	ANY
+e	0	65	1
+e	0	75	3
+e	4	65	2
+#Condition
+%X
+eq-let	3	Depapepe
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2553
+%LID#1#2553-3-Kingdom_of_Yugoslavia#8#8#34
+#Pattern
+v	0	8	ANY
+v	1	188	ANY
+v	2	188	ANY
+v	3	2	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	16	3
+#Condition
+%X
+eq-let	3	Momo_Kapor
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2710
+%LID#1#2710-0-Premendra_Mitra#3#3#25
+#Pattern
+v	0	8	ANY
+v	1	18	ANY
+v	2	18	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	2	Weaving
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2752
+%LID#1#2752-0-Jim_Corbett#3#3#25
+#Pattern
+v	0	8	ANY
+v	1	891	ANY
+v	2	891	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	3	Neelesh_Misra
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2993
+%LID#1#2993-0-David_S._Dorfman#2#2#14
+#Pattern
+v	0	8	ANY
+v	1	235	ANY
+v	2	235	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+eq-let	2	David_S._Dorfman__1
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3099
+%LID#1#3099-0-Elena_Risteska#7#7#25
+#Pattern
+v	0	8	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	65	3
+e	4	16	2
+#Condition
+%X
+eq-let	3	Risto_Apostolov
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3197
+%LID#0#3197-0-Carole_Fredericks#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	65	3
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3428
+%LID#1#3428-0-Premendra_Mitra#4#4#14
+#Pattern
+v	0	8	ANY
+v	1	18	ANY
+v	2	18	ANY
+v	3	8	ANY
+v	4	0	ANY
+e	0	16	1
+e	0	21	4
+e	3	39	2
+#Condition
+%X
+eq-let	3	Bengali_novels
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3442
+%LID#1#3442-0-Ivan_Kušan#3#3#15
+#Pattern
+v	0	8	ANY
+v	1	188	ANY
+v	2	188	ANY
+v	3	2	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	39	3
+e	4	16	2
+#Condition
+%X
+eq-let	2	Croatia
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3550
+%LID#1#3550-3-Contemporary_R&B#2#2#15
+#Pattern
+v	0	8	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	65	3
+#Condition
+%X
+eq-let	0	Risto_Apostolov
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3563
+%LID#0#3563-1-Kiev#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	612	ANY
+v	2	612	ANY
+v	3	1	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	65	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4069
+%LID#1#4069-4-Fantasy#7#7#25
+#Pattern
+v	0	8	ANY
+v	1	114	ANY
+v	2	114	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	39	1
+e	0	65	3
+e	0	65	5
+e	4	39	2
+#Condition
+%X
+eq-let	2	Christian_apologetics
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4177
+%LID#1#4177-3-Screenwriting#3#3#14
+#Pattern
+v	0	8	ANY
+v	1	235	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	4	16	1
+e	4	21	2
+e	5	65	3
+#Condition
+%X
+eq-let	4	Aaron_McGruder
+%Y
+eq-id	2	id	3	id
+##############
+%GID:4214
+%LID#0#4214-0-Hardev_Dilgir#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	1472	ANY
+v	2	1472	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	39	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4405
+%LID#0#4405-4-GRP_Records#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	3
+e	0	75	5
+e	4	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4486
+%LID#1#4486-4-Audio_mixing_(recorded_music)#1#1#15
+#Pattern
+v	0	8	ANY
+v	1	288	ANY
+v	2	8	ANY
+v	3	13	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	21	3
+e	2	21	4
+e	2	21	5
+#Condition
+%X
+eq-let	2	Juan_Croucier
+%Y
+eq-id	3	id	4	id
+##############
+%GID:4726
+%LID#0#4726-0-Dr._Seuss#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	19	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	39	3
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4747
+%LID#0#4747-0-Jacques_Brel#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	8	ANY
+v	4	19	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	16	4
+e	0	65	5
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4750
+%LID#0#4750-0-Dr._Seuss#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	39	3
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4849
+%LID#1#4849-3-Melle_Mel#5#5#15
+#Pattern
+v	0	8	ANY
+v	1	53	ANY
+v	2	8	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	21	3
+e	2	65	4
+e	2	65	5
+#Condition
+%X
+eq-let	4	Hardcore_hip_hop
+%Y
+eq-id	3	id	4	id
+##############
+%GID:5185
+%LID#1#5185-3-Pakistan#0#0#15
+#Pattern
+v	0	8	ANY
+v	1	1093	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	19	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	16	4
+e	0	39	2
+e	5	39	3
+#Condition
+%X
+eq-let	4	Chaudry_Mohammad_Aslam
+%Y
+eq-id	2	id	3	id
+##############
+%GID:5325
+%LID#0#5325-3-Cartoonist#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5445
+%LID#1#5445-4-Pakistan#4#4#25
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	2	ANY
+e	0	16	1
+e	4	16	2
+e	4	39	3
+e	4	39	5
+#Condition
+%X
+eq-let	2	Punjab,_Pakistan
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5517
+%LID#1#5517-4-Hard_rock#2#2#14
+#Pattern
+v	0	8	ANY
+v	1	349	ANY
+v	2	349	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	3
+e	0	65	5
+e	4	39	2
+#Condition
+%X
+eq-let	2	Glam_metal
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5548
+%LID#1#5548-3-Screenwriting#4#4#14
+#Pattern
+v	0	8	ANY
+v	1	235	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	2
+e	4	16	1
+e	5	65	3
+#Condition
+%X
+eq-let	4	Aaron_McGruder
+%Y
+eq-id	2	id	3	id
+##############
+%GID:5713
+%LID#0#5713-0-Big_Joe_Turner#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	438	ANY
+v	2	438	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	75	5
+e	4	39	2
+e	4	65	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5874
+%LID#0#5874-1-Jamaica,_Queens#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	8	ANY
+v	4	13	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	21	4
+e	0	65	5
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5881
+%LID#1#5881-2-Screenwriting#2#2#15
+#Pattern
+v	0	8	ANY
+v	1	235	ANY
+v	2	7	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	2
+e	5	65	4
+#Condition
+%X
+eq-let	4	Andrew_Neiderman
+%Y
+eq-id	3	id	4	id
+##############
+%GID:5910
+%LID#0#5910-0-Dr._Seuss#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	349	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	39	3
+e	4	16	2
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5923
+%LID#1#5923-3-Pakistan#0#0#15
+#Pattern
+v	0	8	ANY
+v	1	1472	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	16	4
+e	0	39	2
+e	5	39	3
+#Condition
+%X
+eq-let	4	Chaudry_Mohammad_Aslam
+%Y
+eq-id	2	id	3	id
+##############
+%GID:5943
+%LID#1#5943-4-Manu_Rishi__1#4#4#25
+#Pattern
+v	0	8	ANY
+v	1	456	ANY
+v	2	456	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	4	16	2
+#Condition
+%X
+eq-let	2	Actor
+%Y
+eq-id	1	id	2	id
+##############
+%GID:6043
+%LID#1#6043-3-Pakistan#0#0#15
+#Pattern
+v	0	8	ANY
+v	1	1472	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	4	16	1
+e	4	39	2
+e	5	39	3
+#Condition
+%X
+eq-let	4	Chaudry_Mohammad_Aslam
+%Y
+eq-id	2	id	3	id
+##############
+%GID:6065
+%LID#1#6065-2-New_Orleans_rhythm_and_blues#2#2#25
+#Pattern
+v	0	8	ANY
+v	1	165	ANY
+v	2	8	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	11	ANY
+e	0	16	1
+e	0	65	3
+e	2	65	4
+e	2	75	5
+#Condition
+%X
+eq-let	4	Reprise_Records
+%Y
+eq-id	3	id	4	id
+##############
+%GID:6203
+%LID#1#6203-0-Elena_Risteska#8#8#29
+#Pattern
+v	0	8	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	3
+e	0	65	5
+e	4	39	2
+#Condition
+%X
+eq-let	4	Contemporary_R&B
+%Y
+eq-id	1	id	2	id
+##############
+%GID:6341
+%LID#0#6341-2-Dr._Seuss#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	39	3
+e	0	65	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:6342
+%LID#0#6342-2-Artist#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	8	ANY
+v	4	0	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	21	4
+e	0	65	5
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:6469
+%LID#1#6469-3-Barclay_Records#8#8#12
+#Pattern
+v	0	8	ANY
+v	1	1489	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	65	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+eq-let	4	Charles_Aznavour
+%Y
+eq-id	2	id	3	id
+##############
+%GID:6783
+%LID#0#6783-4-French_pop_music#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	4	16	2
+e	4	65	3
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:6980
+%LID#1#6980-3-Pakistan#0#0#15
+#Pattern
+v	0	8	ANY
+v	1	1472	ANY
+v	2	2	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	39	2
+e	4	16	1
+e	5	39	3
+#Condition
+%X
+eq-let	4	Chaudry_Mohammad_Aslam
+%Y
+eq-id	2	id	3	id
+##############
+%GID:6995
+%LID#1#6995-3-Manu_Rishi__1#2#2#16
+#Pattern
+v	0	8	ANY
+v	1	456	ANY
+v	2	456	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	4	21	5
+#Condition
+%X
+eq-let	4	Actor
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7123
+%LID#1#7123-4-Punjab,_Pakistan#6#6#15
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	2	ANY
+e	0	16	1
+e	0	39	3
+e	0	39	5
+e	4	16	2
+#Condition
+%X
+eq-let	2	Pakistan
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7159
+%LID#0#7159-2-Risto_Apostolov#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	13	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7242
+%LID#0#7242-4-Barclay_Records#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	8	ANY
+v	4	19	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	16	4
+e	0	75	5
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7253
+%LID#1#7253-2-Kingdom_of_Yugoslavia#4#4#27
+#Pattern
+v	0	8	ANY
+v	1	188	ANY
+v	2	188	ANY
+v	3	8	ANY
+v	4	2	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	16	4
+e	3	39	2
+e	5	39	4
+#Condition
+%X
+eq-let	0	Ivan_Kušan
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7331
+%LID#1#7331-3-Criticism#5#5#15
+#Pattern
+v	0	8	ANY
+v	1	1015	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	2	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	16	4
+e	0	65	2
+e	5	65	3
+#Condition
+%X
+eq-let	4	John_Scalzi
+%Y
+eq-id	2	id	3	id
+##############
+%GID:7381
+%LID#1#7381-2-Elizabeth_Meriwether#7#7#27
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	2	Elizabeth_Meriwether__1
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7382
+%LID#1#7382-0-Dara_Maclean#0#0#25
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	4	Contemporary_Christian_music
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7503
+%LID#1#7503-4-Fantasy#7#7#25
+#Pattern
+v	0	8	ANY
+v	1	114	ANY
+v	2	114	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	39	1
+e	4	39	2
+e	4	65	3
+e	4	65	5
+#Condition
+%X
+eq-let	2	Christian_apologetics
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7554
+%LID#0#7554-2-Carole_Fredericks#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	19	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	39	3
+e	4	16	2
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:7696
+%LID#1#7696-3-Sketch_story#2#2#12
+#Pattern
+v	0	8	ANY
+v	1	288	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	2	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	39	4
+e	0	65	2
+e	5	65	3
+#Condition
+%X
+eq-let	4	Mihail_Sadoveanu
+%Y
+eq-id	2	id	3	id
+##############
+%GID:7994
+%LID#0#7994-2-Artist#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	8	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	4
+e	3	21	4
+e	5	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8223
+%LID#1#8223-3-My_Boy_Lollipop#1#1#13
+#Pattern
+v	0	8	ANY
+v	1	374	ANY
+v	2	8	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	11	ANY
+e	0	16	1
+e	0	75	3
+e	2	75	4
+e	2	75	5
+#Condition
+%X
+eq-let	4	Fontana_Records
+%Y
+eq-id	3	id	4	id
+##############
+%GID:8224
+%LID#0#8224-2-Belgium#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	11	ANY
+v	4	2	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	16	4
+e	0	39	3
+e	5	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8319
+%LID#0#8319-1-La_Jolla#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	349	ANY
+v	2	349	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	3
+e	0	65	5
+e	4	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8471
+%LID#0#8471-1-Punjab,_India#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	39	3
+e	4	16	2
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8612
+%LID#1#8612-2-Sony_Music_Latin#7#7#29
+#Pattern
+v	0	8	ANY
+v	1	54	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	11	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+eq-let	4	Héctor_Lavoe
+%Y
+eq-id	2	id	3	id
+##############
+%GID:8615
+%LID#1#8615-2-Dara_Maclean#0#0#33
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+e	4	65	5
+#Condition
+%X
+eq-let	4	Contemporary_Christian_music
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8689
+%LID#0#8689-1-Delhi#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	445	ANY
+v	2	445	ANY
+v	3	8	ANY
+v	4	13	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	4
+e	3	39	2
+e	5	65	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8741
+%LID#1#8741-3-Johnny_Smith#7#7#15
+#Pattern
+v	0	8	ANY
+v	1	128	ANY
+v	2	8	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	13	ANY
+e	0	39	1
+e	0	75	3
+e	2	75	4
+e	2	75	5
+#Condition
+%X
+eq-let	4	Columbia_Records
+%Y
+eq-id	3	id	4	id
+##############
+%GID:8829
+%LID#0#8829-0-Saadat_Hasan_Manto#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1472	ANY
+v	2	1472	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	39	3
+e	4	16	2
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:8999
+%LID#0#8999-1-Delhi#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	445	ANY
+v	2	445	ANY
+v	3	8	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	4
+e	3	39	2
+e	5	65	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9168
+%LID#0#9168-2-Dr._Seuss#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	19	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	39	3
+e	0	65	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9360
+%LID#1#9360-3-Harold_Rome#3#3#14
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	19	ANY
+v	4	19	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+e	2	21	5
+#Condition
+%X
+eq-let	4	Harold_Rome__1
+%Y
+eq-id	3	id	4	id
+##############
+%GID:9548
+%LID#0#9548-1-Punjab,_India#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	2	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	39	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9560
+%LID#1#9560-4-San_Juan,_Puerto_Rico#3#3#15
+#Pattern
+v	0	8	ANY
+v	1	1178	ANY
+v	2	8	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	614	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+e	2	16	5
+#Condition
+%X
+eq-let	2	Daddy_Yankee
+%Y
+eq-id	3	id	4	id
+##############
+%GID:9627
+%LID#1#9627-3-Daddy_Yankee#0#0#14
+#Pattern
+v	0	8	ANY
+v	1	6	ANY
+v	2	8	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	11	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	4
+e	2	75	5
+#Condition
+%X
+eq-let	4	Machete_Music
+%Y
+eq-id	3	id	4	id
+##############
+%GID:9654
+%LID#1#9654-3-Criticism#5#5#15
+#Pattern
+v	0	8	ANY
+v	1	1015	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1476	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	16	4
+e	0	65	2
+e	5	65	3
+#Condition
+%X
+eq-let	4	John_Scalzi
+%Y
+eq-id	2	id	3	id
+##############
+%GID:9716
+%LID#1#9716-4-Bhangra_(music)#7#7#27
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	3
+e	0	65	5
+e	4	16	2
+#Condition
+%X
+eq-let	2	Folk_music_of_Punjab
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9793
+%LID#0#9793-3-Jay_McShann#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	438	ANY
+v	2	438	ANY
+v	3	8	ANY
+v	4	0	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	4
+e	3	39	2
+e	3	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9872
+%LID#0#9872-3-Cartoonist#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9949
+%LID#1#9949-4-Folk_music_of_Punjab#6#6#25
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	4	16	2
+e	4	65	3
+e	4	65	5
+#Condition
+%X
+eq-let	2	Bhangra_(music)
+%Y
+eq-id	1	id	2	id
+##############
+%GID:10096
+%LID#1#10096-0-Saadat_Hasan_Manto#2#2#11
+#Pattern
+v	0	8	ANY
+v	1	1472	ANY
+v	2	8	ANY
+v	3	93	ANY
+v	4	93	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+e	2	65	5
+#Condition
+%X
+eq-let	1	Ludhiana_district
+%Y
+eq-id	3	id	4	id
+##############
+%GID:10168
+%LID#0#10168-4-French_pop_music#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	65	3
+e	0	65	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:10195
+%LID#0#10195-1-Skopje#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	8	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:10241
+%LID#0#10241-1-Skopje#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	13	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:10250
+%LID#1#10250-3-Suspense#8#8#25
+#Pattern
+v	0	8	ANY
+v	1	1476	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	65	4
+e	0	65	2
+e	5	65	3
+#Condition
+%X
+eq-let	4	Felix_Thijssen
+%Y
+eq-id	2	id	3	id
+##############
+%GID:10251
+%LID#1#10251-3-Fania_Records#4#4#15
+#Pattern
+v	0	8	ANY
+v	1	54	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	1	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+eq-let	4	Ray_Barretto
+%Y
+eq-id	2	id	3	id
+##############
+%GID:10428
+%LID#0#10428-0-Carole_Fredericks#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	19	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	39	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:10564
+%LID#0#10564-2-Dr._Seuss#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	86	ANY
+v	3	349	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	65	5
+e	4	16	2
+e	4	39	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:10719
+%LID#1#10719-2-Barclay_Records#3#3#25
+#Pattern
+v	0	8	ANY
+v	1	1489	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+eq-let	4	ABBA
+%Y
+eq-id	2	id	3	id
+##############
+%GID:10899
+%LID#0#10899-2-Risto_Apostolov#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	8	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:10972
+%LID#1#10972-3-Daddy_Yankee#0#0#14
+#Pattern
+v	0	8	ANY
+v	1	1178	ANY
+v	2	8	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+e	2	21	5
+#Condition
+%X
+eq-let	4	Actor
+%Y
+eq-id	3	id	4	id

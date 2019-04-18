@@ -1,0 +1,68 @@
+##########
+%GID:21
+%LID#1#21-1-MGM_Distribution#3#3#14
+#Pattern
+v	0	62	ANY
+v	1	183	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	name	The_Pilgrim_(Owen_Campbell_album)
+%Y
+eq-id	0	id	2	id
+##########
+%GID:28
+%LID#1#28-1-Sesame_Workshop#5#5#14
+#Pattern
+v	0	62	ANY
+v	1	137	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	name	Aren't_You_Glad_You're_You%3F
+%Y
+eq-id	0	id	2	id
+##########
+%GID:33
+%LID#0#33-1-J_Storm#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	2375	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:70
+%LID#1#70-1-Syco#7#7#13
+#Pattern
+v	0	62	ANY
+v	1	234	ANY
+v	2	62	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+eq-let	0	name	Avatar:_Music_from_the_Motion_Picture
+%Y
+eq-id	0	id	2	id
+##########
+%GID:80
+%LID#0#80-1-Showtunes#0#0#3
+#Pattern
+v	0	62	ANY
+v	1	217	ANY
+v	2	62	ANY
+e	0	65	1
+e	2	65	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

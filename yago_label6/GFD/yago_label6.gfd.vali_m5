@@ -1,0 +1,12 @@
+##############
+%GID:6
+%LID#1#6-0-<Ghent>#5#5#15
+#Pattern
+v	0	6	ANY
+v	1	0	ANY
+e	0	17	1
+#Condition
+%X
+eq-let	1	<Battle_of_Roosebeke>
+%Y
+eq-let	0	<Ghent>

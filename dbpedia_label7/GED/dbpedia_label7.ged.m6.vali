@@ -1,0 +1,570 @@
+##############
+%GID:160
+%LID#1#160-0-Robert_Altman#8#8#15
+#Pattern
+v	0	7	ANY
+v	1	40	ANY
+v	2	7	ANY
+e	0	39	1
+e	2	39	1
+#Condition
+%X
+eq-let	1	West_Hollywood,_California
+%Y
+eq-id	0	id	2	id
+##############
+%GID:344
+%LID#0#344-1-Miami#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	58	ANY
+v	3	58	ANY
+e	0	16	2
+e	1	16	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:359
+%LID#0#359-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	675	ANY
+v	3	675	ANY
+e	0	16	2
+e	1	16	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:377
+%LID#0#377-1-Isfahan#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1487	ANY
+v	3	1487	ANY
+e	0	16	2
+e	1	20	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:443
+%LID#0#443-1-Fenyang#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	15	ANY
+v	2	267	ANY
+v	3	7	ANY
+e	0	16	2
+e	0	20	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:515
+%LID#0#515-1-Zagreb#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	264	ANY
+v	3	264	ANY
+e	0	39	2
+e	1	39	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:584
+%LID#0#584-1-Washington,_D.C.#0#0#7
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	23	ANY
+v	3	23	ANY
+e	0	16	2
+e	1	16	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:783
+%LID#0#783-1-Isfahan#0#0#3
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1487	ANY
+v	3	1487	ANY
+e	0	16	2
+e	1	16	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:833
+%LID#0#833-1-Delhi#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	445	ANY
+v	3	445	ANY
+e	0	16	2
+e	1	16	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:846
+%LID#0#846-0-Roman_Kroitor#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	470	ANY
+v	3	7	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##############
+%GID:1064
+%LID#0#1064-1-Washington,_D.C.#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	23	ANY
+v	2	23	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1275
+%LID#1#1275-2-Vladan_Slijepčević#7#7#37
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+eq-let	2	Vladan_Slijepčević__1
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1574
+%LID#1#1574-0-Vladan_Slijepčević#1#1#15
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+eq-let	3	Milcho_Manchevski
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1702
+%LID#0#1702-2-R._Sarathkumar#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	445	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2082
+%LID#0#2082-1-Delhi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	445	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2570
+%LID#0#2570-4-Tolomush_Okeyev#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	4
+e	0	21	3
+e	5	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2919
+%LID#0#2919-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2935
+%LID#0#2935-2-Girish_Kasaravalli#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	862	ANY
+v	2	862	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3023
+%LID#0#3023-2-Vijay_Anand_(Hindi_film_maker)#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	1653	ANY
+v	3	2	ANY
+v	4	7	ANY
+v	5	15	ANY
+e	0	16	1
+e	4	16	2
+e	4	16	3
+e	4	20	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3178
+%LID#0#3178-0-Vijay_Anand_(Hindi_film_maker)#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	1653	ANY
+v	3	2	ANY
+v	4	7	ANY
+v	5	15	ANY
+e	0	16	1
+e	0	16	3
+e	0	20	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3229
+%LID#0#3229-0-Dev_Anand#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	1653	ANY
+v	3	15	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	5
+e	4	16	2
+e	4	20	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3668
+%LID#0#3668-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	15	ANY
+v	4	7	ANY
+v	5	19	ANY
+e	0	16	1
+e	0	20	3
+e	4	16	2
+e	4	39	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3855
+%LID#0#3855-2-Parviz_Shahbazi#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	1487	ANY
+v	3	15	ANY
+v	4	7	ANY
+v	5	15	ANY
+e	0	20	1
+e	4	20	2
+e	4	20	3
+e	4	20	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3970
+%LID#0#3970-1-Isfahan#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	1487	ANY
+v	3	15	ANY
+v	4	7	ANY
+v	5	8	ANY
+e	0	16	1
+e	4	20	2
+e	4	20	3
+e	4	21	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4154
+%LID#0#4154-0-P._Ramlee#0#0#8
+#Pattern
+v	0	7	ANY
+v	1	494	ANY
+v	2	494	ANY
+v	3	8	ANY
+v	4	7	ANY
+v	5	7	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	5	21	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4203
+%LID#0#4203-2-R._Sarathkumar#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	445	ANY
+v	3	456	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	16	3
+e	4	21	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4349
+%LID#0#4349-1-Delhi#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	445	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4386
+%LID#0#4386-0-Dev_Anand#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	1653	ANY
+v	2	1653	ANY
+v	3	15	ANY
+v	4	7	ANY
+v	5	15	ANY
+e	0	16	1
+e	4	16	2
+e	4	20	3
+e	4	20	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4425
+%LID#0#4425-1-Haryana#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	7	ANY
+v	4	19	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	39	4
+e	3	39	4
+e	5	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4789
+%LID#0#4789-1-Ankara#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4984
+%LID#0#4984-1-Miami#0#0#5
+#Pattern
+v	0	7	ANY
+v	1	58	ANY
+v	2	58	ANY
+v	3	7	ANY
+e	0	16	1
+e	3	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5008
+%LID#0#5008-4-Raadhika_Sarathkumar#0#0#4
+#Pattern
+v	0	7	ANY
+v	1	445	ANY
+v	2	445	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	13	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	4	22	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5512
+%LID#0#5512-2-Sudeep#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	862	ANY
+v	2	862	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	4	21	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5541
+%LID#0#5541-2-Can_Dündar#0#0#2
+#Pattern
+v	0	7	ANY
+v	1	51	ANY
+v	2	51	ANY
+v	3	0	ANY
+v	4	7	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	4	21	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5691
+%LID#0#5691-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	675	ANY
+v	3	15	ANY
+v	4	7	ANY
+v	5	19	ANY
+e	0	16	1
+e	0	39	5
+e	4	16	2
+e	4	20	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

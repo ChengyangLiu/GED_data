@@ -1,0 +1,26 @@
+##############
+%GID:23
+%LID#0#23-1-<Buenos_Aires>#0#0#3
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	0	2
+#Condition
+%X
+%Y
+eq-let	2	<Buenos_Aires>
+##############
+%GID:74
+%LID#0#74-1-<Buenos_Aires>#0#0#4
+#Pattern
+v	0	1	ANY
+v	1	6	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Buenos_Aires>

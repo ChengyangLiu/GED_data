@@ -1,0 +1,15 @@
+##############
+%GID:61
+%LID#1#61-1-<Louisville,_Kentucky>#10#10#35
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	14	2
+e	1	14	3
+#Condition
+%X
+eq-let	1	<William_Girdler>
+%Y
+eq-id	0	id	2	id

@@ -1,0 +1,86 @@
+##############
+%GID:12
+%LID#0#12-2-<Ørland_Main_Air_Station>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	6	ANY
+e	0	0	2
+e	1	18	2
+#Condition
+%X
+%Y
+eq-let	1	<Ørland_Main_Air_Station>
+##############
+%GID:13
+%LID#0#13-1-<Abilene>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	14	ANY
+e	0	0	2
+e	1	18	2
+#Condition
+%X
+%Y
+eq-let	2	<Abilene>
+##############
+%GID:39
+%LID#0#39-3-<http://www.dfwairport.com/>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	10	ANY
+v	3	14	ANY
+e	0	18	1
+e	1	6	2
+e	3	18	0
+#Condition
+%X
+%Y
+eq-let	2	<http://www.dfwairport.com/>
+##############
+%GID:42
+%LID#0#42-3-<http://www.dfwairport.com/>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	10	ANY
+v	3	14	ANY
+e	0	18	1
+e	1	18	3
+e	3	6	2
+#Condition
+%X
+%Y
+eq-let	2	<http://www.dfwairport.com/>
+##############
+%GID:49
+%LID#0#49-3-<Le_Touquet_–_Côte_d'Opale_Airport>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	1	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	18	3
+e	3	18	0
+#Condition
+%X
+%Y
+eq-let	2	<Le_Touquet_–_Côte_d'Opale_Airport>
+##############
+%GID:57
+%LID#0#57-0-<Cerro_Moreno_International_Airport>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	6	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	0	1
+e	2	18	3
+e	3	18	0
+#Condition
+%X
+%Y
+eq-let	0	<Cerro_Moreno_International_Airport>

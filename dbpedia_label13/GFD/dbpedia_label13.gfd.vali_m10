@@ -1,0 +1,513 @@
+##############
+%GID:244
+%LID#0#244-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	171	ANY
+e	0	74	2
+e	1	74	2
+#Condition
+%X
+%Y
+eq-let	2	Brussels
+##############
+%GID:840
+%LID#0#840-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	2
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Brussels
+##############
+%GID:986
+%LID#0#986-0-American_Music_Club#0#0#9
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	American_Music_Club
+##############
+%GID:1361
+%LID#0#1361-2-Telex_(band)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-let	3	Telex_(band)
+##############
+%GID:1487
+%LID#0#1487-0-Telex_(band)#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Telex_(band)
+##############
+%GID:1564
+%LID#0#1564-1-San_Francisco_Bay_Area#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	899	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	1	San_Francisco_Bay_Area
+##############
+%GID:2093
+%LID#0#2093-0-Genghis_Tron#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	386	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	Genghis_Tron
+##############
+%GID:2133
+%LID#0#2133-0-American_Music_Club#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	0	American_Music_Club
+##############
+%GID:2390
+%LID#0#2390-0-Jimi_Hendrix#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Jimi_Hendrix
+##############
+%GID:2427
+%LID#0#2427-1-Taiwanese_pop#0#0#8
+#Pattern
+v	0	13	ANY
+v	1	15	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	65	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	1	Taiwanese_pop
+##############
+%GID:2570
+%LID#0#2570-2-Victor_Entertainment#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	59	ANY
+v	2	32	ANY
+v	3	32	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	3	Victor_Entertainment
+##############
+%GID:2775
+%LID#0#2775-0-Rheostatics#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Rheostatics
+##############
+%GID:2881
+%LID#0#2881-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	65	3
+e	2	65	3
+e	4	65	3
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##############
+%GID:2921
+%LID#0#2921-3-Sixstepsrecords#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	109	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	2	Sixstepsrecords
+##############
+%GID:3007
+%LID#0#3007-0-Keith_Sweat#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	0	Keith_Sweat
+##############
+%GID:3030
+%LID#0#3030-1-Rome#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	0	75	2
+e	0	75	4
+e	3	74	1
+#Condition
+%X
+%Y
+eq-let	1	Rome
+##############
+%GID:3087
+%LID#0#3087-2-Jovanotti#0#0#8
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	3	Jovanotti
+##############
+%GID:3305
+%LID#0#3305-1-Band_of_Gypsys#0#0#7
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	11	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys
+##############
+%GID:3312
+%LID#0#3312-1-Band_of_Gypsys#0#0#7
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	11	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys
+##############
+%GID:3475
+%LID#0#3475-1-Band_of_Gypsys#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys
+##############
+%GID:3476
+%LID#0#3476-1-Band_of_Gypsys#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys
+##############
+%GID:3573
+%LID#0#3573-3-Sixstepsrecords#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	73	ANY
+v	2	11	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	75	3
+e	0	75	2
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	2	Sixstepsrecords
+##############
+%GID:3633
+%LID#0#3633-0-American_Music_Club#0#0#8
+#Pattern
+v	0	13	ANY
+v	1	53	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	American_Music_Club
+##############
+%GID:3717
+%LID#0#3717-3-True_North_Records#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	2	True_North_Records
+##############
+%GID:3912
+%LID#0#3912-2-Warner_Music_Canada#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	470	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	2	75	3
+e	4	75	3
+#Condition
+%X
+%Y
+eq-let	3	Warner_Music_Canada
+##############
+%GID:4050
+%LID#0#4050-3-True_North_Records#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	574	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	2	True_North_Records
+##############
+%GID:4596
+%LID#0#4596-1-Mel_Lewis_Orchestra#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	0	65	2
+e	0	65	4
+#Condition
+%X
+%Y
+eq-let	1	Mel_Lewis_Orchestra
+##############
+%GID:4672
+%LID#0#4672-1-Harlem#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	11	ANY
+v	3	13	ANY
+v	4	11	ANY
+e	0	74	1
+e	3	74	1
+e	3	75	2
+e	3	75	4
+#Condition
+%X
+%Y
+eq-let	1	Harlem
+##############
+%GID:4714
+%LID#0#4714-1-Band_of_Gypsys#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	11	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys
+##############
+%GID:4715
+%LID#0#4715-1-Band_of_Gypsys#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	11	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys
+##############
+%GID:5314
+%LID#0#5314-1-Band_of_Gypsys#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	388	ANY
+v	2	13	ANY
+v	3	0	ANY
+v	4	13	ANY
+e	0	110	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	1	Band_of_Gypsys

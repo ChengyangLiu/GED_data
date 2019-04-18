@@ -1,0 +1,142 @@
+##############
+%GID:1351
+%LID#0#1351-1-Mexico_City#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	71	ANY
+v	2	71	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4474
+%LID#0#4474-0-Jacques_Brel#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	8	ANY
+v	4	19	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	16	4
+e	0	75	5
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5110
+%LID#0#5110-1-Brussels#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	8	ANY
+v	4	11	ANY
+v	5	2	ANY
+e	0	16	1
+e	0	39	4
+e	0	39	5
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:5441
+%LID#0#5441-2-James_P._Johnson#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	65	3
+e	0	75	5
+e	4	39	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:6419
+%LID#0#6419-1-Mexico_City#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	71	ANY
+v	2	71	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9001
+%LID#1#9001-2-Northeast_Harbor,_Maine#2#2#25
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	11	ANY
+v	4	11	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	39	4
+e	0	39	3
+e	5	39	2
+#Condition
+%X
+eq-let	2	Mount_Desert_Island
+%Y
+eq-id	1	id	2	id
+##############
+%GID:9825
+%LID#0#9825-1-La_Jolla#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	349	ANY
+v	2	349	ANY
+v	3	8	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	4
+e	3	39	2
+e	5	65	4
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:10393
+%LID#1#10393-4-Paulina_Rubio__1#1#1#8
+#Pattern
+v	0	8	ANY
+v	1	71	ANY
+v	2	71	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	4	16	2
+#Condition
+%X
+eq-let	2	Television
+%Y
+eq-id	1	id	2	id

@@ -1,0 +1,14 @@
+##############
+%GID:332
+%LID#0#332-1-Premier_League#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	0	ANY
+v	3	0	ANY
+e	0	107	2
+e	1	107	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

@@ -1,0 +1,11 @@
+##############
+%GID:20
+%LID#0#20-1-CBS#0#0#5
+#Pattern
+v	0	62	ANY
+v	1	184	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	CBS

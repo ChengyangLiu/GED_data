@@ -1,0 +1,126 @@
+##########
+%GID:4
+%LID#0#4-1-Film#0#0#5
+#Pattern
+v	0	7	ANY
+v	1	240	ANY
+v	2	7	ANY
+e	0	21	1
+e	2	21	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:58
+%LID#1#58-0-Michael_Moore#3#3#14
+#Pattern
+v	0	7	ANY
+v	1	122	ANY
+v	2	7	ANY
+e	0	16	1
+e	2	16	1
+#Condition
+%X
+eq-let	1	name	Flint,_Michigan
+%Y
+eq-id	0	id	2	id
+##########
+%GID:662
+%LID#1#662-0-Louis_Le_Prince#4#4#15
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	276	ANY
+v	3	7	ANY
+e	0	16	2
+e	0	21	1
+e	3	16	2
+#Condition
+%X
+eq-let	1	name	Filmmaking
+%Y
+eq-id	0	id	3	id
+##########
+%GID:1187
+%LID#0#1187-1-Lahore#0#0#1
+#Pattern
+v	0	7	ANY
+v	1	245	ANY
+v	2	7	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	16	1
+e	0	20	3
+e	2	20	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:1567
+%LID#1#1567-0-Bahman_Farmanara#6#6#33
+#Pattern
+v	0	7	ANY
+v	1	1487	ANY
+v	2	1487	ANY
+v	3	0	ANY
+v	4	7	ANY
+e	0	16	1
+e	0	21	3
+e	4	20	2
+#Condition
+%X
+eq-let	2	name	Film_director
+%Y
+eq-id	1	2
+##########
+%GID:2183
+%LID#0#2183-0-Mauro_Mueller#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	142	ANY
+v	2	7	ANY
+v	3	2	ANY
+v	4	2	ANY
+e	0	16	1
+e	0	16	3
+e	2	16	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:2373
+%LID#0#2373-2-Cannes_Film_Festival#0#0#6
+#Pattern
+v	0	7	ANY
+v	1	291	ANY
+v	2	7	ANY
+v	3	15	ANY
+v	4	15	ANY
+e	0	16	1
+e	0	20	3
+e	2	20	4
+#Condition
+%X
+%Y
+eq-id	3	0
+##########
+%GID:3884
+%LID#0#3884-1-Skopje#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	675	ANY
+v	2	19	ANY
+v	3	19	ANY
+v	4	0	ANY
+v	5	7	ANY
+e	0	16	1
+e	0	21	4
+e	0	39	2
+e	5	39	3
+#Condition
+%X
+%Y
+eq-id	2	3

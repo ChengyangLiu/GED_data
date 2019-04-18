@@ -1,0 +1,34 @@
+##############
+%GID:10
+%LID#1#10-1-<Nazi_Germany>#3#3#29
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	24	1
+#Condition
+%X
+eq-let	0	<Second_Czechoslovak_Republic>
+%Y
+eq-let	1	<Nazi_Germany>
+##############
+%GID:11
+%LID#0#11-0-<Cambodia>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+e	0	34	1
+#Condition
+%X
+%Y
+eq-let	0	<Cambodia>
+##############
+%GID:12
+%LID#0#12-1-<Nagasaki_Baseball_Stadium>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+e	0	12	1
+#Condition
+%X
+%Y
+eq-let	1	<Nagasaki_Baseball_Stadium>

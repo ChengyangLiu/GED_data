@@ -1,0 +1,39 @@
+##############
+%GID:25
+%LID#0#25-2-<Germany>#0#0#4
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Germany>
+##############
+%GID:28
+%LID#0#28-1-<Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	1	0	0
+#Condition
+%X
+%Y
+eq-let	2	<Germany>
+##############
+%GID:49
+%LID#0#49-1-<Germany>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	1
+e	2	0	0
+#Condition
+%X
+%Y
+eq-let	1	<Germany>

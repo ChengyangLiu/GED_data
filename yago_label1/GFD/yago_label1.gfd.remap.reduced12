@@ -1,0 +1,40 @@
+%GID:38
+%LID#0#38-1-<Greater_Poland>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	0	ANY
+e	0	0	2
+e	1	0	0
+#Condition
+%X
+%Y
+eq-let	2	<Greater_Poland>
+##########
+%GID:39
+%LID#0#39-1-<Djibouti>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	24	2
+e	1	24	0
+#Condition
+%X
+%Y
+eq-let	2	<Djibouti>
+##########
+%GID:40
+%LID#1#40-1-<Indian_Rebellion_of_1857>#43#43#198
+#Pattern
+v	0	1	ANY
+v	1	0	ANY
+v	2	1	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	<Bhopal_State>
+%Y
+eq-let	1	<Indian_Rebellion_of_1857>
+##########

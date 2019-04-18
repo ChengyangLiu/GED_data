@@ -1,0 +1,258 @@
+##############
+%GID:107
+%LID#0#107-1-Batticaloa_District#0#0#0
+#Pattern
+v	0	5	ANY
+v	1	5	ANY
+v	2	963	ANY
+e	0	93	2
+e	1	93	2
+#Condition
+%X
+%Y
+eq-let	2	Batticaloa_District
+##############
+%GID:135
+%LID#0#135-1-City_council#0#0#2
+#Pattern
+v	0	5	ANY
+v	1	5	ANY
+v	2	11	ANY
+e	0	30	2
+e	1	30	2
+#Condition
+%X
+%Y
+eq-let	2	City_council
+##############
+%GID:151
+%LID#0#151-1-Besisahar#0#0#0
+#Pattern
+v	0	5	ANY
+v	1	5	ANY
+v	2	5	ANY
+e	0	30	2
+e	1	30	2
+#Condition
+%X
+%Y
+eq-let	2	Besisahar
+##############
+%GID:210
+%LID#1#210-3-Wisconsin#6#6#35
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	19	ANY
+v	3	5	ANY
+e	0	30	1
+e	3	30	1
+e	3	93	2
+#Condition
+%X
+eq-let	3	Seymour,_Wisconsin
+%Y
+eq-let	2	Wisconsin
+##############
+%GID:234
+%LID#1#234-0-Khanqah_Sharif#9#9#33
+#Pattern
+v	0	5	ANY
+v	1	1093	ANY
+v	2	5	ANY
+v	3	2	ANY
+e	0	93	1
+e	0	93	3
+e	2	93	3
+#Condition
+%X
+eq-let	1	Bahawalpur_District
+%Y
+eq-let	0	Khanqah_Sharif
+##############
+%GID:243
+%LID#1#243-0-Kattankudy#2#2#25
+#Pattern
+v	0	5	ANY
+v	1	2517	ANY
+v	2	5	ANY
+v	3	962	ANY
+e	0	30	1
+e	0	93	3
+e	2	93	3
+#Condition
+%X
+eq-let	1	Kattankudi_Urban_Council
+%Y
+eq-let	0	Kattankudy
+##############
+%GID:260
+%LID#1#260-0-Post_Falls,_Idaho#3#3#15
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	19	ANY
+v	3	5	ANY
+e	0	30	1
+e	0	93	2
+e	3	30	1
+#Condition
+%X
+eq-let	2	Idaho
+%Y
+eq-let	0	Post_Falls,_Idaho
+##############
+%GID:268
+%LID#0#268-1-City_council#0#0#2
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	5	ANY
+v	3	5	ANY
+e	0	30	1
+e	2	90	1
+e	3	30	1
+#Condition
+%X
+%Y
+eq-let	1	City_council
+##############
+%GID:309
+%LID#1#309-0-Kattankudy#2#2#25
+#Pattern
+v	0	5	ANY
+v	1	1900	ANY
+v	2	5	ANY
+v	3	962	ANY
+e	0	93	1
+e	0	93	3
+e	2	93	3
+#Condition
+%X
+eq-let	1	Kattankudy_Divisional_Secretariat
+%Y
+eq-let	0	Kattankudy
+##############
+%GID:330
+%LID#0#330-1-City_council#0#0#0
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	5	ANY
+v	3	5	ANY
+e	0	30	1
+e	2	30	1
+e	3	30	1
+#Condition
+%X
+%Y
+eq-let	1	City_council
+##############
+%GID:460
+%LID#1#460-4-Oklahoma#5#5#8
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	5	ANY
+v	3	5	ANY
+v	4	19	ANY
+e	0	30	1
+e	2	90	1
+e	3	30	1
+e	3	93	4
+#Condition
+%X
+eq-let	3	Sand_Springs,_Oklahoma
+%Y
+eq-let	4	Oklahoma
+##############
+%GID:468
+%LID#0#468-1-City_council#0#0#2
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	5	ANY
+v	3	5	ANY
+v	4	11	ANY
+e	0	30	1
+e	2	90	1
+e	2	93	4
+e	3	30	1
+#Condition
+%X
+%Y
+eq-let	1	City_council
+##############
+%GID:479
+%LID#0#479-1-City_council#0#0#2
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	5	ANY
+v	3	5	ANY
+v	4	19	ANY
+e	0	30	1
+e	2	90	1
+e	2	93	4
+e	3	30	1
+#Condition
+%X
+%Y
+eq-let	1	City_council
+##############
+%GID:503
+%LID#0#503-1-Batticaloa_District#0#0#0
+#Pattern
+v	0	5	ANY
+v	1	963	ANY
+v	2	5	ANY
+e	0	93	1
+e	2	93	1
+#Condition
+%X
+%Y
+eq-let	1	Batticaloa_District
+##############
+%GID:554
+%LID#0#554-1-City_council#0#0#3
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	5	ANY
+e	0	30	1
+e	2	30	1
+#Condition
+%X
+%Y
+eq-let	1	City_council
+##############
+%GID:578
+%LID#1#578-3-Sand_Springs,_Oklahoma#6#6#33
+#Pattern
+v	0	5	ANY
+v	1	11	ANY
+v	2	5	ANY
+v	3	5	ANY
+v	4	19	ANY
+e	0	30	1
+e	2	30	1
+e	2	93	4
+e	3	30	1
+#Condition
+%X
+eq-let	4	Oklahoma
+%Y
+eq-let	2	Sand_Springs,_Oklahoma
+##############
+%GID:615
+%LID#0#615-1-Besisahar#0#0#0
+#Pattern
+v	0	5	ANY
+v	1	5	ANY
+v	2	5	ANY
+e	0	30	1
+e	2	30	1
+#Condition
+%X
+%Y
+eq-let	1	Besisahar

@@ -1,0 +1,539 @@
+##########
+%GID:1351
+%LID#0#1351-1-Mexico_City#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	71	ANY
+v	2	71	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	21	3
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:3909
+%LID#0#3909-0-Percy_Mayfield#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	165	ANY
+v	2	8	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	11	ANY
+e	0	16	1
+e	0	21	3
+e	0	75	5
+e	2	65	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:4351
+%LID#0#4351-1-Fort_Lee,_New_Jersey#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	54	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	65	3
+e	0	65	2
+e	5	65	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:4474
+%LID#0#4474-0-Jacques_Brel#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	8	ANY
+v	4	19	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	16	4
+e	0	75	5
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:4688
+%LID#0#4688-0-Bora_Đorđević#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	1027	ANY
+v	2	8	ANY
+v	3	11	ANY
+v	4	11	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	16	3
+e	0	65	5
+e	2	39	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:5110
+%LID#0#5110-1-Brussels#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	8	ANY
+v	4	11	ANY
+v	5	2	ANY
+e	0	16	1
+e	0	39	4
+e	0	39	5
+e	3	39	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:5120
+%LID#0#5120-1-Punjab,_India#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	2
+e	4	16	1
+e	5	65	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:5441
+%LID#0#5441-2-James_P._Johnson#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	65	3
+e	0	75	5
+e	4	39	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:6032
+%LID#0#6032-0-Nelson_DeMille#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	13	ANY
+e	0	16	1
+e	4	16	2
+e	4	65	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:6419
+%LID#0#6419-1-Mexico_City#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	71	ANY
+v	2	71	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:6475
+%LID#0#6475-3-French_pop_music#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	86	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	65	4
+e	0	65	2
+e	5	65	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:6573
+%LID#0#6573-1-Punjab,_India#0#0#1
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	4	65	5
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:6949
+%LID#0#6949-1-Sarajevo#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	188	ANY
+v	2	188	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	4	16	2
+e	4	21	3
+e	4	21	5
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:7229
+%LID#1#7229-3-Country_music#4#4#27
+#Pattern
+v	0	8	ANY
+v	1	374	ANY
+v	2	0	ANY
+v	3	8	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	3
+e	0	65	2
+e	5	65	4
+#Condition
+%X
+eq-let	0	name	Vanessa_Olivarez
+%Y
+eq-id	3	4
+##########
+%GID:7502
+%LID#0#7502-2-Bolero#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	54	ANY
+v	2	8	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	1	ANY
+e	0	39	1
+e	0	65	3
+e	0	65	5
+e	2	65	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:7677
+%LID#0#7677-1-Punjab,_India#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	93	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	21	3
+e	0	65	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:7831
+%LID#0#7831-0-Celia_Cruz#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	54	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	8	ANY
+e	0	39	1
+e	0	65	4
+e	0	65	2
+e	5	65	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:7923
+%LID#0#7923-1-Zeeland#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	50	ANY
+v	2	8	ANY
+v	3	49	ANY
+v	4	49	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	39	3
+e	0	65	5
+e	2	39	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:8004
+%LID#0#8004-0-Miljenko_Jergović#0#0#7
+#Pattern
+v	0	8	ANY
+v	1	188	ANY
+v	2	188	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:8045
+%LID#0#8045-1-South_Philadelphia#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	736	ANY
+v	2	8	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	75	5
+e	2	65	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:8079
+%LID#0#8079-1-Punjab,_India#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	93	ANY
+v	2	8	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	1	ANY
+e	0	16	1
+e	0	21	3
+e	0	65	5
+e	2	65	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:8103
+%LID#0#8103-2-Artist#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	8	ANY
+v	3	0	ANY
+v	4	0	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	75	5
+e	2	21	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:8703
+%LID#0#8703-1-Nairobi#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	595	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	4	16	1
+e	4	21	2
+e	5	65	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:9001
+%LID#1#9001-2-Northeast_Harbor,_Maine#2#2#25
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	11	ANY
+v	4	11	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	39	4
+e	0	39	3
+e	5	39	2
+#Condition
+%X
+eq-let	2	name	Mount_Desert_Island
+%Y
+eq-id	1	2
+##########
+%GID:9307
+%LID#0#9307-0-Roger_Whittaker#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	595	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	2
+e	4	16	1
+e	5	65	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:9350
+%LID#0#9350-0-Buddy_Holly#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	102	ANY
+v	2	8	ANY
+v	3	2	ANY
+v	4	2	ANY
+v	5	0	ANY
+e	0	39	1
+e	0	39	3
+e	0	65	5
+e	2	39	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:9825
+%LID#0#9825-1-La_Jolla#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	349	ANY
+v	2	349	ANY
+v	3	8	ANY
+v	4	0	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	21	4
+e	3	39	2
+e	5	65	4
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:9964
+%LID#0#9964-3-Ghazal#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	1093	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	2	ANY
+v	5	8	ANY
+e	0	16	1
+e	0	16	4
+e	0	65	2
+e	5	65	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:10026
+%LID#0#10026-1-Jamaica,_Queens#0#0#3
+#Pattern
+v	0	8	ANY
+v	1	384	ANY
+v	2	384	ANY
+v	3	1	ANY
+v	4	8	ANY
+v	5	13	ANY
+e	0	16	1
+e	0	65	3
+e	0	75	5
+e	4	16	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:10393
+%LID#1#10393-4-Paulina_Rubio__1#1#1#8
+#Pattern
+v	0	8	ANY
+v	1	71	ANY
+v	2	71	ANY
+v	3	0	ANY
+v	4	8	ANY
+v	5	0	ANY
+e	0	16	1
+e	0	21	3
+e	0	21	5
+e	4	16	2
+#Condition
+%X
+eq-let	2	name	Television
+%Y
+eq-id	1	2

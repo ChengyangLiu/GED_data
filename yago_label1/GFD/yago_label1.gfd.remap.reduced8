@@ -1,0 +1,40 @@
+%GID:25
+%LID#0#25-2-<Germany>#0#0#4
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	0	2
+e	2	0	1
+#Condition
+%X
+%Y
+eq-let	1	<Germany>
+##########
+%GID:26
+%LID#0#26-1-<Somalia>#0#0#0
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	1	ANY
+e	0	24	2
+e	2	24	1
+#Condition
+%X
+%Y
+eq-let	2	<Somalia>
+##########
+%GID:27
+%LID#1#27-1-<Soviet_ruble>#53#53#297
+#Pattern
+v	0	1	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	33	2
+e	1	33	2
+#Condition
+%X
+eq-let	1	<Lithuanian_Soviet_Socialist_Republic>
+%Y
+eq-let	2	<Soviet_ruble>
+##########

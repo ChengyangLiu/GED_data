@@ -1,0 +1,104 @@
+##############
+%GID:803
+%LID#1#803-2-Keith_Sweat#9#9#35
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	128	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+eq-let	2	Rhino_Entertainment
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1470
+%LID#1#1470-0-Jovanotti#6#6#33
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+#Condition
+%X
+eq-let	2	Verve_Records
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1523
+%LID#1#1523-0-Keith_Sweat#2#2#29
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	128	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+#Condition
+%X
+eq-let	2	Atco_Records
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1837
+%LID#1#1837-2-Jovanotti#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+eq-let	0	Oöphoi
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4713
+%LID#0#4713-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	2	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4854
+%LID#0#4854-2-Telex_(band)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	2	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	74	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

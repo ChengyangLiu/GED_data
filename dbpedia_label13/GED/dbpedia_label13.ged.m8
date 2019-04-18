@@ -1,0 +1,197 @@
+##########
+%GID:101
+%LID#0#101-1-Seoul#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	562	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:194
+%LID#0#194-1-Halifax,_Nova_Scotia#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	266	ANY
+v	2	13	ANY
+e	0	74	1
+e	2	74	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:199
+%LID#0#199-1-MGM_Distribution#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	183	ANY
+v	2	13	ANY
+e	0	75	1
+e	2	75	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:803
+%LID#1#803-2-Keith_Sweat#9#9#35
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	128	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+eq-let	2	name	Rhino_Entertainment
+%Y
+eq-id	1	2
+##########
+%GID:1470
+%LID#1#1470-0-Jovanotti#6#6#33
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+#Condition
+%X
+eq-let	2	name	Verve_Records
+%Y
+eq-id	1	2
+##########
+%GID:1523
+%LID#1#1523-0-Keith_Sweat#2#2#29
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	128	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	0	75	3
+e	4	74	2
+#Condition
+%X
+eq-let	2	name	Atco_Records
+%Y
+eq-id	1	2
+##########
+%GID:1837
+%LID#1#1837-2-Jovanotti#9#9#33
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+eq-let	0	name	Oöphoi
+%Y
+eq-id	1	2
+##########
+%GID:2031
+%LID#0#2031-0-Don_Ross_(guitarist)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	266	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	2
+e	5	75	4
+#Condition
+%X
+%Y
+eq-id	3	4
+##########
+%GID:3108
+%LID#0#3108-3-True_North_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	433	ANY
+v	2	13	ANY
+v	3	13	ANY
+v	4	11	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:4302
+%LID#0#4302-0-Don_Ross_(guitarist)#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	266	ANY
+v	2	1	ANY
+v	3	1	ANY
+v	4	1	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	75	4
+e	0	75	2
+e	5	75	3
+#Condition
+%X
+%Y
+eq-id	2	3
+##########
+%GID:4713
+%LID#0#4713-1-Brussels#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	2	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	0	74	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	2
+##########
+%GID:4854
+%LID#0#4854-2-Telex_(band)#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	171	ANY
+v	2	171	ANY
+v	3	2	ANY
+v	4	13	ANY
+v	5	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	74	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	2

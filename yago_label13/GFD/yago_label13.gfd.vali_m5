@@ -1,0 +1,69 @@
+##############
+%GID:28
+%LID#1#28-1-<Kings_XI_Punjab>#2#2#15
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	0	<Preity_Zinta>
+%Y
+eq-let	1	<Kings_XI_Punjab>
+##############
+%GID:123
+%LID#0#123-1-<Pasadena,_California>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	0	ANY
+e	0	14	2
+e	1	27	2
+#Condition
+%X
+%Y
+eq-let	2	<Pasadena,_California>
+##############
+%GID:130
+%LID#1#130-1-<Jaclyn_Smith>#11#11#33
+#Pattern
+v	0	13	ANY
+v	1	6	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	14	1
+#Condition
+%X
+eq-let	1	<Houston>
+%Y
+eq-let	2	<Jaclyn_Smith>
+##############
+%GID:203
+%LID#0#203-1-<Pasadena,_California>#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	13	ANY
+v	3	13	ANY
+e	0	14	1
+e	2	3	1
+e	3	27	1
+#Condition
+%X
+%Y
+eq-let	1	<Pasadena,_California>
+##############
+%GID:247
+%LID#0#247-2-<United_Kingdom>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	10	1
+e	1	25	3
+e	2	25	3
+#Condition
+%X
+%Y
+eq-let	3	<United_Kingdom>

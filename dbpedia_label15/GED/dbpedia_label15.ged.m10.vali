@@ -1,0 +1,14 @@
+##############
+%GID:93
+%LID#0#93-1-New_York_City#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	20	ANY
+v	3	20	ANY
+e	0	44	2
+e	1	44	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id

@@ -1,0 +1,86 @@
+##########
+%GID:4
+%LID#1#4-1-<Headquarters_of_the_United_Nations>#3#3#33
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+eq-let	0	name	<United_Nations>
+%Y
+eq-id	0	id	2	id
+##########
+%GID:8
+%LID#1#8-0-<Turriff_United_F.C.>#5#5#99
+#Pattern
+v	0	11	ANY
+v	1	0	ANY
+v	2	11	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+eq-let	1	name	<The_Haughs>
+%Y
+eq-id	0	id	2	id
+##########
+%GID:10
+%LID#1#10-1-<CapExBio>#18#18#66
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	11	ANY
+e	0	5	1
+e	2	5	1
+#Condition
+%X
+eq-let	0	name	<Station_biologique_de_Roscoff>
+%Y
+eq-id	0	id	2	id
+##########
+%GID:11
+%LID#1#11-1-<Battle_of_Cuito_Cuanavale>#29#29#66
+#Pattern
+v	0	11	ANY
+v	1	0	ANY
+v	2	11	ANY
+e	0	17	1
+e	2	17	1
+#Condition
+%X
+eq-let	0	name	<MPLA>
+%Y
+eq-id	0	id	2	id
+##########
+%GID:17
+%LID#1#17-1-<Platine_War>#33#33#70
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+v	2	9	ANY
+v	3	9	ANY
+e	0	17	2
+e	1	17	3
+#Condition
+%X
+eq-let	1	name	<Brazilian_Army>
+%Y
+eq-id	2	0
+##########
+%GID:18
+%LID#1#18-1-<Operation_Mountain_Thrust>#11#11#132
+#Pattern
+v	0	11	ANY
+v	1	9	ANY
+v	2	9	ANY
+v	3	11	ANY
+e	0	17	1
+e	3	17	2
+#Condition
+%X
+eq-let	0	name	<Canadian_Army>
+%Y
+eq-id	1	2

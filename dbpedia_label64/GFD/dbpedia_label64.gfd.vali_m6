@@ -1,0 +1,386 @@
+##############
+%GID:7
+%LID#1#7-1-Oxford#1#1#15
+#Pattern
+v	0	64	ANY
+v	1	114	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Oxford_University_A.F.C.
+%Y
+eq-let	1	Oxford
+##############
+%GID:10
+%LID#1#10-0-Vegpro_F.C.#9#9#15
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	1	Naivasha
+%Y
+eq-let	0	Vegpro_F.C.
+##############
+%GID:23
+%LID#1#23-1-KwaZulu–Natal#1#1#14
+#Pattern
+v	0	64	ANY
+v	1	401	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Sobantu_Shooting_Stars
+%Y
+eq-let	1	KwaZulu–Natal
+##############
+%GID:29
+%LID#0#29-1-Funafuti#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	483	ANY
+e	0	195	1
+#Condition
+%X
+%Y
+eq-let	1	Funafuti
+##############
+%GID:157
+%LID#1#157-1-Trabzon#2#2#15
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+e	0	195	1
+#Condition
+%X
+eq-let	0	Sürmenespor
+%Y
+eq-let	1	Trabzon
+##############
+%GID:218
+%LID#0#218-1-Bangkok#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	712	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Bangkok
+##############
+%GID:244
+%LID#0#244-1-Caracas#0#0#5
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	751	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Caracas
+##############
+%GID:280
+%LID#0#280-1-Pyongyang#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	591	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Pyongyang
+##############
+%GID:335
+%LID#0#335-1-Trabzon#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	309	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Trabzon
+##############
+%GID:382
+%LID#0#382-1-Nairobi#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	64	ANY
+v	2	595	ANY
+e	0	195	2
+e	1	195	2
+#Condition
+%X
+%Y
+eq-let	2	Nairobi
+##############
+%GID:427
+%LID#0#427-2-2014_Swedish_Football_Division_1#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	3524	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014_Swedish_Football_Division_1
+##############
+%GID:429
+%LID#1#429-3-2011_DPR_Korea_League#8#8#39
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	0	198	2
+e	3	195	1
+#Condition
+%X
+eq-let	0	April_25_Sports_Club
+%Y
+eq-let	2	2011_DPR_Korea_League
+##############
+%GID:447
+%LID#0#447-0-Nimba_FC#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1813	ANY
+v	2	64	ANY
+v	3	2	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+#Condition
+%X
+%Y
+eq-let	0	Nimba_FC
+##############
+%GID:499
+%LID#0#499-2-2014_PDL_season#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	433	ANY
+v	2	64	ANY
+v	3	1	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014_PDL_season
+##############
+%GID:642
+%LID#1#642-3-2011_DPR_Korea_League#8#8#37
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	1	ANY
+v	3	64	ANY
+e	0	195	1
+e	3	195	1
+e	3	198	2
+#Condition
+%X
+eq-let	3	April_25_Sports_Club
+%Y
+eq-let	2	2011_DPR_Korea_League
+##############
+%GID:760
+%LID#0#760-1-Banovići#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	1973	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	1	Banovići
+##############
+%GID:792
+%LID#0#792-1-Pyongyang#0#0#8
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Pyongyang
+##############
+%GID:823
+%LID#0#823-2-2014–15_SVB_Hoofdklasse#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	1223	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	3	2014–15_SVB_Hoofdklasse
+##############
+%GID:848
+%LID#0#848-1-San_Diego#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	107	ANY
+v	2	64	ANY
+v	3	11	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	195	3
+e	2	195	3
+e	4	195	3
+#Condition
+%X
+%Y
+eq-let	1	San_Diego
+##############
+%GID:894
+%LID#0#894-1-Premier_League#0#0#2
+#Pattern
+v	0	64	ANY
+v	1	0	ANY
+v	2	218	ANY
+v	3	64	ANY
+v	4	64	ANY
+e	0	107	1
+e	3	107	1
+e	3	195	2
+e	4	195	2
+#Condition
+%X
+%Y
+eq-let	1	Premier_League
+##############
+%GID:942
+%LID#1#942-4-2007_DPR_Korea_League_season#6#6#35
+#Pattern
+v	0	64	ANY
+v	1	591	ANY
+v	2	64	ANY
+v	3	64	ANY
+v	4	1	ANY
+e	0	195	1
+e	2	195	1
+e	2	198	4
+e	3	195	1
+#Condition
+%X
+eq-let	2	Amnokgang_Sports_Club
+%Y
+eq-let	4	2007_DPR_Korea_League_season
+##############
+%GID:1095
+%LID#0#1095-1-Trabzon#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	309	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Trabzon
+##############
+%GID:1102
+%LID#0#1102-2-Duncan_Wilde#0#0#0
+#Pattern
+v	0	64	ANY
+v	1	433	ANY
+v	2	1	ANY
+v	3	9	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	197	3
+e	0	198	2
+e	4	198	2
+#Condition
+%X
+%Y
+eq-let	3	Duncan_Wilde
+##############
+%GID:1108
+%LID#0#1108-1-Caracas#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	751	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Caracas
+##############
+%GID:1116
+%LID#0#1116-1-Bangkok#0#0#6
+#Pattern
+v	0	64	ANY
+v	1	712	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Bangkok
+##############
+%GID:1138
+%LID#0#1138-0-Ottawa_Fury_(2005–13)#0#0#4
+#Pattern
+v	0	64	ANY
+v	1	16	ANY
+v	2	64	ANY
+v	3	1	ANY
+v	4	64	ANY
+e	0	195	1
+e	0	198	3
+e	2	198	3
+e	4	198	3
+#Condition
+%X
+%Y
+eq-let	0	Ottawa_Fury_(2005–13)
+##############
+%GID:1206
+%LID#0#1206-1-Nairobi#0#0#8
+#Pattern
+v	0	64	ANY
+v	1	595	ANY
+v	2	64	ANY
+e	0	195	1
+e	2	195	1
+#Condition
+%X
+%Y
+eq-let	1	Nairobi

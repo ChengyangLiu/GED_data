@@ -1,0 +1,40 @@
+##############
+%GID:14
+%LID#1#14-0-<Botswana_Defence_Force>#2#2#6
+#Pattern
+v	0	11	ANY
+v	1	14	ANY
+e	0	12	1
+#Condition
+%X
+eq-let	1	<Francistown_Airport>
+%Y
+eq-let	0	<Botswana_Defence_Force>
+##############
+%GID:16
+%LID#1#16-0-<Institute_of_Problems_of_Chemical_Physics>#2#2#6
+#Pattern
+v	0	11	ANY
+v	1	11	ANY
+v	2	10	ANY
+e	0	6	2
+e	1	6	2
+#Condition
+%X
+eq-let	1	<Russian_Academy_of_Sciences>
+%Y
+eq-let	0	<Institute_of_Problems_of_Chemical_Physics>
+##############
+%GID:20
+%LID#1#20-0-<Institute_of_Problems_of_Chemical_Physics>#2#2#6
+#Pattern
+v	0	11	ANY
+v	1	10	ANY
+v	2	11	ANY
+e	0	6	1
+e	2	6	1
+#Condition
+%X
+eq-let	2	<Russian_Academy_of_Sciences>
+%Y
+eq-let	0	<Institute_of_Problems_of_Chemical_Physics>

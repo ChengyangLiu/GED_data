@@ -1,0 +1,175 @@
+##########
+%GID:3
+%LID#0#3-0-<Laurence_Trimble>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	9	ANY
+v	2	7	ANY
+e	0	12	1
+e	2	12	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:8
+%LID#0#8-1-<Hikaru_Utada>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+e	0	10	1
+e	2	10	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:17
+%LID#0#17-0-<Herbert_L._Strock>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	7	ANY
+e	0	22	1
+e	2	22	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:21
+%LID#0#21-1-<Conservative_Alliance_of_Zimbabwe>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	0	ANY
+v	2	7	ANY
+e	0	7	1
+e	2	7	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:30
+%LID#0#30-0-<Jai_Prakash>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	11	ANY
+v	2	7	ANY
+e	0	26	1
+e	2	26	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:31
+%LID#0#31-1-<Mumbai>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	14	ANY
+v	2	7	ANY
+e	0	26	1
+e	2	26	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:38
+%LID#0#38-1-<John_Preskill>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	2	ANY
+v	2	7	ANY
+e	0	30	1
+e	2	30	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:42
+%LID#0#42-1-<Quezon_City>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	11	ANY
+v	2	7	ANY
+e	0	3	1
+e	2	3	1
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##########
+%GID:50
+%LID#0#50-0-<Robert_Parrish>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	8	ANY
+v	3	8	ANY
+e	0	22	2
+e	1	5	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:56
+%LID#0#56-1-<Mumbai>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	14	ANY
+v	3	14	ANY
+e	0	26	2
+e	1	3	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:66
+%LID#0#66-2-<Lino_Brocka>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	11	ANY
+v	3	11	ANY
+e	0	14	2
+e	1	3	3
+#Condition
+%X
+%Y
+eq-id	2	0
+##########
+%GID:69
+%LID#0#69-0-<Katsuhiro_Otomo>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	8	ANY
+v	2	7	ANY
+v	3	7	ANY
+e	0	11	2
+e	2	5	1
+e	3	11	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id
+##########
+%GID:73
+%LID#0#73-0-<Frank_Hanly>#0#0#0
+#Pattern
+v	0	7	ANY
+v	1	7	ANY
+v	2	1	ANY
+v	3	1	ANY
+e	0	20	2
+e	1	26	3
+#Condition
+%X
+%Y
+eq-id	2	0

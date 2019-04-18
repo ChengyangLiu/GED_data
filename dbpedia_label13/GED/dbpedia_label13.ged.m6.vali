@@ -1,0 +1,246 @@
+##############
+%GID:447
+%LID#0#447-1-ArtistShare#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	722	ANY
+v	3	722	ANY
+e	0	75	2
+e	1	75	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:557
+%LID#0#557-1-CBS#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	184	ANY
+v	3	184	ANY
+e	0	75	2
+e	1	75	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:562
+%LID#0#562-1-Lancaster,_Pennsylvania#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	727	ANY
+v	3	727	ANY
+e	0	74	2
+e	1	74	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:578
+%LID#0#578-1-Madison,_Wisconsin#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	391	ANY
+v	3	391	ANY
+e	0	74	2
+e	1	74	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:650
+%LID#0#650-1-Rome#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	77	ANY
+v	3	77	ANY
+e	0	74	2
+e	1	74	3
+#Condition
+%X
+%Y
+eq-id	0	id	2	id
+##############
+%GID:1262
+%LID#1#1262-2-Keith_Sweat#9#9#29
+#Pattern
+v	0	13	ANY
+v	1	128	ANY
+v	2	128	ANY
+v	3	1	ANY
+v	4	13	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+#Condition
+%X
+eq-let	2	Kedar_Records
+%Y
+eq-id	1	id	2	id
+##############
+%GID:1570
+%LID#1#1570-2-Latin_jazz#2#2#14
+#Pattern
+v	0	13	ANY
+v	1	542	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	1	ANY
+e	0	109	1
+e	0	65	3
+e	2	65	4
+#Condition
+%X
+eq-let	2	Magos_Herrera
+%Y
+eq-id	0	id	3	id
+##############
+%GID:2772
+%LID#0#2772-4-Mercury_Records#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	9	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:2962
+%LID#0#2962-1-Rome#0#0#0
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	63	ANY
+e	0	74	1
+e	4	74	2
+e	4	75	3
+e	4	75	5
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3080
+%LID#0#3080-1-Rome#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	63	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3290
+%LID#0#3290-1-Rome#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	11	ANY
+v	4	13	ANY
+v	5	9	ANY
+e	0	74	1
+e	0	75	3
+e	0	75	5
+e	4	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3478
+%LID#0#3478-1-Lancaster,_Pennsylvania#0#0#3
+#Pattern
+v	0	13	ANY
+v	1	727	ANY
+v	2	727	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3533
+%LID#0#3533-1-Rome#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	77	ANY
+v	2	77	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:3538
+%LID#0#3538-1-ArtistShare#0#0#2
+#Pattern
+v	0	13	ANY
+v	1	722	ANY
+v	2	722	ANY
+v	3	13	ANY
+e	0	75	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4409
+%LID#0#4409-1-Madison,_Wisconsin#0#0#1
+#Pattern
+v	0	13	ANY
+v	1	391	ANY
+v	2	391	ANY
+v	3	13	ANY
+e	0	74	1
+e	3	74	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id
+##############
+%GID:4902
+%LID#0#4902-1-CBS#0#0#5
+#Pattern
+v	0	13	ANY
+v	1	184	ANY
+v	2	184	ANY
+v	3	13	ANY
+e	0	75	1
+e	3	75	2
+#Condition
+%X
+%Y
+eq-id	1	id	2	id

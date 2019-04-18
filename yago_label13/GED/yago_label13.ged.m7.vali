@@ -1,0 +1,56 @@
+##############
+%GID:8
+%LID#1#8-1-<Quezon_City>#3#3#25
+#Pattern
+v	0	13	ANY
+v	1	11	ANY
+v	2	13	ANY
+e	0	27	1
+e	2	27	1
+#Condition
+%X
+eq-let	0	<Anjo_Yllana>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:17
+%LID#1#17-0-<Clive_Dunn>#2#2#25
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+v	2	13	ANY
+e	0	19	1
+e	2	19	1
+#Condition
+%X
+eq-let	1	<Italia_Conti_Academy_of_Theatre_Arts>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:42
+%LID#1#42-0-<Thea_Gill>#13#13#25
+#Pattern
+v	0	13	ANY
+v	1	11	ANY
+v	2	13	ANY
+e	0	19	1
+e	2	19	1
+#Condition
+%X
+eq-let	1	<York_University>
+%Y
+eq-id	0	id	2	id
+##############
+%GID:46
+%LID#1#46-0-<Julie_Fulton>#3#3#25
+#Pattern
+v	0	13	ANY
+v	1	4	ANY
+v	2	13	ANY
+e	0	10	1
+e	2	10	1
+#Condition
+%X
+eq-let	1	<Henry_McLeish>
+%Y
+eq-id	0	id	2	id

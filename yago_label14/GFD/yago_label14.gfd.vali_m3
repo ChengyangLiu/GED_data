@@ -1,0 +1,27 @@
+##############
+%GID:15
+%LID#1#15-1-<Pyongyang_Sunan_International_Airport>#5#5#14
+#Pattern
+v	0	14	ANY
+v	1	6	ANY
+v	2	14	ANY
+e	0	18	2
+e	2	18	1
+#Condition
+%X
+eq-let	0	<Sinuiju_Airport>
+%Y
+eq-let	2	<Pyongyang_Sunan_International_Airport>
+##############
+%GID:19
+%LID#0#19-2-<http://www.dfwairport.com/>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	10	ANY
+v	2	14	ANY
+e	0	18	2
+e	2	6	1
+#Condition
+%X
+%Y
+eq-let	1	<http://www.dfwairport.com/>

@@ -1,0 +1,339 @@
+##############
+%GID:225
+%LID#0#225-1-Brussels#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	171	ANY
+e	0	16	1
+#Condition
+%X
+%Y
+eq-let	1	Brussels
+##############
+%GID:373
+%LID#0#373-1-Avex_Group#0#0#3
+#Pattern
+v	0	8	ANY
+v	1	666	ANY
+e	0	75	1
+#Condition
+%X
+%Y
+eq-let	1	Avex_Group
+##############
+%GID:1511
+%LID#1#1511-3-Fervent_Records#8#8#33
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	11	ANY
+v	3	8	ANY
+e	0	16	1
+e	3	16	1
+e	3	75	2
+#Condition
+%X
+eq-let	3	Dara_Maclean
+%Y
+eq-let	2	Fervent_Records
+##############
+%GID:2409
+%LID#1#2409-0-Dara_Maclean#3#3#37
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	11	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	75	2
+e	3	39	1
+#Condition
+%X
+eq-let	2	Fervent_Records
+%Y
+eq-let	0	Dara_Maclean
+##############
+%GID:2534
+%LID#1#2534-3-Pop_music#2#2#33
+#Pattern
+v	0	8	ANY
+v	1	356	ANY
+v	2	0	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	65	2
+e	3	39	1
+#Condition
+%X
+eq-let	0	Kashy_Keegan
+%Y
+eq-let	2	Pop_music
+##############
+%GID:3279
+%LID#1#3279-0-Jessica_Sutta#6#6#29
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	11	ANY
+v	3	8	ANY
+e	0	16	1
+e	0	75	2
+e	3	16	1
+#Condition
+%X
+eq-let	2	A&M_Records
+%Y
+eq-let	0	Jessica_Sutta
+##############
+%GID:3681
+%LID#0#3681-0-Dave_Brubeck#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	40	ANY
+v	2	13	ANY
+v	3	1	ANY
+e	0	16	1
+e	0	65	3
+e	0	75	2
+#Condition
+%X
+%Y
+eq-let	0	Dave_Brubeck
+##############
+%GID:3925
+%LID#0#3925-3-Sarcasm#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1485	ANY
+v	2	0	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	65	3
+e	0	65	2
+e	4	65	3
+#Condition
+%X
+%Y
+eq-let	2	Sarcasm
+##############
+%GID:5522
+%LID#0#5522-0-Gene_Pitney#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	13	ANY
+v	2	8	ANY
+v	3	19	ANY
+v	4	0	ANY
+e	0	16	1
+e	0	16	3
+e	0	65	4
+e	2	16	3
+#Condition
+%X
+%Y
+eq-let	0	Gene_Pitney
+##############
+%GID:6284
+%LID#0#6284-0-Dara_Maclean#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	13	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	21	2
+e	3	16	1
+e	4	39	1
+#Condition
+%X
+%Y
+eq-let	0	Dara_Maclean
+##############
+%GID:6925
+%LID#0#6925-1-Harlem#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	128	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	39	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	1	Harlem
+##############
+%GID:7035
+%LID#0#7035-2-Dara_Maclean#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	58	ANY
+v	2	13	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	16	1
+e	3	16	1
+e	3	21	2
+e	4	39	1
+#Condition
+%X
+%Y
+eq-let	3	Dara_Maclean
+##############
+%GID:7713
+%LID#0#7713-0-Dave_Brubeck#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	40	ANY
+v	2	1	ANY
+v	3	5	ANY
+v	4	13	ANY
+e	0	16	1
+e	0	39	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	0	Dave_Brubeck
+##############
+%GID:8266
+%LID#0#8266-1-Jerusalem#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	104	ANY
+v	2	2	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	16	2
+e	3	16	1
+e	4	16	2
+#Condition
+%X
+%Y
+eq-let	1	Jerusalem
+##############
+%GID:8359
+%LID#0#8359-4-Concord_Bicycle_Music#0#0#0
+#Pattern
+v	0	8	ANY
+v	1	40	ANY
+v	2	13	ANY
+v	3	1	ANY
+v	4	39	ANY
+e	0	16	1
+e	0	65	3
+e	0	75	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	4	Concord_Bicycle_Music
+##############
+%GID:8606
+%LID#0#8606-0-Mickey_Jupp#0#0#1
+#Pattern
+v	0	8	ANY
+v	1	356	ANY
+v	2	1	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	75	2
+e	3	39	1
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	0	Mickey_Jupp
+##############
+%GID:8638
+%LID#0#8638-3-Coral_Records#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	102	ANY
+v	2	1	ANY
+v	3	0	ANY
+v	4	8	ANY
+e	0	39	1
+e	0	65	3
+e	0	75	2
+e	4	75	2
+#Condition
+%X
+%Y
+eq-let	2	Coral_Records
+##############
+%GID:8909
+%LID#0#8909-1-Jerusalem#0#0#4
+#Pattern
+v	0	8	ANY
+v	1	104	ANY
+v	2	2	ANY
+v	3	8	ANY
+v	4	8	ANY
+e	0	16	1
+e	3	16	1
+e	3	16	2
+e	4	16	2
+#Condition
+%X
+%Y
+eq-let	1	Jerusalem
+##############
+%GID:9314
+%LID#0#9314-1-Dartmouth,_Nova_Scotia#0#0#3
+#Pattern
+v	0	8	ANY
+v	1	1485	ANY
+v	2	8	ANY
+v	3	2	ANY
+v	4	1	ANY
+e	0	16	1
+e	0	16	3
+e	0	65	4
+e	2	39	3
+#Condition
+%X
+%Y
+eq-let	1	Dartmouth,_Nova_Scotia
+##############
+%GID:9789
+%LID#0#9789-1-Narowal_District#0#0#2
+#Pattern
+v	0	8	ANY
+v	1	1093	ANY
+v	2	0	ANY
+v	3	2	ANY
+v	4	8	ANY
+e	0	16	1
+e	0	39	3
+e	0	65	2
+e	4	65	2
+#Condition
+%X
+%Y
+eq-let	1	Narowal_District
+##############
+%GID:10106
+%LID#0#10106-2-Composer#0#0#6
+#Pattern
+v	0	8	ANY
+v	1	40	ANY
+v	2	1	ANY
+v	3	8	ANY
+v	4	13	ANY
+e	0	16	1
+e	0	21	3
+e	0	65	2
+e	0	75	4
+#Condition
+%X
+%Y
+eq-let	3	Composer

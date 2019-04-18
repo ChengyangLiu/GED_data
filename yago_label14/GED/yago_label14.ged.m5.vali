@@ -1,0 +1,15 @@
+##############
+%GID:26
+%LID#0#26-0-<Copenhagen_Airport>#0#0#0
+#Pattern
+v	0	14	ANY
+v	1	14	ANY
+v	2	1	ANY
+v	3	14	ANY
+e	0	18	2
+e	1	18	0
+e	3	18	2
+#Condition
+%X
+%Y
+eq-id	0	id	3	id

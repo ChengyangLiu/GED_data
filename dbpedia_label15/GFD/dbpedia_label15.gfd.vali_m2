@@ -1,0 +1,135 @@
+##############
+%GID:4
+%LID#1#4-0-National_Kidney_Foundation#1#1#6
+#Pattern
+v	0	15	ANY
+v	1	137	ANY
+e	0	35	1
+#Condition
+%X
+eq-let	1	National_Kidney_Foundation_Singapore
+%Y
+eq-let	0	National_Kidney_Foundation
+##############
+%GID:5
+%LID#1#5-0-Health_Physics_Society#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	default.aspx
+%Y
+eq-let	0	Health_Physics_Society
+##############
+%GID:6
+%LID#1#6-1-Mathematics#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	13	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	International_Congress_of_Mathematicians
+%Y
+eq-let	1	Mathematics
+##############
+%GID:8
+%LID#1#8-1-Sydney#0#0#6
+#Pattern
+v	0	15	ANY
+v	1	19	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Visual_Effects_Society
+%Y
+eq-let	1	Sydney
+##############
+%GID:10
+%LID#0#10-1-New_Delhi#0#0#2
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+e	0	44	1
+#Condition
+%X
+%Y
+eq-let	1	New_Delhi
+##############
+%GID:19
+%LID#1#19-0-Long_Island_Business_News#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	1	Ronkonkoma,_New_York
+%Y
+eq-let	0	Long_Island_Business_News
+##############
+%GID:39
+%LID#1#39-0-Long_Island_Business_News#1#1#6
+#Pattern
+v	0	15	ANY
+v	1	21	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Ronkonkoma,_New_York
+%Y
+eq-let	0	Long_Island_Business_News
+##############
+%GID:42
+%LID#1#42-0-American_College_of_Physicians#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	25	ANY
+e	0	44	1
+#Condition
+%X
+eq-let	1	Philadelphia
+%Y
+eq-let	0	American_College_of_Physicians
+##############
+%GID:52
+%LID#1#52-1-Irving,_Texas#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	5	ANY
+e	0	45	1
+#Condition
+%X
+eq-let	0	Mothers_Against_Drunk_Driving
+%Y
+eq-let	1	Irving,_Texas
+##############
+%GID:84
+%LID#1#84-2-Dataquest#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	15	ANY
+v	2	456	ANY
+e	0	44	2
+e	1	44	2
+#Condition
+%X
+eq-let	0	Indian_Council_of_Medical_Research
+%Y
+eq-let	1	Dataquest
+##############
+%GID:121
+%LID#1#121-2-Dataquest#2#2#6
+#Pattern
+v	0	15	ANY
+v	1	456	ANY
+v	2	15	ANY
+e	0	44	1
+e	2	44	1
+#Condition
+%X
+eq-let	0	Indian_Council_of_Medical_Research
+%Y
+eq-let	2	Dataquest

@@ -1,0 +1,89 @@
+##############
+%GID:0
+%LID#1#0-1-<Soviet_Union>#1#1#6
+#Pattern
+v	0	13	ANY
+v	1	1	ANY
+e	0	20	1
+#Condition
+%X
+eq-let	0	<Nikolai_Gubenko>
+%Y
+eq-let	1	<Soviet_Union>
+##############
+%GID:7
+%LID#1#7-1-<Prozac_Nation_(film)>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	8	ANY
+e	0	22	1
+#Condition
+%X
+eq-let	0	<James_K._Lyons>
+%Y
+eq-let	1	<Prozac_Nation_(film)>
+##############
+%GID:16
+%LID#1#16-0-<Michael_Landon>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	7	ANY
+e	0	11	1
+#Condition
+%X
+eq-let	1	<Christopher_B._Landon>
+%Y
+eq-let	0	<Michael_Landon>
+##############
+%GID:22
+%LID#1#22-0-<Sharon_Morgan>#0#0#6
+#Pattern
+v	0	13	ANY
+v	1	0	ANY
+e	0	27	1
+#Condition
+%X
+eq-let	1	<Whangarei_District>
+%Y
+eq-let	0	<Sharon_Morgan>
+##############
+%GID:60
+%LID#1#60-1-<Vera_Lewis>#4#4#15
+#Pattern
+v	0	13	ANY
+v	1	6	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	3	1
+#Condition
+%X
+eq-let	0	<Ralph_Lewis_(actor)>
+%Y
+eq-let	2	<Vera_Lewis>
+##############
+%GID:67
+%LID#1#67-1-<Gawn_Grainger>#7#7#33
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	13	ANY
+e	0	10	2
+e	2	10	1
+#Condition
+%X
+eq-let	0	<Janet_Key>
+%Y
+eq-let	2	<Gawn_Grainger>
+##############
+%GID:117
+%LID#0#117-2-<Anjo_Yllana>#0#0#4
+#Pattern
+v	0	13	ANY
+v	1	13	ANY
+v	2	11	ANY
+e	0	14	2
+e	1	27	2
+#Condition
+%X
+%Y
+eq-let	1	<Anjo_Yllana>
