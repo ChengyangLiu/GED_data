@@ -1,0 +1,14 @@
+##############
+%GID:956
+%LID#1#956-1-Charents: In Search of My Armenian Poet (2009)#23#23#66
+#Pattern
+v	0	36	ANY
+v	1	8	ANY
+v	2	17	ANY
+e	0	1	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Shareen_Anderson
+%Y
+eq-let	2	Charents: In Search of My Armenian Poet (2009)

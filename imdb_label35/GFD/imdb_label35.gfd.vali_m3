@@ -1,0 +1,14 @@
+##############
+%GID:65
+%LID#1#65-1-Reckless Claudia (1971)#18#18#55
+#Pattern
+v	0	35	ANY
+v	1	28	ANY
+v	2	1	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Artie_Mitchell
+%Y
+eq-let	2	Reckless Claudia (1971)

@@ -1,0 +1,14 @@
+##############
+%GID:964
+%LID#1#964-1-Goraczka (Dzieje jednego pocisku) (1981)#47#47#64
+#Pattern
+v	0	36	ANY
+v	1	9	ANY
+v	2	17	ANY
+e	0	1	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Agnieszka_Holland
+%Y
+eq-let	2	Goraczka (Dzieje jednego pocisku) (1981)

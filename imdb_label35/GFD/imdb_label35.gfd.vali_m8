@@ -1,0 +1,14 @@
+##############
+%GID:61
+%LID#1#61-1-Sin Asylum (1994) (V)#43#43#60
+#Pattern
+v	0	35	ANY
+v	1	1	ANY
+v	2	5	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Damien (I)_Michaels
+%Y
+eq-let	2	Sin Asylum (1994) (V)

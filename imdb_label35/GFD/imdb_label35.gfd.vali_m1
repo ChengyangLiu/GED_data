@@ -1,0 +1,28 @@
+##############
+%GID:53
+%LID#1#53-1-Danchi no okusan dosokai ni iku (2004)#4#4#91
+#Pattern
+v	0	35	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Rei_Sakamoto
+%Y
+eq-let	2	Danchi no okusan dosokai ni iku (2004)
+##############
+%GID:46
+%LID#1#46-1-Reckless Claudia (1971)#15#15#84
+#Pattern
+v	0	35	ANY
+v	1	9	ANY
+v	2	1	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Artie_Mitchell
+%Y
+eq-let	2	Reckless Claudia (1971)

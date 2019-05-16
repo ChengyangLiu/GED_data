@@ -1,0 +1,28 @@
+##############
+%GID:53
+%LID#1#53-1-Taboo IX (1991) (V)#44#44#90
+#Pattern
+v	0	35	ANY
+v	1	1	ANY
+v	2	9	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	E.Z._Ryder
+%Y
+eq-let	2	Taboo IX (1991) (V)
+##############
+%GID:26
+%LID#1#26-2-The New Erotic Adventures of Casanova (1977)#1#1#84
+#Pattern
+v	0	35	ANY
+v	1	1	ANY
+v	2	28	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	John (I)_Holmes
+%Y
+eq-let	1	The New Erotic Adventures of Casanova (1977)

@@ -1,0 +1,154 @@
+##############
+%GID:141
+%LID#1#141-1-Das ist mein Wien (1965)#7#7#66
+#Pattern
+v	0	36	ANY
+v	1	5	ANY
+v	2	20	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Sissy_Löwinger
+%Y
+eq-let	2	Das ist mein Wien (1965)
+##############
+%GID:339
+%LID#1#339-1-Britt (????)#9#9#66
+#Pattern
+v	0	36	ANY
+v	1	34	ANY
+v	2	22	ANY
+e	0	1	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Julia (II)_Davis
+%Y
+eq-let	2	Britt (????)
+##############
+%GID:530
+%LID#1#530-1-Be Yourselfie (2015) (V)#13#13#50
+#Pattern
+v	0	36	ANY
+v	1	34	ANY
+v	2	30	ANY
+e	0	1	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Misty_Kingma
+%Y
+eq-let	2	Be Yourselfie (2015) (V)
+##############
+%GID:618
+%LID#1#618-2-Confessions of a Hollywood Stuntman (2014)#1#1#33
+#Pattern
+v	0	36	ANY
+v	1	12	ANY
+v	2	34	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Julia (II)_Davis
+%Y
+eq-let	1	Confessions of a Hollywood Stuntman (2014)
+##############
+%GID:634
+%LID#1#634-2-Strokes of Genius (2015)#39#39#66
+#Pattern
+v	0	36	ANY
+v	1	8	ANY
+v	2	34	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Erin (I)_Fitzgerald
+%Y
+eq-let	1	Strokes of Genius (2015)
+##############
+%GID:658
+%LID#1#658-2-Tiaohui (1976)#17#17#33
+#Pattern
+v	0	36	ANY
+v	1	31	ANY
+v	2	34	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Josephine_Siao
+%Y
+eq-let	1	Tiaohui (1976)
+##############
+%GID:741
+%LID#1#741-2-Haven's Heaven (2002) (V)#5#5#35
+#Pattern
+v	0	36	ANY
+v	1	13	ANY
+v	2	1	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Skye (I)_Blue
+%Y
+eq-let	1	Haven's Heaven (2002) (V)
+##############
+%GID:791
+%LID#1#791-2-Eros (1998) (V)#11#11#33
+#Pattern
+v	0	36	ANY
+v	1	26	ANY
+v	2	1	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Missy (I)_
+%Y
+eq-let	1	Eros (1998) (V)
+##############
+%GID:832
+%LID#1#832-1-Pete's Christmas (2013) (TV)#27#27#66
+#Pattern
+v	0	36	ANY
+v	1	34	ANY
+v	2	13	ANY
+e	0	1	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Nisha (I)_Ganatra
+%Y
+eq-let	2	Pete's Christmas (2013) (TV)
+##############
+%GID:957
+%LID#1#957-2-A quoi rêvent les jeunes filles? (2015) (TV)#7#7#27
+#Pattern
+v	0	36	ANY
+v	1	8	ANY
+v	2	1	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Ovidie_
+%Y
+eq-let	1	A quoi rêvent les jeunes filles? (2015) (TV)
+##############
+%GID:962
+%LID#1#962-2-The Wrong Snatch (1997) (V)#27#27#99
+#Pattern
+v	0	36	ANY
+v	1	5	ANY
+v	2	1	ANY
+e	0	0	2
+e	0	1	1
+#Condition
+%X
+eq-let	0	Veronica (I)_Hart
+%Y
+eq-let	1	The Wrong Snatch (1997) (V)
